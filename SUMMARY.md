@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [First Chapter](first-chapter.md)
+* [Setup biến môi trường trên PHPStorm/WebStorm/IntelliJ](first-chapter.md)
 
