@@ -11,23 +11,24 @@ Một số đường link hữu dụng:
 ### Project Eagle:
 
 Môi trường test từng branch riêng lẻ:
-Develop 1:
+
+####Develop 1:
 - API: [https://1-api.e.gobizdev.com](https://1-api.e.gobizdev.com)
 - Admin Web app: [https://1-ad.e.gobizdev.com](https://1-ad.e.gobizdev.com)
 
-Develop 2:
+####Develop 2:
 - API: [https://2-api.e.gobizdev.com](https://2-api.e.gobizdev.com)
 - Admin Web app: [https://2-ad.e.gobizdev.com](https://2-ad.e.gobizdev.com)
 
-Staging:
+####Môi trường Staging (test tích hợp)
 - API: [https://api.e.gobizdev.com](https://api.e.gobizdev.com)
 - Admin Web app: [https://ad.e.gobizdev.com](https://ad.e.gobizdev.com)
 
-Group Facebook:
+####Group Facebook:
 [https://www.facebook.com/groups/343220812769983/](https://www.facebook.com/groups/343220812769983/)
 
 ## Về chúng tôi
-Team Táo Bạo chúng tôi gồm có:
+Team Táo Bạo chúng tôi gồm có Táo Tàu, Táo Ta và Táo Newton:
 
 - Nguyễn Xuân Kiên
 - Nguyễn Diệp Anh (Dập bà bà)
