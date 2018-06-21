@@ -12,16 +12,19 @@ Một số đường link hữu dụng:
 
 Môi trường test từng branch riêng lẻ:
 Develop 1:
-- API: [http://1-api.e.gobizdev.com](http://1-api.e.gobizdev.com)
-- Admin Web app: [http://1-ad.e.gobizdev.com](http://1-ad.e.gobizdev.com)
+- API: [https://1-api.e.gobizdev.com](https://1-api.e.gobizdev.com)
+- Admin Web app: [https://1-ad.e.gobizdev.com](https://1-ad.e.gobizdev.com)
 
 Develop 2:
-- API: [http://2-api.e.gobizdev.com](http://2-api.e.gobizdev.com)
-- Admin Web app: [http://2-ad.e.gobizdev.com](http://2-ad.e.gobizdev.com)
+- API: [https://2-api.e.gobizdev.com](https://2-api.e.gobizdev.com)
+- Admin Web app: [https://2-ad.e.gobizdev.com](https://2-ad.e.gobizdev.com)
 
 Staging:
-- API: [http://api.e.gobizdev.com](http://api.e.gobizdev.com)
-- Admin Web app: [http://ad.e.gobizdev.com](http://ad.e.gobizdev.com)
+- API: [https://api.e.gobizdev.com](https://api.e.gobizdev.com)
+- Admin Web app: [https://ad.e.gobizdev.com](https://ad.e.gobizdev.com)
+
+Group Facebook:
+[https://www.facebook.com/groups/343220812769983/](https://www.facebook.com/groups/343220812769983/)
 
 ## Về chúng tôi
 Team Táo Bạo chúng tôi gồm có:
