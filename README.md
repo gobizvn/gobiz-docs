@@ -6,7 +6,7 @@
 
 Một số đường link hữu dụng:
 - Gitlab: [https://gitlab.gobiz.vn](https://gitlab.gobiz.vn)
-- Taiga: [https://taiga.gobiz.vn](http://taiga.gobiz.vn)
+- Taiga: [https://taiga.gobiz.vn](https://taiga.gobiz.vn)
 
 ### Project Eagle:
 
