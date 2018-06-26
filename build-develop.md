@@ -46,8 +46,4 @@ LƯU Ý:
 - Sau khi test mà có bug, các fix bạn cũng làm trên PLE349, *tuyệt đối không làm gì trên develop_2* trừ việc commit để build
 - Để push commit mà không build chỉ cần đặt trong commit message "#no-build"
 
-Tạm thời do chưa cấu hình được notifier nên việc build thành công có thể hỏi một trong các cá nhân sau:
-
-- Nguyễn Xuân Kiên
-- Đặng Quang Anh
-- Trần Trung Hiếu
+Sau khi build xong, chatbot DingTalk sẽ hú lên trong group Táo Bạo.
