@@ -1,5 +1,8 @@
 # Hướng dẫn build Develop
 
+## Yêu cầu về việc tích hợp
+Yêu cầu: trước khi deploy lên develop, phải merge nhánh master về nhánh riêng rẽ của mình để đảm bảo tích hợp đủ chức năng.
+
 ## Build phiên bản test cho từng branch riêng rẽ
 
 Bước 1: Check xem hai branch dùng cho việc test branch là develop_1 và develop_2 có ai đang dùng để test branch nào hay không.
