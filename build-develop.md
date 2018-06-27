@@ -5,7 +5,7 @@ Yêu cầu: trước khi deploy lên develop, phải merge nhánh master về nh
 
 ## Build phiên bản test cho từng branch riêng rẽ
 
-Bước 1: Check xem hai branch dùng cho việc test branch là develop_1 và develop_2 có ai đang dùng để test branch nào hay không.
+Bước 1: Check xem hai branch dùng cho việc test branch là develop_1 và develop_2 có ai đang dùng để test branch nào hay không. Nếu không chắc lắm, có thể hỏi Tester.
 
 Bước 2: Nếu cả hai branch đều đang bận, thôi chờ khi khác nhé, Tester không test quá nhiều thứ một lúc như vậy được. Hà Nội không vội được đâu.
 
