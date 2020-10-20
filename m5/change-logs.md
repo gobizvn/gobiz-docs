@@ -56,6 +56,7 @@
 - Tự động nhận diện tài khoản thanh toán khi thanh toán YCTT (#2304)
 - Ẩn thông báo yêu cầu xác nh   ận thay đổi số lượng/đơn giá khi khách hàng đã xác nhận (#2311)
 - Hiển thị mã KNNB trên site gốc & cho phép link trực tiếp tới KNNB (#2312)
+
 ### Cập nhật cải tiến
 - Một loạt cải tiến khác liên quan đến việc nhập dữ liệu khai báo hải quan (đã deploy)
 
@@ -66,6 +67,7 @@
 - Hỗ trợ hiển thị thao tác cuối với KNNB trên KNDV (#2182)
 - Tự động đóng KNNB thiếu hàng khi đã nhận đủ hàng (#2187)
 - Xác định giao dịch alipay chi cho tài khoản mua hàng nào dựa trên MHĐG & thông tin trên file (#2222)
+
 ### Cập nhật cải tiến
 - Hiển thị loại file giao dịch alipay trên danh sách file (#2231)
 - Sửa bộ lọc thời gian để không bị miss mất phút 23:59 của ngày (#2149)
@@ -84,6 +86,7 @@
 - Cho phép chọn lý do mua chậm cho đơn đối với đơn YCTT không qua công cụ (#2031)
 - Cho phép sử dụng thông tin username, mã đơn ở địa chỉ kho nhận hàng (#2024)
 - Cho phép upload file giao dịch alipay mbill (#2147)
+
 ### Cập nhật cải tiến
 - Ẩn các giao dịch không tham gia vào quá trình tính tài chính đơn trên chi tiết đơn, bao gồm cả trên các hệ thống M2 (#2088)
 - Cập nhật logic phân tích giao dịch (#2148)
@@ -115,8 +118,6 @@
 ### Chức năng mới
 - Hiển thị log chi tiết cho YCTT (#1999)
 - Hiển thị YCTT đã tạo cho GDV để theo dõi được các YCTT do mình tạo (#2002)
-
-### Cập nhật cải tiến
 
 ## [1.1.0]
 ### Chức năng mới
@@ -185,6 +186,7 @@
 - Cho phép nhân viên đánh dấu NCC xấu để lưu ý cho những lần mua sau (#1560)
 - Phân biệt rõ ràng các kho nhận hàng đang được sử dụng và ngừng sử dụng nếu có nhiều kho nhận (#1562)
 - Thêm loại giao dịch Alipay: giao dịch Hủy, phân biệt loại giao dịch này và không tính vào trên đơn (#1574)
+
 ## Cập nhật cải tiến
 - Bổ sung lý do KNNB: đơn chưa hoàn tiền (#1573)
 - Bổ sung bộ lọc theo nhân viên mua hàng khi đồng bộ thông tin đơn (#1595)
@@ -199,6 +201,7 @@
 ## [0.23.0] - 18:00 ngày 10/04/2020
 ### Chức năng mới
 - Tách cấu hình chung hệ thống và cấu hình mua hàng & nhận đơn, cho phép phân quyền khác nhau đối với 2 chức năng này (#1319) (#1320) 
+
 ### Cập nhật cải tiến
 - Thay đổi giao diện hệ thống KNNB (#309)
 - Cho phép gia hạn KNNB mà không cần tiếp nhận (#1546)
