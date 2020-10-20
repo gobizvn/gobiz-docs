@@ -1,53 +1,22 @@
-# Introduction
+# Giới thiệu
 
-## Đây là đâu
+Nền tảng Gobiz là nền tảng cung cấp các ứng dụng trợ giúp cho các hoạt động của doanh nghiệp vừa và nhỏ, đặc biệt là các doanh nghiệp hoạt động trong lĩnh vực thương mại điện tử xuyên biên giới.
 
-Đây là nơi lưu trữ tài hiệu hướng dẫn của Gobiz.
+Các sản phẩm hiện tại có trên nền tảng Gobiz gồm có:
 
-Một số đường link hữu dụng:
-- Gitlab: [https://gitlab.gobiz.vn](https://gitlab.gobiz.vn)
-- Taiga: [https://taiga.gobiz.vn](https://taiga.gobiz.vn)
+### Go Cross Border
 
-### Project Eagle:
+Là gói quản lý hoạt động kinh doanh xuyên biên giới, giúp các doanh nghiệp hoạt động trong lĩnh vực ủy thác mua hộ quản lý hoạt động vận hành, kinh doanh của mình.
+Gói Go CrossBorder bao gồm các phần mềm Go CB Shopper, Go Purchasing, Go Complaints, Go Logistics
 
-Môi trường test từng branch riêng lẻ:
+### Go CB Shopper
 
-####Develop 1:
-- API: [https://1-api.e.gobizdev.com](https://1-api.e.gobizdev.com)
-- Admin Web app: [https://1-ad.e.gobizdev.com](https://1-ad.e.gobizdev.com)
+### Go Purchasing
 
-####Develop 2:
-- API: [https://2-api.e.gobizdev.com](https://2-api.e.gobizdev.com)
-- Admin Web app: [https://2-ad.e.gobizdev.com](https://2-ad.e.gobizdev.com)
+### Go Complaints
 
-####Môi trường Staging (test tích hợp)
-- API: [https://api.e.gobizdev.com](https://api.e.gobizdev.com)
-- Admin Web app: [https://ad.e.gobizdev.com](https://ad.e.gobizdev.com)
+### Go Logistics
 
-####Group Facebook:
-[https://www.facebook.com/groups/343220812769983/](https://www.facebook.com/groups/343220812769983/)
+### Go Expand (Closed Beta)
 
-## Về chúng tôi
-Team Táo Bạo chúng tôi gồm có Táo Tàu, Táo Ta và Táo Newton:
-
-- Nguyễn Xuân Kiên
-- Nguyễn Diệp Anh (Dập bà bà)
-- Hoàng Thị Hào
-- Bùi Mạnh Tiệp
-- Đặng Quang Anh
-- Trần Xuân Bách
-- Vũ Mai Phương (Lục Yến Phương tiên tử)
-- Nguyễn Thị Hồng
-- Phạm Thanh Vân (Vân Ma Mị)
-- Vũ Xuân Tưởng
-- Vũ Việt Chinh
-- Đỗ Văn Huy
-- Nguyễn Đình Minh
-- Trần Trung Hiếu
-- Lương Văn Công (Fengshui Master)
-- Nguyễn Ngọc Định
-- Đặng Quang Bình (Tây Hồ công tử)
-- Vũ Gia Sơn
-- Lại Quý Dương
-- Hoàng Văn Bằng
-- Phan Thanh Bình
+### Go Ticket (Closed Alpha)

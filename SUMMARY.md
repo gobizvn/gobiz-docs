@@ -1,7 +1,5 @@
-# Table of contents
+# Mục lục
 
-* [Introduction](README.md)
-* [Quy trình phát triển của team](develop-process.md)
-* [Build phiên bản test feature (develop)](build-develop.md)
-* [Setup biến môi trường trên PHPStorm/WebStorm/IntelliJ](first-chapter.md)
-* [Report bug trên Taiga](bug-report.md)
+* [Giới thiệu](README.md)
+* [Go CB Shopper](M2/README.md)
+* [Cài đặt ban đầu](M2/GetStarted.md)
