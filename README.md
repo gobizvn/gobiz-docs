@@ -1,3 +1,7 @@
+---
+description: Giới thiệu chung về nền tảng Gobiz
+---
+
 # Giới thiệu
 
 Nền tảng Gobiz là nền tảng cung cấp các ứng dụng trợ giúp cho các hoạt động của doanh nghiệp vừa và nhỏ, đặc biệt là các doanh nghiệp hoạt động trong lĩnh vực thương mại điện tử xuyên biên giới.
