@@ -1,5 +1,6 @@
-# Mục lục
+# Table of contents
 
 * [Giới thiệu](README.md)
-* [Go CB Shopper](M2/README.md)
-* [Cài đặt ban đầu](M2/GetStarted.md)
+* [Go CB Shopper](m2.md)
+* [Cài đặt ban đầu](getstarted.md)
+

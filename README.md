@@ -4,19 +4,19 @@ Nền tảng Gobiz là nền tảng cung cấp các ứng dụng trợ giúp cho
 
 Các sản phẩm hiện tại có trên nền tảng Gobiz gồm có:
 
-### Go Cross Border
+## Go Cross Border
 
-Là gói quản lý hoạt động kinh doanh xuyên biên giới, giúp các doanh nghiệp hoạt động trong lĩnh vực ủy thác mua hộ quản lý hoạt động vận hành, kinh doanh của mình.
-Gói Go CrossBorder bao gồm các phần mềm Go CB Shopper, Go Purchasing, Go Complaints, Go Logistics
+Là gói quản lý hoạt động kinh doanh xuyên biên giới, giúp các doanh nghiệp hoạt động trong lĩnh vực ủy thác mua hộ quản lý hoạt động vận hành, kinh doanh của mình. Gói Go CrossBorder bao gồm các phần mềm Go CB Shopper, Go Purchasing, Go Complaints, Go Logistics
 
-### Go CB Shopper
+## Go CB Shopper
 
-### Go Purchasing
+## Go Purchasing
 
-### Go Complaints
+## Go Complaints
 
-### Go Logistics
+## Go Logistics
 
-### Go Expand (Closed Beta)
+## Go Expand \(Closed Beta\)
 
-### Go Ticket (Closed Alpha)
+## Go Ticket \(Closed Alpha\)
+
