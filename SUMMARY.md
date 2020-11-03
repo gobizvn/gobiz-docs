@@ -15,4 +15,4 @@
     * [Thêm thành viên cho dự án](m27/add_member.md)
     * [Tạo mới ticket](m27/create_ticket.md)   
     * [Xem danh sách tịcket](m27/list_ticket.md)  
-    * [Cập nhật ticket](m27/update_tịcket.md) 
+    * [Cập nhật ticket](m27/update_ticket.md) 
