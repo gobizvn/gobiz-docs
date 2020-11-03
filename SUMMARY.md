@@ -6,4 +6,6 @@
 * [Go Purchasing](m5/README.md)
   * [Cài đặt ban đầu](m5/m5_getstarted.md)
   * [Change Logs](m5/change-logs.md)
+* [Go Ticket](m27/README.md)
+  * [Cài đặt ban đầu](m27/m27_getstarted.md)
 
