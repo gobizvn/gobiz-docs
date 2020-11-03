@@ -41,7 +41,7 @@ MEnu dọc để người dùng truy cập vào các chức năng trong 1 dự �
 
 Khi muốn thoát khỏi tài khoản, người dùng thực hiện thao tác chọn nút "Đăng xuất"  ở Thông tin tài khoản và chọn “Đăng xuất” để thoát khỏi tài khoản. Sau khi đăng xuất thành công, hệ thống hiển thị ra màn hình Đăng nhập, sẵn sàng cho người dùng đăng nhập ở các lần tiếp theo. 
 
-## 4. Tình huống sử dụng: Tạo 1 dự án mới trên hệ thống 
+## 4. Tạo 1 dự án mới trên hệ thống 
 
 **_Cách 1: Tạo mới dự án từ Menu_**
 
@@ -63,7 +63,7 @@ Trường hợp người dùng đang ở màn hình Quản lý dự án, ngườ
 
 - Ảnh đại diện không phải định dạng ảnh, dung lượng quá 5MB
 
-## 5. Tình huống sử dụng: Xem danh sách dự án trên hệ thống
+## 5. Xem danh sách dự án trên hệ thống
 
 **Bước 1**: Người dùng bấm vào biểu tượng tại menu ngang, chọn "**Quản lý dự án**"
 
@@ -78,7 +78,7 @@ Ngi ra người dùng cũng có thể xem Danh sách dự án Public (những d�
 
 <img width="783" alt="Screen Shot 2020-11-03 at 13 53 20" src="https://user-images.githubusercontent.com/73808891/97956724-02af8500-1ddc-11eb-81a9-f3ef0617ec23.png">
 
-## 6. Tình huống sử dụng: Thêm thành viên cho dự án
+## 6. Thêm thành viên cho dự án
 
 **Bước 1**: Tại **Quản lý dự án**, chọn Project muốn truy cập. Tại Meu dọc, truy cập **Quản lý thành viên**
 
@@ -90,7 +90,7 @@ Ngi ra người dùng cũng có thể xem Danh sách dự án Public (những d�
 
 
 
-## 7. Tình huống sử dụng: Xem danh sách các ticket của dự án
+## 7. Xem danh sách các ticket của dự án
 
 **Bước 1**: Tại màn hình Quản lý dự án, người dùng bấm chọn vào Logo/Tên dự án mà mình muốn truy cập.
 **Bước 2**: Hệ thống điều hướng đến màn hình Danh sách ticket của dự án 
@@ -106,7 +106,7 @@ Ngi ra người dùng cũng có thể xem Danh sách dự án Public (những d�
 
 - Người dùng có thể sắp xếp lại các cột trong danh sách bằng cách bấm vào biểu tượng <img width="40" alt="Screen Shot 2020-11-03 at 14 06 43" src="https://user-images.githubusercontent.com/73808891/97957456-d09f2280-1ddd-11eb-9c57-0b53cf0636f2.png">
 
-## 8. Tình huống sử dụng: Tạo mới ticket của dự án
+## 8.Tạo mới ticket của dự án
 
 **Bước 1**: Tại màn hình **Danh sách ticket**, người dùng bấm chọn nút "**Thêm mới ticket**" 
 
@@ -124,7 +124,7 @@ Ngi ra người dùng cũng có thể xem Danh sách dự án Public (những d�
 
 - Đính kèm file quá dung lượng
 
-## 9. Tình huống sử dụng: Xem chi tiết ticket và cập nhật ticket
+## 9. Xem chi tiết ticket và cập nhật ticket
 
 **Bước 1**: Tại màn hình **Danh sách ticket**, người dùng bấm tiêu đề của từng bản ghi để xem chi tiết ticket. 
 
