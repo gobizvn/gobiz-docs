@@ -8,7 +8,7 @@
   * [Change Logs](m5/change-logs.md)
 * [Go Ticket](m27/README.md)
   * [Hướng dẫn sử dụng](m27/m27_getstarted.md)
-  * [Giới thiệu chung](m27/m27_getstarted.md)
+    * [Giới thiệu chung](m27/m27_getstarted.md)
     * [Đăng nhập, Đăng xuất](m27/login_logout.md)
     * [Tạo mới dự án](m27/m27_getstarted.md)
     * [Xem danh sách dự án](m27/m27_getstarted.md)
