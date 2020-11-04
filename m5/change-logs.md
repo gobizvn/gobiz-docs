@@ -1,5 +1,16 @@
 # Change Logs
 
+## [1.13.0] - 03/11/2020
+
+### Chức năng mới
+- Cho phép chọn tài khoản ngân hàng cho cả YCTT thường (#2699)
+- Hỗ trợ chạy trên nhiều tên miền khác nhau khi có nhu cầu (#2666)
+
+### Cập nhật cải tiến
+- Tách quyền duyệt YCTT thường và duyệt YCTT sửa đổi trên đơn (#2699)
+- Fix một số lỗi nhỏ (#2680)
+- Tối ưu performance (#2371) (#2238)
+
 ## [1.12.0] - 14/10/2020
 
 ### Chức năng mới
