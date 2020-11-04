@@ -4,7 +4,6 @@
 
 ### Chức năng mới
 - Cho phép chọn tài khoản ngân hàng cho cả YCTT thường (#2699)
-- Hỗ trợ chạy trên nhiều tên miền khác nhau khi có nhu cầu (#2666)
 
 ### Cập nhật cải tiến
 - Tách quyền duyệt YCTT thường và duyệt YCTT sửa đổi trên đơn (#2699)
