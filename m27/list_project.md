@@ -14,7 +14,8 @@
 
 <img width="1437" alt="Screen Shot 2020-11-10 at 16 27 09" src="https://user-images.githubusercontent.com/73808891/98655028-9a2f4d80-2371-11eb-9061-70060e1d045c.png">
 
-- Người dùng có thể bấm Kết nối Dingtalk cho dự án để nhận được các thông báo trong phạm vi Project qua Dingtalk.
+- Người dùng có thể bấm Kết nối Dingtalk cho dự án để nhận được các thông báo liên quan đến ticket trong phạm vi Project qua Dingtalk.
+
 Việc kết nối yêu cầu người dùng phải khai báo thông tin số điện thoại (đang đăng ký trên Dingtalk) tại mục Cấu hình cá nhân
 
 <img width="1359" alt="Screen Shot 2020-11-10 at 16 25 50" src="https://user-images.githubusercontent.com/73808891/98655294-e24e7000-2371-11eb-99e9-3cb1e15b6431.png">
