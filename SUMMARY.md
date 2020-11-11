@@ -10,6 +10,7 @@
   * [Hướng dẫn sử dụng](m27/m27_getstarted.md)
     * [Giới thiệu chung](m27/gioithieuchung.md)
     * [Đăng nhập, Đăng xuất](m27/login_logout.md)
+    * [Cấu hình cá nhân](m27/account_config.md)
     * [Tạo mới dự án](m27/create_project.md)
     * [Xem danh sách dự án](m27/list_project.md)
     * [Thêm thành viên cho dự án](m27/add_member.md)
