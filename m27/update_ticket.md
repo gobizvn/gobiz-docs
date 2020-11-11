@@ -16,3 +16,11 @@
 - Người dùng là thành viên của dự án có thể bấm theo dõi ticket trong dự án để nhận được cái thông báo liên quan đến thay đổi của ticket (chuyển trạng thái, có bình luận, thêm người xử lý)
 
 <img width="1359" alt="Screen Shot 2020-11-10 at 16 32 33" src="https://user-images.githubusercontent.com/73808891/98655947-a962cb00-2372-11eb-8a0e-5bebf8a9c921.png">
+
+- Các thành viên trong dự án có thể để lại bình luận để trao đổi các nội dung liên quan đến ticket bằng chức năng bình luận khi vào chi tiết ticket
+
+<img width="1362" alt="Screen Shot 2020-11-11 at 14 22 37" src="https://user-images.githubusercontent.com/73808891/98781741-73345280-2429-11eb-8caf-2293ab147ae6.png">
+
+- Toàn bộ các hành động thao tác trên ticket sẽ được lưu lại và hiển thị ở Lịch sử thao tác
+
+<img width="359" alt="Screen Shot 2020-11-11 at 14 23 00" src="https://user-images.githubusercontent.com/73808891/98781744-74657f80-2429-11eb-98c0-5e464c88d492.png">
