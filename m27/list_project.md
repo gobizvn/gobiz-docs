@@ -16,7 +16,7 @@
 
 - Người dùng có thể bấm Kết nối Dingtalk cho dự án để nhận được các thông báo liên quan đến ticket (chuyển trạng thái, có bình luận, thêm người xử lý) trong phạm vi Project qua Dingtalk.
 
-Việc kết nối yêu cầu người dùng phải khai báo thông tin số điện thoại (đang đăng ký trên Dingtalk) tại mục Cấu hình cá nhân
+- Việc kết nối yêu cầu người dùng phải khai báo thông tin số điện thoại (đang đăng ký trên Dingtalk) tại mục Cấu hình cá nhân
 
 <img width="1359" alt="Screen Shot 2020-11-10 at 16 25 50" src="https://user-images.githubusercontent.com/73808891/98655294-e24e7000-2371-11eb-99e9-3cb1e15b6431.png">
 
