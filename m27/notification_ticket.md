@@ -1,4 +1,4 @@
-# Nhận thông báo khi ticket có cập nhật
+# Nhận thông báo khi ticket qua 
 
 **Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng cấu hình kết nối Dingtalk để có thể nhận được thông báo của ticket.
 
