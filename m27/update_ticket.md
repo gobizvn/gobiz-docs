@@ -1,4 +1,4 @@
-#Xem chi tiết ticket và cập nhật ticket
+# Xem chi tiết và cập nhật ticket
 
 **Mục đích**: Chức năng này cho phép người dùng xem chi tiết thông tin ticket và cập nhật các thông tin liên quan đến ticket.
 
