@@ -18,4 +18,4 @@
     * [Xem danh sách ticket](m27/list_ticket.md)  
     * [Chỉnh sửa ticket](m27/update_ticket.md) 
     * [Bình luận trên ticket](m27/comment_ticket.md) 
-    * [Nhận thông báo ticket qua Dingtal](m27/Notification_ticket.md) 
+    * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md) 
