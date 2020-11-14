@@ -14,13 +14,6 @@
 
 <img width="1437" alt="Screen Shot 2020-11-10 at 16 27 09" src="https://user-images.githubusercontent.com/73808891/98655028-9a2f4d80-2371-11eb-9061-70060e1d045c.png">
 
-- Người dùng có thể bấm Kết nối Dingtalk cho dự án để nhận được các thông báo liên quan đến ticket (chuyển trạng thái, có bình luận, thêm người xử lý) trong phạm vi Project qua Dingtalk.
-
-- Việc kết nối yêu cầu người dùng phải khai báo thông tin số điện thoại (đang đăng ký trên Dingtalk) tại mục Cấu hình cá nhân
-
-<img width="1359" alt="Screen Shot 2020-11-10 at 16 25 50" src="https://user-images.githubusercontent.com/73808891/98655294-e24e7000-2371-11eb-99e9-3cb1e15b6431.png">
-
-<img width="303" alt="Screen Shot 2020-11-10 at 16 29 49" src="https://user-images.githubusercontent.com/73808891/98655442-0ca02d80-2372-11eb-8162-81d141ca4573.png">
 
 
 - Ngoài ra người dùng cũng có thể xem Danh sách dự án Public (những dự án cho phép người dùng không là thành viên vẫn có quyền xem với vai trò của Khách) bằng cách bấm chọn sang **Dự án Public**
