@@ -2,7 +2,11 @@
 
 * [Giới thiệu](README.md)
 * [Go CB Shopper](m2/README.md)
+  * Customer's Order
+    * [Cài đặt ban đầu](m1/M1.md)
+  * Order Management
   * [Cài đặt ban đầu](m2/m2_getstarted.md)
+  
 * [Go Purchasing](m5/README.md)
   * [Cài đặt ban đầu](m5/m5_getstarted.md)
   * [Change Logs](m5/change-logs.md)
