@@ -1,4 +1,4 @@
-#Tạo mới ticket của dự án
+# Tạo mới ticket của dự án
 
 **Mục đích**: Chức năng này cho phép người dùng taọ mới 1 ticket để báo lỗi/cải tiến vận hành/giao nhiệm vụ liên quan đến dự án
 
