@@ -22,4 +22,7 @@
     * [Xem danh sách ticket](m27/list_ticket.md)  
     * [Xem chi tiết và cập  ticket](m27/update_ticket.md) 
     * [Bình luận trên ticket](m27/comment_ticket.md) 
-    * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md) 
+    * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
+    * [Cài đặt]
+     * [Cấu hình trạng thái](m27/config_status.md)
+     * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên ](m27/config_category.md)
