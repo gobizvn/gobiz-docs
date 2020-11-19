@@ -1,4 +1,3 @@
-**CHO SẢN PHẨM VÀO GIỎ HÀNG**
 
 Quý khách truy cập đến chi tiết sản phẩm cần đặt trên trang taobao.com, 1688.com, tmall.com
 
