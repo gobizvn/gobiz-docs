@@ -8,6 +8,7 @@
     * [Đăng ký và Đăng nhập](m1/Dangkyvadangnhap.md)
     * [Cho sản phẩm vào giỏ hàng](m1/giohang.md)
     * [Quản lý giỏ hàng](m1/quanlygiohang.md)
+    * [Đặt cọc đơn hàng](m1/datcoc.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
