@@ -15,7 +15,7 @@ Tài khoản đăng (Username)
 
 - **ĐĂNG NHẬP TÀI KHOẢN**:
 
-Quý khách vui lòng đăng nhập vào hệ thống M1 qua link: 
+Quý khách vui lòng đăng nhập vào hệ thống qua link: 
 
 Ví dụ: https://demo.gobiz.vn/#/login
 
