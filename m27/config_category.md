@@ -12,12 +12,16 @@
 
 - Điều chỉnh thứ tự hiển thị Loại ticket. Khi điều chỉnh thì trường *Loại ticket* khi Tạo mới/ Cập nhật ticket cũng sẽ sắp xếp lại theo thứ tự này
 
+<img width="1314" alt="Screen Shot 2020-11-19 at 09 45 00" src="https://user-images.githubusercontent.com/73808891/99614379-f5390280-2a4b-11eb-83cf-526413447c46.png">
 
-**Bước 3**: Người dùng có thể tạo mới thêm 1 Loại ticket nữ trong hệ thống bằng cách bấm chọn "Thêm mới". Hệ thống hiển thị giao diện để người dùng nhập các thông tin của loại ticket mới, trong đó Tên là bắt buộc nhập.
+**Bước 3**: Người dùng có thể tạo mới thêm 1 Loại ticket nữa trong hệ thống bằng cách bấm chọn "Thêm mới". Hệ thống hiển thị giao diện để người dùng nhập các thông tin của loại ticket mới, trong đó Tên là bắt buộc nhập.
 
+<img width="1323" alt="Screen Shot 2020-11-19 at 09 47 40" src="https://user-images.githubusercontent.com/73808891/99614557-552fa900-2a4c-11eb-9b98-84657b7e67f8.png">
 
+<img width="521" alt="Screen Shot 2020-11-19 at 09 48 33" src="https://user-images.githubusercontent.com/73808891/99614606-68db0f80-2a4c-11eb-8805-097220205150.png">
 
 **Bước 4**: Người dùng cũng có thể cập nhật các *Loại ticket* đã tồn tại bằng cách bấm vào Tên của loại ticket muốn chỉnh sửa và chỉnh sửa lại các thông tin
 
+<img width="925" alt="Screen Shot 2020-11-19 at 09 49 01" src="https://user-images.githubusercontent.com/73808891/99614637-7e503980-2a4c-11eb-8edb-76edbab270ad.png">
 
-*P/s: Việc thiết lập các danh mục Mức độ ưu tiên, Phạm vi liên quan thực hiện tương tự như với Loại ticket*
+**P/s: Việc thiết lập các danh mục Mức độ ưu tiên, Phạm vi liên quan thực hiện tương tự như với Loại ticket**
