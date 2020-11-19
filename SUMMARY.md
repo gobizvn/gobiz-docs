@@ -4,6 +4,7 @@
 * [Go CB Shopper](m2/README.md)
   * Customer's Order
     * [Cài đặt ban đầu](m1/M1.md)
+    * [Cài đặt công cụ mua hàng](m1/Congcudathang.md)
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
   
