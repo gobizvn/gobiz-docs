@@ -6,6 +6,7 @@
     * [Cài đặt ban đầu](m1/M1.md)
     * [Cài đặt công cụ mua hàng](m1/Congcudathang.md)
     * [Đăng ký và Đăng nhập](m1/Dangkyvadangnhap.md)
+    * [Cho sản phẩm vào giỏ hàng](m1/giohang.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
