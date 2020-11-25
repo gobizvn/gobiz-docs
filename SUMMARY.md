@@ -9,7 +9,9 @@
     * [Cho sản phẩm vào giỏ hàng](m1/giohang.md)
     * [Quản lý giỏ hàng](m1/quanlygiohang.md)
     * [Đặt cọc đơn hàng](m1/datcoc.md)
-    * [Quản lý đơn hàng](m1/quanlydonhang.md)
+    * [Danh sách đơn hàng](m1/Danhsachdonhang.md)
+    * [Chi tiết đơn hàng](m1/Chitietdonhang.md)
+    * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
