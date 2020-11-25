@@ -27,6 +27,22 @@
   * [Change Logs](m5/change-logs.md)
   
 * [Go Logistics](m6/README.md)
+  * Vận hành kho nguồn
+    * [Tạo kiện](m6/m6_taokien.md)
+    * [Kiểm hàng](m6/m6_kiemhang.md)
+    * [Đóng bao](m6/m6_dongbao.md)
+
+  * Vận hành kho phân phối
+    * [Yêu cầu giao](m6/m6_yeucaugiao.md)
+    * [Phiếu xuất](m6/m6_phieuxuat.md)
+    
+  * Vận hành chung
+    * [Quét mã xuất nhập](m6/m6_quetmaxuatnhap.md)
+    * [Kiểm kê kho](m6/m6_kiemkekho.md)
+    
+  * Cấu hình
+    * [Cấu hình kho](m6/m6_cauhinhkho.md)
+    * [Các cấu hình khác](m6/m6_cauhinhkhac.md)
 
 * [Go Complaints](m3/README.md)
 
