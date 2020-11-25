@@ -12,6 +12,12 @@
     * [Danh sách đơn hàng](m1/Danhsachdonhang.md)
     * [Chi tiết đơn hàng](m1/Chitietdonhang.md)
     * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
+    * [Khiếu nại](m1/khieunai.md)
+    * [Quản lý tài chính](m1/quanlytaichinh.md)
+    * [Quản lý tài chính](m1/quanlytaichinh.md)
+    * [Thông tin cá nhân](thongtincanhan.md)
+
+    
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
