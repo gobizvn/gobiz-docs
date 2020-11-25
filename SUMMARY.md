@@ -41,6 +41,6 @@
      * [Cấu hình trạng thái](m27/config_status.md)
      * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên  ](m27/config_category.md)
      
-*[Go Complaints](m3/README.md)
+* [Go Complaints](m3/README.md)
 
-*[Go Logistics](m6/README.md)
+* [Go Logistics](m6/README.md)
