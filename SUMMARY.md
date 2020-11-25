@@ -16,7 +16,8 @@
     * [Quản lý tài chính](m1/quanlytaichinh.md)
     * [Thông tin cá nhân](thongtincanhan.md)
 
-    
+  * Customer's Shipment
+    * [Ký gửi](m1/file.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
