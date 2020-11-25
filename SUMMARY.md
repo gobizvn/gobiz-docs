@@ -25,6 +25,13 @@
 * [Go Purchasing](m5/README.md)
   * [Cài đặt ban đầu](m5/m5_getstarted.md)
   * [Change Logs](m5/change-logs.md)
+  
+* [Go Logistics](m6/README.md)
+
+* [Go Complaints](m3/README.md)
+
+* [Go Authen.me](m10/README.md)
+
 * [Go Ticket](m27/README.md)
   * [Hướng dẫn sử dụng](m27/m27_getstarted.md)
     * [Giới thiệu chung](m27/gioithieuchung.md)
@@ -41,6 +48,6 @@
      * [Cấu hình trạng thái](m27/config_status.md)
      * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên  ](m27/config_category.md)
      
-* [Go Complaints](m3/README.md)
 
-* [Go Logistics](m6/README.md)
+
+
