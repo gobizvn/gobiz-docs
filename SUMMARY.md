@@ -17,7 +17,7 @@
     * [Thông tin cá nhân](thongtincanhan.md)
 
   * Customer's Shipment
-    * [Đăng ký và Đăng nhập](m1/loginlogout.md)
+    * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
