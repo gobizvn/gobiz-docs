@@ -27,8 +27,15 @@
     * [Thông tin cá nhân](thongtincanhan.md)
     
   * Order Management
-    * [Cài đặt ban đầu](m2/m2_getstarted.md)
-  
+    * [Cấu hình tỷ giá](m2/setuptygia.md)
+    * [Cấu hình kho](m2/setupkho.md)
+    * [Cấu hình phí](m2/setupfee.md)
+    * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
+    * [Danh sách đơn hàng](m2/dsdonhang.md)
+    * [Chi tiết đơn hàng](m2/chitietdon.md)
+    * [Danh sách kiện hàng](m2/dskienhang.md)
+    * [Yêu cầu giao hàng](m2/ycghang.md)
+    
   * Shipment Management
     * [Ký gửi](m2/quanlydonkygui2.md)
   
