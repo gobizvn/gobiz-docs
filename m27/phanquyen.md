@@ -22,3 +22,5 @@
 **Bước 4**: Gán Vai trò cho các thành viên trong dự án để phân quyền thao tác trong dự án cho thành viên
 
 - Tại tab  Quản lý thành viên, khi thêm thành viên cho dự án cho phép gán Vai trò trong dự án cho thành viên đó
+
+<img width="819" alt="Screen Shot 2020-11-27 at 09 37 42" src="https://user-images.githubusercontent.com/73808891/100404563-453f4700-3094-11eb-84e2-6395b4edf619.png">
