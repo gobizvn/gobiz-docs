@@ -8,4 +8,5 @@
 
 **Bước 2**: Hệ thống hiển thị ra Danh sách các thành viên hiện tại của dự án. Cho phép mời thêm thành viên cho dự án bằng cách nhập Email. Hệ thống sẽ gửi thư mời tới email được nhập.  
 
-<img width="1197" alt="Screen Shot 2020-11-03 at 14 28 21" src="https://user-images.githubusercontent.com/73808891/97961104-3cd15480-1de5-11eb-89b0-4b63f5754f30.png">
+Khi thành viên được thêm vào danh sách, owner gán vai trò cho thành viên trong dự án để quy định các chức năng được thao tác 
+<img width="819" alt="Screen Shot 2020-11-27 at 09 37 42" src="https://user-images.githubusercontent.com/73808891/100404563-453f4700-3094-11eb-84e2-6395b4edf619.png">
