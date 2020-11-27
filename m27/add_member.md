@@ -1,4 +1,4 @@
-#Thêm thành viên cho dự án
+# Thêm thành viên cho dự án
 
 **Mục đích**: Chức năng này cho phép người dùng xem được danh sách các thành viên hiện tại của dự án và mời thêm các thành viên khác vào dự án qua 
 
