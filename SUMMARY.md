@@ -29,6 +29,9 @@
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
   
+  * Shipment Management
+    * [Ký gửi](m2/quanlydonkygui2.md)
+  
 * [Go Purchasing](m5/README.md)
   * [Cài đặt ban đầu](m5/m5_getstarted.md)
   * [Change Logs](m5/change-logs.md)
