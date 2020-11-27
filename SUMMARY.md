@@ -63,6 +63,7 @@
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
     * [Cấu hình trạng thái](m27/config_status.md)
     * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên quan)](m27/config_category.md)
+    * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
      
 
 
