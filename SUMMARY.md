@@ -13,11 +13,18 @@
     * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
     * [Khiếu nại](m1/khieunai.md)
     * [Quản lý tài chính](m1/quanlytaichinh.md)
-    * [Quản lý tài chính](m1/quanlytaichinh.md)
     * [Thông tin cá nhân](thongtincanhan.md)
 
   * Customer's Shipment
     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
+    * [Tạo đơn ký gửi](m1/taodonkygui.md)
+    * [Gửi thông tin cho shop](m1/guithongtinchoshop.md)
+    * [Thêm sản phẩm và mã vận đơn TQ ](m1/updatemvd.md)
+    * [Quản lý đơn hàng ](m1/quanlydonkygui.md)
+    * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
+    * [Khiếu nại](m1/khieunai.md)
+    * [Quản lý tài chính](m1/quanlytaichinh.md)
+    * [Thông tin cá nhân](thongtincanhan.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/m2_getstarted.md)
