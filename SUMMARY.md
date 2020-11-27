@@ -29,8 +29,11 @@
   * Order Management
     * [Cấu hình tỷ giá](m2/setuptygia.md)
     
-      * [Cấu hình tỷ giá](m2/setuptygia.md)
+      * [abc](m2/setuptygia.md)
+      
     * [Cấu hình kho](m2/setupkho.md)
+    
+      * [xyz](m2/setupkho.md)
     * [Cấu hình phí](m2/setupfee.md)
     * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
     * [Danh sách đơn hàng](m2/dsdonhang.md)
