@@ -1,4 +1,4 @@
-# Cấu hình và phân quyền cho thành viên trong dự 
+# Cấu hình và phân quyền cho thành viên trong dự án
 
 **Mục đích**: Để đáp ứng nhu cầu phân quyền các chức năng mà user được phép thao tác trên dự án, hệ thống cho phép Owner phân chia các vai trò có trong hệ thống và gán các quyền cụ thể mà vai trò được thao tác
 
