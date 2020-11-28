@@ -72,7 +72,7 @@
 * [Go Authen.me](m10/README.md)
 
 * [Go Ticket](m27/README.md)
-  * [Hướng dẫn sử dụng](m27/m27_getstarted.md)
+  * [Hướng dẫn sử dụng cho Owner dự án](m27/m27_getstarted.md)
     * [Giới thiệu chung](m27/gioithieuchung.md)
     * [Đăng nhập, Đăng xuất](m27/login_logout.md)
     * [Cấu hình cá nhân](m27/account_config.md)
@@ -87,6 +87,17 @@
     * [Cấu hình trạng thái](m27/config_status.md)
     * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên quan)](m27/config_category.md)
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
+    
+  * [Hướng dẫn sử dụng cho thành viên dự án](m27/m27_getstarted.md)
+    * [Giới thiệu chung](m27/gioithieuchung.md)
+    * [Đăng nhập, Đăng xuất](m27/login_logout.md)
+    * [Cấu hình cá nhân](m27/account_config.md)
+    * [Tạo mới ticket](m27/create_ticket.md)   
+    * [Xem danh sách ticket](m27/list_ticket.md)  
+    * [Xem chi tiết và cập  ticket](m27/update_ticket.md) 
+    * [Bình luận trên ticket](m27/comment_ticket.md) 
+    * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
+    
      
 
 
