@@ -1,6 +1,6 @@
 # Xem danh sách dự án trên hệ thống
 
-**Mục đích**: Chức năng này cho phép người dùng có thể quản lý tập trung các dự án bằng việc xem danh sách cá dự án bao gồm:
+**Mục đích**: Chức năng này cho phép người dùng có thể quản lý tập trung các dự án bằng việc xem danh sách các dự án bao gồm:
 - Các dự án mà mình làm thành viên tại Dự án của tôi 
 - Các dự án public mà mình được xem với vai trò  
 
