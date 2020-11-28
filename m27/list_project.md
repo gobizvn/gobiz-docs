@@ -2,7 +2,7 @@
 
 **Mục đích**: Chức năng này cho phép người dùng có thể quản lý tập trung các dự án bằng việc xem danh sách các dự án bao gồm:
 - Các dự án mà mình làm thành viên tại Dự án của tôi 
-- Các dự án public mà mình được xem với vai trò  
+- Các dự án public mà mình được xem với vai trò là Khách 
 
 **Bước 1**: Người dùng bấm vào biểu tượng tại menu ngang, chọn "**Quản lý dự án**"
 
