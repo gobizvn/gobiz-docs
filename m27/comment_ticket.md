@@ -1,6 +1,6 @@
 # Bình luận trên ticket
 
-**Mục đích**: Việc để lại các trao đổi liên quan đến ticket là vô cùng cần thiết. Chức năng này cho phép người dùng có thể để bình luận trao đổi trên tịcket
+**Mục đích**: Việc để lại các trao đổi liên quan đến ticket là vô cùng cần thiết. Chức năng này cho phép người dùng có thể để bình luận trao đổi trên ticket
 
 
 **Bước 1**: Tại Danh sách ticket, click vào tiêu đề ticket muốn để lại bình luận. Hệ thống sẽ hiển thị ra chi tiết ticket đó
