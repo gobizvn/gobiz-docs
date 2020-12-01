@@ -1,5 +1,40 @@
 # Change Logs
 
+## [1.16.0] - 30/11/2020
+
+### Chức năng mới
+- Thêm quyền xem thông tin đơn mới, theo đó sẽ không xem được đơn chờ mua (chưa tiếp nhận), hạn chế nhân viên xem đơn chưa tiếp nhận (#2749)
+- Cho phép viết lưu ý choh YCTT ngay khi tạo YCTT (#2791)
+- API hỗ trợ việc tạo KNNB từ các module khác (#2792)
+- Thêm kiện liên quan đến KNNB để chuẩn bị cho việc xử lý đối trả (#2793)
+- Hỗ trợ kiểm tra điều kiện xuất khẩu trên 1688 với tài khoản doanh nghiệp (#2814)
+- Báo cáo hiệu suất, tốc độ mua hàng (#2757)
+
+### Cập nhật cải tiến
+- Khi xuất YCTT ghi thêm chi tiết đơn hàng thuộc web/agency nào (#2724)
+- Tách biệt quyền thanh toán đơn hàng thường và quyền thanh toán đơn hàng ngoài (#2724)
+- Gợi ý: cái/đôi/bộ khi chưa dịch được đơn vị tính (#2724)
+- Khi xuất YCTT tách dòng theo từng mã HĐG (#2744)
+- Cho phép cấu hình khi điền đủ thông tin mới tính là đã khai quan xong (#2743)
+- Đơn chờ thanh toán sẽ quay về trạng thái "Đã pai" nếu như YCTT bị hủy (#2745)
+- Thêm bộ lọc "nhà cung cấp" tại danh sách giao dịch Alipay (#2789)
+- Fix lỗi không hiển thị nguồn hàng ở bộ lọc đơn hàng (#2789)
+- Hiển thị thêm username tại khối comment trên đơn (#2789)
+- Một số lỗi nhỏ khác (#2789)
+
+## [1.15.0] - 03/11/2020
+
+### Chức năng mới
+- Cho phép ghi chú cho YCTT (#2754)
+- Hỗ trợ YCTT đặt cọc cho đơn cần đặt cọc (#2755)
+
+### Cập nhật cải tiến
+- Cho phép nhận diện đơn hàng ngoài từ hệ thống đặt hàng (#2752)
+- Hiển thị đầy đủ tên thanh toán viên (#2742)
+- Fix lỗi hiển thị sai thanh timeline của đơn hàng khi đơn hàng có chuyển ngược trạng thái (#2742)
+- Fix lỗi giao diện khi mã khiếu nại site gốc quá dài (#2742)
+- Khi thay đổi đơn giá và số lượng tự động add comment ở sản phẩm (#2742)
+
 ## [1.13.0] - 03/11/2020
 
 ### Chức năng mới
