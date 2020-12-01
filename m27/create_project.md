@@ -21,3 +21,5 @@ Trường hợp người dùng đang ở màn hình Quản lý dự án, ngườ
 - Không nhập các trường thông tin có dấu * (bắt buộc nhập)
 
 - Ảnh đại diện không phải định dạng ảnh, dung lượng quá 5MB
+
+- Trường hợp khi tạo dự án nhưng hệ thống thông báo "*bạn chưa có quyền tạo dự án*" hoặc đã tạo "*vượt quá số lượng dự án cho phép*" thì vui lòng liên hệ bộ phận vận hành để được hỗ trợ cấp quyền/ nâng cấp gói tài khoản.
