@@ -72,7 +72,7 @@
 * [Go Authen.me](m10/README.md)
 
 * [Go Ticket](m27/README.md)
-  * Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
+  * [Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
     * [Tạo mới dự án](m27/create_project.md)
     * [Xem danh sách dự án](m27/list_project.md)
     * [Thêm thành viên cho dự án](m27/add_member.md)
