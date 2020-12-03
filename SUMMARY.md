@@ -72,15 +72,15 @@
 * [Go Authen.me](m10/README.md)
 
 * [Go Ticket](m27/README.md)
-  * [[Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project](m27/m27_getstarted.md)
-    * [Tạo mới dự án](m27/create_project.md)
+  * Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
+      * [Tạo mới dự án](m27/create_project.md)
     * [Xem danh sách dự án](m27/list_project.md)
     * [Thêm thành viên cho dự án](m27/add_member.md)
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
     * [Cấu hình trạng thái](m27/config_status.md)
     * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên quan)](m27/config_category.md)
     
-  * [Hướng dẫn sử dụng cho thành viên dự án](m27/m27_getstarted.md)
+  * Hướng dẫn sử dụng cho thành viên dự án
     * [Giới thiệu chung](m27/gioithieuchung.md)
     * [Đăng nhập, Đăng xuất](m27/login_logout.md)
     * [Cấu hình cá nhân](m27/account_config.md)
