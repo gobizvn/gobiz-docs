@@ -10,7 +10,7 @@ Quản lý kho truy cập màn Kiểm kê từ thanh menu bên trái màn hình
 
 **Bước 1**: Quản lý kho lựa chọn kho cần kiểm kê trên danh sách kho mình có quyền phụ trách và lựa chọn loại kiểm kê là "Kiểm kê kiện", sau đó chọn "Tạo kiểm kê" để bắt đầu kiểm kê kho
 
-*Lưu ý: Tùy chọn "Không kiểm kê những kiện đã nằm trong bao" và "Không kiểm kê những kiện lô", tùy theo quy trình vận hành của kho, quản lý kho có thể click chọn hoặc bỏ chọn. Nếu quản lý kho click chọn thì khi quét kiểm kê các kiện trong bao hoặc các kiện vận chuyển lô, các kiện này sẽ được coi là kiện thừa"
+*Lưu ý: Tùy chọn "Không kiểm kê những kiện đã nằm trong bao" và "Không kiểm kê những kiện lô", tùy theo quy trình vận hành của kho, quản lý kho có thể click chọn hoặc bỏ chọn. Nếu quản lý kho click chọn thì khi quét kiểm kê các kiện trong bao hoặc các kiện vận chuyển lô, các kiện này sẽ được coi là kiện thừa"*
 
 ![tạo kiểm kê](https://user-images.githubusercontent.com/75357871/101118039-e2f9bf80-361a-11eb-9e22-cdfd9da56b1c.png)
 
