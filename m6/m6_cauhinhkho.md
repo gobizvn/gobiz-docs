@@ -1,6 +1,6 @@
 **Mục đích**: Quản lý danh sách kho và hỗ trợ khai báo các kho mới trên hệ thống, chỉnh sửa thông tin kho đã có và thêm nhân viên kho
 
-Quý khách khai báo thông tin kho như sau:
+**Quý khách khai báo thông tin kho như sau:**
 
 **Bước 1**: Quý khách truy cập trang Cấu hình từ menu bên trái, chọn cấu hình Kho
 
@@ -10,11 +10,11 @@ Quý khách khai báo thông tin kho như sau:
 
 ![tạo kho](https://user-images.githubusercontent.com/75357871/101136807-6e397c00-3640-11eb-95e1-728fe3ff677b.png)
 
-Để chỉnh sửa thông tin kho, quý khách click vào mã kho hoặc click vào icon sửa trên danh sách kho. Các thông tin sửa kho giống như khi thêm mới
+**Để chỉnh sửa thông tin kho, quý khách click vào mã kho hoặc click vào icon sửa trên danh sách kho. Các thông tin sửa kho giống như khi thêm mới**
 
 ![sửa kho](https://user-images.githubusercontent.com/75357871/101137233-18b19f00-3641-11eb-85ed-f7ce24f3f707.png)
 
-Để thêm nhân viên kho vào kho, quý khách thực hiện như sau:
+**Để thêm nhân viên kho vào kho, quý khách thực hiện như sau:**
 
 **Bước 1**: Quý khách click vào mã kho hoặc click vào icon sửa trên danh sách kho.
 
