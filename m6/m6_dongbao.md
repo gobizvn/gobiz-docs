@@ -8,7 +8,7 @@ Nhân viên kho thực hiện tạo và đóng bao như sau:
 
 **Bước 2**: Nhân viên kho tạo bao bằng cách nhập thông tin của bao như: Loại bao (bao ghép/ bao nguyên), Khách hàng (dành cho bao nguyên), Loại vận chuyển, Tên vận chuyển.... 
 
-*Các thông tin đánh dấu (*) *là các thông tin bắt buộc nhập*
+*Các thông tin đánh dấu (* *)* *là các thông tin bắt buộc nhập*
 
 Sau khi nhập xong thông tin bao, nhân viên kho click chọn "Lưu và đóng bao" để lưu bao, đồng thời hệ thống tự động chuyển sang màn hình đóng bao để nhân viên thực hiện quét kiện vào bao
 
