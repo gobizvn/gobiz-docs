@@ -1,15 +1,16 @@
-# Nhận thông báo khi ticket qua Dingtalk đối
+# Nhận thông báo liên quan ticket qua Dingtalk
 
-**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng thực hiện kết nối dự án với Zalo để nhận thông báo
+**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng thực hiện kết nối dự án với Dingtalk để nhận thông báo tại Dingtalk
 
-**Bước2:** Người dùng truy cập vào **Quản lý dự án**, chọn dự án mà mình muốn nhận thông báo đó sau đó bấm biểu tương logo Zalo để kết nối tới Zalo
+**Bước 1:** Tại Menu ngang người dùng truy cập Cấu hình cá nhận và nhập thông tin Số điện thoại, yêu cầu số điện thoại này phải trùng với số điện thoại đăng ký trên Dingtalk
 
-<img width="1375" alt="Screen Shot 2020-12-08 at 15 49 05" src="https://user-images.githubusercontent.com/73808891/101461059-f7b4bb00-396c-11eb-8818-339affaaa6a5.png">
+<img width="246" alt="Screen Shot 2020-12-08 at 16 14 59" src="https://user-images.githubusercontent.com/73808891/101463890-968ee680-3970-11eb-98e9-f8a3954882c5.png">
 
-- Sau đó làm theo hướng dẫn:
+<img width="885" alt="Screen Shot 2020-12-08 at 16 15 18" src="https://user-images.githubusercontent.com/73808891/101463899-97c01380-3970-11eb-932e-bc936bd47c4a.png">
 
-<img width="520" alt="Screen Shot 2020-12-08 at 15 47 57" src="https://user-images.githubusercontent.com/73808891/101461226-2a5eb380-396d-11eb-8727-4e912f91b86b.png">
+**Bước 2:** Người dùng truy cập vào **Quản lý dự án**, chọn dự án mà mình muốn nhận thông báo đó sau đó bấm biểu tương logo Dingtalk để kết nối tới talk theo từng dự án. Hoặc bấm **"Kết nối tất cả"** để kết nối toàn bộ các dự án hiện tại với Dingtalk
 
+<img width="972" alt="Screen Shot 2020-12-08 at 16 17 40" src="https://user-images.githubusercontent.com/73808891/101464261-01402200-3971-11eb-9166-7e85a4c9e08d.png">
 
 *Các đối tượng nhận được thông báo* 
 
@@ -28,7 +29,8 @@ Lưu ý: Các đối tượng này nếu cũng chính là người thực hiện
 
 *Các trường hợp không nhận được thông báo* 
 
-- Dự án chưa thực hiện cấu hình kết nối tới Zalo --> liên hệ Owner dự án
+- Dự án chưa thực hiện cấu hình kết nối tới Dingtalk --> liên hệ Owner dự án
+- Số điện thoại trong Cấu hình cá nhân không phải số điện thoại đã đăng ký trên Dingtalk --> liên hệ Owner dự án
 
 
 
