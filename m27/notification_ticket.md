@@ -1,6 +1,6 @@
-# Nhận thông báo khi ticket qua Dingtalk
+# Nhận thông báo khi ticket qua Dingtalk đối
 
-**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng cấu hình kết nối Dingtalk để có thể nhận được thông báo của ticket vào ứng dụng Dingtalk
+**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng nhập số điện thoại để có thể nhận được thông báo của ticket tại ứng dụng Dingtalk nếu có nhu cầu. 
 
 **Bước 1**: Tại màn hình cấu hình cá nhân, người dùng nhập thông tin số điện thoại (trùng với số điện thoại đã đăng ký trên Dingtalk)
 
@@ -8,12 +8,11 @@
 
 <img width="876" alt="Screen Shot 2020-11-14 at 09 49 51" src="https://user-images.githubusercontent.com/73808891/99137645-c6dbb180-265e-11eb-992d-515f07488424.png">
 
-**Bước2:** Người dùng truy cập vào *Quản lý dự án*, chọn dự án mà mình muốn nhận thông báo liên quan đến các ticket của dự án đó sau đó bấm "*Kết nối tới Dingtalk*"
+**Bước2:** Người dùng truy cập vào **Quản lý dự án**, chọn dự án mà mình muốn nhận thông báo liên quan đến các ticket của dự án đó sau đó bấm biểu tương logo Dingtalk để kết nối tới Dingtalk
 
-<img width="353" alt="Screen Shot 2020-11-14 at 09 52 12" src="https://user-images.githubusercontent.com/73808891/99137775-1a4dff80-265f-11eb-858b-756334c70775.png">
+<img width="1440" alt="Screen Shot 2020-12-08 at 15 17 32" src="https://user-images.githubusercontent.com/73808891/101459529-f08cad80-396a-11eb-892f-525cf3802196.png">
 
-<img width="825" alt="Screen Shot 2020-11-14 at 09 53 16" src="https://user-images.githubusercontent.com/73808891/99137889-3fdb0900-265f-11eb-82fc-8fd4c682843e.png">
-
+<img width="912" alt="Screen Shot 2020-12-08 at 15 29 56" src="https://user-images.githubusercontent.com/73808891/101459476-deab0a80-396a-11eb-922d-eb44411529bd.png">
 
 **Bước3:** 
 
@@ -32,4 +31,10 @@ Lưu ý: Các đối tượng này nếu cũng chính là người thực hiện
 - Ticket có nội dung bình luận mới
 - Ticket cập nhật trường "Người xử lý" ticket
 - Ticket được chuyển trạng thái
+
+*Các trường hợp không nhận được thông báo* 
+
+- Dự án chưa thực hiện cấu hình kết nối tới Dingtalk --> liên hệ Owner dự án
+- Số điện thoại nhập không phải là số điện thoại đã đăng ký trên Dingtalk
+
 
