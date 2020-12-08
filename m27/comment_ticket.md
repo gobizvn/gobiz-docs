@@ -10,5 +10,5 @@
 
 **Bước 2**: Người nhập nhập nội dung muốn bình luận và ấn Enter tại mục **"Nội dung bình luận"**
 
-<img width="1362" alt="Screen Shot 2020-11-11 at 14 22 37" src="https://user-images.githubusercontent.com/73808891/98781741-73345280-2429-11eb-8caf-2293ab147ae6.png">
+<img width="336" alt="Screen Shot 2020-12-08 at 16 10 05" src="https://user-images.githubusercontent.com/73808891/101463343-de613e00-396f-11eb-9bb1-f72e46522a44.png">
 
