@@ -83,7 +83,7 @@
   * [Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
     * [Tạo mới dự án](m27/create_project.md)
     * [Xem danh sách dự án](m27/list_project.md)
-    * [Chỉnh sửa thông tin dự án](m27/_project.md)
+    * [Cập nhật thông tin dự án và cấu hình kết nối Dingtalk,Zalo](m27/update_project.md)
     * [Thêm thành viên cho dự án](m27/add_member.md)
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
     * [Cấu hình trạng thái](m27/config_status.md)
