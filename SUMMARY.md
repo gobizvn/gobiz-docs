@@ -98,7 +98,7 @@
     * [Xem chi tiết và cập nhật ticket](m27/update_ticket.md) 
     * [Bình luận trên ticket](m27/comment_ticket.md) 
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
-    * [Nhận thông báo ticket qua Zalo](m27/notification_zalo_ticket.md)
+    * [Nhận thông báo ticket qua Zalo](m27/notification_zalo_ticket.)
     
     
      
