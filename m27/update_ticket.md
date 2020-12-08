@@ -8,16 +8,15 @@
 
 **Bước2:** Hệ thống hiển thị ra chi tiết ticket. Cho phép người dùng cập nhật các trường thông tin của ticket bằng cách bấm vào dòng muốn cập nhật, nhập nội dung --> enter
 
-- Các trường thông tin cố định hệ  không cho phép cập nhật: Mã ticket, Người tạo, Ngày tạo
+- Các trường thông tin cố định hệ thống không cho phép cập nhật: Mã ticket, Người tạo, Ngày tạo
 
-
-<img width="584" alt="Screen Shot 2020-11-03 at 15 14 13" src="https://user-images.githubusercontent.com/73808891/97962263-55426e80-1de7-11eb-95e3-1da0fd744e8e.png">
+<img width="1440" alt="Screen Shot 2020-12-08 at 16 05 30" src="https://user-images.githubusercontent.com/73808891/101462835-3e0b1980-396f-11eb-8d72-bb0d99556f4d.png">
 
 - Người dùng là thành viên của dự án có thể bấm theo dõi ticket trong dự án để nhận được cái thông báo liên quan đến thay đổi của ticket (chuyển trạng thái, có bình luận, thêm người xử lý)
 
-<img width="1359" alt="Screen Shot 2020-11-10 at 16 32 33" src="https://user-images.githubusercontent.com/73808891/98655947-a962cb00-2372-11eb-8a0e-5bebf8a9c921.png">
-
+<img width="649" alt="Screen Shot 2020-12-08 at 16 06 48" src="https://user-images.githubusercontent.com/73808891/101463019-790d4d00-396f-11eb-8c23-f75ddd687fc2.png">
 
 - Toàn bộ các hành động thao tác trên ticket sẽ được lưu lại và hiển thị ở Lịch sử thao tác
 
 <img width="359" alt="Screen Shot 2020-11-11 at 14 23 00" src="https://user-images.githubusercontent.com/73808891/98781744-74657f80-2429-11eb-98c0-5e464c88d492.png">
+
