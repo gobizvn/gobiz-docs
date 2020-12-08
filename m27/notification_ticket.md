@@ -8,7 +8,7 @@
 
 <img width="876" alt="Screen Shot 2020-11-14 at 09 49 51" src="https://user-images.githubusercontent.com/73808891/99137645-c6dbb180-265e-11eb-992d-515f07488424.png">
 
-**Bước2:** Người dùng truy cập vào **Quản lý dự án**, chọn dự án mà mình muốn nhận thông báo liên quan đến các ticket của dự án đó sau đó bấm biểu tương logo Dingtalk để kết nối tới Dingtalk
+**Bước2:** Người dùng truy cập vào **Quản lý dự án**, chọn dự án mà mình muốn nhận thông báo liên quan đến các ticket của dự án đó sau đó bấm biểu tương logo Dingtalk để kết nối tới Dingtalk hoặc bấm **"kết nối tất cả"** để thực hiện kết nối tất cả các dự án đến Dingtalk
 
 <img width="1440" alt="Screen Shot 2020-12-08 at 15 17 32" src="https://user-images.githubusercontent.com/73808891/101459529-f08cad80-396a-11eb-892f-525cf3802196.png">
 
