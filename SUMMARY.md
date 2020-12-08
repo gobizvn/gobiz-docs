@@ -83,6 +83,7 @@
   * [Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
     * [Tạo mới dự án](m27/create_project.md)
     * [Xem danh sách dự án](m27/list_project.md)
+    * [Chỉnh sửa thông tin dự án](m27/_project.md)
     * [Thêm thành viên cho dự án](m27/add_member.md)
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
     * [Cấu hình trạng thái](m27/config_status.md)
@@ -94,9 +95,11 @@
     * [Cấu hình cá nhân](m27/account_config.md)
     * [Tạo mới ticket](m27/create_ticket.md)   
     * [Xem danh sách ticket](m27/list_ticket.md)  
-    * [Xem chi tiết và cập  ticket](m27/update_ticket.md) 
+    * [Xem chi tiết và cập nhật ticket](m27/update_ticket.md) 
     * [Bình luận trên ticket](m27/comment_ticket.md) 
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
+    * [Nhận thông báo ticket qua Zalo](m27/notification_zalo_ticket.md)
+    
     
      
 
