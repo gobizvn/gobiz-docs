@@ -10,7 +10,6 @@
 
 <img width="520" alt="Screen Shot 2020-12-08 at 15 47 57" src="https://user-images.githubusercontent.com/73808891/101461226-2a5eb380-396d-11eb-8727-4e912f91b86b.png">
 
-**Bước3:** 
 
 *Các đối tượng nhận được thông báo* 
 
