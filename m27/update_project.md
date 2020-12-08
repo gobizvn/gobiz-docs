@@ -1,7 +1,6 @@
-# Cập nhật thông tin dự án
+# Cập nhật thông tin dự án và cấu hình kết nối Dingtalk,Zalo
 
-**Mục đích**: Chức năng này cho phép người dùng có thể chỉnh sửa lại các thông tin của dự án cũng như thiết lập cấu hình việc kết nối với Dingtalk/Zalo để nhận thông báo 
-
+**Mục đích**: Chức năng này cho phép người dùng có thể chỉnh sửa lại các thông tin của dự án cũng như thiết lập cấu hình việc kết nối với Dingtalk/Zalo để dự án kết nối được với Dingtalk, Zalo đáp ứng việc có thể thông báo qua 2 phương tiện 
 
 **Bước 1**: Người dùng bấm vào biểu tượng tại menu dọc, chọn **Cài đặt/Cấu hình dự án**
 
