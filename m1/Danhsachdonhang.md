@@ -25,9 +25,19 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 Quý khách có thể xuất file csv các đơn hàng trong danh sách, có thể xuất toàn bộ danh sách hoặc xuất danh sách đơn hàng theo điều kiện lọc
 
-File xuất csv danh sách đơn hàng được download trực tiếp về máy tính.
-
 ![Xuất CSV tại màn hình Danh sách đơn hàng](https://user-images.githubusercontent.com/73226975/101594275-fd210c80-3a23-11eb-94c1-72a2984661f8.png)
+
+- Điền mã PIN xác nhận xuất CSV, mã PIN mặc định hệ thống **654321** hoặc mã PIN cá nhân của Quý khách sau khi đã thay đổi.
+
+![Xác nhận mã PIN xuất CSV](https://user-images.githubusercontent.com/73226975/101594738-c5669480-3a24-11eb-85b2-df5017f4e8dd.png)
+
+File xuất CSV danh sách đơn hàng sẽ được download trực tiếp về máy tính.
+
+
+![Download file CSV](https://user-images.githubusercontent.com/73226975/101595100-6e14f400-3a25-11eb-9d1e-5f16af744cf6.png)
+
+Quý khách có thể tham khảo file mẫu danh sách đơn hàng [order-export-1607496394644.xlsx](https://github.com/gobizvn/gobiz-docs/files/5664385/order-export-1607496394644.xlsx)
+
 
 
 
