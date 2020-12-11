@@ -17,21 +17,21 @@
 
 ● Cập nhật các trường thông tin của đơn hàng đồng thời theo dõi được hành trình đơn qua mốc thời gian.
 
- ![image](https://user-images.githubusercontent.com/75475064/101880067-e7971880-3bc4-11eb-9e6d-2292a1500788.png)
+![image](https://user-images.githubusercontent.com/75475064/101881691-5aa18e80-3bc7-11eb-9a93-0bcbd1dfe082.png)
 
 ●	Người dùng có thể thay đổi thông tin và đánh dấu tình trạng sản phẩm.
 
-- Người dùng cài đặt công cụ AUTOPAI để thêm sản phẩm vào giỏ hàng Tmall tự động
+ -  Người dùng cài đặt công cụ AUTOPAI để thêm sản phẩm vào giỏ hàng Tmall tự động
 
--	Bấm chọn AUTOPAI
+ - 	Bấm chọn AUTOPAI
 
 ![image](https://user-images.githubusercontent.com/75475064/101880249-2927c380-3bc5-11eb-91cb-b41f820d7160.png)
 
--	Nhập các thông tin bắt buộc: Mã hóa đơn gốc, phí vận chuyển nội địa, lựa chọn dịch vụ,...
+ - 	Nhập các thông tin bắt buộc: Mã hóa đơn gốc, phí vận chuyển nội địa, lựa chọn dịch vụ,...
 
 ![image](https://user-images.githubusercontent.com/75475064/101880428-7dcb3e80-3bc5-11eb-97e0-6c7ef5d26783.png) 
 
--	Toàn bộ các hành động thao tác trên đơn sẽ được lưu lại và hiển thị ở Log hành động. Hệ thống hỗ trợ người dùng có thể trao đổi trực tiếp với khách hàng và trao đổi nội bộ qua khung chat.
+ - 	Toàn bộ các hành động thao tác trên đơn sẽ được lưu lại và hiển thị ở Log hành động. Hệ thống hỗ trợ người dùng có thể trao đổi trực tiếp với khách hàng và trao đổi nội bộ qua khung chat.
 
 ![image](https://user-images.githubusercontent.com/75475064/101880605-c682f780-3bc5-11eb-866c-7496175ad35b.png)
  	 
