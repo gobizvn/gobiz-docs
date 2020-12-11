@@ -3,23 +3,28 @@
 
 Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
-  - Màn hình chi tiết đơn
+  - Màn hình **Chi tiết đơn**
   
 ![image](https://user-images.githubusercontent.com/75475064/101886491-24b3d880-3bce-11eb-9236-a8f23e3914ac.png)
 
-  - Màn hình quản lý đơn hàng
+  - Màn hình **Quản lý đơn hàng**
   
 ![image](https://user-images.githubusercontent.com/75475064/101886935-caffde00-3bce-11eb-925b-53af342e652a.png)
 
-  - Màn hình Kiểm soát giao dịch Nhà cung cấp
+  - Màn hình **Kiểm soát giao dịch Nhà cung cấp**
 
 ![image](https://user-images.githubusercontent.com/75475064/101887064-f4b90500-3bce-11eb-9f88-03e7bbece1a9.png)
 
-  - Màn hình danh sách khiếu nại người bán
+  - Màn hình **Danh sách khiếu nại người bán**
   
 ![image](https://user-images.githubusercontent.com/75475064/101886822-9c820300-3bce-11eb-8d2c-648fccec3eb8.png)
 
+
 **Lưu ý**: Người dùng có thể cài đặt Tạo khiếu nại người bán tự động với đơn trong mục **[Cấu hình](m5/cauhinhnangcao.md)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện
+
+
+
+
 
 
 
