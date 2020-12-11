@@ -2,8 +2,11 @@
 **Mục đích**: Người dùng có thể xem được danh sách những đơn mình đang phụ trách mua 
 ## Quản lý đơn hàng
 **Bước 1:** Người dùng có thể đến màn hình **Quản lý đơn hàng** từ mục **Đơn hàng** tại menu bên trái màn hình. 
+
 ● Người dùng sẽ chỉ xem được các đơn hàng được phân cho mình tại mục Đơn đang mua
+
 ● Danh sách đơn hàng sẽ hiển thị theo thời gian đặt cọc Cũ đến mới
+
 ![image](https://user-images.githubusercontent.com/75475064/101879391-d699d780-3bc3-11eb-8ce8-3613f6caa45e.png)
 
 **Bước 2:** Mua hàng
