@@ -43,17 +43,18 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
 
   **Lưu ý: Những trường hợp không gửi được yêu cầu thanh toán**
 
-    - Đơn đủ điều kiện để chuyển sang **Đã mua** thì mới tạo được yêu cầu thanh toán(YCTT) : Chọn account mua hàng, nhóm ngành hàng (nếu bắt buộc chọn), dịch vụ bắt buộc chọn, duyệt dịch vụ bắt buộc duyệt, xác nhận thay đổi đơn giá/số lượng, phí VCNĐ, mã hóa đơn gốc.
+  - Đơn đủ điều kiện để chuyển sang **Đã mua** thì mới tạo được yêu cầu thanh toán(YCTT) : Chọn account mua hàng, nhóm ngành hàng (nếu bắt buộc chọn),
+    dịch vụ bắt buộc chọn, duyệt dịch vụ bắt buộc duyệt, xác nhận thay đổi đơn giá/số lượng, phí VCNĐ, mã hóa đơn gốc.
   
-    - Nếu YCTT đang ở trạng thái **Chờ Thanh Toán, Đang Thanh Toán, Đã Thanh Toán** thì không cho phép gửi lại YCTT.
+  - Nếu YCTT đang ở trạng thái **Chờ Thanh Toán, Đang Thanh Toán, Đã Thanh Toán** thì không cho phép gửi lại YCTT.
   
-    - Không thể gửi YCTT khi số tiền của tất cả YCTT trên cùng 1 đơn lớn hơn giá vốn (tiền hàng + phí VCNĐ).
+  - Không thể gửi YCTT khi số tiền của tất cả YCTT trên cùng 1 đơn lớn hơn giá vốn (tiền hàng + phí VCNĐ).
   
-    - YCTT ở trạng thái **HỦY** thì không tính vào tổng số tiền thanh toán của đơn.
+  - YCTT ở trạng thái **HỦY** thì không tính vào tổng số tiền thanh toán của đơn.
   
-    - Không cho gửi YCTT khi đơn ở trạng thái **HỦY.**
+  - Không cho gửi YCTT khi đơn ở trạng thái **HỦY.**
   
-    - Đơn có mã hóa đơn gốc không tồn tại trên hệ thống KOMODO.
+  - Đơn có mã hóa đơn gốc không tồn tại trên hệ thống KOMODO.
 
 **Bước 3:** Xử lý Yêu cầu thanh toán
 
@@ -87,11 +88,11 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
     
    * **Đánh dấu Đơn hàng ngoài**
     
-    - Truy cập màn hình Chi tiết đơn và đánh dấu đơn hàng ngoài
+   - Truy cập màn hình Chi tiết đơn và đánh dấu đơn hàng ngoài
       
 ![image](https://user-images.githubusercontent.com/75475064/101897984-f807bd00-3bdd-11eb-822a-c1b1607bb958.png)
 
-    - Hiển thị cảnh báo và chọn **Xác nhận** 
+   - Hiển thị cảnh báo và chọn **Xác nhận** 
 
 ![image](https://user-images.githubusercontent.com/75475064/101897804-b545e500-3bdd-11eb-8d2d-e27c43fe9992.png)
 
