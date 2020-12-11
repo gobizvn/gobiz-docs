@@ -22,9 +22,11 @@ Cài đặt thành công công cụ sẽ hiển thị như hình:
 ![image](https://user-images.githubusercontent.com/75475064/101885273-807d6200-3bcc-11eb-8eb5-3a7d28319a41.png)
 
 **Bước 2:** Đồng bộ từng đơn hoặc đồng bộ tất cả các đơn
+
 ![image](https://user-images.githubusercontent.com/75475064/101885393-a99df280-3bcc-11eb-855d-08efea49775a.png)
 
 **Lưu ý:**
+
 * Để sử dụng tính năng này Người dùng phải đăng nhập vào **Taobao/1688/Tmall** và cài **Công cụ hỗ trợ mua hàng**
 
 * Đồng bộ thành công đơn sẽ tự động chuyển sang trạng thái **Người Bán Giao**
