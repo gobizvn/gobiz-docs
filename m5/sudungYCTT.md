@@ -1,7 +1,7 @@
 # SỬ DỤNG YÊU CẦU THANH TOÁN CHO QUY TRÌNH MUA HÀNG
 **Mục đích:** Nếu không muốn Giao dịch viên tự thanh toán thì sẽ dùng **Yêu cầu thanh toán**, khi đó quy trình mua hàng sẽ có những thay đổi như sau:
 
-**Bước 1:** Tại màn hình **Chi tiết đơn**
+## Bước 1: Tại màn hình Chi tiết đơn
 
   - Chọn đầy đủ các dịch vụ trên đơn, duyệt dịch vụ bắt buộc duyệt (nếu có).
   
@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/75475064/101896010-e244c880-3bda-11eb-949a-d8d68249b3d3.png)
 
 
-**Bước 2:** Tại màn hình danh sách các đơn ở trạng thái **Chờ thanh toán** của Taobao
+## Bước 2: Tại màn hình danh sách các đơn ở trạng thái Chờ thanh toáncủa Taobao
 
 Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z02.1.972272805.d4919660.7942782dWHq9NR&action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitPay
 
@@ -56,9 +56,9 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
   
   - Đơn có mã hóa đơn gốc không tồn tại trên hệ thống KOMODO.
 
-**Bước 3:** Xử lý Yêu cầu thanh toán
+## Bước 3: Xử lý Yêu cầu thanh toán
 
-  **Bước 3.1:** Xử lý **Yêu cầu thanh toán đơn hàng thường**
+**Bước 3.1:** Xử lý **Yêu cầu thanh toán đơn hàng thường**
    * Chọn **Đơn hàng** , chọn **Yêu cầu thanh toán**
  
 ![image](https://user-images.githubusercontent.com/75475064/101896854-313f2d80-3bdc-11eb-85f1-cc0f7263172d.png)
@@ -82,7 +82,7 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
 ![image](https://user-images.githubusercontent.com/75475064/101897567-57b19880-3bdd-11eb-8838-6cbec1943473.png)
 
 
-  **Bước 3.2:** Xử lý yêu cầu thanh toán cho đơn hàng ngoài.
+**Bước 3.2:** Xử lý yêu cầu thanh toán cho đơn hàng ngoài.
   
    Đơn hàng được đánh dấu là đơn hàng ngoài thì cho phép nhân viên tạo YCTT ngoài cho đơn hàng. 
       
@@ -104,6 +104,6 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
   
 ![image](https://user-images.githubusercontent.com/75475064/101898095-21284d80-3bde-11eb-9348-8fd6385405d3.png)
 
-  * Sau khi gửi thành công YCTT đơn hàng ngoài hệ thống sẽ tự động link tới màn hình danh sách YCTT và tự động lọc theo [YCTT đơn hàng ngoài] và chọn tab “Chờ duyệt”.
+  * Sau khi gửi thành công YCTT đơn hàng ngoài hệ thống sẽ tự động link tới màn hình **danh sách YCTT** và tự động lọc theo **YCTT đơn hàng ngoài** và chọn tab **Chờ duyệt**.
 
 
