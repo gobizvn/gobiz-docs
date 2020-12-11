@@ -63,7 +63,7 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 ![image](https://user-images.githubusercontent.com/75475064/101893149-ec64c800-3bd6-11eb-9db2-883216aeefcd.png)
 
-  * Hệ thống cho phép chuyển KNNB sang trạng thái thành công khi KNNB có số tiền đòi được > 0¥ và KNNB có thể có hoặc chưa có giao dịch alipay
+ **Lưu ý:** Hệ thống cho phép chuyển KNNB sang trạng thái thành công khi KNNB có số tiền đòi được > 0¥ và KNNB có thể có hoặc chưa có giao dịch alipay
   
     - Một giao dịch chỉ được map cho 1 KNNB
     
