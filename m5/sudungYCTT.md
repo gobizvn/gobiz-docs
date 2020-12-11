@@ -82,14 +82,16 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
 ![image](https://user-images.githubusercontent.com/75475064/101897567-57b19880-3bdd-11eb-8838-6cbec1943473.png)
 
 
-  **Bước 3.2:** Xử lý yêu cầu thanh toán cho đơn hàng ngoài
+  **Bước 3.2:** Xử lý yêu cầu thanh toán cho đơn hàng ngoài.
   
    Đơn hàng được đánh dấu là đơn hàng ngoài thì cho phép nhân viên tạo YCTT ngoài cho đơn hàng. 
     
    **Đánh dấu Đơn hàng ngoài**.
+   
       - Truy cập màn hình **Chi tiết đơn** và đánh dấu đơn hàng ngoài
       
 ![image](https://user-images.githubusercontent.com/75475064/101897984-f807bd00-3bdd-11eb-822a-c1b1607bb958.png)
+
       - Hiển thị cảnh báo và chọn **Xác nhận** 
 
 ![image](https://user-images.githubusercontent.com/75475064/101897804-b545e500-3bdd-11eb-8d2d-e27c43fe9992.png)
