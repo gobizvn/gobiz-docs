@@ -21,9 +21,13 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 **Lưu ý**: Người dùng có thể cài đặt Tạo khiếu nại người bán tự động với đơn trong mục **[Cấu hình](m5/cauhinhnangcao.md)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện
 
+
+
 **Bước 2:** Điền trường thông tin bắt buộc
 
 ![image](https://user-images.githubusercontent.com/75475064/101887687-ca1b7c00-3bcf-11eb-9588-fef7da1f58d4.png)
+
+
 
 **Bước 3:** Xử lý khiếu nại người bán
 
@@ -55,6 +59,8 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 ![image](https://user-images.githubusercontent.com/75475064/101891959-53817d00-3bd5-11eb-8dc9-83b37f2562f9.png)
 
+
+
 **Bước 4:** Nhập mã giao dịch alipay hoàn vào KNNB
 
   * Tại màn hình **Chi tiết KNNB**, cho phép nhập **Mã giao dịch Alipay** hoàn tương ứng với KNNB này hoặc có thể chọn trong danh sách giao dịch hoàn có sẵn trên hệ thống.
@@ -62,6 +68,8 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 ![image](https://user-images.githubusercontent.com/75475064/101893038-c17a7400-3bd6-11eb-83b3-6b6e9e84e86c.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101893149-ec64c800-3bd6-11eb-9db2-883216aeefcd.png)
+
+
 
  **Lưu ý:** Hệ thống cho phép chuyển KNNB sang trạng thái thành công khi KNNB có số tiền đòi được > 0¥ và KNNB có thể có hoặc chưa có giao dịch alipay
   
