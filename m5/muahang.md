@@ -21,7 +21,7 @@
 
 ●	Người dùng có thể thay đổi thông tin và đánh dấu tình trạng sản phẩm.
 
- Cài đặt công cụ AUTOPAI để thêm sản phẩm vào giỏ hàng Tmall tự động
+ Cài đặt **[công cụ AUTOPAI](m5/dongbomavandon.md)** để thêm sản phẩm vào giỏ hàng Tmall tự động
 
  Bấm chọn AUTOPAI
 
