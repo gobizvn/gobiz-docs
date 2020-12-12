@@ -2,7 +2,7 @@
 ## Bước 1:Tạo khiếu nại người bán 
 (Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**) 
 
-**Lưu ý**: Người dùng có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](m5/cauhinhnangcao.md)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
+**Lưu ý**: Người dùng có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
 
 Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
