@@ -8,9 +8,10 @@
   
   - Chọn khoảng thời gian cần xuất/ check
   
+  - Chọn thông tin GD chi/ thu để xuất
+  
 ![image](https://user-images.githubusercontent.com/75475064/101973254-47df9600-3c69-11eb-948f-1e4181b722d3.png)
 
-  - Chọn thông tin GD chi/ thu để xuất
   
 **Lưu ý:** Khi bấm xuất file có thể sẽ đòi đăng nhập tiếp, cần đăng nhập vào alipay trên điện thoại sau đó quét mã vào máy tính để đăng nhập xuất
 
