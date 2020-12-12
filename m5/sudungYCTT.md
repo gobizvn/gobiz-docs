@@ -58,7 +58,7 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
 
 ## Bước 3: Xử lý Yêu cầu thanh toán
 
-**Bước 3.1:** Xử lý **Yêu cầu thanh toán đơn hàng thường**
+### Bước 3.1:Xử lý Yêu cầu thanh toán đơn hàng thường**
    * Chọn **Đơn hàng** , chọn **Yêu cầu thanh toán**
  
 ![image](https://user-images.githubusercontent.com/75475064/101896854-313f2d80-3bdc-11eb-85f1-cc0f7263172d.png)
@@ -82,11 +82,10 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
 ![image](https://user-images.githubusercontent.com/75475064/101897567-57b19880-3bdd-11eb-8838-6cbec1943473.png)
 
 
-**Bước 3.2:** Xử lý yêu cầu thanh toán cho đơn hàng ngoài.
+### Bước 3.2: Xử lý yêu cầu thanh toán cho đơn hàng ngoài.
   
    Đơn hàng được đánh dấu là đơn hàng ngoài thì cho phép nhân viên tạo YCTT ngoài cho đơn hàng. 
-      
-   **Đánh dấu Đơn hàng ngoài**
+   * **Đánh dấu Đơn hàng ngoài**
    
       - Truy cập màn hình Chi tiết đơn và đánh dấu đơn hàng ngoài
       
