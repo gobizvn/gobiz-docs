@@ -1,7 +1,5 @@
 # THÔNG TIN KHAI HẢI QUAN
 
-**Mục đích:** Người dùng có thể chỉnh sửa **Thông tin khai báo hải quan** của sản phẩm để hỗ trợ việc tự động hóa thông quan
-
 **Bước 1:** Tại màn hình **Chi tiết đơn** bấm chọn những sản phẩm muốn chỉnh sửa **Thông tin khai báo hải quan**
 
 **Bước 2:** Bấm chọn nút **Sửa** thông tin hải quan
