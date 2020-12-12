@@ -42,19 +42,19 @@
   * Sau khi upload file csv, những giao dịch được đánh dấu là **giao dịch bất thường chưa xử lý** là những giao dịch trong file Alipay có các lý do bất thường: 
   
   
-    - Giao dịch không khớp được MHĐG
+      - Giao dịch không khớp được MHĐG
     
     
-    - Giao dịch có MHĐG nhưng không thấy trên hệ thống
+      - Giao dịch có MHĐG nhưng không thấy trên hệ thống
     
     
-    - Giao dịch chi thanh toán hộ chưa khớp giao dịch liên quan
+      - Giao dịch chi thanh toán hộ chưa khớp giao dịch liên quan
+      
+    
+      - Giao dịch chi thanh toán hộ có số tiền không khớp
     
     
-    - Giao dịch chi thanh toán hộ có số tiền không khớp
-    
-    
-    - Khác
+      - Khác
     
     
   * **Resolve/Unresolve** giao dịch bất thường
@@ -81,29 +81,29 @@
 
 ## Bước 4: Kiểm soát lợi nhuận mặc cả 
 
-**Mục đích:** Để xác định được doanh số mặc cả cho giao dịch viên, hệ thống tính toán dựa trên giao dịch NCC được map về đơn và thể hiện trên danh sách kiểm soát giao dịch nhà cung cấp để phát hiện được các **trường hợp sai phạm** :
+  * **Mục đích:** Để xác định được doanh số mặc cả cho giao dịch viên, hệ thống tính toán dựa trên giao dịch NCC được map về đơn và thể hiện trên danh sách kiểm soát giao dịch nhà cung cấp để phát hiện được các **trường hợp sai phạm** :
 
-   - Với đơn ở trạng thái không phải **Hủy, Hết hàng.**
+      - Với đơn ở trạng thái không phải **Hủy, Hết hàng.**
     
-   - **Tổng tiền Alipay** (không phải trạng thái **Hủy, Hết Hàng**) được tính bằng tổng alipay (chi-thu).
+      - **Tổng tiền Alipay** (không phải trạng thái **Hủy, Hết Hàng**) được tính bằng tổng alipay (chi-thu).
     
-   - **Lợi nhuận mặc cả** (không phải trạng thái **Hủy, Hết hàng**) được tính bằng tổng giá vốn (tiền hàng + vận chuyển nội địa) - tổng giao dịch alipay chi (chi - thu).
+      - **Lợi nhuận mặc cả** (không phải trạng thái **Hủy, Hết hàng**) được tính bằng tổng giá vốn (tiền hàng + vận chuyển nội địa) - tổng giao dịch alipay chi (chi - thu).
     
-   - **Tỉ lệ lợi nhuận** (không phải trạng thái **Hủy, Hết hàng**) được tính bằng lợi nhuận/giá vốn.
+      - **Tỉ lệ lợi nhuận** (không phải trạng thái **Hủy, Hết hàng**) được tính bằng lợi nhuận/giá vốn.
     
-   - Với đơn ở trạng thái **Hủy, Hết hàng.**
+      - Với đơn ở trạng thái **Hủy, Hết hàng.**
     
-   - Khi tính **lợi nhuận mặc cả** trên đơn **Hủy/Hết** hàng thì = tổng giao dịch alipay (thu - chi); tuy nhiên khi xuất doanh số cho mua hàng thì không bao gồm những đơn này; 
+      - Khi tính **lợi nhuận mặc cả** trên đơn **Hủy/Hết** hàng thì = tổng giao dịch alipay (thu - chi); tuy nhiên khi xuất doanh số cho mua hàng thì không bao gồm những đơn này; 
     
-   - **Tỉ lệ lợi nhuận** = lợi nhuận/giá vốn.
+      - **Tỉ lệ lợi nhuận** = lợi nhuận/giá vốn.
 
-* Từ menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng** 
+  * Từ menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng** 
   
  ![image](https://user-images.githubusercontent.com/75475064/101973590-adcd1d00-3c6b-11eb-9300-34dccc096f37.png)
  
-   Màn hình **kiểm soát đơn hàng**: chỉ hiển thị những đơn có trạng thái từ **Đã Mua** trở đi và đơn ở trạng thái **Hủy, Hết hàng** mà có giao dịch nhà cung cấp.
+  * Màn hình **kiểm soát đơn hàng**: chỉ hiển thị những đơn có trạng thái từ **Đã Mua** trở đi và đơn ở trạng thái **Hủy, Hết hàng** mà có giao dịch nhà cung cấp.
 
-  * Hệ thống hỗ trợ nhận biết phân biệt **đơn có vấn đề**:
+      Hệ thống hỗ trợ nhận biết phân biệt **đơn có vấn đề**:
    
     - Đối với đơn không ở trạng thái **Hủy, Hết hàng**
       
@@ -119,13 +119,13 @@
       
 ![image](https://user-images.githubusercontent.com/75475064/101973633-14523b00-3c6c-11eb-8dec-fd489659e788.png)
 
-Đánh dấu xử lý đơn có vấn đề: bấm **[Resolve]** hệ thống hiển thị popup để nhập lý do xử lý (lý do không bắt buộc nhập). 
+  * Đánh dấu xử lý đơn có vấn đề: bấm **[Resolve]** hệ thống hiển thị popup để nhập lý do xử lý (lý do không bắt buộc nhập). 
 
 ![image](https://user-images.githubusercontent.com/75475064/101973657-30ee7300-3c6c-11eb-9d65-e9407ccc0ec1.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101973667-4368ac80-3c6c-11eb-95e2-d26db7e6b26c.png)
 
-   Sau khi bấm vào nút **[Resolve]** đơn sẽ được đánh dấu là đơn có vấn đề đã xử lý, thông tin đơn thể hiện ai là **người xử lý** và **thời gian xử lý.**
+  * Sau khi bấm vào nút **[Resolve]** đơn sẽ được đánh dấu là đơn có vấn đề đã xử lý, thông tin đơn thể hiện ai là **người xử lý** và **thời gian xử lý.**
    
 ![image](https://user-images.githubusercontent.com/75475064/101973683-68f5b600-3c6c-11eb-9215-ea8cb8642946.png)
 
