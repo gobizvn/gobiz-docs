@@ -58,7 +58,7 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
 
 ## Bước 3: Xử lý Yêu cầu thanh toán
 
-### Bước 3.1:Xử lý Yêu cầu thanh toán đơn hàng thường**
+### Bước 3.1:Xử lý Yêu cầu thanh toán đơn hàng thường
    * Chọn **Đơn hàng** , chọn **Yêu cầu thanh toán**
  
 ![image](https://user-images.githubusercontent.com/75475064/101896854-313f2d80-3bdc-11eb-85f1-cc0f7263172d.png)
@@ -91,7 +91,7 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
       
 ![image](https://user-images.githubusercontent.com/75475064/101897984-f807bd00-3bdd-11eb-822a-c1b1607bb958.png)
 
-      - Hiển thị cảnh báo và chọn Xác nhận
+   - Hiển thị cảnh báo và chọn Xác nhận
 
 ![image](https://user-images.githubusercontent.com/75475064/101897804-b545e500-3bdd-11eb-8d2d-e27c43fe9992.png)
 
