@@ -38,6 +38,8 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 ![image](https://user-images.githubusercontent.com/75475064/101887975-2bdbe600-3bd0-11eb-95d1-c98316a14c2d.png)
 
+![image](https://user-images.githubusercontent.com/75475064/101981188-9b6bd700-3c9d-11eb-89ef-a8a9cdb3df22.png)
+
   * Chọn **Tiếp nhận** > KNNB sẽ chuyển trạng thái sang **Đang xử lý**
  
 ![image](https://user-images.githubusercontent.com/75475064/101892134-96435500-3bd5-11eb-9df7-eb2d4d6173eb.png)
