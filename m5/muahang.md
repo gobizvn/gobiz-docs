@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/75475064/101879391-d699d780-3bc3-11eb-8ce8-3613f6caa45e.png)
 
-### Bước 2: Mua hàng
+### Bước 2: Cập nhật thông tin đơn
 
 ● Tại màn hình **Quản lý đơn hàng**, người dùng bấm mã đơn của từng bản ghi để xem **Chi tiết đơn hàng**.
 
