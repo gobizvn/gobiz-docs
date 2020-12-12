@@ -83,19 +83,19 @@
 
 **Mục đích:** Để xác định được doanh số mặc cả cho giao dịch viên, hệ thống tính toán dựa trên giao dịch NCC được map về đơn và thể hiện trên danh sách kiểm soát giao dịch nhà cung cấp để phát hiện được các **trường hợp sai phạm** :
 
-   - Với đơn ở trạng thái không phải Hủy, Hết hàng.
+   - Với đơn ở trạng thái không phải **Hủy, Hết hàng.**
     
-   - Tổng tiền Alipay (không phải trạng thái Hủy, Hết Hàng) được tính bằng tổng alipay (chi-thu).
+   - **Tổng tiền Alipay** (không phải trạng thái **Hủy, Hết Hàng**) được tính bằng tổng alipay (chi-thu).
     
-   - Lợi nhuận mặc cả (không phải trạng thái Hủy, Hết hàng) được tính bằng tổng giá vốn (tiền hàng + vận chuyển nội địa) - tổng giao dịch alipay chi (chi - thu).
+   - **Lợi nhuận mặc cả** (không phải trạng thái **Hủy, Hết hàng**) được tính bằng tổng giá vốn (tiền hàng + vận chuyển nội địa) - tổng giao dịch alipay chi (chi - thu).
     
-   - Tỉ lệ lợi nhuận (không phải trạng thái Hủy, Hết hàng) được tính bằng lợi nhuận/giá vốn.
+   - **Tỉ lệ lợi nhuận** (không phải trạng thái **Hủy, Hết hàng**) được tính bằng lợi nhuận/giá vốn.
     
-   - Với đơn ở trạng thái Hủy, Hết hàng.
+   - Với đơn ở trạng thái **Hủy, Hết hàng.**
     
-   - Khi tính lợi nhuận mặc cả trên đơn Hủy/Hết hàng thì = tổng giao dịch alipay (thu - chi); tuy nhiên khi xuất doanh số cho mua hàng thì không bao gồm những đơn này; 
+   - Khi tính **lợi nhuận mặc cả** trên đơn **Hủy/Hết** hàng thì = tổng giao dịch alipay (thu - chi); tuy nhiên khi xuất doanh số cho mua hàng thì không bao gồm những đơn này; 
     
-   - Tỉ lệ lợi nhuận = lợi nhuận/giá vốn.
+   - **Tỉ lệ lợi nhuận** = lợi nhuận/giá vốn.
 
 * Từ menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng** 
   
