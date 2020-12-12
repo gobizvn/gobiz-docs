@@ -23,7 +23,7 @@ Cài đặt thành công công cụ sẽ hiển thị như hình:
 
 **Bước 2:** Đồng bộ từng đơn hoặc đồng bộ tất cả các đơn
 
-![image](https://user-images.githubusercontent.com/75475064/101885393-a99df280-3bcc-11eb-855d-08efea49775a.png)
+![image](https://user-images.githubusercontent.com/75475064/101971813-ad7e5300-3c66-11eb-9dcc-7a5096677852.png)
 
 **Lưu ý:**
 
