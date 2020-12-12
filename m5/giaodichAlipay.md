@@ -109,7 +109,7 @@
       
     - **Chưa có giao dịch NCC**: gồm những đơn có trạng thái từ **Đã Mua** trở đi nhưng chưa có giao dịch nhà cung cấp nào
       
-    - **Lợi nhuận quá cao**: khi tỉ lệ lợi nhuận đơn được tính tính theo công thức mà vượt quá ngưỡng người dùng **[cấu hình](m5/cauhinhnangcao.md)** thì hiển thị cảnh báo này
+    - **Lợi nhuận quá cao**: khi tỉ lệ lợi nhuận đơn được tính tính theo công thức mà vượt quá ngưỡng người dùng **[cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** thì hiển thị cảnh báo này
      
     - **Lợi nhuận âm**: khi giá vốn nhỏ hơn tổng tiền chi cho NCC thì lợi nhuận âm
       
