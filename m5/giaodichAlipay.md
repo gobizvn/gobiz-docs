@@ -59,16 +59,16 @@
     
   * **Resolve/Unresolve** giao dịch bất thường
   
-   - Với những giao dịch được đánh dấu là **bất thường chưa xử lý** thì có thể **resolve/unresolve** giao dịch ở màn hình **danh sách** và
+   Với những giao dịch được đánh dấu là **bất thường chưa xử lý** thì có thể **resolve/unresolve** giao dịch ở màn hình **danh sách** và
     màn hình **chi tiết giao dịch.**
     
 ![image](https://user-images.githubusercontent.com/75475064/101973388-4fec0580-3c6a-11eb-8537-949927f93041.png)
 
-   - Sau khi **resolve** giao dịch thì giao dịch trở thành **giao dịch bất thường đã xử lý**    
+   Sau khi **resolve** giao dịch thì giao dịch trở thành **giao dịch bất thường đã xử lý**    
     
 ![image](https://user-images.githubusercontent.com/75475064/101973448-ce48a780-3c6a-11eb-88c6-0641d0b9a6b4.png)
 
-   - Cho phép **unresolve** giao dịch bất thường đã xử lý nếu có quyền **unresolve**. Khi **unresolve** sẽ có cảnh báo xác nhận
+   Cho phép **unresolve** giao dịch bất thường đã xử lý nếu có quyền **unresolve**. Khi **unresolve** sẽ có cảnh báo xác nhận
     
 ![image](https://user-images.githubusercontent.com/75475064/101973435-b709ba00-3c6a-11eb-8032-3b396571c266.png)
 
@@ -81,7 +81,7 @@
 
 ## Bước 4: Kiểm soát lợi nhuận mặc cả 
 
-**Mục đích:** Để xác định được doanh số mặc cả cho giao dịch viên, hệ thống tính toán dựa trên giao dịch NCC được map về đơn và thể hiện trên danh sách kiểm soát giao dịch nhà cung cấp để phát hiện được các **trường hợp sai phạm**
+**Mục đích:** Để xác định được doanh số mặc cả cho giao dịch viên, hệ thống tính toán dựa trên giao dịch NCC được map về đơn và thể hiện trên danh sách kiểm soát giao dịch nhà cung cấp để phát hiện được các **trường hợp sai phạm** :
 
    - Với đơn ở trạng thái không phải Hủy, Hết hàng.
     
@@ -103,7 +103,7 @@
  
    Màn hình **kiểm soát đơn hàng**: chỉ hiển thị những đơn có trạng thái từ **Đã Mua** trở đi và đơn ở trạng thái **Hủy, Hết hàng** mà có giao dịch nhà cung cấp.
 
-   Hệ thống hỗ trợ nhận biết phân biệt **đơn có vấn đề**
+   Hệ thống hỗ trợ nhận biết phân biệt **đơn có vấn đề**:
    
    - Đối với đơn không ở trạng thái **Hủy, Hết hàng**
       
