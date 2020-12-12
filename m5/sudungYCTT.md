@@ -105,4 +105,4 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
 
   * Sau khi gửi thành công YCTT đơn hàng ngoài hệ thống sẽ tự động link tới màn hình **danh sách YCTT** và tự động lọc theo **YCTT đơn hàng ngoài** và chọn tab **Chờ duyệt**.
 
-
+![image](https://user-images.githubusercontent.com/75475064/101981132-48921f80-3c9d-11eb-9d4e-ff93b554b79c.png)
