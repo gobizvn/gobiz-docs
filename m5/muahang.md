@@ -1,5 +1,4 @@
 # MUA HÀNG
-**Mục đích**: Người dùng có thể xem được danh sách những đơn mình đang phụ trách mua 
 ## Quản lý đơn hàng
 
 ### Bước 1: Chọn Đơn hàng > Quản lý đơn để xem danh sách đơn 
