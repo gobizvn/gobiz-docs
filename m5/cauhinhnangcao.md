@@ -75,12 +75,12 @@
 # Cấu hình tính lợi nhuận mặc cả
  Chọn **Cấu hình** > **Cấu hình chung** > Tích chọn công thức tính lợi nhuận mặc cả 
 
-![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
+![image](https://user-images.githubusercontent.com/75475064/101980475-20ec8880-3c98-11eb-89b6-ec871261e69d.png)
 
 # Cấu hình tự nhận đơn
  Chọn **Cấu hình** > **Mua hàng nhận đơn**
 
-![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
+![image](https://user-images.githubusercontent.com/75475064/101980481-3cf02a00-3c98-11eb-9119-fa26ed58dbad.png)
 
 # Cấu hình tự động tạo KNNB
 
