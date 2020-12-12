@@ -16,26 +16,26 @@
 ![image](https://user-images.githubusercontent.com/75475064/101896010-e244c880-3bda-11eb-949a-d8d68249b3d3.png)
 
 
-## Bước 2: Tại màn hình danh sách các đơn ở trạng thái Chờ thanh toáncủa Taobao
+## Bước 2: Tại màn hình danh sách các đơn ở trạng thái Chờ thanh toán của Taobao
 
 Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z02.1.972272805.d4919660.7942782dWHq9NR&action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitPay
 
-  * Chọn tích chọn **mã hóa đơn gốc (MHĐG)** của đơn cần thanh toán. Có thể tích chọn all hoặc một vài MHĐG để gửi YCTT cùng lúc
+  * Tích chọn **mã hóa đơn gốc (MHĐG)** của đơn cần thanh toán. Có thể tích chọn all hoặc một vài MHĐG để gửi YCTT cùng lúc
   
-    - Click vào nút **[合并付款]**  để thực hiện thanh toán 
+    - Bấm vào nút **[合并付款]**  để thực hiện thanh toán 
 
 ![image](https://user-images.githubusercontent.com/75475064/101896148-1ae4a200-3bdb-11eb-9b44-6196d6e378e5.png)
 
-   - Click chọn **thanh toán qua ngân hàng**
+   - Bấm chọn **thanh toán qua ngân hàng**
 
 ![image](https://user-images.githubusercontent.com/75475064/101896346-73b43a80-3bdb-11eb-8468-8e1e61a6375b.png)
 
 
-  * Công cụ mua hàng sẽ tự động nhận và chuyển YCTT từ site gốc (Taobao)  sang hệ thống KOMODO của bạn với thông báo **Gửi yêu cầu thanh toán thành công**
+  * Công cụ mua hàng sẽ tự động nhận và chuyển YCTT từ site gốc (Taobao)  sang hệ thống **KOMODO** của bạn với thông báo **Gửi yêu cầu thanh toán thành công**
   
 ![image](https://user-images.githubusercontent.com/75475064/101896407-8b8bbe80-3bdb-11eb-83ab-dc3ca69315fa.png)
 
-  * YCTT sẽ hiển thị tại danh danh sách ở màn hình Yêu cầu thanh toán với trạng thái là **Chờ thanh toán**
+  * YCTT sẽ hiển thị tại danh danh sách ở màn hình **Yêu cầu thanh toán** với trạng thái là **Chờ thanh toán**
 
 ![image](https://user-images.githubusercontent.com/75475064/101896495-ac541400-3bdb-11eb-9d67-10de2bb18fec.png)
 
@@ -59,21 +59,21 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
 ## Bước 3: Xử lý Yêu cầu thanh toán
 
 ### Bước 3.1:Xử lý Yêu cầu thanh toán đơn hàng thường
-   * Chọn **Đơn hàng** , chọn **Yêu cầu thanh toán**
+  * Chọn **Đơn hàng** , chọn **Yêu cầu thanh toán**
  
 ![image](https://user-images.githubusercontent.com/75475064/101896854-313f2d80-3bdc-11eb-85f1-cc0f7263172d.png)
 
-   * YCTT ở trạng thái **Chờ thanh toán** sẽ cho phép nhân viên quỹ **[Tiếp nhận]** hoặc **[Từ chối]**
+  * YCTT ở trạng thái **Chờ thanh toán** sẽ cho phép nhân viên quỹ **[Tiếp nhận]** hoặc **[Từ chối]**
 
 ![image](https://user-images.githubusercontent.com/75475064/101897038-83804e80-3bdc-11eb-97bb-6af685644dfd.png)
 
-
-   * Nếu chọn **[Tiếp nhận]** thì YCTT sẽ chuyển từ **Chờ thanh toán** sang **Đang thanh toán** và ghi log tên người tiếp nhận.
+  Nếu chọn **[Tiếp nhận]** thì YCTT sẽ chuyển từ **Chờ thanh toán** sang **Đang thanh toán** và ghi log tên người tiếp nhận.
    
-  ![image](https://user-images.githubusercontent.com/75475064/101897286-e540b880-3bdc-11eb-9c72-6504a023afd6.png)
+![image](https://user-images.githubusercontent.com/75475064/101981014-4d0a0880-3c9c-11eb-9e7d-767b161d3e31.png)
 
-  * YCTT ở trạng thái **Đang thanh toán** sẽ cho phép nhân viên quỹ **[Thanh toán]** hoặc **[Thất bại]**
-Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thành công thì YCTT sẽ chuyển từ **Đang thanh toán** sang **Đã thanh toán** và thông báo **Xử lý yêu cầu thanh toán thành công**
+  * YCTT ở trạng thái **Đang thanh toán** sẽ cho phép nhân viên quỹ chọn **[Thành công]** hoặc **[Thất bại]** 
+  
+  Nếu chọn **[Thành công]** thì YCTT sẽ chuyển từ **Đang thanh toán** sang **Đã thanh toán** và thông báo **Xử lý yêu cầu thanh toán thành công**
 
 ![image](https://user-images.githubusercontent.com/75475064/101897442-22a54600-3bdd-11eb-92cc-4d2d2b51c648.png)
 
