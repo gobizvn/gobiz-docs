@@ -45,9 +45,9 @@
 
 ![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
 
-* Cấu hình Bật/Tắt sử dụng nhóm ngành hàng chọn **Cấu hình** > **Cấu hình chung** 
+* Cấu hình **Bật/Tắt** sử dụng nhóm ngành hàng chọn **Cấu hình** > **Cấu hình chung** 
 
-![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
+![image](https://user-images.githubusercontent.com/75475064/101980369-5f357800-3c97-11eb-8847-e55837baea36.png)
 
 * Cấu hình bắt buộc chọn **Nhóm ngành hàng** khi **Thanh toán** chọn **Cấu hình** > **Mua hàng nhận đơn**
 
