@@ -1,5 +1,5 @@
 # SỬ DỤNG YÊU CẦU THANH TOÁN CHO QUY TRÌNH MUA HÀNG
-**Mục đích:** Nếu không muốn Giao dịch viên tự thanh toán thì sẽ dùng **Yêu cầu thanh toán**, khi đó quy trình mua hàng sẽ có những thay đổi như sau:
+**Lưu ý :** Nếu không muốn Giao dịch viên tự thanh toán thì sẽ dùng **Yêu cầu thanh toán**, khi đó quy trình mua hàng sẽ có những thay đổi như sau:
 
 ## Bước 1: Tại màn hình Chi tiết đơn
 
