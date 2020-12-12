@@ -103,23 +103,23 @@
  
    Màn hình **kiểm soát đơn hàng**: chỉ hiển thị những đơn có trạng thái từ **Đã Mua** trở đi và đơn ở trạng thái **Hủy, Hết hàng** mà có giao dịch nhà cung cấp.
 
-   Hệ thống hỗ trợ nhận biết phân biệt **đơn có vấn đề**:
+  * Hệ thống hỗ trợ nhận biết phân biệt **đơn có vấn đề**:
    
-   - Đối với đơn không ở trạng thái **Hủy, Hết hàng**
+    - Đối với đơn không ở trạng thái **Hủy, Hết hàng**
       
-   - **Chưa có giao dịch NCC**: gồm những đơn có trạng thái từ **Đã Mua** trở đi nhưng chưa có giao dịch nhà cung cấp nào
+    - **Chưa có giao dịch NCC**: gồm những đơn có trạng thái từ **Đã Mua** trở đi nhưng chưa có giao dịch nhà cung cấp nào
       
-   - **Lợi nhuận quá cao**: khi tỉ lệ lợi nhuận đơn được tính tính theo công thức mà vượt quá ngưỡng người dùng **[cấu hình](m5/cauhinhnangcao.md)** thì hiển thị cảnh báo này
+    - **Lợi nhuận quá cao**: khi tỉ lệ lợi nhuận đơn được tính tính theo công thức mà vượt quá ngưỡng người dùng **[cấu hình](m5/cauhinhnangcao.md)** thì hiển thị cảnh báo này
      
-   - **Lợi nhuận âm**: khi giá vốn nhỏ hơn tổng tiền chi cho NCC thì lợi nhuận âm
+    - **Lợi nhuận âm**: khi giá vốn nhỏ hơn tổng tiền chi cho NCC thì lợi nhuận âm
       
-   - **Đối với đơn Hủy, Hết hàng** 
+    - **Đối với đơn Hủy, Hết hàng** 
       
-   - **Đơn Hủy nhưng có giao dịch thu chi không khớp:** khi đơn có tổng thu khác tổng chi 
+    - **Đơn Hủy nhưng có giao dịch thu chi không khớp:** khi đơn có tổng thu khác tổng chi 
       
 ![image](https://user-images.githubusercontent.com/75475064/101973633-14523b00-3c6c-11eb-8dec-fd489659e788.png)
 
-* Đánh dấu xử lý đơn có vấn đề: bấm **[Resolve]** hệ thống hiển thị popup để nhập lý do xử lý (lý do không bắt buộc nhập). 
+Đánh dấu xử lý đơn có vấn đề: bấm **[Resolve]** hệ thống hiển thị popup để nhập lý do xử lý (lý do không bắt buộc nhập). 
 
 ![image](https://user-images.githubusercontent.com/75475064/101973657-30ee7300-3c6c-11eb-9d65-e9407ccc0ec1.png)
 
