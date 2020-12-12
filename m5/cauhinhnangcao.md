@@ -17,7 +17,7 @@
     
 ![image](https://user-images.githubusercontent.com/75475064/101977691-e4ae2d80-3c81-11eb-8d2c-557ee1187285.png)
 
-![image](https://user-images.githubusercontent.com/75475064/101977691-e4ae2d80-3c81-11eb-8d2c-557ee1187285.png)
+![image](https://user-images.githubusercontent.com/75475064/101979922-da952a80-3c93-11eb-8cef-5dcf04fddf9a.png)
 
  * **Phân/chỉ định tài khoản cho nhân viên**
  
@@ -30,6 +30,7 @@
 **Lưu ý:** Một tài khoản mua hàng có thể phân cho nhiều GDV 
 
 # Địa chỉ kho nhận 
+
  * Chọn **Cấu hình** > **Cấu hình chung** > **Địa chỉ kho nhận** > Chọn thêm mới hoặc chỉnh sửa
 
 ![image](https://user-images.githubusercontent.com/75475064/101977750-774ecc80-3c82-11eb-81db-39fb9ba7efa6.png)
