@@ -1,5 +1,4 @@
 # Cấu hình nâng cao
-
 ## Tài khoản mua hàng (taobao, Alibaba, wechat…)
 
  * Chọn **Cấu hình** > **Cấu hình chung** > **Tài khoản mua hàng** > Chọn thêm mới hoặc chỉnh sửa
