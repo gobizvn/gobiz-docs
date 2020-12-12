@@ -44,8 +44,14 @@
     * [Ký gửi](m2/quanlydonkygui2.md)
   
 * [Go Purchasing](m5/README.md)
-  * [Cài đặt ban đầu](m5/m5_getstarted.md)
-  * [Change Logs](m5/change-logs.md)
+  * [Mua hàng](m5/muahang.md)
+  * [Sử dụng YCTT cho quy trình mua hàng](m5/sudungYCTT.md)
+  * [Thông tin khai hải quan](m5/thongtinhaiquan.md)
+  * [Đồng bộ mã vận đơn](m5/dongbomavandon.md)
+  * [Khiếu nại người bán](m5/khieunainguoiban.md)
+  * [Kiểm soát giao dịch Alipay và Lợi nhuận mặc cả](m5/giaodichAlipay.md)
+  * [Kiểm soát lỗi của Giao dịch viên](m5/kiemsoatloiGDV.md)
+  * [Cấu hình nâng cao](m5/cauhinhnangcao.md)
   
 * [Go Logistics](m6/README.md)
   * Hàng thường
