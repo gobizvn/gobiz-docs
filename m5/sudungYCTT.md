@@ -99,7 +99,7 @@ Sau khi truy cập link thanh toán đơn hàng và xác nhận thanh toán thà
 
 ![image](https://user-images.githubusercontent.com/75475064/101897934-e4f4ed00-3bdd-11eb-834f-27d8256106c7.png)
 
-  * Nhập đầy đủ thông tin các trường bắt buộc và click Gửi
+  * Nhập đầy đủ thông tin các trường bắt buộc và bấm **Gửi**
   
 ![image](https://user-images.githubusercontent.com/75475064/101898095-21284d80-3bde-11eb-9348-8fd6385405d3.png)
 
