@@ -1,15 +1,16 @@
 # MUA HÀNG
 **Mục đích**: Người dùng có thể xem được danh sách những đơn mình đang phụ trách mua 
 ## Quản lý đơn hàng
-**Bước 1: Chọn Đơn hàng > Quản lý đơn** để xem danh sách đơn 
 
-● Người dùng sẽ chỉ xem được các đơn hàng được phân cho mình tại mục Đơn đang mua
+### Bước 1: Chọn Đơn hàng > Quản lý đơn để xem danh sách đơn 
 
-● Danh sách đơn hàng sẽ hiển thị theo thời gian đặt cọc Cũ đến mới
+● Người dùng sẽ chỉ xem được các đơn hàng được phân cho mình tại mục **Đơn đang mua**
+
+● Danh sách đơn hàng sẽ hiển thị theo thời gian đặt cọc **Cũ đến mới**
 
 ![image](https://user-images.githubusercontent.com/75475064/101879391-d699d780-3bc3-11eb-8ce8-3613f6caa45e.png)
 
-**Bước 2:** Mua hàng
+### Bước 2: Mua hàng
 
 ● Tại màn hình **Quản lý đơn hàng**, người dùng bấm mã đơn của từng bản ghi để xem **Chi tiết đơn hàng**.
 
@@ -23,7 +24,7 @@
 
  Cài đặt **[công cụ AUTOPAI](m5/dongbomavandon.md)** để thêm sản phẩm vào giỏ hàng Tmall tự động
 
- Bấm chọn AUTOPAI
+ Bấm chọn **AUTOPAI**
 
 ![image](https://user-images.githubusercontent.com/75475064/101880249-2927c380-3bc5-11eb-91cb-b41f820d7160.png)
 
