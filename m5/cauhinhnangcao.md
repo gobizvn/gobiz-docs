@@ -68,7 +68,7 @@
 
  Chọn **Cấu hình** > **Tài khoản ngân hàng** > Chọn thêm mới hoặc chỉnh sửa
 
-![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
+![image](https://user-images.githubusercontent.com/75475064/101980441-e7b41880-3c97-11eb-8b8a-6431db4536c4.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
 
