@@ -1,8 +1,6 @@
 # ĐỒNG BỘ MÃ VẬN ĐƠN
 ## Cài đặt công cụ 
 
-**Mục đích:** Người dùng có thể tự động lấy mã vận đơn từ site gốc và điền vào đơn
-
 **Cài công cụ đặt hàng trên Chrome/ Cốc cốc**
 
 **Bước 1:** Người dùng tìm kiếm công cụ **Công cụ đặt hàng của Order Hàng** **[TẠI ĐÂY](https://chrome.google.com/webstore/detail/c%C3%B4ng-c%E1%BB%A5-mua-h%C3%A0ng-gobiz/fmknmegefdocamdggpdlcnippgjfelmn)**.
