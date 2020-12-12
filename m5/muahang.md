@@ -36,7 +36,7 @@
 
 ![image](https://user-images.githubusercontent.com/75475064/101880605-c682f780-3bc5-11eb-866c-7496175ad35b.png)
  	 
-**Bước 3:** Sau khi cập nhật đầy đủ **Thông tin chi tiết đơn** thì chuyển trạng thái đơn
+### Bước 3: Sau khi cập nhật đầy đủ **Thông tin chi tiết đơn** thì chuyển trạng thái đơn
 
 ![image](https://user-images.githubusercontent.com/75475064/101880842-224d8080-3bc6-11eb-99b4-95009029e888.png)
  
