@@ -1,5 +1,5 @@
 # KHIẾU NẠI NGƯỜI BÁN
-**Bước 1:** Tạo khiếu nại người bán (Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**) 
+## Bước 1:Tạo khiếu nại người bán (Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**) 
 
 
 **Lưu ý**: Người dùng có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](m5/cauhinhnangcao.md)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
@@ -24,13 +24,13 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 
 
-**Bước 2:** Điền trường thông tin bắt buộc
+## Bước 2: Điền trường thông tin bắt buộc
 
 ![image](https://user-images.githubusercontent.com/75475064/101887687-ca1b7c00-3bcf-11eb-9588-fef7da1f58d4.png)
 
 
 
-**Bước 3:** Xử lý khiếu nại người bán
+## Bước 3: Xử lý khiếu nại người bán
 
   * Sau khi điền đầy đủ thông tin và bấm **Thực hiện**, hệ thống sẽ tự chuyển hướng sang màn **Chi tiết khiếu nại người bán** 
   
@@ -62,7 +62,7 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 
 
-**Bước 4:** Nhập mã giao dịch alipay hoàn vào KNNB
+## Bước 4: Nhập mã giao dịch alipay hoàn vào KNNB
 
   * Tại màn hình **Chi tiết KNNB**, cho phép nhập **Mã giao dịch Alipay** hoàn tương ứng với KNNB này hoặc có thể chọn trong danh sách giao dịch hoàn có sẵn trên hệ thống.
   
