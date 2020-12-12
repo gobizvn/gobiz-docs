@@ -13,9 +13,7 @@
  
  ![image](https://user-images.githubusercontent.com/75475064/101975719-2682a800-3c71-11eb-81c2-73d1c084c883.png)
 
-  Đồng thời đơn sẽ hiển thị tại màn hình **Đơn vi phạm chính sách**
-  
-
+ 
 
 ## Bước 2: Chọn lý do mua chậm
 
