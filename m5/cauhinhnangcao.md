@@ -31,26 +31,65 @@
 
 # Địa chỉ kho nhận 
 
- * Chọn **Cấu hình** > **Cấu hình chung** > **Địa chỉ kho nhận** > Chọn thêm mới hoặc chỉnh sửa
+ * Chọn **Cấu hình** > **Địa chỉ kho nhận** > Chọn thêm mới hoặc chỉnh sửa
 
 ![image](https://user-images.githubusercontent.com/75475064/101977750-774ecc80-3c82-11eb-81db-39fb9ba7efa6.png)
 
 
-# Lý do mua chậm
-
 ![image](https://user-images.githubusercontent.com/75475064/101977764-95b4c800-3c82-11eb-964c-e2b0e10c0217.png)
+
+# Nhóm ngành hàng
+* Chọn **Cấu hình** > **Nhóm ngành hàng** > Chọn thêm mới hoặc chỉnh sửa
+
+![image](https://user-images.githubusercontent.com/75475064/101980025-c7368f00-3c94-11eb-9526-d96acafc355e.png)
+
+![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
+
+* Cấu hình Bật/Tắt sử dụng nhóm ngành hàng chọn **Cấu hình** > **Cấu hình chung** 
+
+![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
+
+* Cấu hình bắt buộc chọn **Nhóm ngành hàng** khi **Thanh toán** chọn **Cấu hình** > **Mua hàng nhận đơn**
+
+![image](https://user-images.githubusercontent.com/75475064/101980208-6b6d0580-3c96-11eb-8767-596a6582cbf0.png)
+
+# Lý do mua chậm
+ * Chọn **Cấu hình** > **Lý do mua chậm** > Chọn thêm mới hoặc chỉnh sửa
+ 
+![image](https://user-images.githubusercontent.com/75475064/101980012-abcb8400-3c94-11eb-81e8-152a41c2b6b3.png)
+
+![image](https://user-images.githubusercontent.com/75475064/101980025-c7368f00-3c94-11eb-9526-d96acafc355e.png)
+ 
+ * Cấu hình Thời gian thanh toán áp dụng với chính sách 24h ( sau khoảng thời gian trong cấu hình sẽ phải điền lý do cho **Đơn mua chậm**)
+ 
+ ![image](https://user-images.githubusercontent.com/75475064/101980238-ae2edd80-3c96-11eb-9b6a-97f86fc18af0.png)
 
 # Tài khoản ngân hàng dùng để thanh toán
 
+ Chọn **Cấu hình** > **Tài khoản ngân hàng** > Chọn thêm mới hoặc chỉnh sửa
+
+![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
+
+![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
 
 # Cấu hình tính lợi nhuận mặc cả
+ Chọn **Cấu hình** > **Cấu hình chung** > Tích chọn công thức tính lợi nhuận mặc cả 
 
-# Cấu hình mua hàng nhận đơn
+![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
 
+# Cấu hình tự nhận đơn
+ Chọn **Cấu hình** > **Mua hàng nhận đơn**
 
-# Cấu hình KNNB
+![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
 
+# Cấu hình tự động tạo KNNB
+
+Chọn **Cấu hình** > **Mua hàng nhận đơn**
+
+![image](https://user-images.githubusercontent.com/75475064/101980311-ff3ed180-3c96-11eb-8259-555e1d89f926.png)
+
+![image](https://user-images.githubusercontent.com/75475064/101980326-0ebe1a80-3c97-11eb-9a3e-2445ebb582dd.png)
 
 # Cấu hình giao dịch nhà cung cấp
 
-
+![image](https://user-images.githubusercontent.com/75475064/101980346-3319f700-3c97-11eb-9d0f-cef6fb9a82fa.png)
