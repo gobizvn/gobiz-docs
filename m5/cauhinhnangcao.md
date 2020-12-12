@@ -41,7 +41,7 @@
 # Nhóm ngành hàng
 * Chọn **Cấu hình** > **Nhóm ngành hàng** > Chọn thêm mới hoặc chỉnh sửa
 
-![image](https://user-images.githubusercontent.com/75475064/101980025-c7368f00-3c94-11eb-9526-d96acafc355e.png)
+![image](https://user-images.githubusercontent.com/75475064/101980410-a1f75000-3c97-11eb-866e-90e369bda279.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
 
