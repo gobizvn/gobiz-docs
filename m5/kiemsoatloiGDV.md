@@ -11,9 +11,7 @@
 
  * Khi áp dụng **chính sách 24h**, đơn sau một khoảng thời gian đã được [**cấu hình**](https://hd.gobiz.vn/m5/cauhinhnangcao) mà không được xử lý sẽ bị đánh dấu là **Quá hạn mua** tại màn hình **Quản lý đơn** . 
  
- ![image](https://user-images.githubusercontent.com/75475064/101975719-2682a800-3c71-11eb-81c2-73d1c084c883.png)
-
- 
+![image](https://user-images.githubusercontent.com/75475064/102032314-feb74f80-3dea-11eb-90d9-4abf1926fe90.png)
 
 ## Bước 2: Chọn lý do mua chậm
 
