@@ -1,4 +1,4 @@
-**Truy cập vào Danh sách đơn hàng**
+**Truy cập vào Danh sách đơn hàng **
 
 Quý khách có thể đến màn hình **Danh sách đơn** từ màn hình Kết quả đặt đơn thành công, hoặc có thể truy cập từ menu bên trái màn hình:
 
