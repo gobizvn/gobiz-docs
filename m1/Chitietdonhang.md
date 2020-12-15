@@ -26,7 +26,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 2. **Tab Sản phẩm**
 
-- Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
+  - Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
   + Mã ID sản phẩm, tên sản phẩm, option đặt mua.
   + Số lượng sản phẩm: Đặt/Mua/Nhận.
   + Đơn giá 1 sản phẩm.
