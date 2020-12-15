@@ -39,4 +39,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 ![Tab Sản phẩm](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
 
 
+3.  **Tài chính đơn**
+
 
