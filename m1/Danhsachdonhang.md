@@ -16,10 +16,17 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![Màn hình tìm kiếm thông tin](https://user-images.githubusercontent.com/73226975/99638833-6ba02980-2a79-11eb-9d75-654a218bcbd5.png)
 
+- **Các điều kiện lọc**:
++ Trạng thái đơn hàng.
++ Thời gian tạo đơn.
++ Đơn dừng ở trạng thái.
++ Tìm kiếm theo site nguồn hàng.
++ Tìm kiếm theo dịch vụ trên đơn.
++ Tìm kiếm theo mã đơn, tên shop.
+
 Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng **Làm mới bộ lọc**
 
 ![Xóa bộ lọc](https://user-images.githubusercontent.com/73226975/101593743-08276d00-3a23-11eb-89ca-0361b09f2c72.png)
-
 
 2. **Xuất CSV danh sách đơn hàng**
 
