@@ -1,32 +1,31 @@
-**Truy cập vào Danh sách đơn hàng **
+**Truy cập vào Danh sách đơn hàng**
 
 Quý khách có thể đến màn hình **Danh sách đơn** từ màn hình Kết quả đặt đơn thành công, hoặc có thể truy cập từ menu bên trái màn hình:
 
 1. ** Tìm kiếm đơn hàng**:
 
-    Quý khách Click **“Mở rộng tìm kiếm”** để hiển thị hết khối tìm kiếm tại **Danh sách đơn hàng**
+Quý khách Click **“Mở rộng tìm kiếm”** để hiển thị hết khối tìm kiếm tại **Danh sách đơn hàng**
 
-    ![Màn hình danh sách đơn hàng](https://user-images.githubusercontent.com/73226975/99638412-c4bb8d80-2a78-11eb-9163-681e26391a7b.png)
+![Màn hình danh sách đơn hàng](https://user-images.githubusercontent.com/73226975/99638412-c4bb8d80-2a78-11eb-9163-681e26391a7b.png)
 
-    Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông tin tại **Danh sách đơn hàng**
+Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông tin tại **Danh sách đơn hàng**
 
-    ![Tìm kiếm danh sách đơn hàng](https://user-images.githubusercontent.com/73226975/99638587-06e4cf00-2a79-11eb-9696-ea042dff8c82.png)
+![Tìm kiếm danh sách đơn hàng](https://user-images.githubusercontent.com/73226975/99638587-06e4cf00-2a79-11eb-9696-ea042dff8c82.png)
 
-    ![Màn hình tìm kiếm thông tin](https://user-images.githubusercontent.com/73226975/99638833-6ba02980-2a79-11eb-9d75-654a218bcbd5.png)
+![Màn hình tìm kiếm thông tin](https://user-images.githubusercontent.com/73226975/99638833-6ba02980-2a79-11eb-9d75-654a218bcbd5.png)
 
-    - **Các điều kiện lọc:**
-        + Trạng thái đơn hàng.
-        + Thời gian tạo đơn.
-        + Đơn dừng ở trạng thái.
-        + Tìm kiếm theo site nguồn hàng.
-        + Tìm kiếm theo dịch vụ trên đơn.
-        + Tìm kiếm theo mã đơn, tên shop.
+- **Các điều kiện lọc:**
++ Trạng thái đơn hàng.
++ Thời gian tạo đơn.
++ Đơn dừng ở trạng thái.
++ Tìm kiếm theo site nguồn hàng.
++ Tìm kiếm theo dịch vụ trên đơn.
++ Tìm kiếm theo mã đơn, tên shop.
 
-    Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng **Làm mới bộ lọc**
+Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng **Làm mới bộ lọc**
 
-    ![Xóa bộ lọc](https://user-images.githubusercontent.com/73226975/101593743-08276d00-3a23-11eb-89ca-0361b09f2c72.png)
-    
-    
+![Xóa bộ lọc](https://user-images.githubusercontent.com/73226975/101593743-08276d00-3a23-11eb-89ca-0361b09f2c72.png)
+
 2. **Danh sách đơn hàng:**
     - Các thông tin hiển thị:
         + Tổng số đơn hàng.
