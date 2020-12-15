@@ -5,22 +5,22 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 1. **Thông tin hiển thị trong chi tiết đơn hàng.**
 
-+ Mã đơn hàng.
-+ Trạng thái đơn hàng.
-+ Tổng chi phí.
-+ Người bán.
-+ Button tạo khiếu nại cho đơn hàng.
-+ Cấp độ thành viên.
-+ Tỷ lệ đặt cọc đơn hàng.
-+ Cân nặng tính phí.
-+ Thể tích.
-+ Tỷ giá áp dụng.
-+ Các dịch vụ.
-+ Địa chỉ giao hàng của Quý khách tại Việt Nam.
-+ Ghi chú cá nhân
-+ Thanh cuộn thu gọn/mở rộng hiển thị.
-+ Khung chat trao đổi nội dung trên đơn.
-+ Các tab: Sản phẩm, tài chính đơn, kiện hàng, giao dịch, khiếu nại, lịch sử đơn và Log hoạt động trên đơn.
+  + Mã đơn hàng.
+  + Trạng thái đơn hàng.
+  + Tổng chi phí.
+  + Người bán.
+  + Button tạo khiếu nại cho đơn hàng.
+  + Cấp độ thành viên.
+  + Tỷ lệ đặt cọc đơn hàng.
+  + Cân nặng tính phí.
+  + Thể tích.
+  + Tỷ giá áp dụng.
+  + Các dịch vụ.
+  + Địa chỉ giao hàng của Quý khách tại Việt Nam.
+  + Ghi chú cá nhân
+  + Thanh cuộn thu gọn/mở rộng hiển thị.
+  + Khung chat trao đổi nội dung trên đơn.
+  + Các tab: Sản phẩm, tài chính đơn, kiện hàng, giao dịch, khiếu nại, lịch sử đơn và Log hoạt động trên đơn.
 
 ![Màn hình chi tiết đơn hàng](https://user-images.githubusercontent.com/73226975/102170945-0ac50f00-3ec8-11eb-8ddf-ff9c0dc2352f.png)
 
