@@ -3,6 +3,7 @@
 Quý khách có thể đến màn hình **Danh sách đơn** từ màn hình Kết quả đặt đơn thành công, hoặc có thể truy cập từ menu bên trái màn hình:
 
 1. ** Tìm kiếm đơn hàng**:
+1. ** Tìm kiếm đơn hàng**:
 Quý khách Click **“Mở rộng tìm kiếm”** để hiển thị hết khối tìm kiếm tại **Danh sách đơn hàng**
 
 
