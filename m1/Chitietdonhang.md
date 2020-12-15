@@ -3,7 +3,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 ![Truy cập Chi tiết đơn hàng](https://user-images.githubusercontent.com/73226975/102170549-372c5b80-3ec7-11eb-845f-954a82338b82.png)
 
-1. **Thông tin hiển thị trong chi tiết đơn hàng.**
+1.  **Thông tin hiển thị trong chi tiết đơn hàng.**
 
   + Mã đơn hàng.
   + Trạng thái đơn hàng.
@@ -24,7 +24,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 ![Màn hình chi tiết đơn hàng](https://user-images.githubusercontent.com/73226975/102170945-0ac50f00-3ec8-11eb-8ddf-ff9c0dc2352f.png)
 
-2. **Tab Sản phẩm**
+2.  **Tab Sản phẩm**
 
   - Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
   + Mã ID sản phẩm, tên sản phẩm, option đặt mua.
