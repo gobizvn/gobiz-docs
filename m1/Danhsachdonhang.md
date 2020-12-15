@@ -34,7 +34,7 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 + Tổng số đơn hàng.
 + Mã đơn hàng.
 + Logo site gốc, tên shop và link shop.
-+ Số lượng hiển thị từ trái sang phải bao gồm các thông tin: Số lượng đặt cọc/Số lượng mua được/Số lượng thực nhận.
++ Số lượng hiển thị từ trái sang phải bao gồm các thông tin: *Số lượng đặt cọc/Số lượng mua được/Số lượng thực nhận.*
 Trong đó số lượng nhận sẽ chỉ hiển thị khi đơn có chọn dịch vụ kiểm hàng.
 + Tổng chi phí đơn hàng.
 + Tổng tiền hàng.
