@@ -82,9 +82,9 @@
     * Cấu hình
     
 * [Go Complaints](m3/README.md)
-  * [Cấu hình](Cauhinhhethong.md)
-  * [Tạo khiếu nại cho khách hàng](Taokhieunai.md)
-  * [Xử lý khiếu nại](Xulykhieunai.md)
+  * [Cấu hình](m3/Cauhinhhethong.md)
+  * [Tạo khiếu nại cho khách hàng](m3/Taokhieunai.md)
+  * [Xử lý khiếu nại](m3/Xulykhieunai.md)
 * [Go Authen.me](m10/README.md)
 
 * [Go Ticket](m27/README.md)
