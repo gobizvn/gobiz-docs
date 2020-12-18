@@ -24,6 +24,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 ![Màn hình chi tiết đơn hàng](https://user-images.githubusercontent.com/73226975/102170945-0ac50f00-3ec8-11eb-8ddf-ff9c0dc2352f.png)
 
+  \
 2.  **Tab Sản phẩm**
 
   - Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
@@ -38,7 +39,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 ![Tab Sản phẩm](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
 
-
+  \
 3.  **Tài chính đơn**
 
 
