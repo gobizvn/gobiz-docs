@@ -42,10 +42,11 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
   \
 3.  **Tài chính đơn**
   - Thông tin hiển thị trong mục bao gồm:
-  + Phí dịch vụ.
-  + Phí vận chuyển: Hệ thống sẽ hiển thị công thức bảng giá đang được áp dụng tại thời điểm đặt cọc đơn hàng.
-  + Phụ phí (nếu có).
-  + Tài chính đơn bao gồm tổng các chi phí phát sinh và các khoản đã thanh toán, chưa thanh toán hoặc số tiền được hoàn trả lại.
+   + Phí dịch vụ.
+   + Phí vận chuyển: Hệ thống sẽ hiển thị công thức bảng giá đang được áp dụng tại thời điểm đặt cọc đơn hàng.
+   + Phụ phí (nếu có).
+   + Tài chính đơn bao gồm tổng các chi phí phát sinh và các khoản đã thanh toán, chưa thanh toán hoặc số tiền được hoàn trả lại.
   
+![Màn hình tài chính đơn](https://user-images.githubusercontent.com/73226975/102596988-86cf8900-414c-11eb-8cc4-b47c3856c1b2.png)
 
 
