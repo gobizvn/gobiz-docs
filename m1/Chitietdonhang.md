@@ -58,7 +58,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
     + Cân nặng tính phí.
     + Kích thước kiện.
     + Trạng thái kiện.
-    + Cập nhập.
+    + THời gian cập nhập.
     
 ![Màn hình tab Kiện hàng](https://user-images.githubusercontent.com/73226975/102597516-5d632d00-414d-11eb-9bda-31c773c4980a.png)
 
