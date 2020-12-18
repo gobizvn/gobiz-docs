@@ -50,5 +50,18 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
   
 ![Màn hình tài chính đơn](https://user-images.githubusercontent.com/73226975/102596988-86cf8900-414c-11eb-8cc4-b47c3856c1b2.png)
 
+  \
+4. **Kiện hàng**
+  - Thông tin hiển thị trong mục bao gồm:
+    + Số thứ tự.
+    + Mã kiện
+    + Cân nặng tính phí.
+    + Kích thước kiện.
+    + Trạng thái kiện.
+    + Cập nhập.
+    
+![Màn hình tab Kiện hàng](https://user-images.githubusercontent.com/73226975/102597516-5d632d00-414d-11eb-9bda-31c773c4980a.png)
+
+  
 
 
