@@ -47,6 +47,8 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
    + Phụ phí (nếu có).
    + Tài chính đơn bao gồm tổng các chi phí phát sinh và các khoản đã thanh toán, chưa thanh toán hoặc số tiền được hoàn trả lại.
   
+  
 ![Màn hình tài chính đơn](https://user-images.githubusercontent.com/73226975/102596988-86cf8900-414c-11eb-8cc4-b47c3856c1b2.png)
+
 
 
