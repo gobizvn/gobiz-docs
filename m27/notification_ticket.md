@@ -1,21 +1,16 @@
-# Nhận thông báo khi ticket qua Dingtalk
+# Nhận thông báo liên quan ticket qua Dingtalk
 
-**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng cấu hình kết nối Dingtalk để có thể nhận được thông báo của ticket vào ứng dụng Dingtalk
+**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng thực hiện kết nối dự án với Dingtalk để nhận thông báo tại Dingtalk
 
-**Bước 1**: Tại màn hình cấu hình cá nhân, người dùng nhập thông tin số điện thoại (trùng với số điện thoại đã đăng ký trên Dingtalk)
+**Bước 1:** Tại Menu ngang người dùng truy cập Cấu hình cá nhận và nhập thông tin Số điện thoại, yêu cầu số điện thoại này phải trùng với số điện thoại đăng ký trên Dingtalk
 
-<img width="279" alt="Screen Shot 2020-11-14 at 09 50 36" src="https://user-images.githubusercontent.com/73808891/99137660-e246bc80-265e-11eb-9aa1-9c28d9715e57.png">
+<img width="246" alt="Screen Shot 2020-12-08 at 16 14 59" src="https://user-images.githubusercontent.com/73808891/101463890-968ee680-3970-11eb-98e9-f8a3954882c5.png">
 
-<img width="876" alt="Screen Shot 2020-11-14 at 09 49 51" src="https://user-images.githubusercontent.com/73808891/99137645-c6dbb180-265e-11eb-992d-515f07488424.png">
+<img width="885" alt="Screen Shot 2020-12-08 at 16 15 18" src="https://user-images.githubusercontent.com/73808891/101463899-97c01380-3970-11eb-932e-bc936bd47c4a.png">
 
-**Bước2:** Người dùng truy cập vào *Quản lý dự án*, chọn dự án mà mình muốn nhận thông báo liên quan đến các ticket của dự án đó sau đó bấm "*Kết nối tới Dingtalk*"
+**Bước 2:** Người dùng truy cập vào **Quản lý dự án**, chọn dự án mà mình muốn nhận thông báo đó sau đó bấm biểu tương logo Dingtalk để kết nối tới talk theo từng dự án. Hoặc bấm **"Kết nối tất cả"** để kết nối toàn bộ các dự án hiện tại với Dingtalk
 
-<img width="353" alt="Screen Shot 2020-11-14 at 09 52 12" src="https://user-images.githubusercontent.com/73808891/99137775-1a4dff80-265f-11eb-858b-756334c70775.png">
-
-<img width="825" alt="Screen Shot 2020-11-14 at 09 53 16" src="https://user-images.githubusercontent.com/73808891/99137889-3fdb0900-265f-11eb-82fc-8fd4c682843e.png">
-
-
-**Bước3:** 
+<img width="972" alt="Screen Shot 2020-12-08 at 16 17 40" src="https://user-images.githubusercontent.com/73808891/101464261-01402200-3971-11eb-9166-7e85a4c9e08d.png">
 
 *Các đối tượng nhận được thông báo* 
 
@@ -23,7 +18,6 @@
 - Người dùng được gán là "Người xử lý" ticket
 - Người dùng bấm theo dõi ticket
 
-<img width="645" alt="Screen Shot 2020-11-14 at 09 55 11" src="https://user-images.githubusercontent.com/73808891/99137938-9cd6bf00-265f-11eb-999e-ff485a9f560e.png">
 
 Lưu ý: Các đối tượng này nếu cũng chính là người thực hiện thao tác chuyển trạng thái/cập nhật người xử lý thì sẽ không nhận thông báo liên quan đến thao tác đó nữa.
 
@@ -32,4 +26,11 @@ Lưu ý: Các đối tượng này nếu cũng chính là người thực hiện
 - Ticket có nội dung bình luận mới
 - Ticket cập nhật trường "Người xử lý" ticket
 - Ticket được chuyển trạng thái
+
+*Các trường hợp không nhận được thông báo* 
+
+- Dự án chưa thực hiện cấu hình kết nối tới Dingtalk --> liên hệ Owner dự án
+- Số điện thoại trong Cấu hình cá nhân không phải số điện thoại đã đăng ký trên Dingtalk --> liên hệ Owner dự án
+
+
 

@@ -6,7 +6,7 @@
 
 **Bước 1**: Người dùng bấm vào biểu tượng tại menu ngang, chọn "Tạo mới dự án"
 
-<img width="263" alt="Screen Shot 2020-11-03 at 11 43 05" src="https://user-images.githubusercontent.com/73808891/97950548-cffc9100-1dc9-11eb-89be-93b7412b86fc.png">
+<img width="224" alt="Screen Shot 2020-12-08 at 15 53 27" src="https://user-images.githubusercontent.com/73808891/101461529-98a37600-396d-11eb-991c-faea07a0f9ba.png">
 
 **Bước 2**: Hệ thống hiển thị giao diện cho phép người dùng nhập các thông tin của dự án, trong đó 2 trường thông tin "**Tên dự án**" và "**Loại dự án**" là bắt buộc nhập. Dự án được tạo mới sẽ hiển thị trong mục "**Quản lý dự án**"
 
@@ -15,6 +15,8 @@
 ## Cách 2: Tạo dự án khi đang ở màn hình Quản lý dự án
 
 Trường hợp người dùng đang ở màn hình Quản lý dự án, người dùng cũng có thể tạo mới dự án bằng cách bấm vào nút "**tạo mới dự án**". Người dùng nhập các thông tin cần tạo như đã mô tả ở Cách 1.
+
+<img width="923" alt="Screen Shot 2020-12-08 at 15 54 40" src="https://user-images.githubusercontent.com/73808891/101461611-b8d33500-396d-11eb-84c9-63ee06214476.png">
 
 ## **Các tình huống tạo dự án thất bại:**
 

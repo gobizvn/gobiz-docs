@@ -12,15 +12,16 @@
 <img width="1306" alt="Screen Shot 2020-11-10 at 16 24 10 1" src="https://user-images.githubusercontent.com/73808891/98654689-3573f300-2371-11eb-9594-ede2843eab34.png">
 
 
-- Hỗ trợ lọc sẵn các ticket theo Trạng thái và mục Ticket của tôi cho phép xem các ticket mà người dùng là người tạo ticket.
+- Hỗ trợ lọc sẵn các ticket theo Trạng thái và mục Ticket của tôi cho phép xem các ticket mà người dùng là người tạo ticket. Ở Mục tất cả sẽ luôn mặc định ẩn các ticket ở trạng thái cuối cùng, người dùng có thể click vào icon để hiển thị lại. Có thể chọn nhiều Menu trạng thái 1 lúc bằng cách click lần lượt từng trạng thái, click vào 1 lần nữa để huỷ bỏ việc chọn trạng thái đó
 
-<img width="241" alt="Screen Shot 2020-11-03 at 14 01 26" src="https://user-images.githubusercontent.com/73808891/97957307-625a6000-1ddd-11eb-94e9-6664dfe0ed55.png">
+<img width="349" alt="Screen Shot 2020-12-16 at 14 04 22" src="https://user-images.githubusercontent.com/73808891/102315964-a24d5f00-3fa7-11eb-8767-7b7a658f6e9e.png">
 
 - Người dùng có thể sắp xếp lại các cột trong danh sách bằng cách bấm vào biểu tượng <img width="40" alt="Screen Shot 2020-11-03 at 14 06 43" src="https://user-images.githubusercontent.com/73808891/97957456-d09f2280-1ddd-11eb-9c57-0b53cf0636f2.png">
 
 - Hệ thống cho phép chuyển đổi xem danh sách dạng Kanban và dạng List bằng cách bấm vào nút "Hiển thị dạng Kanban"/"Hiển thị danh sách
 
-<img width="1340" alt="Screen Shot 2020-11-10 at 16 18 27" src="https://user-images.githubusercontent.com/73808891/98654519-02c9fa80-2371-11eb-9786-c2e20e3050ea.png">
+<img width="1340" alt="Screen Shot 2020-12-08 at 15 43 58" src="https://user-images.githubusercontent.com/73808891/101460507-431a9980-396c-11eb-8036-3bf625164ea9.png">
+
 
 - Khi xem dạng Kanban, cho phép người dùng keó thả ticket để có thể chuyển trạng thái qua các bảng Kanban
 

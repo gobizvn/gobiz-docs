@@ -1,6 +1,6 @@
 ## Đăng nhập và đăng xuất khỏi hệ thống 
 ### Đăng nhập
-Để truy cập và sử dụng các chức năng của hệ thống, người dùng cần thực hiện đăng nhập vào hệ thống. Việc thực hiện đăng nhập này được hiểu như một sự định danh, toàn bộ các thao tác trên hệ thống được ghi nhận dưới tài khoản đã đăng nhập.
+  Để truy cập và sử dụng các chức năng của hệ thống, người dùng cần thực hiện đăng nhập vào hệ thống. Việc thực hiện đăng nhập này được hiểu như một sự định danh, toàn bộ các thao tác trên hệ thống được ghi nhận dưới tài khoản đã đăng nhập.
 
 **Bước 1**: Truy cập vào trình duyệt và đi tới địa chỉ: https://ticket.gobiz.vn/
 
@@ -11,3 +11,9 @@
 **Lưu ý**: Trường hợp người dùng được mời vào 1 dự án đã có, hệ thống sẽ gửi email cho người dùng và người dùng tiến hành truy cập vào hệ thống theo đường link được gửi qua email.
 
 <img width="946" alt="Screen Shot 2020-11-03 at 14 47 25" src="https://user-images.githubusercontent.com/73808891/97961111-3fcc4500-1de5-11eb-8897-6374511bfb76.png">
+
+### Đăng xuất
+
+**Bước 1**: Người dùng vào ảnh đại diện của mình ở Menu ngang, chọn Đăng xuất
+
+<img width="257" alt="Screen Shot 2020-12-08 at 16 02 03" src="https://user-images.githubusercontent.com/73808891/101462414-c76e1c00-396e-11eb-9dcf-04414415ea7f.png">

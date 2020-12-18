@@ -37,17 +37,21 @@
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
        * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
        * [Chi tiết đơn hàng](m2/quanlydonhang/chitietdon.md)
-      
-      
-      * [Danh sách kiện hàng](m2/dskienhang.md)
-      * [Yêu cầu giao hàng](m2/ycghang.md)
+       * [Danh sách kiện hàng](m2/dskienhang.md)
+       * [Yêu cầu giao hàng](m2/ycghang.md)
     
   * Shipment Management
     * [Ký gửi](m2/quanlydonkygui2.md)
   
 * [Go Purchasing](m5/README.md)
-  * [Cài đặt ban đầu](m5/m5_getstarted.md)
-  * [Change Logs](m5/change-logs.md)
+  * [Mua hàng](m5/muahang.md)
+  * [Sử dụng YCTT cho quy trình mua hàng](m5/sudungYCTT.md)
+  * [Thông tin khai hải quan](m5/thongtinhaiquan.md)
+  * [Đồng bộ mã vận đơn](m5/dongbomavandon.md)
+  * [Khiếu nại người bán](m5/khieunainguoiban.md)
+  * [Kiểm soát giao dịch Alipay và Lợi nhuận mặc cả](m5/giaodichAlipay.md)
+  * [Kiểm soát lỗi của Giao dịch viên](m5/kiemsoatloiGDV.md)
+  * [Cấu hình nâng cao](m5/cauhinhnangcao.md)
   
 * [Go Logistics](m6/README.md)
   * Hàng thường
@@ -78,13 +82,16 @@
     * Cấu hình
     
 * [Go Complaints](m3/README.md)
-
+  * [Cấu hình](m3/Cauhinhhethong.md)
+  * [Tạo khiếu nại cho khách hàng](m3/Taokhieunai.md)
+  * [Xử lý khiếu nại](m3/Xulykhieunai.md)
 * [Go Authen.me](m10/README.md)
 
 * [Go Ticket](m27/README.md)
   * [Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
     * [Tạo mới dự án](m27/create_project.md)
     * [Xem danh sách dự án](m27/list_project.md)
+    * [Cập nhật thông tin dự án và cấu hình kết nối Dingtalk,Zalo](m27/update_project.md)
     * [Thêm thành viên cho dự án](m27/add_member.md)
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
     * [Cấu hình trạng thái](m27/config_status.md)
@@ -96,9 +103,11 @@
     * [Cấu hình cá nhân](m27/account_config.md)
     * [Tạo mới ticket](m27/create_ticket.md)   
     * [Xem danh sách ticket](m27/list_ticket.md)  
-    * [Xem chi tiết và cập  ticket](m27/update_ticket.md) 
+    * [Xem chi tiết và cập nhật ticket](m27/update_ticket.md) 
     * [Bình luận trên ticket](m27/comment_ticket.md) 
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
+    * [Nhận thông báo ticket qua Zalo](m27/zalo_ticket.md)
+    
     
      
 
