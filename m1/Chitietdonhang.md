@@ -62,6 +62,18 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
     
 ![Màn hình tab Kiện hàng](https://user-images.githubusercontent.com/73226975/102597516-5d632d00-414d-11eb-9bda-31c773c4980a.png)
 
+  \
+ 5. **Giao dịch**
+  - Thông tin hiển thị trong mục bao gồm:
+    + Thời gian phát sinh giao dịch tài chính.
+    + Giá trị giao dịch.
+    + Loại giao dịch.
+    + Nội dung và mã giao dịch.
+
+![Màn hình giao dịch tài chính](https://user-images.githubusercontent.com/73226975/102598502-b7b0bd80-414e-11eb-8cdd-804110bc1829.png)
+
+
+
   
 
 
