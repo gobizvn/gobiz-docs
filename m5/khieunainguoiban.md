@@ -2,8 +2,9 @@
 ## Bước 1:Tạo khiếu nại người bán 
 (Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**) 
 
-**Lưu ý**: Người dùng có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
-
+**Lưu ý**:
+     - Người dùng có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
+     - 
 Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
   - Màn hình **Chi tiết đơn**
@@ -72,8 +73,24 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 ![image](https://user-images.githubusercontent.com/75475064/101893149-ec64c800-3bd6-11eb-9db2-883216aeefcd.png)
 
+  * Đánh dấu KNNB có tài chính hợp lệ khi: 
+  
+    - Tổng số tiền hoàn trên giao dịch = số tiền hoàn trên KNNB
+    
+    - Không có mã giao dịch nào chưa có giao dịch alipay tương ứng trên hệ thống
+    
+    - Không có mã giao dịch nào là giao dịch của đơn khác, không phải đơn của KNNB này
+    
+    ![image](https://user-images.githubusercontent.com/75475064/102747515-fe8ef500-4392-11eb-967d-d4b9f4883d92.png)
+ 
+   Ngoài ra, với các trường hợp sau thì KNNB luôn luôn được đánh dấu là có tài chính hợp lệ   
+    - KNNB chuyển sang thành công với số tiền đòi được > 0¥    
+    - KNNB chưa có số tiền đòi được và có thể có hoặc chưa có giao dịch alipay
 
-
+  * Đánh dấu KNNB có tài chính không hợp lệ
+  
+   KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB không khớp với số tiền hoàn lại từ alipay
+   
  **Lưu ý:** Hệ thống cho phép chuyển KNNB sang trạng thái thành công khi KNNB có số tiền đòi được > 0¥ và KNNB có thể có hoặc chưa có giao dịch alipay
   
     - Một giao dịch chỉ được map cho 1 KNNB
