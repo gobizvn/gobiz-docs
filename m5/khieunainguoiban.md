@@ -81,17 +81,21 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
     
     - Không có mã giao dịch nào là giao dịch của đơn khác, không phải đơn của KNNB này
     
-    ![image](https://user-images.githubusercontent.com/75475064/102747515-fe8ef500-4392-11eb-967d-d4b9f4883d92.png)
+![image](https://user-images.githubusercontent.com/75475064/102747515-fe8ef500-4392-11eb-967d-d4b9f4883d92.png)
  
-   Ngoài ra, với các trường hợp sau thì KNNB luôn luôn được đánh dấu là có tài chính hợp lệ   
+   Ngoài ra, với các trường hợp sau thì KNNB luôn luôn được đánh dấu là có tài chính hợp lệ 
     - KNNB chuyển sang thành công với số tiền đòi được > 0¥    
     - KNNB chưa có số tiền đòi được và có thể có hoặc chưa có giao dịch alipay
 
   * Đánh dấu KNNB có tài chính không hợp lệ
   
-   KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB không khớp với số tiền hoàn lại từ alipay
-   
- **Lưu ý:** Hệ thống cho phép chuyển KNNB sang trạng thái thành công khi KNNB có số tiền đòi được > 0¥ và KNNB có thể có hoặc chưa có giao dịch alipay
+    - KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB không khớp với số tiền hoàn lại từ alipay
+    
+    - KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB khớp với số tiền hoàn lại từ alipay nhưng tồn tại mã giao dịch alipay không có trên hệ thống
+    
+![image](https://user-images.githubusercontent.com/75475064/102748041-09965500-4394-11eb-9862-7725b4192158.png)
+
+  *  **Lưu ý:** Hệ thống cho phép chuyển KNNB sang trạng thái thành công khi KNNB có số tiền đòi được > 0¥ và KNNB có thể có hoặc chưa có giao dịch alipay
   
     - Một giao dịch chỉ được map cho 1 KNNB
     
