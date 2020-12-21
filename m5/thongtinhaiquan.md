@@ -16,6 +16,8 @@
 
 Sau khi Chỉnh sửa thông tin khai báo thành công, trên mỗi sản phẩm sẽ có tích xanh thông báo **" Đã cập nhật thông tin hải quan"**
 
+![image](https://user-images.githubusercontent.com/75475064/102747871-ac020880-4393-11eb-8717-77dda2d3fc7f.png)
+
 ![image](https://user-images.githubusercontent.com/75475064/102739857-d6969600-4380-11eb-984b-219c5b035edb.png)
 
 
