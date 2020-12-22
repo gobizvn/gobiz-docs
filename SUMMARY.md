@@ -96,7 +96,7 @@
     * [Cấu hình và phân quyền cho thành viên trong dự án ](m27/phanquyen.md)
     * [Cấu hình trạng thái](m27/config_status.md)
     * [Cấu hình danh mục (Loại ticket, Mức độ ưu tiên, Phạm vi liên quan)](m27/config_category.md)
-    * [Cấu hình gửi thông báo ticket sắp ](m27/config_notification.md)
+    * [Cấu hình gửi thông báo ticket sắp hết hạn](m27/config_notification.md)
   * Hướng dẫn sử dụng cho thành viên dự án
     * [Giới thiệu chung](m27/gioithieuchung.md)
     * [Đăng nhập, Đăng xuất](m27/login_logout.md)
