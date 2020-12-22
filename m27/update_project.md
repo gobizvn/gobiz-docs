@@ -8,6 +8,6 @@
 
 **Bước 2**: Hệ thống hiển thị ra thông tin dự án hiện tại và cho phép người dùng chỉnh sửa các thông tin và bấm **Cập nhật** để lưu lại.
 
-Việc nhập các thông tin để cấu hình kết nối Dingtalk/Zalo, người dùng liên hệ trực tiếp vận hành để nhận được key  điền vào các trường thông tin tương ứng
+Việc nhập các thông tin để cấu hình kết nối Dingtalk/DIngtalk bot/Zalo, người dùng liên hệ trực tiếp vận hành để nhận được key  điền vào các trường thông tin tương ứng
 
-<img width="914" alt="Screen Shot 2020-12-08 at 15 24 35" src="https://user-images.githubusercontent.com/73808891/101458461-7f98c600-3969-11eb-95c7-c8ae0a981fb1.png">
+<img width="663" alt="Screen Shot 2020-12-22 at 09 04 58" src="https://user-images.githubusercontent.com/73808891/102840255-01422680-4435-11eb-9f42-3cbf779f5e46.png">
