@@ -41,19 +41,15 @@
 
   * Sau khi upload file csv, những giao dịch được đánh dấu là **giao dịch bất thường chưa xử lý** là những giao dịch trong file Alipay có các lý do bất thường: 
   
-      - Giao dịch không khớp được MHĐG
+    - Giao dịch không khớp được MHĐG
     
+    - Giao dịch có MHĐG nhưng không thấy trên hệ thống
     
-      - Giao dịch có MHĐG nhưng không thấy trên hệ thống
-    
-    
-      - Giao dịch chi thanh toán hộ chưa khớp giao dịch liên quan
+    - Giao dịch chi thanh toán hộ chưa khớp giao dịch liên quan
       
+    - Giao dịch chi thanh toán hộ có số tiền không khớp
     
-      - Giao dịch chi thanh toán hộ có số tiền không khớp
-    
-    
-      - Khác
+    - Khác
     
     
   * **Resolve/Unresolve** giao dịch bất thường
