@@ -6,11 +6,13 @@
 
 <img width="1061" alt="Screen Shot 2020-11-03 at 15 10 28" src="https://user-images.githubusercontent.com/73808891/97961938-bf0e4880-1de6-11eb-8cea-75d6901d4b0c.png">
 
-**Bước2:** Hệ thống hiển thị ra chi tiết ticket. Cho phép người dùng cập nhật các trường thông tin của ticket bằng cách bấm vào dòng muốn cập nhật, nhập nội dung --> enter
-
-- Các trường thông tin cố định hệ thống không cho phép cập nhật: Mã ticket, Người tạo, Ngày tạo
+**Bước2:** Hệ thống hiển thị ra chi tiết ticket. Cho phép người dùng cập nhật các trường thông tin của ticket bằng cách bấm vào dòng muốn cập nhật, nhập nội dung --> enter. Các trường thông tin cố định hệ thống không cho phép cập nhật: Mã ticket, Người tạo, Ngày tạo
 
 <img width="1440" alt="Screen Shot 2020-12-08 at 16 05 30" src="https://user-images.githubusercontent.com/73808891/101462835-3e0b1980-396f-11eb-8d72-bb0d99556f4d.png">
+
+- Lưu ý, ở trường thông tin Nội dung ticket, hệ thống hiển thị các công cụ cho phép người dùng chỉnh sửa đoạn nội dung: đánh số thứ tự, đánh bullet, đánh header, bôi đậm, in nghiêng, thêm link ở Thanh chỉnh sửa.
+
+<img width="464" alt="Screen Shot 2020-12-23 at 09 15 05" src="https://user-images.githubusercontent.com/73808891/102951413-62363100-44ff-11eb-9890-b166eac9eea7.png">
 
 - Người dùng có quyền cập nhật ticket  có thể thêm danh sách các thành viên cần theo dõi ticket để nắm được các thông tin liên quan đến ticket bằng việc bấm "Thêm" ở mục Người theo dõi, tìm kiếm và chọn các thành viên được theo dõi ticket.
 Thành viên được thêm thành  công sẽ hiển thị ở Danh sách người theo dõi
