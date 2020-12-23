@@ -22,7 +22,6 @@
 
 <img width="1340" alt="Screen Shot 2020-12-08 at 15 43 58" src="https://user-images.githubusercontent.com/73808891/101460507-431a9980-396c-11eb-8036-3bf625164ea9.png">
 
-
 - Khi xem dạng Kanban, cho phép người dùng keó thả ticket để có thể chuyển trạng thái qua các bảng Kanban
 
 - Với trạng thái cuối, hệ thống để mặc định Ẩn các ticket. Cho phép người dùng tuỳ chỉnh hiển thị lại ticket của bảng trạng thái cuối Kanban
@@ -30,5 +29,18 @@
 <img width="1341" alt="Screen Shot 2020-11-27 at 09 08 49" src="https://user-images.githubusercontent.com/73808891/100403030-51290a00-3090-11eb-84ba-f7b6ef8016fc.png">
 
 <img width="325" alt="Screen Shot 2020-11-27 at 09 10 51" src="https://user-images.githubusercontent.com/73808891/100403104-86cdf300-3090-11eb-9faa-009a1ce74cd1.png">
+- Ở Kanban, người dùng có thể cập nhật nhanh 1 số trường thông tin cho ticket ở ngay danh sách: Thêm người xử lý, Mức độ ưu tiên, Ngày hết hạn, Theo dõi ticket, chỉnh sửa tiêu đề và nội dung
+
++ Thêm người xử lý cho ticket
+
+<img width="286" alt="Screen Shot 2020-12-23 at 09 18 49" src="https://user-images.githubusercontent.com/73808891/102951634-e8eb0e00-44ff-11eb-8c59-2f7da8a442c4.png">
+
+<img width="522" alt="Screen Shot 2020-12-23 at 09 18 55" src="https://user-images.githubusercontent.com/73808891/102951646-ed172b80-44ff-11eb-9eae-fd44682cf8a5.png">
+
++ Cập nhật tiêu đề, nội dung, mức độ ưu tiên, ngày hết hạn, theo dõi ticket:
+
+<img width="275" alt="Screen Shot 2020-12-23 at 09 20 35" src="https://user-images.githubusercontent.com/73808891/102951769-34052100-4500-11eb-94c1-0a436eea206a.png">
+<img width="705" alt="Screen Shot 2020-12-23 at 09 21 07" src="https://user-images.githubusercontent.com/73808891/102951772-35cee480-4500-11eb-86f8-07bba06bf1cc.png">
+
 
 
