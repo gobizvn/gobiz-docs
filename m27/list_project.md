@@ -19,3 +19,7 @@
 - Ngoài ra người dùng cũng có thể xem Danh sách dự án Public (những dự án cho phép người dùng không là thành viên vẫn có quyền xem với vai trò của Khách) bằng cách bấm chọn sang **Dự án Public**
 
 <img width="783" alt="Screen Shot 2020-11-03 at 13 53 20" src="https://user-images.githubusercontent.com/73808891/97956724-02af8500-1ddc-11eb-81a9-f3ef0617ec23.png">
+
+**Bước 3:** Người dùng có thể chuyển dự án nhanh mà không cần phải vào menu Quản lý dự án bằng cách vào icon Quản lý dự án, hệ thống hiển thị ra các dự án hiện tại người dùng đang là thành viên, người dùng có thể chọn để truy cập vào dự án luôn
+
+<img width="341" alt="Screen Shot 2020-12-23 at 09 02 16" src="https://user-images.githubusercontent.com/73808891/102950725-c6f08c00-44fd-11eb-97a5-58528739a501.png">
