@@ -12,7 +12,16 @@
 
 <img width="1440" alt="Screen Shot 2020-12-08 at 16 05 30" src="https://user-images.githubusercontent.com/73808891/101462835-3e0b1980-396f-11eb-8d72-bb0d99556f4d.png">
 
-- Người dùng là thành viên của dự án có thể bấm theo dõi ticket trong dự án để nhận được cái thông báo liên quan đến thay đổi của ticket (chuyển trạng thái, có bình luận, thêm người xử lý)
+- Người dùng có quyền cập nhật ticket  có thể thêm danh sách các thành viên cần theo dõi ticket để nắm được các thông tin liên quan đến ticket bằng việc bấm "Thêm" ở mục Người theo dõi, tìm kiếm và chọn các thành viên được theo dõi ticket.
+Thành viên được thêm thành  công sẽ hiển thị ở Danh sách người theo dõi
+
+<img width="678" alt="Screen Shot 2020-12-23 at 09 09 38" src="https://user-images.githubusercontent.com/73808891/102951114-a4ab3e00-44fe-11eb-9636-02f33f5143cd.png">
+
+<img width="524" alt="Screen Shot 2020-12-23 at 09 10 27" src="https://user-images.githubusercontent.com/73808891/102951151-ba206800-44fe-11eb-8034-e58c5c831f95.png">
+
+<img width="451" alt="Screen Shot 2020-12-23 at 09 11 35" src="https://user-images.githubusercontent.com/73808891/102951291-0b305c00-44ff-11eb-85fc-ba85a8a9a2b8.png">
+
+- Bản thân người dùng là thành viên của dự án có thể bấm theo dõi ticket trong dự án để nhận được cái thông báo liên quan đến thay đổi của ticket (chuyển trạng thái, có bình luận, thêm người xử lý)
 
 <img width="649" alt="Screen Shot 2020-12-08 at 16 06 48" src="https://user-images.githubusercontent.com/73808891/101463019-790d4d00-396f-11eb-8c23-f75ddd687fc2.png">
 
