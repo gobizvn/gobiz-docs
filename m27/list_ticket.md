@@ -6,7 +6,7 @@
 
 **Bước 2**: Hệ thống điều hướng đến màn hình Danh sách ticket của dự án
 
-- *Lưu ý*: Với dự án Public, người dùng chưa phải là thành viên dự án thì chỉ được xem danh sách các ticket do chính mình tạo
+**Lưu ý**: Với dự án Public, người dùng chưa phải là thành viên dự án thì chỉ được xem danh sách các ticket do chính mình tạo
 
 - Hệ thống hỗ trợ các bộ lọc để người dùng có thể tìm kiếm các ticket 1 cách nhanh chóng. Bấm "**Tìm kiếm**" để hệ thống tìm kiếm theo bộ lọc mà người dùng đã thiết lập và "**Huỷ bỏ**" để xoá bộ lọc.
 
