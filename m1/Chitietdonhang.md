@@ -40,8 +40,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 ![Tab Sản phẩm](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
 
   \
-
-2.  **Tab Sản phẩm**
+3.  **Tài chính đơn**
 
   - Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
   + Mã ID sản phẩm, tên sản phẩm, option đặt mua.
@@ -53,7 +52,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
   + Ghi chú cho sản phẩm.
   + Ghi chú cá nhân cho sản phẩm ( Ghi chú này sẽ hiển thị bảo mật trong giao diện đặt hàng của Quý khách, không hiển thị tại trang admin quản trị hệ thống).
 
-![Tab Sản phẩm](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
+![Màn hình giao dịch tài chính](https://user-images.githubusercontent.com/73226975/103071507-4e212b00-45f6-11eb-8e2a-f6089e765908.png)
 
   \
 4. **Kiện hàng**
@@ -65,7 +64,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
     + Trạng thái kiện.
     + Thời gian cập nhập.
 
-  \
+   \
  5. **Giao dịch**
   - Thông tin hiển thị trong mục bao gồm:
     + Thời gian phát sinh giao dịch tài chính.
