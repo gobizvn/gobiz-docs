@@ -47,7 +47,7 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
    + Phụ phí (nếu có).
    + Tài chính đơn bao gồm tổng các chi phí phát sinh và các khoản đã thanh toán, chưa thanh toán hoặc số tiền được hoàn trả lại.
 
-![Màn hình tài chính đơn](https://user-images.githubusercontent.com/73226975/102596988-86cf8900-414c-11eb-8cc4-b47c3856c1b2.png)
+![Màn hình giao dịch tài chính](https://user-images.githubusercontent.com/73226975/103071507-4e212b00-45f6-11eb-8e2a-f6089e765908.png)
 
   \
 4. **Kiện hàng**
@@ -58,9 +58,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
     + Kích thước kiện.
     + Trạng thái kiện.
     + Thời gian cập nhập.
-
-![Màn hình tab Kiện hàng](https://user-images.githubusercontent.com/73226975/102597516-5d632d00-414d-11eb-9bda-31c773c4980a.png)
-
   \
  5. **Giao dịch**
   - Thông tin hiển thị trong mục bao gồm:
@@ -68,9 +65,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
     + Giá trị giao dịch.
     + Loại giao dịch.
     + Nội dung và mã giao dịch.
- 
-![Màn hình giao dịch tài chính](https://user-images.githubusercontent.com/73226975/102598502-b7b0bd80-414e-11eb-8cdd-804110bc1829.png)
-
 
 
   
