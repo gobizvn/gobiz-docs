@@ -40,14 +40,20 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 ![Tab Sản phẩm](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
 
   \
-3.  **Tài chính đơn**
-  - Thông tin hiển thị trong mục bao gồm:
-  + Phí dịch vụ.
-  + Phí vận chuyển: Hệ thống sẽ hiển thị công thức bảng giá đang được áp dụng tại thời điểm đặt cọc đơn hàng.
-  + Phụ phí (nếu có).
-  + Tài chính đơn bao gồm tổng các chi phí phát sinh và các khoản đã thanh toán, chưa thanh toán hoặc số tiền được hoàn trả lại.
 
-![Màn hình giao dịch tài chính](https://user-images.githubusercontent.com/73226975/103071507-4e212b00-45f6-11eb-8e2a-f6089e765908.png)
+2.  **Tab Sản phẩm**
+
+  - Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
+  + Mã ID sản phẩm, tên sản phẩm, option đặt mua.
+  + Số lượng sản phẩm: Đặt/Mua/Nhận.
+  + Đơn giá 1 sản phẩm.
+  + Tiền hàng 
+  + Xuất excel danh sách sản phẩm trên đơn.
+  + Lưu link sản phẩm.
+  + Ghi chú cho sản phẩm.
+  + Ghi chú cá nhân cho sản phẩm ( Ghi chú này sẽ hiển thị bảo mật trong giao diện đặt hàng của Quý khách, không hiển thị tại trang admin quản trị hệ thống).
+
+![Tab Sản phẩm](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
 
   \
 4. **Kiện hàng**
