@@ -54,7 +54,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
   
 ![Màn hình giao dịch tài chính](https://user-images.githubusercontent.com/73226975/103071507-4e212b00-45f6-11eb-8e2a-f6089e765908.png)
 
-  \
 4. **Kiện hàng**
   - Thông tin hiển thị trong mục bao gồm:
     + Số thứ tự.
