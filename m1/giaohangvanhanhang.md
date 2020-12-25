@@ -10,11 +10,21 @@ Hoặc Quý khách có thể truy cập trực tiếp vào menu **Giao hàng**.
 Tại đây sẽ hiển thị các thông tin về danh sách yêu cầu giao đã tạo. 
 Quý khách có thể tìm kiếm các kiện hàng bằng cách chọn lọc theo trạng thái, mã yêu cầu, mã kiện và thời gian tạo yêu cầu giao.
 
+![Màn hình danh sách yêu cầu giao](https://user-images.githubusercontent.com/73226975/103121212-b717aa00-46ad-11eb-8519-c1b6d3a7621b.png)
+
 1. **Tạo yêu cầu giao hàng**
 
 Tại màn hình **Danh sách Yêu cầu giao**, Quý khách click vào chức năng *Tạo yêu cầu giao hàng* nhằm mục đích gửi yêu cầu giao hàng tới bộ phận Kho.
 
+Sau khi Quý khách click vào nút **Tạo yêu cầu giao** sẽ hiển thị ra màn hình danh sách các kiện hàng sẵn sàng giao, kèm cân nặng, tài chính và địa chỉ nhận hàng. 
 
+![Danh sách các kiện sẵn sàng giao](https://user-images.githubusercontent.com/73226975/103121608-7c167600-46af-11eb-9d4b-11476cfa1b12.png)
 
+Hệ thống mặc định chọn giao tất cả các kiện hàng và cho phép Quý khách bỏ chọn giao một số kiện trong kho khi chưa muốn nhận.
 
+Click chọn button **Giao những kiện này** để tạo Yêu cầu giao cho những đơn hàng Quý khách đã chọn.
+
+Sau khi tạo Yêu cầu giao thành công, hệ thống sẽ chuyển đến màn hình Danh sách yêu cầu giao, Quý khách có thể theo dõi các Yêu cầu giao hàng của mình tại đây.
+
+2. **Kiện hàng**
 
