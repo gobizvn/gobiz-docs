@@ -26,7 +26,11 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
 
 ## Bước 2: Điền trường thông tin bắt buộc
-
+  
+  Điền những trường thông tin bắt buộc và chọn **[Thực hiện]**
+  
+  **Lưu ý:** Chỉ được tạo một lần đối với KNNB có cùng lý do và ở trạng thái **Đang xử lý**
+  
 ![image](https://user-images.githubusercontent.com/75475064/101887687-ca1b7c00-3bcf-11eb-9588-fef7da1f58d4.png)
 
 
@@ -75,25 +79,25 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
   * Đánh dấu KNNB có **tài chính hợp lệ** khi: 
   
-    - Tổng số tiền hoàn trên giao dịch = số tiền hoàn trên KNNB
+     Tổng số tiền hoàn trên giao dịch = số tiền hoàn trên KNNB
     
-    - Không có mã giao dịch nào chưa có giao dịch alipay tương ứng trên hệ thống
+     Không có mã giao dịch nào chưa có giao dịch alipay tương ứng trên hệ thống
     
-    - Không có mã giao dịch nào là giao dịch của đơn khác, không phải đơn của KNNB này
+     Không có mã giao dịch nào là giao dịch của đơn khác, không phải đơn của KNNB này
     
 ![image](https://user-images.githubusercontent.com/75475064/102747515-fe8ef500-4392-11eb-967d-d4b9f4883d92.png)
  
-   Ngoài ra, với các trường hợp sau thì KNNB **luôn luôn được đánh dấu là có tài chính hợp lệ** 
+  * Ngoài ra, với các trường hợp sau thì KNNB **luôn luôn được đánh dấu là có tài chính hợp lệ** 
    
-    - KNNB chuyển sang thành công với số tiền đòi được > 0¥    
+     KNNB chuyển sang thành công với số tiền đòi được > 0¥    
     
-    - KNNB chưa có số tiền đòi được và có thể có hoặc chưa có giao dịch alipay
+     KNNB chưa có số tiền đòi được và có thể có hoặc chưa có giao dịch alipay
 
   * Đánh dấu KNNB có **tài chính không hợp lệ** khi:
   
-    - KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB không khớp với số tiền hoàn lại từ alipay
+     KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB không khớp với số tiền hoàn lại từ alipay
     
-    - KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB khớp với số tiền hoàn lại từ alipay nhưng tồn tại mã giao dịch alipay không có trên hệ thống
+     KNNB được đánh dấu là "tài chính không hợp lệ" khi số tiền đòi được trên KNNB khớp với số tiền hoàn lại từ alipay nhưng tồn tại mã giao dịch alipay không có trên hệ thống
     
 ![image](https://user-images.githubusercontent.com/75475064/102748041-09965500-4394-11eb-9862-7725b4192158.png)
 
