@@ -26,28 +26,29 @@ Click chọn button **Giao những kiện này** để tạo Yêu cầu giao cho
 
 Sau khi tạo Yêu cầu giao thành công, hệ thống sẽ chuyển đến màn hình Danh sách yêu cầu giao, Quý khách có thể theo dõi các Yêu cầu giao hàng của mình tại đây.
 
-   /
+  /
 2. **Kiện hàng**
-
+Menu Kiện hàng hiển thị 
 + **Tìm kiếm:**
 
 Quý khách có thể tìm kiếm các kiện hàng bằng cách lọc theo các trạng thái kiện hàng, theo mã đơn, mã kiện và thời gian tạo của kiện hàng.
 
 ![Tìm kiếm kiện hàng](https://user-images.githubusercontent.com/73226975/103204305-a2dfe100-4929-11eb-8155-0d627d9b7b26.png)
 
-Quý khách click vào button “Tìm kiếm” để lọc theo các điều kiện đã chọn.
+Quý khách click vào button *Tìm kiếm* để lọc theo các điều kiện đã chọn.
 
-Để quay về danh sách kiện hàng ban đầu, Quý khách click vào “Làm mới bộ lọc”.
+Để quay về danh sách kiện hàng ban đầu, Quý khách click vào *Làm mới bộ lọc*.
+
 + **Xuất Excel kiện hàng:**
 Quý khách có thể xuất Excel các kiện hàng trong danh sách, có thể xuất toàn bộ danh sách hoặc danh sách kiện hàng theo điều kiện lọc.
 
 ![Xuất Excel kiện hàng](https://user-images.githubusercontent.com/73226975/103204545-2994be00-492a-11eb-8ccc-059aa175e02e.png)
 
-Điền mã PIN xác nhận xuất Excel, mã PIN mặc định hệ thống 654321 hoặc mã PIN cá nhân của Quý khách sau khi đã thay đổi.
+Điền mã PIN xác nhận xuất Excel, mã PIN mặc định hệ thống **654321** hoặc mã PIN cá nhân của Quý khách sau khi đã thay đổi.
 
 ![Xác nhận mã PIN xuất excel](https://user-images.githubusercontent.com/73226975/103204946-04547f80-492b-11eb-874e-022f859c17b7.png)
 
-File xuất CSV danh sách đơn hàng sẽ được download trực tiếp về máy tính.
+File xuất Excel danh sách kiện hàng sẽ được download trực tiếp về máy tính.
 
 ![Màn hình download Excel](https://user-images.githubusercontent.com/73226975/103205183-96f51e80-492b-11eb-8421-b5a7d9ed5b94.png)
 
@@ -59,7 +60,15 @@ Danh sách kiện hàng hiển thị thông tin:
 - Cân nặng.
 - Trạng thái vận chuyển
 - Thời gian tạo kiện.
-Quý khách có thể click vào icon mở rộng tại từng kiện để xem timeline trạng thái kiện đó.
+Quý khách có thể click vào icon mở rộng tại từng kiện để xem thời gian cập nhập trạng thái kiện đó.
 
 ![Danh sách kiện hàng](https://user-images.githubusercontent.com/73226975/103204186-54cadd80-4929-11eb-83ec-13887ec19edb.png)
+
+  /
+3. **Danh sách phiếu xuất**
+Sau khi có yêu cầu giao hàng, kho sẽ xử lý xuất hàng giao tới Quý khách.
+Quý khách có thể kiểm tra và đối soát tổng kiện hàng,tổng đơn hàng, tổng cân nặng thực nhận, tiền thu hộ, địa chỉ nhận hàng.
+
+![Màn hình danh sách phiếu xuất hàng](https://user-images.githubusercontent.com/73226975/103257629-8cd32e80-49c4-11eb-9085-7c1de43cb1f0.png)
+
 
