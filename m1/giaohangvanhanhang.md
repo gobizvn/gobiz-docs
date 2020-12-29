@@ -26,9 +26,9 @@ Click chọn button **Giao những kiện này** để tạo Yêu cầu giao cho
 
 Sau khi tạo Yêu cầu giao thành công, hệ thống sẽ chuyển đến màn hình Danh sách yêu cầu giao, Quý khách có thể theo dõi các Yêu cầu giao hàng của mình tại đây.
 
-   /
+   
 2. **Kiện hàng**
-Menu Kiện hàng hiển thị 
+
 + **Tìm kiếm:**
 
 Quý khách có thể tìm kiếm các kiện hàng bằng cách lọc theo các trạng thái kiện hàng, theo mã đơn, mã kiện và thời gian tạo của kiện hàng.
@@ -64,8 +64,9 @@ Quý khách có thể click vào icon mở rộng tại từng kiện để xem 
 
 ![Danh sách kiện hàng](https://user-images.githubusercontent.com/73226975/103204186-54cadd80-4929-11eb-83ec-13887ec19edb.png)
 
-   /
+  
 3. **Danh sách phiếu xuất**
+
 Sau khi có yêu cầu giao hàng, kho sẽ xử lý xuất hàng giao tới Quý khách.
 Quý khách có thể kiểm tra và đối soát tổng kiện hàng,tổng đơn hàng, tổng cân nặng thực nhận, tiền thu hộ, địa chỉ nhận hàng.
 
