@@ -26,7 +26,7 @@ Click chọn button **Giao những kiện này** để tạo Yêu cầu giao cho
 
 Sau khi tạo Yêu cầu giao thành công, hệ thống sẽ chuyển đến màn hình Danh sách yêu cầu giao, Quý khách có thể theo dõi các Yêu cầu giao hàng của mình tại đây.
 
-   
+   \
 2. **Kiện hàng**
 
 + **Tìm kiếm:**
@@ -64,7 +64,7 @@ Quý khách có thể click vào icon mở rộng tại từng kiện để xem 
 
 ![Danh sách kiện hàng](https://user-images.githubusercontent.com/73226975/103204186-54cadd80-4929-11eb-83ec-13887ec19edb.png)
 
-  
+  \
 3. **Danh sách phiếu xuất**
 
 Sau khi có yêu cầu giao hàng, kho sẽ xử lý xuất hàng giao tới Quý khách.
