@@ -1,4 +1,6 @@
 
+**GIAO HÀNG**
+
 Sau khi hàng về kho Việt Nam hệ thống sẽ hiển thị 1 dòng thông báo kèm hướng dẫn tạo yêu cầu giao hàng. Thông báo sẽ hiển thị cho đến khi đơn hàng xuất kho Việt Nam.
 
 ![Thông báo hàng về kho Việt Nam](https://user-images.githubusercontent.com/73226975/103120075-bcbec100-46a8-11eb-9c57-ca5549de8d80.png)
@@ -71,5 +73,14 @@ Sau khi có yêu cầu giao hàng, kho sẽ xử lý xuất hàng giao tới Qu�
 Quý khách có thể kiểm tra và đối soát tổng kiện hàng,tổng đơn hàng, tổng cân nặng thực nhận, tiền thu hộ, địa chỉ nhận hàng.
 
 ![Màn hình danh sách phiếu xuất hàng](https://user-images.githubusercontent.com/73226975/103257629-8cd32e80-49c4-11eb-9085-7c1de43cb1f0.png)
+
+**NHẬN HÀNG**
+Để hoàn tất đơn hàng, Quý khách truy cập vào chi tiết đơn hàng ở trạng thái **Đang giao** click vào button **Đã nhận**.
+
+![Bấm nhận hàng](https://user-images.githubusercontent.com/73226975/103258590-3f58c080-49c8-11eb-8020-6dbba5b54d00.png)
+
+Đơn hàng sẽ chuyển sang trạng thái **Đã nhận hàng**
+
+![Đã nhận hàng](https://user-images.githubusercontent.com/73226975/103258606-54355400-49c8-11eb-8ec0-30aaf8dd8cd9.png)
 
 
