@@ -75,6 +75,7 @@ Quý khách có thể kiểm tra và đối soát tổng kiện hàng,tổng đ�
 ![Màn hình danh sách phiếu xuất hàng](https://user-images.githubusercontent.com/73226975/103257629-8cd32e80-49c4-11eb-9085-7c1de43cb1f0.png)
 
 **NHẬN HÀNG**
+
 Để hoàn tất đơn hàng, Quý khách truy cập vào chi tiết đơn hàng ở trạng thái **Đang giao** click vào button **Đã nhận**.
 
 ![Bấm nhận hàng](https://user-images.githubusercontent.com/73226975/103258590-3f58c080-49c8-11eb-8020-6dbba5b54d00.png)
