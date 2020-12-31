@@ -8,7 +8,7 @@
  
 ![Tạo khiếu nại trong chi tiết đơn hàng](https://user-images.githubusercontent.com/73226975/103335483-9ed9cd80-4aa7-11eb-9ad7-6c5ca6c26526.png)
 
-Tiếp theo Quý khách chọn lý do khiếu nại và phương án xử lý:
+Tiếp theo Quý khách chọn **Lý do khiếu nại** và **Phương án xử lý**:
 
 ![Lý do khiếu nại](https://user-images.githubusercontent.com/73226975/103335806-cbdab000-4aa8-11eb-981e-e112c2d07457.png)
 
@@ -20,6 +20,10 @@ Sau khi cung cấp đầy đủ các thông tin, Quý khách click vào nút **T
 
 **Lưu ý:**
 Một số lý do khiếu nại Quý khách cần cung cấp thêm các thông tin hoặc hình ảnh đính kèm, số tiền đề xuất. Nếu không điền đủ thông tin Quý khách sẽ không click được vào nút **Tạo khiếu nại**. 
+
+Tạo khiếu nại thành công, hệ thống sẽ gửi thông báo và chuyến hướng sang trang chi tiết khiếu nại:
+
+![Tạo khiếu nại thành công](https://user-images.githubusercontent.com/73226975/103392324-cb492480-4b4f-11eb-9d86-e0ef0e629396.png)
 
 
 
