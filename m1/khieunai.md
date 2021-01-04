@@ -25,7 +25,5 @@ Tạo khiếu nại thành công, hệ thống sẽ gửi thông báo và chuy�
 
 ![Tạo khiếu nại thành công](https://user-images.githubusercontent.com/73226975/103392324-cb492480-4b4f-11eb-9d86-e0ef0e629396.png)
 
-
-
-
-
+- **Tạo khiếu nại trong màn hình danh sách khiếu nại:**
+Quý khách có thể truy cập từ menu bên trái màn hình để vào **Danh sách khiếu nại**
