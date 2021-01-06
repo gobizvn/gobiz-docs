@@ -1,6 +1,6 @@
-# Nhận thông báo liên quan ticket qua Dingtalk
+# Nhận thông báo liên quan ticket qua Dingtalk/chatbot Ding
 
-**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng thực hiện kết nối dự án với Dingtalk để nhận thông báo tại Dingtalk
+**Mục đích**: Ngay cả khi đang không ở trong hệ thống nhưng ticket lại có cập nhật  (bình luận mới, được thêm Người xử lý, Chuyển trạng thái) thì người tạo, người theo dõi ticket, người được gán là Người xử lý ticket rất có nhu cầu nắm được các nội dung này. Vì vậy chức năng này cho phép người dùng thực hiện kết nối dự án với Dingtalk để nhận thông báo tại Dingtalk và Chatbot Dingtalk
 
 **Bước 1:** Tại Menu ngang người dùng truy cập Cấu hình cá nhận và nhập thông tin Số điện thoại, yêu cầu số điện thoại này phải trùng với số điện thoại đăng ký trên Dingtalk
 
@@ -12,6 +12,7 @@
 
 <img width="972" alt="Screen Shot 2020-12-08 at 16 17 40" src="https://user-images.githubusercontent.com/73808891/101464261-01402200-3971-11eb-9166-7e85a4c9e08d.png">
 
+
 *Các đối tượng nhận được thông báo* 
 
 - Người dùng là người tạo ticket
@@ -20,6 +21,7 @@
 
 
 Lưu ý: Các đối tượng này nếu cũng chính là người thực hiện thao tác chuyển trạng thái/cập nhật người xử lý thì sẽ không nhận thông báo liên quan đến thao tác đó nữa.
+Tuỳ theo Owner của dự án Cấu hình kết nối Dingtalk hay Chatbot Dingtalk mà user sẽ nhận được thông báo qua phương tiện tương ứng
 
 *Các trường hợp nhận được thông báo* 
 
