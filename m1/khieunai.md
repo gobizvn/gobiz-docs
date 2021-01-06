@@ -27,3 +27,5 @@ Tạo khiếu nại thành công, hệ thống sẽ gửi thông báo và chuy�
 
 - **Tạo khiếu nại trong màn hình danh sách khiếu nại:**
 Quý khách có thể truy cập từ menu bên trái màn hình để vào **Danh sách khiếu nại**
+
+![alt text](Bấm nhận hàng.jpg)
