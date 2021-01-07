@@ -56,7 +56,16 @@ Các thông tin hiển thị:
 
 ![Danh sách khiếu nại](https://user-images.githubusercontent.com/73226975/103845671-15da1c00-50cf-11eb-92af-0119c9587d09.png)
 
+- **Chi tiết đơn khiếu nại:**
+Thông tin hiển thị trong chi tiết đơn khiếu nại:
++ Mã khiếu nại.
++ Mã đơn hàng/Mã sản phẩm.
++ Trạng thái xử lý.
++ lý do khiếu nại, Yêu cầu và một số thông tin khác.
++ Nội dung và khung chat trao đổi thông tin trên khiếu nại
++ Đánh giá và nhận xét khi khiếu nại hoàn tất.
 
+![Chi tiết khiếu nại](https://user-images.githubusercontent.com/73226975/103847227-48d1df00-50d2-11eb-82fb-e2a7d4067024.png)
 
 
 
