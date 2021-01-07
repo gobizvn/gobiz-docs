@@ -1,7 +1,9 @@
 - **ĐĂNG KÝ TÀI KHOẢN**:
 
 Để có thể đặt hàng Quý khách vui lòng truy cập Trang chủ website đặt hàng, trên menu click vào mục **Đăng ký**
-Quý khách vui lòng điền đầy đủ thông tin bên dưới và click vào nút Đăng ký:
+
+Quý khách vui lòng điền đầy đủ thông tin:
+
   + Tài khoản đăng nhập (Username): Viết liền không dấu, không chứa khoảng trắng.
   + Họ và tên.
   + Email đăng ký.
@@ -10,6 +12,7 @@ Quý khách vui lòng điền đầy đủ thông tin bên dưới và click và
   + Xác nhận lại mật khẩu.
   + Mã giới thiệu (nếu có)
   + Click vào ô đồng ý chính sách.
+  + Xác nhận đăng ký.
 
 ![Màn hình đăng ký hệ thống](https://user-images.githubusercontent.com/73226975/99615643-5a8df300-2a4e-11eb-99a5-5f0ac90fe07d.png)
 
