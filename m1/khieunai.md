@@ -46,6 +46,13 @@ Quý khách có thể lọc search theo các điều kiện:
 
 - **Danh sách khiếu nại**
 Các thông tin hiển thị:
++ Tổng số đơn khiếu nại.
++ Mã khiếu nại.
++ Tên khiếu nại.
++ Thời gian tạo.
++ Trạng thái xử lý.
++ Số tiền bồi hoàn.
++ Phương án xử lý.
 
 ![Danh sách khiếu nại](https://user-images.githubusercontent.com/73226975/103845671-15da1c00-50cf-11eb-92af-0119c9587d09.png)
 
