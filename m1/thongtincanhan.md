@@ -14,4 +14,10 @@ Thông tin có thể chỉnh sửa:
 Để thay đổi thành công địa chỉ email đang dùng sang một địa chỉ email khác, sau khi điền email mới, Quý khách vui lòng truy cập vào hòm thư và xác nhận thông tin theo nội dung được hướng dẫn trong email hệ thống gửi đến.
 
 
+![Chỉnh sửa thông tin cá nhân](https://user-images.githubusercontent.com/73226975/103864946-04f0d100-50f6-11eb-80ce-f4edc5ee515b.png)
+
+  \
+2. **Địa chỉ nhận hàng**
+
+
 
