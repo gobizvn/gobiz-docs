@@ -11,4 +11,14 @@ Quý khách có thể tìm kiếm thông tin theo các điều kiện sau:
 
 - **Danh sách lịch sử giao dịch tài chính:**
 
+Thông tin hiển thị trong danh sách giao dịch:
++ Tổng giao dịch trên hệ thống.
++ Xuất excel danh sách giao dịch.
++ Thời gian phát sinh giao dịch
++ Mã giao dịch.
++ Loại giao dịch tài chính: Hoàn tiền, thanh toán, truy thu...
++ Nội dung giao dịch.
++ Giá trị: số tiền phát sinh giao dịch. 
++ Số dư: Số tiền còn lại trong ví điện tử sau khi phát sinh giao dịch.
+
 ![Danh sách lịch sử giao dịch](https://user-images.githubusercontent.com/73226975/103848868-fabeda80-50d5-11eb-8167-f53087e4ee37.png)
