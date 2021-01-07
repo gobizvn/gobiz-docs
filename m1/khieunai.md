@@ -25,7 +25,32 @@ Tạo khiếu nại thành công, hệ thống sẽ gửi thông báo và chuy�
 
 ![Tạo khiếu nại thành công](https://user-images.githubusercontent.com/73226975/103392324-cb492480-4b4f-11eb-9d86-e0ef0e629396.png)
 
-- **Tạo khiếu nại trong màn hình danh sách khiếu nại:**
+  - **Tạo khiếu nại trong màn hình danh sách khiếu nại:**
 Quý khách có thể truy cập từ menu bên trái màn hình để vào **Danh sách khiếu nại**
+
+![Màn hình danh sách khiếu nại](https://user-images.githubusercontent.com/73226975/103844733-183b7680-50cd-11eb-91fb-197a357fc44f.png)
+
+Các bước tạo khiếu nại Quý khách tiến hành như tạo khiếu nại trong chi tiết đơn hàng.
+
+  \
+2. **Quản lý danh sách khiếu nại**
+  - **Tìm kiếm đơn khiếu nại:**
+Quý khách có thể lọc search theo các điều kiện:
++ Trạng thái xử lý.
++ Phương án xử lý.
++ Tìm kiếm theo mã khiếu nại, mã đơn hàng hoặc mã sản phẩm.
+
+![Tìm kiếm đơn khiếu nại](https://user-images.githubusercontent.com/73226975/103845668-14a8ef00-50cf-11eb-9bc5-44cc5c4ff143.png)
+
+Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng *Làm mới bộ lọc*
+
+- **Danh sách khiếu nại**
+Các thông tin hiển thị:
+
+![Danh sách khiếu nại](https://user-images.githubusercontent.com/73226975/103845671-15da1c00-50cf-11eb-92af-0119c9587d09.png)
+
+
+
+
 
 
