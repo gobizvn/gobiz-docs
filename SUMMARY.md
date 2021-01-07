@@ -13,7 +13,7 @@
     * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
     * [Khiếu nại](m1/khieunai.md)
     * [Quản lý tài chính](m1/quanlytaichinh.md)
-    * [Thông tin cá nhân](thongtincanhan.md)
+    * [Thông tin cá nhân](m1/thongtincanhan.md)
 
   * Customer's Shipment
     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
@@ -24,7 +24,7 @@
     * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
     * [Khiếu nại](m1/khieunai.md)
     * [Quản lý tài chính](m1/quanlytaichinh.md)
-    * [Thông tin cá nhân](thongtincanhan.md)
+    * [Thông tin cá nhân](m1/thongtincanhan.md)
     
   * Order Management
     * [Cài đặt ban đầu](m2/caidatbandau.md)
