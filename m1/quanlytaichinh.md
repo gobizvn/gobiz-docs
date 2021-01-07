@@ -4,6 +4,7 @@ Quý khách có thể tìm kiếm thông tin theo các điều kiện sau:
 + Loại giao dịch.
 + Mã đơn hàng, mã giao dịch.
 + Khoảng thời gian.
+
 ![Tìm kiếm giao dịch tài chính](https://user-images.githubusercontent.com/73226975/103848866-f8f51700-50d5-11eb-913f-9c12f1bf222f.png)
 
 Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng *Làm mới bộ lọc*
