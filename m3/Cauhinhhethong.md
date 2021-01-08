@@ -10,11 +10,11 @@
 
 **Bước 2**: Tại màn hình **Cấu hình**, quý khách chọn icon sửa tại mục tài chính cần thay đổi:
 
-![Icon sửa mục tài chính](https://user-images.githubusercontent.com/64824123/103725527-5e2f0680-5009-11eb-90ba-e880ba282211.png)
+![Sửa mục tài chính](https://user-images.githubusercontent.com/64824123/103725527-5e2f0680-5009-11eb-90ba-e880ba282211.png)
 
 **Bước 3**: Quý khách nhập các thông tin cần thay đổi như: mục tài chính hoặc thứ tự ưu tiên, sau đó ấn chọn "**Thay đổi**":
 
-![Nhập thông tin cấu hình mục tài chính](https://user-images.githubusercontent.com/64824123/103725769-df869900-5009-11eb-927e-208a042763a9.png)
+![Thay đổi thông tin cấu hình mục tài chính](https://user-images.githubusercontent.com/64824123/103725769-df869900-5009-11eb-927e-208a042763a9.png)
 
 Sau thay đổi cấu hình mục tài chính thành công, hệ thống sẽ hiển thị thông báo "**Thành công**":
 
@@ -22,7 +22,7 @@ Sau thay đổi cấu hình mục tài chính thành công, hệ thống sẽ hi
 
 Tại chi tiết khiếu nại, phần mục tài chính, quý khách sẽ thấy thông tin cấu hình mục tài chính được thay đổi như đã cấu hình, mục tài chính và thứ tự ưu tiên của loại giao dịch được sắp xếp từ trên xuống dưới:
 
-![Mục tài chính](https://user-images.githubusercontent.com/64824123/103726433-7ef85b80-500b-11eb-8d24-eaedfe7f8549.png)
+![Thông tin mục tài chính trong chi tiết khiếu nại](https://user-images.githubusercontent.com/64824123/103726433-7ef85b80-500b-11eb-8d24-eaedfe7f8549.png)
 
 **II. Thêm người gây ra lỗi**
 
@@ -36,7 +36,7 @@ Tại chi tiết khiếu nại, phần mục tài chính, quý khách sẽ thấ
 
 Sau khi thay đổi cấu hình mục tài chính thành công, hệ thống sẽ hiển thị thông báo "**Thành công**". Tại chi tiết khiếu nại, mục lỗi xuất phát sẽ hiển thị thông tin người gây ra lỗi đã được thêm:
 
-![Thêm người gây ra lỗi thành công](https://user-images.githubusercontent.com/64824123/103738881-51211000-5027-11eb-884d-832aba054bed.png)
+![Thông tin người gây ra lỗi trong chi tiết khiếu nại](https://user-images.githubusercontent.com/64824123/103738881-51211000-5027-11eb-884d-832aba054bed.png)
 
 **III. Cấu hình số tiền duyệt cho nhân viên**
 
@@ -46,7 +46,7 @@ Sau khi thay đổi cấu hình mục tài chính thành công, hệ thống s�
 
 **Bước 2**: Tại màn hình **Danh sách nhân viên**, quý khách chọn (1) để cấu hình số tiền duyệt trên khiếu nại cho từng nhân viên:
 
-![Icon cấu hình số tiền duyệt](https://user-images.githubusercontent.com/64824123/103740064-28017f00-5029-11eb-9fdc-c7fd5a5e1c3e.png)
+![Cấu hình số tiền duyệt](https://user-images.githubusercontent.com/64824123/103740064-28017f00-5029-11eb-9fdc-c7fd5a5e1c3e.png)
 
 **Bước 3**: Quý khách nhập thông tin số tiền cần duyệt, sau đó chọn "**Thay đổi**":
 
