@@ -5,7 +5,7 @@
  
  **Lưu ý:** một tài khoản có thể có nhiều nguồn hàng.
 
-![image](https://user-images.githubusercontent.com/75475064/101977640-723d4d80-3c81-11eb-8014-45256d5fd46e.png)
+![image](https://user-images.githubusercontent.com/75475064/104265197-a645a180-54bf-11eb-9363-5802cd5f7656.png)
  
 ![image](https://user-images.githubusercontent.com/75475064/101977655-9862ed80-3c81-11eb-8b48-e5dd9bbbb400.png)
 
@@ -14,7 +14,7 @@
     - Tìm kiếm tài khoản giao dịch viên trong nhóm hoặc chưa vào nhóm GDV.
     - **Chọn** / **Bỏ chọn** tài khoản vào nhóm GDV.
     
-![image](https://user-images.githubusercontent.com/75475064/101977691-e4ae2d80-3c81-11eb-8d2c-557ee1187285.png)
+![image](https://user-images.githubusercontent.com/75475064/104265359-fb81b300-54bf-11eb-8451-b8ff73e26465.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101979922-da952a80-3c93-11eb-8cef-5dcf04fddf9a.png)
 
@@ -32,17 +32,18 @@
 
  * Chọn **Cấu hình** > **Địa chỉ kho nhận** > Chọn thêm mới hoặc chỉnh sửa
 
-![image](https://user-images.githubusercontent.com/75475064/101977750-774ecc80-3c82-11eb-81db-39fb9ba7efa6.png)
+![image](https://user-images.githubusercontent.com/75475064/104265433-2ec44200-54c0-11eb-91b9-1b5f1b2b9473.png)
 
+![image](https://user-images.githubusercontent.com/75475064/104265520-5c10f000-54c0-11eb-8def-bf7c5a1dee6d.png)
 
-![image](https://user-images.githubusercontent.com/75475064/101977764-95b4c800-3c82-11eb-964c-e2b0e10c0217.png)
 
 ## Nhóm ngành hàng
 * Chọn **Cấu hình** > **Nhóm ngành hàng** > Chọn thêm mới hoặc chỉnh sửa
 
-![image](https://user-images.githubusercontent.com/75475064/101980410-a1f75000-3c97-11eb-866e-90e369bda279.png)
+![image](https://user-images.githubusercontent.com/75475064/104265573-7c40af00-54c0-11eb-87eb-8477b89d3b38.png)
 
-![image](https://user-images.githubusercontent.com/75475064/101980059-2dbbad00-3c95-11eb-8bee-d47045c38075.png)
+![image](https://user-images.githubusercontent.com/75475064/104265613-91b5d900-54c0-11eb-82e6-3180e9957c24.png)
+
 
 * Cấu hình **Bật/Tắt** sử dụng nhóm ngành hàng chọn **Cấu hình** > **Cấu hình chung** 
 
@@ -67,7 +68,7 @@
 
  Chọn **Cấu hình** > **Tài khoản ngân hàng** > Chọn thêm mới hoặc chỉnh sửa
 
-![image](https://user-images.githubusercontent.com/75475064/101980441-e7b41880-3c97-11eb-8b8a-6431db4536c4.png)
+![image](https://user-images.githubusercontent.com/75475064/104265764-e6595400-54c0-11eb-9c0a-d936f07c4a85.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101980134-e97cdc80-3c95-11eb-9520-ac8a2e8988cb.png)
 
