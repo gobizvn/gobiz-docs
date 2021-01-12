@@ -79,8 +79,7 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
 
    Đồng thời sẽ chuyển sang trạng thái **Đã mua** và log Thời gian thanh toán thành công
 
-![image](https://user-images.githubusercontent.com/75475064/101897567-57b19880-3bdd-11eb-8838-6cbec1943473.png)
-
+![image](https://user-images.githubusercontent.com/75475064/104262824-efdfbd80-54ba-11eb-9e27-7fea7a0384c4.png)
 
 ### Bước 3.2: Xử lý yêu cầu thanh toán cho đơn hàng ngoài.
   
