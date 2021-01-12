@@ -62,6 +62,8 @@
  
  * Cấu hình Thời gian thanh toán áp dụng với chính sách 24h ( sau khoảng thời gian trong cấu hình sẽ phải điền lý do cho **Đơn mua chậm**)
  
+ **Lưu ý:** Đối với những khách hàng sử dụng **chính sách cam kết mua hàng 24h** hiện chưa có cấu hình trong giao diện, xin hãy liên hệ với quản lý để bật cấu hình.
+ 
  ![image](https://user-images.githubusercontent.com/75475064/101980238-ae2edd80-3c96-11eb-9b6a-97f86fc18af0.png)
 
 ## Tài khoản ngân hàng dùng để thanh toán
