@@ -116,7 +116,7 @@
 
   * Đánh dấu xử lý đơn có vấn đề: bấm **[Resolve]** hệ thống hiển thị popup để nhập lý do xử lý (lý do không bắt buộc nhập). 
 
-![image](https://user-images.githubusercontent.com/75475064/101973657-30ee7300-3c6c-11eb-9d65-e9407ccc0ec1.png)
+![image](https://user-images.githubusercontent.com/75475064/104264662-a42f1300-54be-11eb-98c6-bcb25b99c2c3.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101973667-4368ac80-3c6c-11eb-95e2-d26db7e6b26c.png)
 
