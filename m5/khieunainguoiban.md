@@ -9,7 +9,7 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
 
   - Màn hình **Chi tiết đơn**
   
-![image](https://user-images.githubusercontent.com/75475064/101886491-24b3d880-3bce-11eb-9236-a8f23e3914ac.png)
+![image](https://user-images.githubusercontent.com/75475064/104262053-5c59bd00-54b9-11eb-80ec-689900976c6d.png)
 
   - Màn hình **Quản lý đơn hàng**
   
