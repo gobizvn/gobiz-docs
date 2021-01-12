@@ -29,7 +29,7 @@ Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z
    - Bấm chọn **thanh toán qua ngân hàng**
 
 ![image](https://user-images.githubusercontent.com/75475064/101896346-73b43a80-3bdb-11eb-8468-8e1e61a6375b.png)
-
+ 
 
   * Công cụ mua hàng sẽ tự động nhận và chuyển YCTT từ site gốc (Taobao)  sang hệ thống **KOMODO** của bạn với thông báo **Gửi yêu cầu thanh toán thành công**
   
