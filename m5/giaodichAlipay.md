@@ -94,7 +94,7 @@
 
   * Từ menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng** 
   
-![image](https://user-images.githubusercontent.com/75475064/104264199-bbb9cc00-54bd-11eb-9566-d47a4e5a635c.png)
+![image](https://user-images.githubusercontent.com/75475064/104264521-6205d180-54be-11eb-9b25-3cc4de781bd5.png)
  
   * Màn hình **kiểm soát đơn hàng**: chỉ hiển thị những đơn có trạng thái từ **Đã Mua** trở đi và đơn ở trạng thái **Hủy, Hết hàng** mà có giao dịch nhà cung cấp.
 
