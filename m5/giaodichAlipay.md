@@ -94,7 +94,7 @@
 
   * Từ menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng** 
   
-![image](https://user-images.githubusercontent.com/75475064/101981440-6f515580-3c9f-11eb-8c6d-805397a693fb.png)
+![image](https://user-images.githubusercontent.com/75475064/104264199-bbb9cc00-54bd-11eb-9566-d47a4e5a635c.png)
  
   * Màn hình **kiểm soát đơn hàng**: chỉ hiển thị những đơn có trạng thái từ **Đã Mua** trở đi và đơn ở trạng thái **Hủy, Hết hàng** mà có giao dịch nhà cung cấp.
 
@@ -112,7 +112,7 @@
       
     - **Đơn Hủy nhưng có giao dịch thu chi không khớp:** khi đơn có tổng thu khác tổng chi 
       
-![image](https://user-images.githubusercontent.com/75475064/101973633-14523b00-3c6c-11eb-8dec-fd489659e788.png)
+![image](https://user-images.githubusercontent.com/75475064/104264257-e015a880-54bd-11eb-8b1f-349b2dda3755.png)
 
   * Đánh dấu xử lý đơn có vấn đề: bấm **[Resolve]** hệ thống hiển thị popup để nhập lý do xử lý (lý do không bắt buộc nhập). 
 
@@ -122,7 +122,7 @@
 
   * Sau khi bấm vào nút **[Resolve]** đơn sẽ được đánh dấu là đơn có vấn đề đã xử lý, thông tin đơn thể hiện ai là **người xử lý** và **thời gian xử lý.**
    
-![image](https://user-images.githubusercontent.com/75475064/101973683-68f5b600-3c6c-11eb-9215-ea8cb8642946.png)
+![image](https://user-images.githubusercontent.com/75475064/104264395-21a65380-54be-11eb-9fa1-bba41acfe7a4.png)
 
 
 
