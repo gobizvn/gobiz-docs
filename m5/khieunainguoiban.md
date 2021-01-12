@@ -30,8 +30,8 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
   Điền những trường thông tin bắt buộc và chọn **[Thực hiện]**
   
   **Lưu ý:** Chỉ được tạo một lần đối với KNNB có cùng lý do và ở trạng thái **Đang xử lý**
-  
-![image](https://user-images.githubusercontent.com/75475064/101887687-ca1b7c00-3bcf-11eb-9588-fef7da1f58d4.png)
+ 
+ ![image](https://user-images.githubusercontent.com/75475064/101887687-ca1b7c00-3bcf-11eb-9588-fef7da1f58d4.png)
 
 
 
