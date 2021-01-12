@@ -17,7 +17,7 @@
 
   Tại màn hình **Chi tiết đơn**, ngay khi người dùng bấm **Thanh toán** hệ thống sẽ buộc người dùng chọn **lý do vi phạm chính sách** > chọn **Tiếp tục** > hiển thị thông báo **Đã thanh toán thành công**
   
-![image](https://user-images.githubusercontent.com/75475064/102032462-68375e00-3deb-11eb-958e-52316a9cd85b.png)
+![image](https://user-images.githubusercontent.com/75475064/104264871-0425b980-54bf-11eb-861b-39b2cf9b0f4f.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101975758-8f6a2000-3c71-11eb-86ca-be41b09462a2.png)
  
