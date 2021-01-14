@@ -117,6 +117,7 @@ Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site g�
 - Mã vận đơn trả hàng
 - Mã hóa đơn gốc
 - Số tiền
+
 ![Đồng bộ KNNB](https://user-images.githubusercontent.com/76998374/104545995-d4f97e80-565d-11eb-87f5-4868ec1af481.png)
 
 
