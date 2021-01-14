@@ -109,3 +109,4 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
     
     - Chỉ chấp nhận giao dịch hoàn (có số tiền là cộng)
 
+## Lấy thông tin khiếu nại người bán từ việc đồng bộ mã khiếu nại người bán
