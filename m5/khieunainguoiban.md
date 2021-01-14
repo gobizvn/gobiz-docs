@@ -109,7 +109,7 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
     
     - Chỉ chấp nhận giao dịch hoàn (có số tiền là cộng)
 
-### Lấy thông tin khiếu nại người bán từ việc đồng bộ mã khiếu nại site gốc
+## Bước 5: Lấy thông tin khiếu nại người bán từ việc đồng bộ mã khiếu nại site gốc
 Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site gốc thì khi thực hiện đồng bộ thông tin sẽ lấy được các thông tin của KNNB. Khi hover vào mã khiếu nại sẽ hiển thị các thông tin lấy được bao gồm:
 - Mã khiếu nại site gốc
 - Thời gian gia hạn khiếu nại
