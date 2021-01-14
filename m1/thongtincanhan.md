@@ -3,7 +3,7 @@ Quý khách click vào khu vực mục hình đại diện hoặc phần hiển 
 
 ![Truy cập Thông tin cá nhân](https://user-images.githubusercontent.com/73226975/103864938-03270d80-50f6-11eb-9b6f-b13503744302.png)
 
-Thông tin có thể chỉnh sửa:
+**Thông tin có thể chỉnh sửa:**
 + Họ tên
 + Ngày tháng năm sinh
 + Địa chỉ liên hệ
@@ -15,6 +15,8 @@ Thông tin có thể chỉnh sửa:
 
 
 ![Chỉnh sửa thông tin cá nhân](https://user-images.githubusercontent.com/73226975/103864946-04f0d100-50f6-11eb-80ce-f4edc5ee515b.png)
+
+![Email xác nhận](https://user-images.githubusercontent.com/73226975/104561388-e94b7480-5679-11eb-9daf-c489d87f4367.png)
 
   \
 2. **Địa chỉ nhận hàng**
