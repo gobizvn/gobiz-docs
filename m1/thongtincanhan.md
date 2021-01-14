@@ -22,4 +22,4 @@ Quý khách click vào khu vực mục hình đại diện hoặc phần hiển 
 2. **Địa chỉ nhận hàng**
 
 
-
+{% embed url="https://www.youtube.com/watch?v=YhGGfcZkE3w&ab_channel=Gobizvn" %}
