@@ -119,6 +119,8 @@ Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site g�
 - Số tiền
 
 ![Đồng bộ KNNB](https://user-images.githubusercontent.com/76998374/104545995-d4f97e80-565d-11eb-87f5-4868ec1af481.png)
+![Thông tin lấy được từ mã KN site gốc](https://user-images.githubusercontent.com/76998374/104546329-839dbf00-565e-11eb-90b6-f6e008543fd2.png)
+
 
 
 
