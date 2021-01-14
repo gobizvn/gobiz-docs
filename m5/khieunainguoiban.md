@@ -125,4 +125,8 @@ Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site g�
 
 
 ### Logic khớp mã giao dịch dựa trên mã KN site gốc
-Trên file Mbill, khiếu nại hoàn tiền phần nội dung sẽ có mã KN site gốc. Khi upload file giao dịch Mbill nếu giao dịch không map được với đơn mà trong nội dung giao dịch lại có mã KN site gốc lúc này sẽ map giao dịch này về đơn theo mã KN site gốc của KNNB và mã giao dịch alipay map với đơn có mã KN site gốc
+Trên file Mbill, khiếu nại hoàn tiền phần nội dung sẽ có mã KN site gốc. Khi upload file giao dịch Mbill nếu giao dịch không map được với đơn mà trong nội dung giao dịch lại có mã KN site gốc lúc này sẽ map giao dịch này về đơn theo mã KN site gốc của KNNB và mã giao dịch alipay map với đơn có mã KN site gốc.
+
+![File giao dịch Mbill mà nội dung file có mã KN site gốc](https://user-images.githubusercontent.com/76998374/104565722-4695f480-567f-11eb-9619-0f18e0118490.png)
+
+Tại màn hình danh sách giao dịch alipay sẽ hiển thị mã giao dịch alipay map với MHĐG quét được từ mã KN site gốc và một mã hóa đơn gốc có thể có nhiều mã KN site gốc và 1 mã KN site gốc chỉ dành cho 1 mã hóa đơn gốc
