@@ -36,7 +36,6 @@ Quý khách có thể tham khảo thêm cách tạo địa chỉ mới tại bà
   \
 3. **Sản phẩm đã lưu**
 
-Quý khách truy cập vào mục **Thông tin cá nhân**, click chọn **Sản phẩm đã lưu** 
 Tại đây sẽ hiển thị thanh tìm kiếm và danh sách các sản phẩm đã lưu thành công.
 
 - **Tìm kiếm sản phẩm:**
@@ -56,11 +55,15 @@ Thông tin hiển thị trong danh sách:
 - Ngày lưu.
 - Khung ghi chú cho sản phẩm.
 - Giá tiền chưa quy đổi và đã quy đổi theo cấu hình tỷ giá của hệ thống.
-- Biểu tượng xóa link khỏi danh sách sản phẩm đã lưu.
+-Tại mỗi sản phẩm, Quý khách có thể click “Xóa” nếu muốn xóa sản phẩm khỏi danh sách đã lưu.
 
 ![Danh sách sản phẩm đã lưu](https://user-images.githubusercontent.com/73226975/104710873-2df70e80-5753-11eb-94d7-c83ca06ab265.png)
 
   \
 4. **Câu hỏi thường gặp**
 
+Danh mục này sẽ hiển thị các bài viết hướng dẫn và một số thông tin khác đơn vị cung cấp dịch vụ muốn thông báo tới khách hàng.
+Các bài viết sẽ hiển thị tên tiêu đề theo dạng danh sách, để đọc nội dung Quý khách click vào mũi tên lên xuống hoặc tiêu đề bài viết.
+
+![Câu hỏi thường gặp](https://user-images.githubusercontent.com/73226975/104713480-84198100-5756-11eb-882e-a69df3e24415.png)
 
