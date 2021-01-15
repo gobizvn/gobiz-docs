@@ -26,7 +26,7 @@
     * [Khiếu nại](m1/khieunaikygui.md)
     * [Quản lý tài chính](m1/quanlytaichinh.md)
     * [Thông tin cá nhân](m1/thongtincanhan.md)
-    
+    * [Cài đặt chung](m1/caidatchung.md)
   * Order Management
     * [Cài đặt ban đầu](m2/caidatbandau.md)
     
