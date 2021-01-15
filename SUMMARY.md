@@ -14,6 +14,7 @@
     * [Khiếu nại](m1/khieunaidonthuong.md)
     * [Quản lý tài chính](m1/quanlytaichinh.md)
     * [Thông tin cá nhân](m1/thongtincanhan.md)
+    * [Cài đặt chung](m1/caidatchung.md)
 
   * Customer's Shipment
     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
