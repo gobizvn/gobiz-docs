@@ -34,4 +34,6 @@ Tại màn hình **Địa chỉ của bạn**, Quý khách sẽ thấy danh sác
 Quý khách có thể tham khảo thêm cách tạo địa chỉ mới tại bài viết hướng dẫn [Đặt cọc đơn hàng](https://hd.gobiz.vn/m2/customers-order/datcoc)
 
   \
-3. 
+3. **Sản phẩm đã lưu**
+
+Quý khách truy cập vào **Thông tin cá nhân**, click chọn **Sản phẩm đã lưu**
