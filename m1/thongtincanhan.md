@@ -30,3 +30,8 @@ Tại màn hình **Địa chỉ của bạn**, Quý khách sẽ thấy danh sác
 - Đối với các địa chỉ khác, Quý khách có thể tùy chọn chỉnh sửa hoặc xóa theo nhu cầu.
 
 ![Quản lý địa chỉ nhận hàng](https://user-images.githubusercontent.com/73226975/104695584-94723180-573f-11eb-9431-ba51a9422123.png)
+
+Quý khách có thể tham khảo thêm cách tạo địa chỉ mới tại bài viết hướng dẫn [Đặt cọc đơn hàng](https://hd.gobiz.vn/m2/customers-order/datcoc)
+
+  \
+3. 
