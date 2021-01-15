@@ -36,4 +36,20 @@ Quý khách có thể tham khảo thêm cách tạo địa chỉ mới tại bà
   \
 3. **Sản phẩm đã lưu**
 
-Quý khách truy cập vào **Thông tin cá nhân**, click chọn **Sản phẩm đã lưu**
+Quý khách truy cập vào mục **Thông tin cá nhân**, click chọn **Sản phẩm đã lưu** 
+Tại đây sẽ hiển thị danh sách các sản phẩm Quý khách chọn lưu lại.
+- **Tìm kiếm sản phẩm:**
+Quý khách có thể tìm kiếm thông tin theo các điều kiện lọc sau:
+  Tên sản phẩm.
+  Thời gian lưu sản phẩm.
+Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng Làm mới bộ lọc
+
+![Tìm kiếm sản phẩm đã lưu](https://user-images.githubusercontent.com/73226975/104710569-d062c200-5752-11eb-8a7c-942729a80e7b.png)
+
+- **Danh sách sản phẩm đã lưu**
+
+![Danh sách sản phẩm đã lưu](https://user-images.githubusercontent.com/73226975/104710873-2df70e80-5753-11eb-94d7-c83ca06ab265.png)
+
+
+
+
