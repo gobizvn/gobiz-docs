@@ -55,7 +55,7 @@ Thông tin hiển thị trong danh sách:
 - Ngày lưu.
 - Khung ghi chú cho sản phẩm.
 - Giá tiền chưa quy đổi và đã quy đổi theo cấu hình tỷ giá của hệ thống.
--Tại mỗi sản phẩm, Quý khách có thể click “Xóa” nếu muốn xóa sản phẩm khỏi danh sách đã lưu.
+- Tại mỗi sản phẩm, Quý khách có thể click “Xóa” nếu muốn xóa sản phẩm khỏi danh sách đã lưu.
 
 ![Danh sách sản phẩm đã lưu](https://user-images.githubusercontent.com/73226975/104710873-2df70e80-5753-11eb-94d7-c83ca06ab265.png)
 
