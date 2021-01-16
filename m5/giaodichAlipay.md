@@ -2,7 +2,7 @@
 
 ## Bước 1: Truy cập để tải về tệp ALIPAY.
 
-  -  Đăng nhập bằng tài khoản taobao https://www.alipay.com/
+  -  Kế toán đăng nhập bằng tài khoản taobao https://www.alipay.com/
   
   - Mở link https://consumeprod.alipay.com/record/advanced.htm
   
@@ -25,10 +25,14 @@
   
 ![image](https://user-images.githubusercontent.com/75475064/101973302-a7d63c80-3c69-11eb-90df-4184c2354602.png)
 
-## Bước 2: Upload file giao dịch Alipay lên hệ thống
+## Bước 2: Kế toán Upload file giao dịch Alipay lên hệ thống
 
   Chọn **Kiểm soát mua hàng** > **Danh sách file giao dịch** > **Tải file**
-
+  File alipay được chia thành 03 loại: 
+  - Alipay thường
+  - Alipay Global
+  - Alipay Mbill
+  Kế toán cần upload đúng loại giao dịch alipay tương ứng với 3 nút
 ![image](https://user-images.githubusercontent.com/75475064/101973334-e966e780-3c69-11eb-8338-acc877998a04.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101973355-0e5b5a80-3c6a-11eb-9cbc-3ecb5c48b031.png)
