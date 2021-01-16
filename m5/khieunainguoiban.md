@@ -3,9 +3,9 @@
 (Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**) 
 
 **Lưu ý**:
-     - Người dùng có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
+     - Quản lý có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
      - 
-Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
+Khiếu nại viên có thể **Tạo khiếu nại người bán**(KNNB) từ nhiều màn hình khác nhau:
 
   - Màn hình **Chi tiết đơn**
   
@@ -110,7 +110,8 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
     - Chỉ chấp nhận giao dịch hoàn (có số tiền là cộng)
 
 ## Bước 5: Lấy thông tin khiếu nại người bán từ việc đồng bộ mã khiếu nại site gốc
-Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site gốc thì khi thực hiện đồng bộ thông tin sẽ lấy được các thông tin của KNNB. Khi hover vào mã khiếu nại sẽ hiển thị các thông tin lấy được bao gồm:
+Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site gốc thì khi thực hiện đồng bộ thông tin sẽ lấy được các thông tin của KNNB. 
+Khi hover vào mã khiếu nại sẽ hiển thị các thông tin lấy được bao gồm:
 - Mã khiếu nại site gốc
 - Thời gian gia hạn khiếu nại
 - Trạng thái khiếu nại 
@@ -125,7 +126,8 @@ Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site g�
 
 
 ### Logic khớp mã giao dịch dựa trên mã KN site gốc
-Trên file Mbill, khiếu nại hoàn tiền phần nội dung sẽ có mã KN site gốc. Khi upload file giao dịch Mbill nếu giao dịch không map được với đơn mà trong nội dung giao dịch lại có mã KN site gốc lúc này sẽ map giao dịch này về đơn theo mã KN site gốc của KNNB và mã giao dịch alipay map với đơn có mã KN site gốc.
+Trên file Mbill, khiếu nại hoàn tiền phần nội dung sẽ có mã KN site gốc như ảnh bên dưới.
+Khi upload file giao dịch Mbill nếu giao dịch không map được với đơn mà trong nội dung giao dịch lại có mã KN site gốc lúc này sẽ map giao dịch này về đơn theo mã KN site gốc của KNNB và mã giao dịch alipay map với đơn có mã KN site gốc.
 
 ![File giao dịch Mbill mà nội dung file có mã KN site gốc](https://user-images.githubusercontent.com/76998374/104565722-4695f480-567f-11eb-9619-0f18e0118490.png)
 
