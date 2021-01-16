@@ -32,7 +32,8 @@
   - Alipay thường
   - Alipay Global
   - Alipay Mbill
-  Kế toán cần upload đúng loại giao dịch alipay tương ứng với 3 nút
+ Kế toán cần upload đúng loại giao dịch alipay tương ứng với 3 nút
+ 
 ![image](https://user-images.githubusercontent.com/75475064/101973334-e966e780-3c69-11eb-8338-acc877998a04.png)
 
 ![image](https://user-images.githubusercontent.com/75475064/101973355-0e5b5a80-3c6a-11eb-9cbc-3ecb5c48b031.png)
