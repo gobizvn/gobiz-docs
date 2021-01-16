@@ -34,7 +34,8 @@
   - Alipay Mbill
  Kế toán cần upload đúng loại giao dịch alipay tương ứng với 3 nút tải file
  
-![image](https://user-images.githubusercontent.com/75475064/101973334-e966e780-3c69-11eb-8338-acc877998a04.png)
+![Tải file alipay](https://user-images.githubusercontent.com/76998374/104807781-1895e900-5814-11eb-85b5-2a771eca5334.png)
+
 
 ![image](https://user-images.githubusercontent.com/75475064/101973355-0e5b5a80-3c6a-11eb-9cbc-3ecb5c48b031.png)
 
