@@ -3,7 +3,7 @@
 
 ### Bước 1: Chọn Đơn hàng > Quản lý đơn để xem danh sách đơn 
 
-● Người dùng sẽ chỉ xem được các đơn hàng được phân cho mình tại mục **Đơn đang mua**
+● Giao dịch viên(GDV) sẽ chỉ xem được các đơn hàng được phân cho mình tại mục **Đơn đang mua**
 
 ● Danh sách đơn hàng sẽ hiển thị theo thời gian đặt cọc **Cũ đến mới**
 
@@ -11,7 +11,7 @@
 
 ### Bước 2: Cập nhật thông tin đơn
 
-● Tại màn hình **Quản lý đơn hàng**, người dùng bấm mã đơn của từng bản ghi để xem **Chi tiết đơn hàng**.
+● Tại màn hình **Quản lý đơn hàng**, GDV bấm mã đơn của từng bản ghi để xem **Chi tiết đơn hàng**.
 
 ![image](https://user-images.githubusercontent.com/75475064/101879674-47d98a80-3bc4-11eb-8b2b-6e3eaa7b7a92.png)
 
@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/75475064/101881691-5aa18e80-3bc7-11eb-9a93-0bcbd1dfe082.png)
 
-●	Người dùng có thể thay đổi thông tin và đánh dấu tình trạng sản phẩm.
+●	GDV có thể thay đổi thông tin và đánh dấu tình trạng sản phẩm.
 
  Cài đặt **[công cụ AUTOPAI](https://hd.gobiz.vn/m5/dongbomavandon)** để thêm sản phẩm vào giỏ hàng Tmall tự động
 
