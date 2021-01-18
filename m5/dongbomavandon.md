@@ -3,9 +3,9 @@
 
 **Cài công cụ đặt hàng trên Chrome/ Cốc cốc**
 
-**Bước 1:** Người dùng tìm kiếm công cụ **Công cụ đặt hàng của Order Hàng** **[TẠI ĐÂY](https://chrome.google.com/webstore/detail/c%C3%B4ng-c%E1%BB%A5-mua-h%C3%A0ng-gobiz/fmknmegefdocamdggpdlcnippgjfelmn)**.
+**Bước 1:** GDV tìm kiếm công cụ **Công cụ đặt hàng của Order Hàng** **[TẠI ĐÂY](https://chrome.google.com/webstore/detail/c%C3%B4ng-c%E1%BB%A5-mua-h%C3%A0ng-gobiz/fmknmegefdocamdggpdlcnippgjfelmn)**.
 
-**Bước 2:** Người dùng chọn **Thêm tiện ích** để thêm công cụ trên thanh extension.
+**Bước 2:** GDV chọn **Thêm tiện ích** để thêm công cụ trên thanh extension.
 
 ![image](https://user-images.githubusercontent.com/75475064/101884974-0d73eb80-3bcc-11eb-981e-cc3310db5e72.png)
 
