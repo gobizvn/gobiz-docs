@@ -28,6 +28,7 @@ Khiếu nại viên có thể **Tạo khiếu nại người bán**(KNNB) từ n
 ## Bước 2: Điền trường thông tin bắt buộc
   
   Khiếu nại viên điền đẩy đủ các trường thông tin bắt buộc vào form tạo
+  
   Sau khi điền đẩy đủ thông tin bắt buộc, Khiếu nại viên nhấn **[Thực hiện]** để tạo KNNB
   
   **Lưu ý:** Chỉ được tạo một lần đối với KNNB có cùng lý do và ở trạng thái **Đang xử lý**
