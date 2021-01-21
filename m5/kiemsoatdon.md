@@ -1,1 +1,11 @@
+**Mục đích:** Hỗ trợ tính toán doanh số cho giao dịch viên (GDV) và giúp phát hiện được các trường hợp sai phạm liên quan đến giao dịch nhà cung cấp
+
+**Bước 1:** Giao dịch viên truy cập trang **Kiểm soát đơn hàng** từ menu bên trái màn hình.
+
+![Kiểm soát đơn hàng](https://user-images.githubusercontent.com/76998374/105332814-976d9600-5c07-11eb-8968-d4975eb224fa.png
+
+**Bước 2:** Sau khi upload file alipay thành công, các giao dịch sẽ map về đơn dựa trên mã hóa đơn gốc. Giao dịch viên kiểm tra được lợi nhuận mặc cả trên đơn tại trang **Kiểm soát giao dịch nhà cung cấp**
+
+![Kiểm soát giao dịch nhà cung cấp](https://user-images.githubusercontent.com/76998374/105333497-617ce180-5c08-11eb-94ba-57917abb870b.png)
+
 
