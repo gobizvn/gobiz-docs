@@ -1,6 +1,6 @@
-**Mục đích:** Quản lý danh sách tài khoản ngân hàng và hỗ trợ khai báo các tài khoản mới trên hệ thống, chỉnh sửa thông tin tài khoản đã có.
+**Mục đích:** Quản lý danh sách tài khoản ngân hàng và hỗ trợ khai báo các tài khoản mới trên hệ thống.
 
-**Quản lý khai báo tài khoản ngân hàng như sau:
+**Quản lý khai báo tài khoản ngân hàng như sau:**
 
 Bước 1: Quản lý truy cập trang **Cấu hình** từ menu bên trái, chọn **Tài khoản ngân hàng**
 
