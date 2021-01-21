@@ -32,8 +32,16 @@ Lợi nhuận mặc cả =  (tiền hàng + vận chuyển nội địa) - tổn
 
 - Lợi nhuận âm: khi giá vốn nhỏ hơn tổng tiền chi cho NCC thì lợi nhuận âm
 
-
 - Đơn Hủy nhưng có giao dịch thu chi không khớp: khi đơn ở trạng thái Hủy/Hết hàng nhưng có (tổng thu - chi) khác 0
+
+
+![Các vấn đề của đơn](https://user-images.githubusercontent.com/76998374/105335820-187a5c80-5c0b-11eb-9956-17416eeec57c.png)
+
+**Bước 4** Xử lý đơn có vấn đề
+
+Trên từng đơn nếu có vấn đề sẽ hiển thị cảnh báo đỏ như **Bước 3**, để xử lý các vấn đề của đơn thì giao dịch viên click chọn vào nút **Resolve** 
+
+
 
 
 
