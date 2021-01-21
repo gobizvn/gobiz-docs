@@ -26,6 +26,15 @@ Lợi nhuận mặc cả =  (tiền hàng + vận chuyển nội địa) - tổn
 
 **Bước 3:** Xác định các vấn đề của đơn
 
+Chưa có giao dịch NCC: gồm những đơn có trạng thái từ Đã Mua trở đi nhưng chưa có giao dịch nhà cung cấp nào
+
+Lợi nhuận quá cao: khi tỉ lệ lợi nhuận đơn được tính tính theo công thức mà vượt quá ngưỡng người dùng cấu hình thì hiển thị cảnh báo này
+
+Lợi nhuận âm: khi giá vốn nhỏ hơn tổng tiền chi cho NCC thì lợi nhuận âm
+
+
+Đơn Hủy nhưng có giao dịch thu chi không khớp: khi đơn ở trạng thái Hủy/Hết hàng nhưng có (tổng thu - chi) khác 0
+
 
 
 
