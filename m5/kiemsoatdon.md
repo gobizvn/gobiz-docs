@@ -10,12 +10,19 @@
 
 Công thức tính lợi nhuận mặc cả đơn dựa trên giao dịch nhà cung cấp:
 
-**Đơn ở trạng thái HỦY/HẾT HÀNG**
+**Đơn ở trạng thái HỦY/HẾT HÀNG:**
+
+
 Lợi nhuận mặc cả =  tổng giao dịch alipay (thu - chi)
 
 
-**Đơn ở trạng thái **khác** HỦY/HẾT HÀNG**
+**Đơn ở trạng thái **khác** HỦY/HẾT HÀNG:**
+
+
 Lợi nhuận mặc cả =  (tiền hàng + vận chuyển nội địa) - tổng giao dịch alipay chi (chi - thu)
+
+![Lợi nhuận mặc cả](https://user-images.githubusercontent.com/76998374/105334752-d1d83280-5c09-11eb-83a6-27b8e725c645.png)
+
 
 **Bước 3:** Xác định các vấn đề của đơn
 
