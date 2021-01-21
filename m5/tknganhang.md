@@ -4,7 +4,7 @@
 
 **Bước 1:** Quản lý truy cập trang **Cấu hình** từ menu bên trái, chọn **Tài khoản ngân hàng**
 
-![Danh sách tài khoản](https://user-images.githubusercontent.com/75475064/105315990-ce857c80-5bf2-11eb-9a76-6bc751082c67.png)
+![Danh sách tài khoản](https://user-images.githubusercontent.com/75475064/105317082-5f108c80-5bf4-11eb-817c-f80ca1d17d5d.png)
 
 **Bước 2:** Quản lý tạo tài khoản mới bằng cách chọn chức năng **Tạo mới**, sau đó nhập thông tin tài khoản như: Tên tài khoản, Tên người đứng tên tài khoản, Số tài khoản, Tên ngân hàng và click **Thêm mới** để hoàn thành khai báo thông tin tài khoản
 
