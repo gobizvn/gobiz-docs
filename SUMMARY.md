@@ -57,7 +57,7 @@
    * [Access Token](m5/accesstoken.md)
    * [Danh sách Token](m5/dstoken.md)
    * [Danh sách Agency](m5/dsagency.md)
-   * [Tài khoản ngân hàng](tknganhang.md)
+   * [Tài khoản ngân hàng](m5/tknganhang.md)
    * [Quản lý nhóm](m5/quanlynhom.md)
    
   * Mua hàng
