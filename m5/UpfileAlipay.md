@@ -22,4 +22,8 @@ Kế toán xem thông tin các giao dịch trong file upload bằng cách di chu
 
 ![Xem danh sách file upload](https://user-images.githubusercontent.com/76998374/105322828-f75e3f80-5bfb-11eb-8c43-862da4c63c3c.png)
 
+Sau khi upload file thành công, Kế toán có thể xem tổng số giao dịch upload thành công/thất bại, tổng số giao dịch thu/chi, tổng số tiền thu/chi, thời gian bắt đầu/kết thúc trong file upload
+
+![Xem thông tin file upload](https://user-images.githubusercontent.com/76998374/105323685-fc6fbe80-5bfc-11eb-9b30-856d8286a3f0.png)
+
 
