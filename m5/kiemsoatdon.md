@@ -8,7 +8,7 @@
 
 ![Kiểm soát giao dịch nhà cung cấp](https://user-images.githubusercontent.com/76998374/105333497-617ce180-5c08-11eb-94ba-57917abb870b.png)
 
-Công thức tính lợi nhuận mặc cả đơn dựa trên giao dịch nhà cung cấp:
+**Công thức tính lợi nhuận mặc cả đơn dựa trên giao dịch nhà cung cấp:**
 
 **Đơn ở trạng thái HỦY/HẾT HÀNG:**
 
