@@ -18,7 +18,7 @@
 
 
 **Bước 3:** Sau khi upload file alipay thành công, giao dịch alipay sẽ tự động khớp với đơn hàng dựa trên mã hóa đơn gốc. 
-Kế toán xem thông tin các giao dịch trong file upload bằng cách click chọn **Xem danh sách file upload**
+Kế toán xem thông tin các giao dịch trong file upload bằng cách di chuột qua tên file và click chọn icon **Xem danh sách file upload**
 
 ![Xem danh sách file upload](https://user-images.githubusercontent.com/76998374/105322828-f75e3f80-5bfb-11eb-8c43-862da4c63c3c.png)
 
