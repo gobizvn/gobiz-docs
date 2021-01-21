@@ -41,6 +41,18 @@ Lợi nhuận mặc cả =  (tiền hàng + vận chuyển nội địa) - tổn
 
 Trên từng đơn nếu có vấn đề sẽ hiển thị cảnh báo đỏ như **Bước 3**, để xử lý các vấn đề của đơn thì giao dịch viên click chọn vào nút **Resolve** 
 
+![Resolve đơn có vấn đề](https://user-images.githubusercontent.com/76998374/105336468-dbfb3080-5c0b-11eb-9fc1-ff81b9b53aaf.png)
+
+Khi giao dịch viên click vào nút **Resolve** sẽ hiển thị popup để nhập lý do đánh dấu đã xử lý đơn có vấn đề. Trường lý do này không bắt buộc nhập
+
+![Nhập lý do resolve](https://user-images.githubusercontent.com/76998374/105336866-4dd37a00-5c0c-11eb-9e69-5fcbcb99ab82.png)
+
+Sau khi resolve đơn có vấn đề thành công sẽ ghi nhận log bao gồm các thông tin: Người xử lý, thời gian xử lý, lý do (nếu có)
+
+![Nhập lý do resolve](https://user-images.githubusercontent.com/76998374/105336866-4dd37a00-5c0c-11eb-9e69-5fcbcb99ab82.png)
+
+
+
 
 
 
