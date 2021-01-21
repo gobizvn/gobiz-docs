@@ -2,7 +2,7 @@
 
 **Bước 1:** Giao dịch viên truy cập trang **Kiểm soát đơn hàng** từ menu bên trái màn hình.
 
-![Kiểm soát đơn hàng](https://user-images.githubusercontent.com/76998374/105332814-976d9600-5c07-11eb-8968-d4975eb224fa.png
+![Kiểm soát đơn hàng](https://user-images.githubusercontent.com/76998374/105332814-976d9600-5c07-11eb-8968-d4975eb224fa.png)
 
 **Bước 2:** Sau khi upload file alipay thành công, các giao dịch sẽ map về đơn dựa trên mã hóa đơn gốc. Giao dịch viên kiểm tra được lợi nhuận mặc cả trên đơn tại trang **Kiểm soát giao dịch nhà cung cấp**
 
