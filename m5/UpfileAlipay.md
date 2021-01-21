@@ -6,7 +6,7 @@
 
 ![Upload file alipay](https://user-images.githubusercontent.com/76998374/105316572-a5192080-5bf3-11eb-8413-8ec0b2724619.png)
 
-**Bước 1:** Kế toán tải file alipay lên hệ thống. 
+**Bước 2:** Kế toán tải file alipay lên hệ thống. 
 **Điều kiện upload file alipay:** File có định dạng .csv hoặc .zip và tài khoản mua hàng trong file upload phải tồn tại trên hệ thống
 
 
