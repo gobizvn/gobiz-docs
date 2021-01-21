@@ -49,7 +49,8 @@ Khi giao dịch viên click vào nút **Resolve** sẽ hiển thị popup để 
 
 Sau khi resolve đơn có vấn đề thành công sẽ ghi nhận log bao gồm các thông tin: Người xử lý, thời gian xử lý, lý do (nếu có)
 
-![Nhập lý do resolve](https://user-images.githubusercontent.com/76998374/105336866-4dd37a00-5c0c-11eb-9e69-5fcbcb99ab82.png)
+![Log xử lý đơn có vấn đề](https://user-images.githubusercontent.com/76998374/105337179-af93e400-5c0c-11eb-9624-2a414c0ab445.png)
+
 
 
 
