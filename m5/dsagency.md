@@ -1,4 +1,5 @@
 **Mục đích:**  Quản lý danh sách Agency và hỗ trợ cập nhật thông tin những agency đã có trên hệ thống.
+
 **Lưu ý: Quản lý hãy liên hệ với bộ phận kỹ thuật để được hỗ trợ khi muốn thêm mới một Agency.** 
 
 **Để chỉnh sửa thông tin Agency,Quản lý thực hiển như sau:**
