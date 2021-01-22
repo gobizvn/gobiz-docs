@@ -27,6 +27,10 @@ Thành viên được thêm thành  công sẽ hiển thị ở Danh sách ngư�
 
 <img width="649" alt="Screen Shot 2020-12-08 at 16 06 48" src="https://user-images.githubusercontent.com/73808891/101463019-790d4d00-396f-11eb-8c23-f75ddd687fc2.png">
 
+- Người dùng có thể giới hạn quyền xem ticket trong nội bộ phòng ban bằng cách check chọn "Chia sẻ nội bộ phòng ban", chỉ những nhân viên thuộc phòng ban mới có quyền xem những ticket đó
+
+<img width="244" alt="Screen Shot 2021-01-22 at 10 39 21" src="https://user-images.githubusercontent.com/73808891/105443387-1dd4b700-5c9e-11eb-9082-4ce968fcfddd.png">
+
 - Toàn bộ các hành động thao tác trên ticket sẽ được lưu lại và hiển thị ở Lịch sử thao tác
 
 <img width="359" alt="Screen Shot 2020-11-11 at 14 23 00" src="https://user-images.githubusercontent.com/73808891/98781744-74657f80-2429-11eb-98c0-5e464c88d492.png">
