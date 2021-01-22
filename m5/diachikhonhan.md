@@ -1,1 +1,16 @@
+**Mục đích:** Quản lý danh sách địa chỉ kho nhận và hỗ trợ khai báo các kho trên hệ thống, chỉnh sửa thông tin địa chỉ kho đã có.
+
+**Quản lý khai báo tài khoản ngân hàng như sau:**
+
+**Bước 1:** Quản lý truy cập trang **Cấu hình** từ menu bên trái, chọn **Địa chỉ kho nhận**
+
+![Địa chỉ kho nhận](https://user-images.githubusercontent.com/75475064/105439777-04307100-5c98-11eb-9f25-0d9436f8a335.png)
+
+**Bước 2:** Quản lý tạo kho mới bằng cách chọn chức năng **Thêm mới**, sau đó nhập thông tin kho như: Agency,Tên kho, Mã kho, Địa chỉ kho,Trạng thái,Đặt làm địa chỉ mặc định,... và click **Thêm mới** để hoàn thành khai báo thông tin kho.
+
+![Địa chỉ kho nhận](https://user-images.githubusercontent.com/75475064/105440455-2a0a4580-5c99-11eb-8a67-e33505194825.png)
+
+Để chỉnh sửa thông tin kho, quản lý click vào **SỬA**. Các thông tin sửa kho giống như khi thêm mới.
+
+![Sửa thông tin kho](https://user-images.githubusercontent.com/75475064/105440877-f7ad1800-5c99-11eb-890c-e32843d7885e.png)
 
