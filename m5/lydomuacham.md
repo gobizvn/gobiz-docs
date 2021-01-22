@@ -1,5 +1,7 @@
 **Mục đích:** Quản lý danh sách lý do mua hàng chậm, hỗ trợ khai báo các lý do mua chậm chủ quan và khách quan, chỉnh sửa lý do đã có.
+
 **Quản lý khai báo lý do mua chậm như sau:**
+
 **Bước 1:** Quản lý truy cập trang **Cấu hình** từ menu bên trái, chọn **Lý do mua chậm**
 
 ![Lý do mua hàng chậm](https://user-images.githubusercontent.com/75475064/105441343-ec0e2100-5c9a-11eb-83c2-1599f274bdec.png)
