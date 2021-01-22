@@ -10,7 +10,7 @@
 
 ![Địa chỉ kho nhận](https://user-images.githubusercontent.com/75475064/105440455-2a0a4580-5c99-11eb-8a67-e33505194825.png)
 
-Để chỉnh sửa thông tin kho, quản lý click vào **SỬA**. Các thông tin sửa kho giống như khi thêm mới.
+Để chỉnh sửa thông tin kho, quản lý click vào icon ![](https://user-images.githubusercontent.com/75475064/105441066-5f636300-5c9a-11eb-99fe-98dc1e2edd79.png). Các thông tin sửa kho giống như khi thêm mới.
 
 ![Sửa thông tin kho](https://user-images.githubusercontent.com/75475064/105440877-f7ad1800-5c99-11eb-890c-e32843d7885e.png)
 
