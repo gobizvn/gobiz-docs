@@ -6,7 +6,7 @@
 
 ![Danh sách tài khoản mua hàng](https://user-images.githubusercontent.com/75475064/105320402-b31d7000-5bf8-11eb-84e0-cf71212c5d5a.png)
 
-**Bước 2:** Quản lý tạo tài khoản mới bằng cách chọn chức năng Tạo mới, sau đó nhập thông tin kho như: Tên tài khoản,Email/Số điện thoại,Số tài khoản, Dãy số cuối trên MHĐG, Nguồn hàng, Trạng thái và click **Thực hiện** để hoàn thành khai báo thông tin tài khoản.
+**Bước 2:** Quản lý tạo tài khoản mới bằng cách chọn chức năng Tạo mới, sau đó nhập thông tin tài khoản như: Tên tài khoản,Email/Số điện thoại,Số tài khoản, Dãy số cuối trên MHĐG, Nguồn hàng, Trạng thái và click **Thực hiện** để hoàn thành khai báo thông tin tài khoản.
 
 ![Tạo mới tài khoản mua hàng](https://user-images.githubusercontent.com/75475064/105321001-743bea00-5bf9-11eb-81dc-b8eb949a8a57.png)
 
