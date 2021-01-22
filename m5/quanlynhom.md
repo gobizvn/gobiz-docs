@@ -30,8 +30,6 @@ Quản lý click chọn **Mã nhóm** để xem Thông tin chi tiết nhóm và 
 
 ![Thêm nhân viên quỹ vào nhóm](https://user-images.githubusercontent.com/75475064/105467406-3e196b80-5cc8-11eb-8291-4a61ae1cb510.png)
 
-**Để xóa nhân viên khỏi nhóm, Quản lý  thực hiện như sau:**
-
-Quản lý click vào icon ![](https://user-images.githubusercontent.com/75475064/105467686-9d777b80-5cc8-11eb-89a9-ce30c28b3e58.png):
+**Để xóa nhân viên khỏi nhóm, Quản lý click vào icon ![](https://user-images.githubusercontent.com/75475064/105467686-9d777b80-5cc8-11eb-89a9-ce30c28b3e58.png)
 
 ![Xóa nhân viên](https://user-images.githubusercontent.com/75475064/105467540-6c974680-5cc8-11eb-92be-dd9bea9262c4.png)
