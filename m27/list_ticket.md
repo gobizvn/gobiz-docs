@@ -10,8 +10,7 @@
 
 - Hệ thống hỗ trợ các bộ lọc để người dùng có thể tìm kiếm các ticket 1 cách nhanh chóng. Bấm "**Tìm kiếm**" để hệ thống tìm kiếm theo bộ lọc mà người dùng đã thiết lập và "**Huỷ bỏ**" để xoá bộ lọc.
 
-<img width="1306" alt="Screen Shot 2020-11-10 at 16 24 10 1" src="https://user-images.githubusercontent.com/73808891/98654689-3573f300-2371-11eb-9594-ede2843eab34.png">
-
+<img width="1287" alt="Screen Shot 2021-01-22 at 10 20 59" src="https://user-images.githubusercontent.com/73808891/105441621-8a01eb80-5c9b-11eb-94de-3f88d4724860.png">
 
 - Hỗ trợ lọc sẵn các ticket theo Trạng thái và mục Ticket của tôi cho phép xem các ticket mà người dùng là người tạo ticket. Ở Mục tất cả sẽ luôn mặc định ẩn các ticket ở trạng thái cuối cùng, người dùng có thể click vào icon để hiển thị lại. Có thể chọn nhiều Menu trạng thái 1 lúc bằng cách click lần lượt từng trạng thái, click vào 1 lần nữa để huỷ bỏ việc chọn trạng thái đó
 
