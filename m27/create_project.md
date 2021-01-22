@@ -10,6 +10,9 @@
 
 **Bước 2**: Hệ thống hiển thị giao diện cho phép người dùng nhập các thông tin của dự án, trong đó 2 trường thông tin "**Tên dự án**" và "**Loại dự án**" là bắt buộc nhập. Dự án được tạo mới sẽ hiển thị trong mục "**Quản lý dự án**"
 
+- Loại dự án là Private thì chỉ những thành viên của dự án mới có quyền truy cập và xem những ticket của dự án
+- Loại dự án là Public: ngoài thành viên dự án, các user không phải thành viên dự án vẫn có quyền truy cập, tạo và xem các ticket do mình tạo
+
 <img width="686" alt="Screen Shot 2020-11-03 at 11 46 02" src="https://user-images.githubusercontent.com/73808891/97950666-3ed9ea00-1dca-11eb-9ef2-9476307199e8.png">
 
 ## Cách 2: Tạo dự án khi đang ở màn hình Quản lý dự án
