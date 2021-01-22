@@ -1,6 +1,6 @@
 **Mục đích:**  Quản lý danh sách Agency và hỗ trợ cập nhật thông tin những agency đã có trên hệ thống.
 
-**Lưu ý: Quản lý hãy liên hệ với bộ phận kỹ thuật để được hỗ trợ khi muốn thêm mới một Agency.** 
+
 
 **Để chỉnh sửa thông tin Agency,Quản lý thực hiển như sau:**
 
@@ -15,3 +15,5 @@
 Quản lý cập nhật thông tin Agency như: Tên Agency, Mã Agency, mã màu sắc,... và click **Cập nhật** để hoàn thành chỉnh sửa thông tin Agency.
 
 ![Cập nhật thông tin Agency](https://user-images.githubusercontent.com/75475064/105471785-b2a2d900-5ccd-11eb-92a0-ec6be777141b.png)
+
+**Lưu ý: Quản lý hãy liên hệ với bộ phận kỹ thuật để được hỗ trợ khi muốn thêm mới một Agency.** 
