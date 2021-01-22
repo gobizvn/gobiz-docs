@@ -1,6 +1,6 @@
 **Mục đích:** Quản lý danh sách địa chỉ kho nhận và hỗ trợ khai báo các kho trên hệ thống, chỉnh sửa thông tin địa chỉ kho đã có.
 
-**Quản lý khai báo tài khoản ngân hàng như sau:**
+**Quản lý khai báo địa chỉ kho như sau:**
 
 **Bước 1:** Quản lý truy cập trang **Cấu hình** từ menu bên trái, chọn **Địa chỉ kho nhận**
 
