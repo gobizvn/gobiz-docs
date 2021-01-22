@@ -1,4 +1,4 @@
-**Mục đích:** Quản lý danh sách tài khoản mua hàng và hỗ trợ khai báo các tài khoản mua hàng trên hệ thống, chỉnh sửa thông tin tài khoản mua hàng đã có và thêm giao dịch viên
+**Mục đích:** Quản lý danh sách tài khoản mua hàng,hỗ trợ khai báo các tài khoản mua hàng trên hệ thống, chỉnh sửa thông tin tài khoản mua hàng đã có và phân tài khoản mua hàng cho giao dịch viên(GDV)
 
 **Quản lý khai báo thông tin kho như sau:**
 
@@ -10,7 +10,7 @@
 
 ![Tạo mới tài khoản mua hàng](https://user-images.githubusercontent.com/75475064/105321001-743bea00-5bf9-11eb-81dc-b8eb949a8a57.png)
 
-**Để chỉnh sửa thông tin tài khoản, quản lý click vào SỬA. Các thông tin sửa tài khoản giống như khi thêm mới
+**Để chỉnh sửa thông tin tài khoản, quản lý click vào SỬA. Các thông tin sửa tài khoản giống như khi thêm mới**
 
 ![Sửa tài khoản](https://user-images.githubusercontent.com/75475064/105321353-eb717e00-5bf9-11eb-8dbb-665be020e22f.png)
 
@@ -30,4 +30,9 @@
 
 **Bước 4:** Quản lý chọn **Chỉ định tài khoản** để chỉ định tài khoản mua hàng cho GDV
 
+![Phân tài khoản mua hàng](https://user-images.githubusercontent.com/75475064/105438155-034a1000-5c95-11eb-82a8-da622e8463ed.png)
+
+Quản lý nhập các thông tin như: Tên GDV,Tài khoản mua hàng và click **Thực hiện** để hoàn thành phân tài khoản mua hàng cho GDV.
+
+![Phân tài khoản mua hàng](https://user-images.githubusercontent.com/75475064/105438549-c4688a00-5c95-11eb-8aa6-299c546afc53.png)
 
