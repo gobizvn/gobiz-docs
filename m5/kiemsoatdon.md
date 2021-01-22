@@ -51,6 +51,13 @@ Sau khi resolve đơn có vấn đề thành công, đơn sẽ được đánh d
 
 ![Log xử lý đơn có vấn đề](https://user-images.githubusercontent.com/76998374/105337468-0699b900-5c0d-11eb-9f20-b17c5f6b9401.png)
 
+**Bước 5:** Xử lý đơn vi phạm
+
+**Đánh dấu đơn vi phạm:** 
+
+
+
+
 
 
 
