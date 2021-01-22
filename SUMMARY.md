@@ -46,39 +46,39 @@
   
 * [Go Purchasing](m5/README.md)
   * Cấu hình 
-   * [Cấu hình chung](m5/Cauhinhchung.md)
-   * [Cấu hình mua hàng & nhận đơn](m5/CHMuahangnhandon.md)
-   * [Cấu hình giao dịch NCC](m5/CHGiaodichNCC.md)
-   * [Tài khoản mua hàng](m5/TKmuahang.md)
-   * [Địa chỉ kho nhận](m5/diachikhonhan.md)
-   * [Lý do mua hàng chậm](m5/lydomuacham.md)
-   * [Nhóm ngành hàng](m5/nhomnganh.md)
-   * [Danh sách Agency](m5/dsagency.md)
-   * [Tài khoản ngân hàng](m5/tknganhang.md)
-   * [Quản lý nhóm](m5/quanlynhom.md)
+    * [Cấu hình chung](m5/Cauhinhchung.md)
+    * [Cấu hình mua hàng & nhận đơn](m5/CHMuahangnhandon.md)
+    * [Cấu hình giao dịch NCC](m5/CHGiaodichNCC.md)
+    * [Tài khoản mua hàng](m5/TKmuahang.md)
+    * [Địa chỉ kho nhận](m5/diachikhonhan.md)
+    * [Lý do mua hàng chậm](m5/lydomuacham.md)
+    * [Nhóm ngành hàng](m5/nhomnganh.md)
+    * [Danh sách Agency](m5/dsagency.md)
+    * [Tài khoản ngân hàng](m5/tknganhang.md)
+    * [Quản lý nhóm](m5/quanlynhom.md)
    
   * Mua hàng
-   * [Phân đơn](m5/phandon.md)
-   * [Xử lý đơn](m5/xulydon.md)
+    * [Phân đơn](m5/phandon.md)
+    * [Xử lý đơn](m5/xulydon.md)
   
   * Sử dụng YCTT cho quy trình mua hàng
-   * [GDV gửi YCTT qua công cụ](m5/YCTTcongcu.md)
-   * [GDV gửi YCTT qua admin](m5/YCTTadmin.md)
-   * [GDV tự thanh toán qua ví Alipay](m5/GDVtuthanhtoan.md)
+    * [GDV gửi YCTT qua công cụ](m5/YCTTcongcu.md)
+    * [GDV gửi YCTT qua admin](m5/YCTTadmin.md)
+    * [GDV tự thanh toán qua ví Alipay](m5/GDVtuthanhtoan.md)
    
   * Quản lý đơn sau mua
-   * [Khai báo hải quan](m5/thongtinhaiquan.md)
-   * [Đồng bộ mã vận đơn](m5/dongbomavandon.md)
-   * [Khiếu nại người bán](m5/khieunainguoiban.md)
-   * [Comment nội bộ và comment với khách](m5/comment.md)
+    * [Khai báo hải quan](m5/thongtinhaiquan.md)
+    * [Đồng bộ mã vận đơn](m5/dongbomavandon.md)
+    * [Khiếu nại người bán](m5/khieunainguoiban.md)
+    * [Comment nội bộ và comment với khách](m5/comment.md)
    
   * Kiểm soát mua hàng
-   * [Upload file alipay](m5/UpfileAlipay.md)
-   * [Kiểm soát đơn](m5/kiemsoatdon.md)
-   * [Kiểm soát giao dịch alipay](m5/giaodichAlipay.md)
-   * [Báo cáo doanh số](m5/baocaodoanhso.md)
-   * [Báo cáo hiệu suất](m5/baocaohieusuat.md)
-   * [Duyệt thay đổi MHĐG](m5/duyetthaydoiMHDG.md)
+    * [Upload file alipay](m5/UpfileAlipay.md)
+    * [Kiểm soát đơn](m5/kiemsoatdon.md)
+    * [Kiểm soát giao dịch alipay](m5/giaodichAlipay.md)
+    * [Báo cáo doanh số](m5/baocaodoanhso.md)
+    * [Báo cáo hiệu suất](m5/baocaohieusuat.md)
+    * [Duyệt thay đổi MHĐG](m5/duyetthaydoiMHDG.md)
   
 * [Go Logistics](m6/README.md)
   * Hàng thường
