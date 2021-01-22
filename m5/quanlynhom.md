@@ -11,6 +11,7 @@
 ![Tạo mới nhóm](https://user-images.githubusercontent.com/75475064/105465266-46bc7280-5cc5-11eb-82aa-6cc759702696.png)
 
 **Để chỉnh sửa thông tin nhóm,Quản lý thực hiện như sau:**
+
 **Cách 1:** quản lý click vào icon ![](https://user-images.githubusercontent.com/75475064/105465413-753a4d80-5cc5-11eb-9498-e938854bb116.png). Các thông tin sửa nhóm giống như khi thêm mới.
 
 ![Sửa thông tin nhóm](https://user-images.githubusercontent.com/75475064/105465543-9f8c0b00-5cc5-11eb-9194-a03f0b903db4.png)
