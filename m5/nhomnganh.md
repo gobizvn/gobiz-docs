@@ -6,7 +6,7 @@
 
 ![Nhóm ngành hàng](https://user-images.githubusercontent.com/75475064/105445166-d2bca300-5ca1-11eb-9d2d-8bda9b711e53.png)
 
-**Bước 2:** Quản lý tạo nhóm ngành hàng bằng cách chọn chức năng **Thêm mới**, sau đó nhập thông ngành hàng kho như: Agency,Tên ngành, Mã ngành,Trạng thái,... và click **Thêm mới** để hoàn thành khai báo thông tin ngành.
+**Bước 2:** Quản lý tạo nhóm ngành hàng bằng cách chọn chức năng **Thêm mới**, sau đó nhập thông ngành hàng như: Agency,Tên ngành, Mã ngành,Trạng thái,... và click **Thêm mới** để hoàn thành khai báo thông tin ngành.
 
 ![Nhóm ngành hàng](https://user-images.githubusercontent.com/75475064/105445416-78701200-5ca2-11eb-93fc-c508f3b7f3cf.png)
 
