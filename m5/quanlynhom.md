@@ -1,4 +1,4 @@
-**Mục đích:** Quản lý danh sách nhóm và hỗ trợ khai báo nhóm trên hệ thống, chỉnh sửa thông tin nhóm đã có và phân nhân viên Quỹ vào các nhóm.
+**Mục đích:** Quản lý danh sách nhóm và hỗ trợ khai báo nhóm trên hệ thống, chỉnh sửa thông tin nhóm đã có và phân nhân viên Quỹ vào các nhóm để xử lý Yêu cầu thanh toán.
 
 **Quản lý khai báo nhóm như sau:**  
 
