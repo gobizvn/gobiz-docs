@@ -20,6 +20,13 @@ Sau khi tạo yêu cầu xuất file doanh số hoàn thành thì quản lý t�
 
 ![Tải file doanh số](https://user-images.githubusercontent.com/76998374/105573272-eabe2080-5d8e-11eb-8346-287b29d19167.png)
 
+**Bước 4:** Quản lý có thể xem và tải về được các file doanh số đã tạo trước đó tại mục **Yêu cầu gần đây**
+
+
+![Lịch sử file doanh số](https://user-images.githubusercontent.com/76998374/105573304-25c05400-5d8f-11eb-92cc-a86ce46f27c8.png)
+
+
+
 
 
 
