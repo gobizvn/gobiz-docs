@@ -14,7 +14,7 @@ Cài đặt thành công công cụ sẽ hiển thị như hình:
 
 **Để đồng bộ đơn qua công cụ, GDV thực hiện như sau:**
 
-**Bước 1:** Từ menu, chọn **Đơn hàng** và chọn sub-menu **Đồng bộ đơn qua công cụ**
+**Bước 1:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Đồng bộ đơn qua công cụ**.
 
 ![](https://user-images.githubusercontent.com/75475064/105574812-98363180-5d99-11eb-8bd2-be292bea26cd.png)
 
