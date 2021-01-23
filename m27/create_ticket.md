@@ -12,6 +12,12 @@
 
 **Bước 3**: Người dùng nhập các thông tin của ticket, bấm  "**Thêm mới**" để tạo thêm 1 ticket. Ticket được tạo mới sẽ hiển thị trong Danh sách ticket theo thứ tự Mới trước cũ sau. Bấm "**Huỷ bỏ**" để xoá các dữ liệu đã nhập. Bấm X để tắt màn hình tạo mới ticket.
 
+Lưu ý: Khi nhập trường Phòng ban/ĐT hệ thống sẽ hiển thị checkbox cho phép người dùng có thể chọn Chia sẻ nội bộ ticket.
+Nếu check chọn thì chỉ những thành viên thuộc phòng ban mới có thể xem được ticket.
+Nếu không check chọn thì toàn bộ thành viên của dự án sẽ có quyền xem ticket đó.
+
+<img width="650" alt="Screen Shot 2021-01-23 at 15 54 06" src="https://user-images.githubusercontent.com/73808891/105573941-92d5e880-5d93-11eb-9a66-09331d527d8f.png">
+
 **Các tình huống tạo mới ticket thất bại:**
 
 - Không nhập các trường thông tin có dấu * (bắt buộc nhập)
