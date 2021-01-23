@@ -1,37 +1,32 @@
-# KHIẾU NẠI NGƯỜI BÁN
-## Bước 1:Tạo khiếu nại người bán 
-(Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**) 
+ **Mục đích:**
+   
+   Khiếu nại viên có thể **Tạo khiếu nại người bán**(KNNB) từ nhiều màn hình khác nhau (Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**).
+   
+ **Để tạo được khiếu nại người bán(KNNB) Giao dịch viên thực hiện như sau:**
 
-**Lưu ý**:
-     - Quản lý có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.   
-     - 
-Khiếu nại viên có thể **Tạo khiếu nại người bán**(KNNB) từ nhiều màn hình khác nhau:
-
-  - Màn hình **Chi tiết đơn**
+ **Bước 1:** Click chọn chức năng **Tạo khiếu nại người bán** 
+    
+   -**Cách 1:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn**
   
-![image](https://user-images.githubusercontent.com/75475064/104262053-5c59bd00-54b9-11eb-80ec-689900976c6d.png)
+![Quản lý đơn](https://user-images.githubusercontent.com/75475064/105575610-78a20780-5d9f-11eb-83c7-1ef5bd7a3a49.png)
 
-  - Màn hình **Quản lý đơn hàng**
+   -**Cách 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn** và click vào **Mã đơn** để xem **Chi tiết đơn hàng**
   
-![image](https://user-images.githubusercontent.com/75475064/101886935-caffde00-3bce-11eb-925b-53af342e652a.png)
+![Chi tiết đơn](https://user-images.githubusercontent.com/75475064/105575680-fb2ac700-5d9f-11eb-96a4-2f5d00bc0962.png)
 
-  - Màn hình **Kiểm soát giao dịch Nhà cung cấp**
+   -**Cách 3:** GDV truy cập trang **Kiểm soát mua hàng** từ menu bên trái, chọn **Kiểm soát đơn hàng**
 
-![image](https://user-images.githubusercontent.com/75475064/101887064-f4b90500-3bce-11eb-9f88-03e7bbece1a9.png)
+![Kiểm soát đơn hàng](https://user-images.githubusercontent.com/75475064/105575740-5492f600-5da0-11eb-9baa-aa9240cc22b5.png)
 
-  - Màn hình **Danh sách khiếu nại người bán**
+  - **Cách 3:** GDV truy cập trang **Khiếu nại người bán** từ menu bên trái, chọn **Danh sách KNNB**
   
-![image](https://user-images.githubusercontent.com/75475064/101886822-9c820300-3bce-11eb-8d2c-648fccec3eb8.png)
+![Danh sách KNNB](https://user-images.githubusercontent.com/75475064/105575775-915eed00-5da0-11eb-9b08-1b8972fe7554.png)
 
-
-
-## Bước 2: Điền trường thông tin bắt buộc
+**Lưu ý**: Quản lý có thể cài đặt **Tạo khiếu nại người bán tự động** với đơn trong mục **[Cấu hình](https://hd.gobiz.vn/m5/cau-hinh/chmuahangnhandon)** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.  
+     
+**Bước 2:** Điền trường thông tin bắt buộc như: Mã đơn hàng, Lý do, hạn xử lý,... và click **[Thực hiện]** để tạo KNNB
   
-  Khiếu nại viên điền đẩy đủ các trường thông tin bắt buộc vào form tạo.
-  
-  Sau khi điền đẩy đủ thông tin bắt buộc, Khiếu nại viên nhấn **[Thực hiện]** để tạo KNNB
-  
-  **Lưu ý:** Trên một đơn hàng, chỉ được tạo 1 KNNB cùng lý do với khi KNNB ở trạng thái **Chưa tiếp nhận** và **Đang xử lý**
+(**Lưu ý:** Trên một đơn hàng, chỉ được tạo 1 KNNB cùng lý do với khi KNNB ở trạng thái **Chưa tiếp nhận** và **Đang xử lý**)
   
   Nếu KNNB ở trạng thái **Thành công** hoặc **Thất bại** thì được tạo lại KNNB cùng lý do
   
