@@ -1,26 +1,36 @@
-# THÔNG TIN KHAI HẢI QUAN
+**Mục đích:**
 
-**Bước 1:** Tại màn hình **Chi tiết đơn** bấm chọn từng sản phẩm hoặc tất cả sản phẩm muốn chỉnh sửa **Thông tin khai báo hải quan**
+**Để khai thông tin hải quan cho sản phẩm, Giao dịch viên(GDV) thực hiện các bước như sau:**
+**Bước 1:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn**.
 
-![image](https://user-images.githubusercontent.com/75475064/104263322-f91d5a00-54bb-11eb-97af-09416f76fb89.png)
+![Khai thông tin hải quan](https://user-images.githubusercontent.com/75475064/105573833-e5fb6b80-5d92-11eb-8959-bf9fadca05a5.png)
 
-**Bước 2:** Bấm chọn nút **Sửa thông tin hải quan**
+**Bước 2:** GDV click vào **Mã đơn** để xem thông tin chi tiết đơn
 
-![image](https://user-images.githubusercontent.com/75475064/104263453-371a7e00-54bc-11eb-80f2-5d8dcb9d51a0.png)
+![Chi tiết đơn](https://user-images.githubusercontent.com/75475064/105573914-6621d100-5d93-11eb-98b2-c688b45fec46.png)
 
-**Bước 3:** Nhập thông tin khai hải quan mà trong **[Cấu hình](https://hd.gobiz.vn/m5/cauhinhnangcao)** bắt buộc nhập.
+**Bước 3:** Tại màn hình **Chi tiết đơn** bấm chọn từng sản phẩm hoặc tất cả sản phẩm muốn chỉnh sửa **Thông tin khai báo hải quan**
 
-**Bước 4:** Chọn **Cập nhật** để lưu chỉnh sửa
+![Chọn sản phẩm](https://user-images.githubusercontent.com/75475064/105573996-15f73e80-5d94-11eb-8ba2-a90cf7e4a680.png)
 
-![image](https://user-images.githubusercontent.com/75475064/101883418-d13f8b80-3bc9-11eb-942c-61e55773728f.png)
+**Bước 4:** Bấm chọn nút **Sửa thông tin hải quan**
 
-Sau khi Chỉnh sửa thông tin khai báo thành công, trên mỗi sản phẩm sẽ có tích xanh thông báo **" Đã cập nhật thông tin hải quan"**
+![Chọn Sửa thông tin hải quan](https://user-images.githubusercontent.com/75475064/105574059-8bfba580-5d94-11eb-8ffc-7003221f769e.png)
 
-![image](https://user-images.githubusercontent.com/75475064/104263633-8c568f80-54bc-11eb-86a1-d5ba9cae8a04.png)
+**Bước 5:** Nhập thông tin khai hải quan mà trong **[Cấu hình](m5/Cauhinhchung.md)** bắt buộc nhập và click **Cập nhật** để hoàn thành thao tác khai báo hải quan
+
+![](https://user-images.githubusercontent.com/75475064/105574251-d03b7580-5d95-11eb-9368-339681145957.png)
+
+Sau khi Chỉnh sửa thông tin khai báo thành công, trên mỗi sản phẩm sẽ có tích xanh thông báo **"Đã cập nhật thông tin hải quan"**
+
+![](https://user-images.githubusercontent.com/75475064/105574279-0aa51280-5d96-11eb-9142-ad14d1b5ccd2.png)
 
 Nếu tất cả các sản phẩm trong đơn đều đã được cập nhật đầy đủ Thông tin hải quan thì trên đơn sẽ có dấu tích xanh
 
-![image](https://user-images.githubusercontent.com/75475064/104263902-1999e400-54bd-11eb-8c1c-ab1e2813e90f.png)
+![](https://user-images.githubusercontent.com/75475064/105574307-4fc94480-5d96-11eb-8b0c-4e3fcead10d3.png)
+
+
+
 
 
 
