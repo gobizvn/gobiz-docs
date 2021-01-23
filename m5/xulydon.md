@@ -20,9 +20,9 @@
 
 ![](https://user-images.githubusercontent.com/75475064/105573227-9155f180-5d8e-11eb-911c-4f6163642235.png)
 
-**Bước 4:** GDV click **Auto pai** để tự động thêm sản phẩm vào giỏ
+**Bước 4:** GDV click **AUTOPAI** để tự động thêm sản phẩm vào giỏ
   
-  **Lưu ý:** GDV cài công cụ mua hàng tự động **[Auto pai](https://chrome.google.com/webstore/detail/c%C3%B4ng-c%E1%BB%A5-mua-h%C3%A0ng-gobiz/fmknmegefdocamdggpdlcnippgjfelmn)** trên trình duyệt Chrome/Cốc cốc
+  **Lưu ý:** GDV cài công cụ mua hàng tự động **[AUTOPAI](https://chrome.google.com/webstore/detail/c%C3%B4ng-c%E1%BB%A5-mua-h%C3%A0ng-gobiz/fmknmegefdocamdggpdlcnippgjfelmn)** trên trình duyệt Chrome/Cốc cốc
   
 ![Chọn AUTOPAI](https://user-images.githubusercontent.com/75475064/105572082-88155680-5d87-11eb-9166-9259f37b9cbb.png)
   
