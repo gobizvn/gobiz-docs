@@ -53,7 +53,22 @@ Sau khi resolve đơn có vấn đề thành công, đơn sẽ được đánh d
 
 **Bước 5:** Xử lý đơn vi phạm
 
-**Đánh dấu đơn vi phạm:** Từ màn hình **Kiểm soát giao dịch nhà cung cấp** Giao dịch viên truy cập trang **Chi tiết tài chính đơn** 
+**Đánh dấu đơn vi phạm:** Từ màn hình **Kiểm soát giao dịch nhà cung cấp** Giao dịch viên truy cập trang **Chi tiết tài chính đơn** và chọn **Đánh dấu đơn vi phạm**
+
+
+![Đánh dấu đơn vi phạm](https://user-images.githubusercontent.com/76998374/105572701-5e5e2e80-5d8b-11eb-981e-3de5f1d90300.png)
+
+
+ Sau đó, GDV nhập lý do vi phạm để đánh dấu đơn vi phạm (lý do là trường bắt buộc nhập)
+
+![Nhập lý do vi phạm](https://user-images.githubusercontent.com/76998374/105572724-88afec00-5d8b-11eb-8b2c-4e89b135e472.png)
+
+Sau khi đánh dấu đơn vi phạm thành công, đơn sẽ được đánh dấu có vi phạm và hiển thị đầy đủ lý do vi phạm, người và thời gian đánh dấu
+
+![Hiển thị đơn có đánh dấu vi phạm](https://user-images.githubusercontent.com/76998374/105572748-b006b900-5d8b-11eb-9bdb-c0cf68e0429a.png)
+
+
+
 
 
 
