@@ -18,7 +18,7 @@
 
 ![Chọn Sửa thông tin hải quan](https://user-images.githubusercontent.com/75475064/105574059-8bfba580-5d94-11eb-8ffc-7003221f769e.png)
 
-**Bước 5:** Nhập thông tin khai hải quan mà trong **[Cấu hình](m5/Cauhinhchung.md)** bắt buộc nhập và click **Cập nhật** để hoàn thành thao tác khai báo hải quan
+**Bước 5:** Nhập thông tin khai hải quan mà trong **[Cấu hình](https://hd.gobiz.vn/m5/cau-hinh/cauhinhchung)** bắt buộc nhập và click **Cập nhật** để hoàn thành thao tác khai báo hải quan
 
 ![](https://user-images.githubusercontent.com/75475064/105574251-d03b7580-5d95-11eb-9368-339681145957.png)
 
