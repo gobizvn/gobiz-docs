@@ -13,3 +13,12 @@ Ví dụ: Quản lý chọn GDV A với thời gian là tháng 01/2021 thì Dữ
 
 ![Tạo yêu cầu xuất doanh số](https://user-images.githubusercontent.com/76998374/105573153-21e00200-5d8e-11eb-81ea-f0e1938c3c31.png)
 
+**Bước 3:** Tải file doanh số
+
+
+Sau khi tạo yêu cầu xuất file doanh số hoàn thành thì quản lý tải file doanh số về bằng cách click vào nút [Tải file] 
+
+![Tải file doanh số](https://user-images.githubusercontent.com/76998374/105573251-bd717280-5d8e-11eb-9631-21676a0dfd5a.png)
+
+
+
