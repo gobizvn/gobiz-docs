@@ -20,7 +20,7 @@ Cài đặt thành công công cụ sẽ hiển thị như hình:
 
 **Bước 2:** Click chọn đơn hàng và click icon đồng bộ để đồng bộ tất cả các đơn, hoặc click icon đồng bộ trên từng đơn
 
-![](https://user-images.githubusercontent.com/75475064/101971813-ad7e5300-3c66-11eb-9dcc-7a5096677852.png)
+![](https://user-images.githubusercontent.com/75475064/105575031-0d563680-5d9b-11eb-916d-bc092492ded1.png)
 
 **Lưu ý:**
     
@@ -36,4 +36,4 @@ Cài đặt thành công công cụ sẽ hiển thị như hình:
     
      - **Hiển thị --** và không có icon quét đồng bộ tức là đơn đó chưa có mã hóa đơn gốc để thực hiện quét.
 
-![image](https://user-images.githubusercontent.com/75475064/101885663-01d4f480-3bcd-11eb-925f-2c6d0a6ddc39.png)
+![](https://user-images.githubusercontent.com/75475064/105575088-86558e00-5d9b-11eb-9ae7-406146c7cbf2.png)
