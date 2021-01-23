@@ -18,7 +18,7 @@ Cài đặt thành công công cụ sẽ hiển thị như hình:
 
 ![](https://user-images.githubusercontent.com/75475064/105574812-98363180-5d99-11eb-8bd2-be292bea26cd.png)
 
-**Bước 2:** Click chọn icon đồng bộ để đồng bộ từng đơn hoặc tất cả các đơn.
+**Bước 2:** Click chọn đơn hàng và click icon đồng bộ để đồng bộ tất cả các đơn, hoặc click icon đồng bộ trên từng đơn
 
 ![](https://user-images.githubusercontent.com/75475064/101971813-ad7e5300-3c66-11eb-9dcc-7a5096677852.png)
 
