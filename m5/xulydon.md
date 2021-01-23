@@ -17,8 +17,8 @@
 **Bước 3:** GDV cập nhật các trường thông tin của đơn hàng
 
   GDV cập nhật thông tin như: tài khoản mua hàng, điều chỉnh tỷ lệ đặt cọc, chỉnh sửa giá,…
-  
-![Chọn tài khoản mua hàng](https://user-images.githubusercontent.com/75475064/105572205-5355cf00-5d88-11eb-8afb-ff342eee54eb.png)
+
+![](https://user-images.githubusercontent.com/75475064/105573227-9155f180-5d8e-11eb-911c-4f6163642235.png)
 
 **Bước 4:** GDV click **Auto pai** để tự động thêm sản phẩm vào giỏ
   
