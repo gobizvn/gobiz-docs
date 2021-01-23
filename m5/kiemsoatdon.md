@@ -53,7 +53,9 @@ Sau khi resolve đơn có vấn đề thành công, đơn sẽ được đánh d
 
 **Bước 5:** Xử lý đơn vi phạm
 
-**Đánh dấu đơn vi phạm:** 
+**Đánh dấu đơn vi phạm:** Từ màn hình **Kiểm soát giao dịch nhà cung cấp** Giao dịch viên truy cập trang **Chi tiết tài chính đơn** 
+
+
 
 
 
