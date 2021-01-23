@@ -26,7 +26,7 @@
   
 ![Chọn AUTOPAI](https://user-images.githubusercontent.com/75475064/105572082-88155680-5d87-11eb-9166-9259f37b9cbb.png)
   
-**Bước 5:*** GDV cập nhật một số thông tin bắt buộc như: Mã hóa đơn gốc, phí vận chuyển nội địa, nhóm ngành hàng(nếu có) và dịch vụ.
+**Bước 5:** GDV cập nhật một số thông tin bắt buộc như: Mã hóa đơn gốc, phí vận chuyển nội địa, nhóm ngành hàng(nếu có) và dịch vụ.
  
 ![](https://user-images.githubusercontent.com/75475064/105573026-3e2f6f00-5d8d-11eb-9c13-e87d691048a8.png)
 
