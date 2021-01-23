@@ -1,6 +1,7 @@
-**Mục đích:**
+**Mục đích:** Hỗ trợ cập nhật thông tin khai báo hải quan
 
 **Để khai thông tin hải quan cho sản phẩm, Giao dịch viên(GDV) thực hiện các bước như sau:**
+
 **Bước 1:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn**.
 
 ![Khai thông tin hải quan](https://user-images.githubusercontent.com/75475064/105573833-e5fb6b80-5d92-11eb-8959-bf9fadca05a5.png)
