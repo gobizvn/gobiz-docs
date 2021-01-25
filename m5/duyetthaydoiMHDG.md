@@ -22,6 +22,40 @@ Giao dịch viên truy cập vào trang **Chi tiết đơn**. Tại khu vực MH
 
 ![Thực hiện tạo đề nghị](https://user-images.githubusercontent.com/76998374/105679021-73b89180-5f20-11eb-83fb-87ce0940040d.png)
 
+**Bước 4:** Đề nghị thay đổi MHĐG sau khi tạo thành công sẽ hiển thị ở màn hình **Duyệt thay đổi MHĐG**
+
+Từ menu **Đơn hàng**, giao dịch viên chọn mục **Duyệt thay đổi MHĐG** để tới màn hình **Duyệt thay đổi MHĐG**
+
+![Duyệt thay đổi MHĐG](https://user-images.githubusercontent.com/76998374/105679570-3c96b000-5f21-11eb-9b26-51172110eadc.png)
+
+
+**Bước 5:** Màn hình **Duyệt thay đổi MHĐG** hiển thị tất cả các đề nghị thay đổi MHĐG của giao dịch viên. 
+
+Mỗi đề nghị thay đổi bao gồm các thông tin: 
+
+- Mã đơn hàng
+
+- MHĐG hiện tại
+
+- MHĐG mới
+
+- Thời gian tạo đề nghị
+
+- Lý do tạo đề nghị 
+
+- Ghi chú duyệt đề nghị 
+
+- Trạng thái đề nghị
+
+- Xem log hành động 
+
+![Danh sách đề nghị](https://user-images.githubusercontent.com/76998374/105680072-d8282080-5f21-11eb-858c-9c1cf0203abc.png)
+
+
+**Bước 6:** Kiểm soát chất lượng dịch vụ có thể duyệt/từ chối đề nghị thay đổi
+
+
+
 
 
 
