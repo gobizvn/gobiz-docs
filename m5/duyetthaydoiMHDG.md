@@ -22,7 +22,7 @@ Giao dịch viên truy cập vào trang **Chi tiết đơn**. Tại khu vực MH
 
 ![Thực hiện tạo đề nghị](https://user-images.githubusercontent.com/76998374/105679021-73b89180-5f20-11eb-83fb-87ce0940040d.png)
 
-**Bước 4:** Đề nghị thay đổi MHĐG sau khi tạo thành công sẽ hiển thị ở màn hình **Duyệt thay đổi MHĐG**
+**Bước 4:** Đề nghị thay đổi MHĐG sau khi tạo thành công sẽ hiển thị ở màn hình **Duyệt thay đổi MHĐG** và có trạng thái là **Chưa xử lý**
 
 Từ menu **Đơn hàng**, giao dịch viên chọn mục **Duyệt thay đổi MHĐG** để tới màn hình **Duyệt thay đổi MHĐG**
 
@@ -53,6 +53,17 @@ Mỗi đề nghị thay đổi bao gồm các thông tin:
 
 
 **Bước 6:** Kiểm soát chất lượng dịch vụ có thể duyệt/từ chối đề nghị thay đổi
+
+Để **Duyệt** đề nghị, nhân viên KSCKLDV click chọn vào nút **[Duyệt]** trên đề nghị chưa xử lý
+
+![Duyệt đề nghị](https://user-images.githubusercontent.com/76998374/105680642-99df3100-5f22-11eb-901e-94834f027f26.png)
+
+Tại form duyệt nhân viên có thể nhập lý do hoặc không
+
+![Duyệt đề nghị](https://user-images.githubusercontent.com/76998374/105681056-30abed80-5f23-11eb-810d-13f6e5e5d4a8.png)
+
+Để **Hủy** đề nghị, 
+
 
 
 
