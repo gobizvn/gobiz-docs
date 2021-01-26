@@ -67,7 +67,7 @@ Tại form duyệt nhân viên có thể nhập lý do hoặc không. Sau khi du
 
 Để từ chối đề nghị, nhân viên KSCLDV click chọn vào nút **[Từ chối]** trên đề nghị chưa xử lý
 
-![Hủy đề nghị](https://user-images.githubusercontent.com/76998374/105796539-9ea6f200-5fc1-11eb-8704-b3a023d1f9f3.png)
+![Từ chối đề nghị](https://user-images.githubusercontent.com/76998374/105796539-9ea6f200-5fc1-11eb-8704-b3a023d1f9f3.png)
 
 Sau khi từ chối, đề nghị sẽ chuyển sang trạng thái **Đã từ chối**
 
