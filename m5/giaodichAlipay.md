@@ -73,9 +73,9 @@ Các giao dịch được đánh dấu bất thường bao gồm:
 
 Với những giao dịch bất thường chưa xử lý thì có thể đánh dấu là Resolved (đã xử lý) với lý do đánh dấu là bắt buộc nhập.
 
-Có 2 màn hình để thực hiện Resolve giao dịch đó là: Màn hình danh sách giao dịch và chi tiết giao dịch alipay
+Có 2 màn hình để thực hiện Resolve giao dịch đó là: Màn hình danh sách giao dịch và chi tiết giao dịch alipay.
 
-Tại danh sách giao dịch alipay, nhân viên click vào nút [Resolve] bên cạnh cảnh báo bất thường của giao dịch
+Tại danh sách giao dịch alipay, nhân viên click vào nút [Resolve] bên cạnh cảnh báo bất thường của giao dịch.
 
 ![Resolve giao dịch](https://user-images.githubusercontent.com/76998374/105819641-0291e080-5feb-11eb-8c6c-6c741e7aadc4.png)
 
@@ -86,6 +86,16 @@ Nhập lý do đánh dấu giao dịch đã xử lý và click chọn [Resolve] 
 Hiển thị thông báo Resolve giao dịch thành công và giao dịch được đánh dấu là đã xử lý
 
 ![Resolve giao dịch](https://user-images.githubusercontent.com/76998374/105819871-5bfa0f80-5feb-11eb-8d48-de4bf3f2084c.png)
+
+**Unresolve giao dịch**
+
+Với những giao dịch bất thường đã xử lý thì được phép Unrelove giao dịch bằng cách click vào nút [Unresolve] trên GD được đánh dấu là đã xử lý
+
+![Unresolve GD](https://user-images.githubusercontent.com/76998374/105820269-efcbdb80-5feb-11eb-9cb8-83597e015c39.png)
+
+Khi click vào nút [Unresolve] sẽ có thông báo confirm. Nếu chọn [OK] thì giao dịch sẽ Unresolve thành công và giao dịch trở thành GD bất thường chưa xử lý
+
+![Confirm Unresolve GD](https://user-images.githubusercontent.com/76998374/105820565-49cca100-5fec-11eb-8f14-5b006a688dc3.png)
 
 
 
