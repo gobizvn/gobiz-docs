@@ -37,7 +37,7 @@ Mỗi giao dịch alipay bao gồm các thông tin:
 
 ![Danh sách giao dịch alipay](https://user-images.githubusercontent.com/76998374/105813563-9d39f180-5fe2-11eb-849e-6a3367210dab.png)
 
-**Bước 2** Khớp đơn với giao dịch
+**Bước 2** **Thêm/xóa MHĐG khỏi giao dịch**
 
 Tại trang danh sách giao dịch alipay, KSCLDV có thể thêm/xóa MHĐG trên giao dịch.
 
