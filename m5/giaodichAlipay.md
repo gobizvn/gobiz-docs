@@ -5,9 +5,73 @@ Từ menu **Kiểm soát mua hàng**, nhân viên KSCLDV chọn mục **Kiểm s
 
 ![Kiểm soát giao dịch](https://user-images.githubusercontent.com/76998374/105815675-e0e22a80-5fe5-11eb-9b4c-17c2f1c8d918.png)
 
-Sau khi kế toán upload file giao dịch alipay thành công lên hệ thống thì tất cả giao dịch sẽ hiển thị ở màn hình danh sách giao dịch alipay
+Sau khi kế toán upload file giao dịch alipay thành công lên hệ thống thì tất cả giao dịch sẽ hiển thị ở màn hình danh sách giao dịch alipay.
+
+Mỗi giao dịch alipay bao gồm các thông tin: 
+
+- Tài khoản giao dịch
+
+- Mã giao dịch
+
+- Số tiền giao dịch
+
+- Thời gian GD
+
+- Mã đơn hàng
+
+- Loại GD
+
+- Nhà cung cấp
+
+- Mã GD nhà cung cấp
+
+- Thời gian tạo trên hệ thống
+
+- Thời gian xử lý
+
+- File CSV
+
+- Giao dịch liên quan
+
+- Tài khoản liên quan
 
 ![Danh sách giao dịch alipay](https://user-images.githubusercontent.com/76998374/105813563-9d39f180-5fe2-11eb-849e-6a3367210dab.png)
+
+**Bước 2** Khớp đơn với giao dịch
+
+Tại trang danh sách giao dịch alipay, KSCLDV có thể thêm/xóa MHĐG trên giao dịch.
+
+- Nếu nhập MHĐG tồn tại trên đơn thì giao dịch sẽ map với đơn và giao dịch alipay hiển thị ở chi tiết đơn 
+
+- Nếu nhập MHĐG không tồn tại trên đơn thì giao dịch chưa khớp được đơn và không hiển thị ở chi tiết đơn
+
+**Thêm MHĐG vào giao dịch** 
+
+![Thêm MHĐG vào GD](https://user-images.githubusercontent.com/76998374/105818085-09b7ef00-5fe9-11eb-87ab-46ec04e39e44.png)
+
+**Xóa MHĐG khỏi GD:** Click vào icon bút chì bên cạnh MHĐG, sau đó chọn xóa trên MHĐG cần xóa
+
+![Xóa MHĐG](https://user-images.githubusercontent.com/76998374/105818481-9367bc80-5fe9-11eb-87e3-e24a8792f215.png)
+
+![Thêm/xóa MHĐG vào GD](https://user-images.githubusercontent.com/76998374/105818182-2a804480-5fe9-11eb-82c1-a7935db1b763.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
