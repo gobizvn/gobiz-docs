@@ -58,11 +58,14 @@ Mỗi đề nghị thay đổi bao gồm các thông tin:
 
 ![Duyệt đề nghị](https://user-images.githubusercontent.com/76998374/105680642-99df3100-5f22-11eb-901e-94834f027f26.png)
 
-Tại form duyệt nhân viên có thể nhập lý do hoặc không
+Tại form duyệt nhân viên có thể nhập lý do hoặc không. Sau khi duyệt, đề nghị sẽ chuyển sang trạng thái **Đã duyệt**
 
 ![Duyệt đề nghị](https://user-images.githubusercontent.com/76998374/105681056-30abed80-5f23-11eb-810d-13f6e5e5d4a8.png)
 
-Để **Hủy** đề nghị, 
+![Duyệt đề nghị](https://user-images.githubusercontent.com/76998374/105796256-0b6dbc80-5fc1-11eb-8022-8af96b1ef31e.png)
+
+
+Để **Hủy** đề nghị, nhân viên KSCLDV click chọn vào nút **[Từ chối]** trên đề nghị chưa xử lý
 
 
 
