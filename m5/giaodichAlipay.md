@@ -1,5 +1,5 @@
 
-**Bước 1:** **KSCLDV kiểm tra thông tin giao dịch alipay khớp với đơn trên hệ thống**
+**Bước 1:** **KSCLDV kiểm tra thông tin giao dịch alipay**
 
 Từ menu **Kiểm soát mua hàng**, nhân viên KSCLDV chọn mục **Kiểm soát giao dịch** để truy cập vào trang **Danh sách giao dịch alipay**
 
