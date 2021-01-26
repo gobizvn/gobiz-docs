@@ -1,31 +1,7 @@
-# KIỂM SOÁT GIAO DỊCH ALIPAY VÀ LỢI NHUẬN MẶC CẢ
 
-## Bước 1: Truy cập để tải về tệp ALIPAY.
+**Sau khi kế toán upload file giao dịch alipay thành công lên hệ thống thì tất cả giao dịch sẽ hiển thị ở màn hình danh sách giao dịch alipay**
 
-  -  Kế toán đăng nhập bằng tài khoản taobao https://www.alipay.com/
-  
-  - Mở link https://consumeprod.alipay.com/record/advanced.htm
-  
-  - Chọn khoảng thời gian cần xuất/ check
-  
-  - Chọn thông tin GD chi/ thu để xuất
-  
-![image](https://user-images.githubusercontent.com/75475064/101973254-47df9600-3c69-11eb-948f-1e4181b722d3.png)
-
-  
-**Lưu ý:** Khi bấm xuất file có thể sẽ đòi đăng nhập tiếp, cần đăng nhập vào alipay trên điện thoại sau đó quét mã vào máy tính để đăng nhập xuất
-
-![image](https://user-images.githubusercontent.com/75475064/101973261-647bce00-3c69-11eb-97a9-568638b97a8d.png)
-
-![image](https://user-images.githubusercontent.com/75475064/101973274-7eb5ac00-3c69-11eb-8da4-778b42e08622.png)
-
-![image](https://user-images.githubusercontent.com/75475064/101973288-942ad600-3c69-11eb-9a5e-016937b3c22e.png)
-
-  Nội dung File khi tải về sẽ như sau (Để đọc được file cần tải file lên google docs): 
-  
-![image](https://user-images.githubusercontent.com/75475064/101973302-a7d63c80-3c69-11eb-90df-4184c2354602.png)
-
-## Bước 2: Kế toán Upload file giao dịch Alipay lên hệ thống
+Bước 2: Kế toán Upload file giao dịch Alipay lên hệ thống
 
   Chọn **Kiểm soát mua hàng** > **Danh sách file giao dịch** > **Tải file**
   File alipay được chia thành 03 loại: 
