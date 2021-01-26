@@ -1,5 +1,26 @@
 **Mục đích:** Hỗ trợ kế toán upload file alipay lên hệ thống và tự động map giao dịch alipay với đơn hàng theo mã hóa đơn gốc
 
+**Cách xuất file giao dịch alipay**
+
+
+1. Đăng nhập bằng tài khoản taobao https://www.alipay.com/
+
+2. Mở link https://consumeprod.alipay.com/record/advanced.htm
+
+3. Chọn khoảng thời gian cần xuất/ check
+
+![image](https://user-images.githubusercontent.com/76998374/105801390-9e135900-5fcb-11eb-9012-fb5f5f66b2bb.png)
+
+4. Chọn thông tin giao dịch chi/thu để xuất
+
+Khi bấm xuất file có thể sẽ yêu cầu đăng nhập tiếp, cần đăng nhập vào alipay trên điện thoại sau đó quét mã vào máy tính để đăng nhập xuất
+
+![image](https://user-images.githubusercontent.com/76998374/105801475-cac77080-5fcb-11eb-8053-b9d24a135d33.png)
+
+![image](https://user-images.githubusercontent.com/76998374/105801540-e599e500-5fcb-11eb-9c67-ae2306d62c4a.png)
+
+
+**Cách upload file alipay**
 
 **Bước 1:** Kế toán truy cập trang **Danh sách giao dịch Alipay** từ menu bên trái màn hình
 
