@@ -55,6 +55,38 @@ Tại trang danh sách giao dịch alipay, KSCLDV có thể thêm/xóa MHĐG tr�
 
 ![Xóa MHĐG khỏi GD](https://user-images.githubusercontent.com/76998374/105818670-c5791e80-5fe9-11eb-97d0-da2d35edf952.png)
 
+**Bước 3:** **Kiểm soát giao dịch bất thường**
+
+Các giao dịch được đánh dấu bất thường bao gồm:
+
+- Giao dịch khớp được MHĐG
+
+- Giao dịch có MHĐG nhưng không thấy trên hệ thống
+
+- Giao dịch chi thanh toán hộ chưa khớp giao dịch liên quan
+
+- Giao dịch chi thanh toán hộ có số tiền không khớp
+
+- Khác (các trường hợp bất thường khác không bao gồm các TH kể trên)
+
+**Resolve giao dịch bất thường**
+
+Với những giao dịch bất thường chưa xử lý thì có thể đánh dấu là Resolved (đã xử lý) với lý do đánh dấu là bắt buộc nhập.
+
+Có 2 màn hình để thực hiện Resolve giao dịch đó là: Màn hình danh sách giao dịch và chi tiết giao dịch alipay
+
+Tại danh sách giao dịch alipay, nhân viên click vào nút [Resolve] bên cạnh cảnh báo bất thường của giao dịch
+
+![Resolve giao dịch](https://user-images.githubusercontent.com/76998374/105819641-0291e080-5feb-11eb-8c6c-6c741e7aadc4.png)
+
+Nhập lý do đánh dấu giao dịch đã xử lý và click chọn [Resolve] để đánh dấu là đã xử lý giao dịch bất thường
+
+![Đánh dấu đã xử lý GD bất thường](https://user-images.githubusercontent.com/76998374/105819724-20f7dc00-5feb-11eb-9ea2-d1b765712927.png)
+
+Hiển thị thông báo Resolve giao dịch thành công và giao dịch được đánh dấu là đã xử lý
+
+![Resolve giao dịch](https://user-images.githubusercontent.com/76998374/105819871-5bfa0f80-5feb-11eb-8d48-de4bf3f2084c.png)
+
 
 
 
