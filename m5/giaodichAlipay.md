@@ -1,5 +1,15 @@
 
-**Sau khi kế toán upload file giao dịch alipay thành công lên hệ thống thì tất cả giao dịch sẽ hiển thị ở màn hình danh sách giao dịch alipay**
+**Bước 1:** **KSCLDV kiểm tra thông tin giao dịch alipay khớp với đơn trên hệ thống**
+
+Từ menu **Kiểm soát mua hàng**, nhân viên KSCLDV chọn mục **Kiểm soát giao dịch** để truy cập vào trang **Danh sách giao dịch alipay**
+
+![Kiểm soát giao dịch](https://user-images.githubusercontent.com/76998374/105815675-e0e22a80-5fe5-11eb-9b4c-17c2f1c8d918.png)
+
+Sau khi kế toán upload file giao dịch alipay thành công lên hệ thống thì tất cả giao dịch sẽ hiển thị ở màn hình danh sách giao dịch alipay
+
+![Danh sách giao dịch alipay](https://user-images.githubusercontent.com/76998374/105813563-9d39f180-5fe2-11eb-849e-6a3367210dab.png)
+
+
 
 Bước 2: Kế toán Upload file giao dịch Alipay lên hệ thống
 
