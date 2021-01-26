@@ -48,3 +48,5 @@ Sau khi upload file thành công, Kế toán có thể xem tổng số giao dị
 ![Xem thông tin file upload](https://user-images.githubusercontent.com/76998374/105323685-fc6fbe80-5bfc-11eb-9b30-856d8286a3f0.png)
 
 
+
+
