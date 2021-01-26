@@ -53,7 +53,9 @@ Tại trang danh sách giao dịch alipay, KSCLDV có thể thêm/xóa MHĐG tr�
 
 ![Xóa MHĐG](https://user-images.githubusercontent.com/76998374/105818481-9367bc80-5fe9-11eb-87e3-e24a8792f215.png)
 
-![Thêm/xóa MHĐG vào GD](https://user-images.githubusercontent.com/76998374/105818182-2a804480-5fe9-11eb-82c1-a7935db1b763.png)
+![Xóa MHĐG khỏi GD](https://user-images.githubusercontent.com/76998374/105818670-c5791e80-5fe9-11eb-97d0-da2d35edf952.png)
+
+
 
 
 
