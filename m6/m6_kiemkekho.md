@@ -50,19 +50,15 @@ Quản lý kho truy cập màn Kiểm kê từ thanh menu bên trái màn hình
 
 - Danh sách kiện đúng: Là các kiện đã được quét kiểm kê, kiện có ở cả kho vật lý và trên hệ thống
 
-Quản lý kho kiểm tra danh sách kiện thừa và kiện thiếu, sau đó thực hiện xử lý danh sách kiện thiếu/ kiện thừa
+Quản lý kho kiểm tra danh sách kiện thừa và kiện thiếu, sau đó thực hiện xử lý danh sách kiện thiếu/ kiện thừa như sau:
 
-- Xử lý đối với kiện thiếu
+- Click "Đã xử lý" kiện thiếu: Khi đã tìm thấy kiện tại kho hoặc kiện đã được tìm thấy tại kho khác và có phương án xử lý với kiện
 
-+ Đã xử lý: Khi đã tìm thấy kiện tại kho hoặc kiện đã được tìm thấy tại kho khác và có phương án xử lý với kiện
+- Xử lý Thất lạc với kiện thiếu: Khi không tìm thấy kiện
 
-+ Thất lạc: Khi không tìm thấy kiện
+- Xử lý Nhập kho kiện thừa: Nhập kiện thừa vào kho hiện tại
 
-- Xử lý đối với kiện thừa
-
-+ Nhập kho: Nhập kiện thừa vào kho hiện tại
-
-+ Đã xử lý: Có phương án xử lý khác với kiện thừa (VD: chuyển về kho đúng của kiện, lưu kho...) và nhập lý do xử lý
+- Click "Đã xử lý" kiện thừa: Có phương án xử lý khác với kiện thừa (VD: chuyển về kho đúng của kiện, lưu kho...) và nhập lý do xử lý
 
 ![đối soát kiểm kê](https://user-images.githubusercontent.com/75357871/101119947-0cb4e580-361f-11eb-9329-56f879af90b2.png)
 
@@ -79,7 +75,7 @@ Quản lý kho kiểm tra danh sách kiện thừa và kiện thiếu, sau đó 
 
 ![quét vận đơn](https://user-images.githubusercontent.com/75357871/101120208-9bc1fd80-361f-11eb-86c2-05554cb940ed.png)
 
-**Bước 3**: Sau khi quản lý kho thực hiện đối soát, hệ thống tự động thống kê các mã vận đơn đã quét theo danh sách vận đơn thừa, danh sách vận đơn thiếu và danh sách vận đơn đúng.
+**Bước 3**: Sau khi quản lý kho thực hiện đối soát, hệ thống tự động thống kê các mã vận đơn đã quét theo danh sách vận đơn thừa, danh sách vận đơn thiếu và danh sách vận đơn đúng. Hệ thống hiển thị mã vận đơn và danh sách kiện được tạo từ mã vận đơn đó.
 
 - Danh sách vận đơn thừa: Là các mã vận đơn có trong kho vật lý và được quản lý kho quét kiểm kê, nhưng trên hệ thống không có kiện nào được tạo từ mã vận đơn này trong kho kiểm kê.
 
@@ -87,6 +83,14 @@ Quản lý kho kiểm tra danh sách kiện thừa và kiện thiếu, sau đó 
 
 - Danh sách vận đơn đúng: Là các mã vận đơn đã được quét kiểm kê và mã vận đơn có trên kho vật lý cũng như đã có kiện tại kho kiểm kê được tạo từ mã vận đơn đó trên hệ thống
 
-Quản lý kho kiểm tra danh sách vận đơn thừa và vận đơn thiếu, sau đó thực hiện xử lý danh sách vận đơn thừa (Đánh dấu "Đã xử lý" hoặc chuyển trạng thái các kiện có trạng thái "Kiện về kho" từ mã vận đơn đó thành "Thất lạc") và danh sách vận đơn thiếu (đánh dấu "Đã xử lý") để hoàn thành đối soát
+Quản lý kho kiểm tra danh sách vận đơn thừa và vận đơn thiếu, sau đó thực hiện xử lý danh sách vận đơn thiếu/ kiện thừa như sau:
+
+- Click "Đã xử lý" vận đơn thiếu: Khi đã tìm thấy kiện của mã vận đơn tại kho hoặc kiện đã được tìm thấy tại kho khác và có phương án xử lý với kiện
+
+- Xử lý Thất lạc với vận đơn thiếu: Khi không tìm thấy kiện của mã vận đơn đó
+
+- Xử lý Nhập kho vận đơn thừa: Nhập kiện thừa thuộc mã vận đơn đó vào kho hiện tại
+
+- Click "Đã xử lý" vận đơn thừa: Có phương án xử lý khác với kiện thừa của mã vận đơn đó như: chuyển về kho đúng của kiện, lưu kho...
 
 ![đối soát vận đơn](https://user-images.githubusercontent.com/75357871/101120784-163f4d00-3621-11eb-9b55-415b0eb4452d.png)
