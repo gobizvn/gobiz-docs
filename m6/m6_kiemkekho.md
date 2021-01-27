@@ -1,4 +1,4 @@
-**Chức năng**: Hỗ trợ quản lý kho theo dõi được tình trạng/ số lượng kiện định kỳ bằng việc đối soát kiện trong kho vật lý với kiện đang có trên hệ thống nhằm kiểm soát thất lạc, sai lệch
+**Chức năng**: Hỗ trợ quản lý kho theo dõi được tình trạng/ số lượng kiện định kỳ nhằm kiểm soát thất lạc, sai lệch,... bằng việc đối soát kiện trong kho vật lý với kiện đang có trên hệ thống 
 
 Quản lý kho truy cập màn Kiểm kê từ thanh menu bên trái màn hình
 
@@ -6,11 +6,35 @@ Quản lý kho truy cập màn Kiểm kê từ thanh menu bên trái màn hình
 
 **I. Kiểm kê kiện** 
 
-**Mục đích**: Hỗ trợ kiểm kê, đối soát và xử lý các kiện trong kho theo mã kiện
+**Mục đích**: Quét kiểm kê các kiện trong kho bằng mã kiện sau đó thực hiện đối soát để thống kê được số lượng kiện thừa/ kiện thiếu trong kho.
 
 **Bước 1**: Quản lý kho lựa chọn kho cần kiểm kê trên danh sách kho mình có quyền phụ trách và lựa chọn loại kiểm kê là "Kiểm kê kiện", sau đó chọn "Tạo kiểm kê" để bắt đầu kiểm kê kho
 
-*Lưu ý: Tùy chọn "Không kiểm kê những kiện đã nằm trong bao" và "Không kiểm kê những kiện lô", tùy theo quy trình vận hành của kho, quản lý kho có thể click chọn hoặc bỏ chọn. Nếu quản lý kho click chọn thì khi quét kiểm kê các kiện trong bao hoặc các kiện vận chuyển lô, các kiện này sẽ được coi là kiện thừa"*
+*Lưu ý: Tùy chọn "Không kiểm kê những kiện đã nằm trong bao" và "Không kiểm kê những kiện dùng dịch vụ", tùy theo quy trình vận hành của kho, quản lý kho có thể click chọn hoặc bỏ chọn. 
+
+*Nếu quản lý kho click chọn "Không kiểm kê những kiện đã nằm trong bao", thì với các kiện trong bao có kho vật lý và kho trên hệ thống đều đang ở kho kiểm kê:*
+
+*+ Quét kiện vào kiểm kê: Kiện được quét hiển thị ở danh sách kiện thừa*
+
+*+ Không quét kiện vào kiểm kê: Các kiện trong bao không hiển thị ở danh sách kiện thừa, không hiển thị ở danh sách kiện thiếu*
+
+*Nếu quản lý kho không click chọn "Không kiểm kê những kiện đã nằm trong bao", thì với các kiện trong bao có kho vật lý và kho trên hệ thống đều đang ở kho kiểm kê:*
+
+*+ Quét kiện vào kiểm kê: Kiện được quét hiển thị ở danh sách kiện đúng*
+
+*+ Không quét kiện vào kiểm kê: Các kiện trong bao thuộc kho kiểm kê sẽ hiển thị ở danh sách kiện thiếu*
+
+*Nếu quản lý kho click chọn "Không kiểm kê những kiện dùng dịch vụ" và chọn một hoặc nhiều dịch vụ không kiểm kê, khi kiểm kê, hệ thống kiểm tra dịch vụ của kiện và dịch vụ không kiểm kê như sau:*
+
+*+ Quét mã kiện mà dịch vụ trên kiện đó chứa dịch vụ không kiểm kê: Kiện được quét hiển thị ở danh sách kiện thừa*
+
+*+ Quét mã kiện mà dịch vụ trên kiện không chứa dịch vụ không kiểm kê: Kiện được quét hiển thị ở danh sách kiện đúng*
+
+*+ Không quét mã kiện mà dịch vụ trên kiện đó chứa dịch vụ không kiểm kê: Kiện không hiển thị ở danh sách kiện thừa, không hiển thị ở danh sách kiện thiếu*
+
+*+ Không quét mã kiện mà dịch vụ trên kiện không chứa dịch vụ không kiểm kê: Kiện hiển thị ở danh sách kiện thiếu*
+
+*Nếu quản lý kho không click chọn "Không kiểm kê những kiện dùng dịch vụ" thì khi kiểm kê kiện trong kho không quan tâm đến kiện dùng dịch vụ gì, kiện được quét sẽ ở danh sách kiện đúng, kiện không được quét sẽ ở danh sách kiện thiếu*
 
 ![tạo kiểm kê](https://user-images.githubusercontent.com/75357871/101118039-e2f9bf80-361a-11eb-9e22-cdfd9da56b1c.png)
 
@@ -26,7 +50,19 @@ Quản lý kho truy cập màn Kiểm kê từ thanh menu bên trái màn hình
 
 - Danh sách kiện đúng: Là các kiện đã được quét kiểm kê, kiện có ở cả kho vật lý và trên hệ thống
 
-Quản lý kho kiểm tra danh sách kiện thừa và kiện thiếu, sau đó thực hiện xử lý danh sách kiện thừa (Đánh dấu "Đã xử lý" hoặc chuyển trạng thái kiện thành "Thất lạc") và danh sách kiện thiếu (đánh dấu "Đã xử lý" hoặc "Nhập kho" để nhập kiện vào kho đang kiểm kê) để hoàn thành đối soát
+Quản lý kho kiểm tra danh sách kiện thừa và kiện thiếu, sau đó thực hiện xử lý danh sách kiện thiếu/ kiện thừa
+
+- Xử lý đối với kiện thiếu
+
++ Đã xử lý: Khi đã tìm thấy kiện tại kho hoặc kiện đã được tìm thấy tại kho khác và có phương án xử lý với kiện
+
++ Thất lạc: Khi không tìm thấy kiện
+
+- Xử lý đối với kiện thừa
+
++ Nhập kho: Nhập kiện thừa vào kho hiện tại
+
++ Đã xử lý: Có phương án xử lý khác với kiện thừa (VD: chuyển về kho đúng của kiện, lưu kho...) và nhập lý do xử lý
 
 ![đối soát kiểm kê](https://user-images.githubusercontent.com/75357871/101119947-0cb4e580-361f-11eb-9329-56f879af90b2.png)
 
