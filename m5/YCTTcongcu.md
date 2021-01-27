@@ -32,8 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/76998374/105937882-02482280-6089-11eb-813e-7db9eb773d1d.png)
 
-- Công cụ mua hàng sẽ tự động nhận thông tin và chuyển yêu cầu thanh toán từ site gốc (Taobao.com) sang M5 (hệ thống mua hàng của bạn)
-
+- Công cụ mua hàng sẽ tự động nhận thông tin và chuyển yêu cầu thanh toán từ site gốc (Taobao.com) sang M5 (hệ thống mua hàng của bạn).
 Đồng thời hiển thị thông báo đã gửi yêu cầu thanh toán thành công
 
 
