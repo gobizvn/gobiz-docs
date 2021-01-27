@@ -1,10 +1,16 @@
+**Đơn trước trạng thái ĐÃ MUA:** GDV chuyển trạng thái đơn sang chờ thanh toán (đảm bảo đủ điều kiện để chuyển sang đã mua) => quỹ thanh toán xong, hệ thống tự động chuyển ĐÃ MUA (không cần duyệt).
+
+**Đơn sau trạng thái ĐÃ MUA:** Khi GDV gửi YCTT thì YCTT sẽ hiển thị ở tab Chờ duyệt và trưởng nhóm sẽ duyệt YCTT.
+
+**Lưu ý:** Với đơn gửi daifu: Nhập thông tin alipay daifu, không chọn ở phần site gốc đã có
+
 **Bước 1:** **Giao dịch viên truy cập màn hình chi tiết đơn và thực hiện:**
 
 - Chọn đầy đủ các dịch vụ trên đơn
 
 - Điền mã hóa đơn gốc vào đơn hàng
 
-- Chuyển trạng thái đơn sang ĐÃ PAI
+- Chuyển trạng thái đơn sang ĐÃ PAI hoặc CHỜ THANH TOÁN
 
 ![Chi tiết đơn](https://user-images.githubusercontent.com/76998374/105937552-64545800-6088-11eb-86c2-ba3869c92f6d.png)
 
@@ -24,16 +30,17 @@
 
 - Link: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z02.1.972272805.d4919660.7942782dWHq9NR&action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitPay
 
-- Chọn mã đơn cần thanh toán => Click Thanh toán [合并付款] 
+- Chọn mã đơn cần thanh toán => Click [Gửi YCTT gộp] 
 
-![image](https://user-images.githubusercontent.com/76998374/105937825-eb093500-6088-11eb-8a81-d0bab1aeb20b.png)
+![image](https://user-images.githubusercontent.com/76998374/105942275-7a1a4b00-6091-11eb-8f2e-a57dd358e325.png)
 
-- Chọn thanh toán qua tài khoản ngân hàng
+**Cơ chế Gửi YCTT:** Người gửi YCTT không cần chọn hình thức thanh toán (quỹ sẽ quyết định thanh toán bằng hình thức nào): tích chọn đơn cần thanh toán và thao tác để gửi YCTT, GDV được thêm MHDG ở mọi trạng thái
 
-![image](https://user-images.githubusercontent.com/76998374/105937882-02482280-6089-11eb-813e-7db9eb773d1d.png)
+![Gửi YCTT](https://user-images.githubusercontent.com/76998374/105942367-af269d80-6091-11eb-8972-741b999f470d.png)
 
-- Công cụ mua hàng sẽ tự động nhận thông tin và chuyển yêu cầu thanh toán từ site gốc (Taobao.com) sang M5 (hệ thống mua hàng của bạn).
-Đồng thời hiển thị thông báo đã gửi yêu cầu thanh toán thành công
+- Công cụ mua hàng sẽ tự động nhận thông tin và chuyển yêu cầu thanh toán từ site gốc (Taobao.com) sang M5 (hệ thống mua hàng của bạn). Đồng thời hiển thị thông báo đã gửi yêu cầu thanh toán thành công
+
+- YCTT sau khi gửi thanh công sẽ hiển thị ở trạng thái CHỜ THANH TOÁN (không cần duyệt)
 
 **Bước 3:** **Tại màn hình Danh sách yêu cầu thanh toán**
 
