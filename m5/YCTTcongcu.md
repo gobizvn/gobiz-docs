@@ -35,5 +35,21 @@
 - Công cụ mua hàng sẽ tự động nhận thông tin và chuyển yêu cầu thanh toán từ site gốc (Taobao.com) sang M5 (hệ thống mua hàng của bạn).
 Đồng thời hiển thị thông báo đã gửi yêu cầu thanh toán thành công
 
+**Bước 3:** **Tại màn hình Danh sách yêu cầu thanh toán**
+
+- Nhân viên Quỹ truy cập menu **Đơn hàng** và chọn **Yêu cầu thanh toán**
+
+![Yêu cầu thanh toán](https://user-images.githubusercontent.com/76998374/105938890-b1392e00-608a-11eb-96fd-0d8a2cdcf022.png)
+
+- Xử lý YCTT:
+
++ Tại tab **Chờ thanh toán**, nếu chọn [Tiếp nhận] thì hệ thống chuyển YCTT sang Đang thanh toán
+
++ Sau đó truy cập link thanh toán để tiến hành thanh toán đơn hàng
+
+
+
+
+
 
 
