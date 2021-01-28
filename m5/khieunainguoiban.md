@@ -29,7 +29,6 @@
   
    - Nếu KNNB ở trạng thái **Thành công** hoặc **Thất bại** thì được tạo lại KNNB cùng lý do
    
- ![](https://user-images.githubusercontent.com/75475064/101887687-ca1b7c00-3bcf-11eb-9588-fef7da1f58d4.png)
    
    
 **Bước 2:** Điền trường thông tin bắt buộc như: Mã đơn hàng, Lý do, hạn xử lý,... và click **[Thực hiện]** để tạo KNNB
