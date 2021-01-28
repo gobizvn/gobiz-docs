@@ -71,3 +71,18 @@
   * GDV nhập số lượng mới của sản phẩm và click **Thực hiện** để hoàn thành sửa số lượng sản phẩm
   
 ![Nhập số lượng](https://user-images.githubusercontent.com/75475064/105572609-c4968180-5d8a-11eb-8a31-a3f276c6de90.png)
+
+**Để comment nội bộ và comment với khách, GDV thực hiện như sau**
+
+ **Bước 1:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Đơn đang mua**, click vào **Mã đơn** để xem thông tin chi tiết đơn.
+ 
+ **Bước 2:** GDV click chọn checkbox Comment để có thể chat với khách hàng hoặc chat nội bộ tại chatbox.
+ 
+ ![](https://user-images.githubusercontent.com/75475064/106115888-d9588800-6183-11eb-8f82-96d659bb8a16.png)
+ 
+ **Bước 3:** GDV click chọn checkbox Hành động để xem log hành động trên đơn hàng
+ 
+ ![](https://user-images.githubusercontent.com/75475064/106116004-fee59180-6183-11eb-8b68-f86cee469fb1.png)
+
+
+ 
