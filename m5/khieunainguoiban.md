@@ -47,12 +47,14 @@
 
 ![Chi tiết KNNB](https://user-images.githubusercontent.com/75475064/106087260-39383a00-6156-11eb-94a4-2b6960f4b557.png)
 
+
+
 **Bước 3:** Quản lý xử lý KNNB
 
-
-   ![Đang xử lý](https://user-images.githubusercontent.com/75475064/106088587-d7c59a80-6158-11eb-9020-54d869c78bd8.png)
-
+  
    * Quản lý click **Tiếp nhận** thì KNNB sẽ chuyển trạng thái sang **Đang xử lý**
+
+ ![Đang xử lý](https://user-images.githubusercontent.com/75475064/106088587-d7c59a80-6158-11eb-9020-54d869c78bd8.png)
 
    Quản lý click **Từ chối** thì KNNB sẽ chuyển trạng thái sang **Thất bại**
    
@@ -67,12 +69,6 @@
 ![KNNB Thành công](https://user-images.githubusercontent.com/75475064/106089563-c7162400-615a-11eb-81de-d4d2080d396c.png)
 
   *  Quản lý click  **Thất bại** và Nhập lý do khiếu nại thất bại thì KNNB chuyển sang trạng thái **Thất bại**
-
-![image](https://user-images.githubusercontent.com/75475064/101892442-f89c5580-3bd5-11eb-96b8-8f08299dd06b.png)
-
-![image](https://user-images.githubusercontent.com/75475064/101892826-73fe0700-3bd6-11eb-86ec-bc1759b680b0.png)
-
-  * Có thể gia hạn thêm cho **Hạn xử lý KNNB** và nhập lý do
 
 ![Nhập lý do thất bại](https://user-images.githubusercontent.com/75475064/106089673-02185780-615b-11eb-8718-0ee460e8b56a.png)
 
