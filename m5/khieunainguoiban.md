@@ -53,10 +53,9 @@
 
   
    * Quản lý click **Tiếp nhận** thì KNNB sẽ chuyển trạng thái sang **Đang xử lý**
+   Quản lý click **Từ chối** thì KNNB sẽ chuyển trạng thái sang **Thất bại**
 
  ![Đang xử lý](https://user-images.githubusercontent.com/75475064/106088587-d7c59a80-6158-11eb-9020-54d869c78bd8.png)
-
-   Quản lý click **Từ chối** thì KNNB sẽ chuyển trạng thái sang **Thất bại**
    
  ![Đang xử lý](https://user-images.githubusercontent.com/75475064/106088714-06dc0c00-6159-11eb-8460-546f3b9d7306.png)
 
