@@ -70,7 +70,6 @@
     * [Khai báo hải quan](m5/thongtinhaiquan.md)
     * [Đồng bộ mã vận đơn](m5/dongbomavandon.md)
     * [Khiếu nại người bán](m5/khieunainguoiban.md)
-    * [Comment nội bộ và comment với khách](m5/comment.md)
    
   * Kiểm soát mua hàng
     * [Upload file alipay](m5/UpfileAlipay.md)
