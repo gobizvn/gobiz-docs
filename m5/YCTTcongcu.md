@@ -54,6 +54,20 @@
 
 + Sau đó truy cập link thanh toán để tiến hành thanh toán đơn hàng
 
+**Duyệt thanh toán đơn hàng thường sau khi bấm đã mua, (TBP, TN duyệt)**
+
+Vào trực tiếp theo link hoặc hướng dẫn bên dưới: 
+
+https://mua.nhaphang.com/payment-requests?external_order=0&i=6&page=1&per_page=20&status=PENDING
+
+Kiểm tra tiền hàng trong đơn hàng để quyết định có duyệt hay không (yêu cầu kiểm tra tổng tiền trên admin để tránh việc KO không đồng bộ về admin)
+
+![image](https://user-images.githubusercontent.com/76998374/106359828-95ae7b80-6347-11eb-9d44-5c222ad27cfb.png)
+
+![image](https://user-images.githubusercontent.com/76998374/106359833-a0691080-6347-11eb-9363-af53a20665ce.png)
+
+
+
 
 
 
