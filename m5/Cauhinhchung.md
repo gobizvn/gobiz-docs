@@ -12,7 +12,7 @@ Từ menu **Cấu hình** người dùng chọn **Cấu hình chung**
 
 **Bước 1:** **Thiết lập cấu hình bật/tắt tải ảnh đại diện**
 
-Khi người dùng chọn BẬT cấu hình thì tải được ảnh đại diện. Sau đó người dùng click chọn [Lưu] để ghi nhận tải ảnh lên hệ thống
+Khi người dùng chọn BẬT cấu hình thì tải được ảnh đại diện. Chọn ảnh để tải lên và nhấn [Lưu]
 
 ![Tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106357907-a1944080-633b-11eb-88c8-6e59df6cb8fd.png)
 
