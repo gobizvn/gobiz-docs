@@ -34,7 +34,13 @@ Khi chọn TẮT cấu hình thì nút [Tải ảnh lên] sẽ bị disable
 
 **Màn hình Chi tiết đơn:** Sau trạng thái **Đã Pai** sẽ có thêm trạng thái **Chờ thanh toán**. Điều kiện để chuyển đơn sang **Chờ thanh toán** sẽ validate giống như khi chuyển đơn sang **Đã Mua**
 
-**Màn hình Quản lý đơn:** 
+![Trạng thái chờ thanh toán](https://user-images.githubusercontent.com/76998374/106358552-7dd2f980-633f-11eb-8f72-a43ee2c06192.png)
+
+**Màn hình Quản lý đơn:** Bổ sung tab thống kê trạng thái **Chờ thanh toán** và bộ lọc theo tab trạng thái **Chờ thanh toán**
+
+![Trạng thái chờ thanh toán](https://user-images.githubusercontent.com/76998374/106358594-ca1e3980-633f-11eb-8e65-d73d7afddb1a.png)
+
+
 
 
 
