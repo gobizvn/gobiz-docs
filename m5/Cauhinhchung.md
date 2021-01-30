@@ -26,4 +26,15 @@ Khi chọn TẮT cấu hình thì nút [Tải ảnh lên] sẽ bị disable
 
 **1.2. Sử dụng trạng thái chờ thanh toán**
 
+**Bước 1:** **BẬT** cấu hình sử dụng trạng thái **Chờ thanh toán** và nhấn [Lưu]
+
+![Cấu hình trạng thái chờ thanh toán](https://user-images.githubusercontent.com/76998374/106358444-d3f36d00-633e-11eb-8923-30813244283b.png)
+
+**Bước 2** Người dùng truy cập trang chi tiết đơn và quản lý đơn để kiểm tra trạng thái chờ thanh toán
+
+**Màn hình Chi tiết đơn:** Sau trạng thái **Đã Pai** sẽ có thêm trạng thái **Chờ thanh toán**. Điều kiện để chuyển đơn sang **Chờ thanh toán** sẽ validate giống như khi chuyển đơn sang **Đã Mua**
+
+**Màn hình Quản lý đơn:** 
+
+
 
