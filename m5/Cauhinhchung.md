@@ -40,7 +40,7 @@ Khi chọn TẮT cấu hình thì nút [Tải ảnh lên] sẽ bị disable
 
 ![Trạng thái chờ thanh toán](https://user-images.githubusercontent.com/76998374/106358594-ca1e3980-633f-11eb-8e65-d73d7afddb1a.png)
 
-
+Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ thanh toán**
 
 
 
