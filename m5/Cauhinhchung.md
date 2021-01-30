@@ -19,3 +19,9 @@ Khi người dùng chọn BẬT cấu hình thì tải được ảnh đại di�
 Sau khi upload và lưu thành công, người dùng có thể kiểm tra ảnh đại diện vừa upload lên ở phía trên menu 
 
 ![Ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358240-87f3f880-633d-11eb-803c-f583ad7b7337.png)
+
+Khi chọn TẮT cấu hình thì nút [Tải ảnh lên] sẽ bị disable
+
+**1.2. Sử dụng trạng thái chờ thanh toán**
+
+
