@@ -1,1 +1,21 @@
+**Truy cập trang Cấu Hình Chung**
 
+Từ menu **Cấu hình** người dùng chọn **Cấu hình chung** 
+
+![Cấu hình chung](https://user-images.githubusercontent.com/76998374/106358060-7100d680-633c-11eb-8ba7-2d4e4f049ed0.png)
+
+**Thiết lập cấu hình**
+
+**1. HỆ THỐNG**
+
+**1.1. Tải hình đại diện**
+
+**Bước 1:** **Thiết lập cấu hình bật/tắt tải ảnh đại diện**
+
+Khi người dùng chọn BẬT cấu hình thì tải được ảnh đại diện. Sau đó người dùng click chọn [Lưu] để ghi nhận tải ảnh lên hệ thống
+
+![Tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106357907-a1944080-633b-11eb-88c8-6e59df6cb8fd.png)
+
+Sau khi upload và lưu thành công, người dùng có thể kiểm tra ảnh đại diện vừa upload lên ở phía trên menu 
+
+![Ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358240-87f3f880-633d-11eb-803c-f583ad7b7337.png)
