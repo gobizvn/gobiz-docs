@@ -22,6 +22,8 @@ Sau khi upload và lưu thành công, người dùng có thể kiểm tra ảnh 
 
 Khi chọn TẮT cấu hình thì nút [Tải ảnh lên] sẽ bị disable
 
+![Disable tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358355-52034400-633e-11eb-92a3-705a44eabb92.png)
+
 **1.2. Sử dụng trạng thái chờ thanh toán**
 
 
