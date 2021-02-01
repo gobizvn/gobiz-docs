@@ -42,7 +42,7 @@ Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disa
 
 Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ thanh toán**
 
-### 1.3. Cho phép GDV điền thông tin khai báo hải quan**
+### 1.3. Cho phép GDV điền thông tin khai báo hải quan
 
 **Bước 1:** **BẬT** cấu hình cho phép điền thông tin khai báo hải quan và nhấn **[LƯU]**
 
@@ -76,7 +76,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì đơn sẽ mặc định hiển thị tích xanh là **Đã khai quan**
 
-## 3. Sử dụng nhóm ngành hàng**
+## 3. Sử dụng nhóm ngành hàng
 
 **Bước 1:** **BẬT** cấu hình sử dụng nhóm ngành hàng và nhấn **[LƯU]**
 
@@ -90,7 +90,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì đơn Disable dropdown box chọn nhóm ngành hàng
 
-## 4. Nguồn hàng **
+## 4. Nguồn hàng
 
 **Bước 1:** **BẬT** cấu hình để sử dụng nguồn hàng và nhấn **[LƯU]**
 
@@ -133,7 +133,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 ## 6. Yêu cầu thanh toán
 
-### 6.1 Cho phép YCTT đơn hàng thường không qua công cụ**
+### 6.1 Cho phép YCTT đơn hàng thường không qua công cụ
 
 **Bước 1:** **BẬT** cấu hình Cho phép YCTT đơn hàng thường không qua công cụ và nhấn **[LƯU]**
 
@@ -143,7 +143,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì GDV buộc phải tạo YCTT từ công cụ.
 
-### 6.2 Cho phép tự duyệt YCTT của mình tạo** 
+### 6.2 Cho phép tự duyệt YCTT của mình tạo
 
 **Bước 1:** **BẬT** cấu hình Cho phép tự duyệt YCTT của mình tạo và nhấn **[LƯU]**
 
@@ -153,3 +153,18 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì tại màn hình **Yêu cầu thanh toán**, những đơn do GDV tạo thì không hiển thị button Duyệt YCTT
 
+## 7. Cách tính lợi nhuận mặc cả
+
+**Bước 1:** **Tích chọn** cấu hình công thức tính lợi nhuận mặc cả và nhấn **[LƯU]**
+
+![](https://user-images.githubusercontent.com/75475064/106424067-272b0400-6494-11eb-9d98-a2e98d25c7b4.png)
+
+**Bước 2:** Quản lý truy cập trang **Báo cáo doanh số(mới)** để kiểm tra .
+
+Tại màn hình này doanh thu mặc cả sẽ được tính theo một trong ba công thức do quản lý cấu hình ở Cấu hình chung. Khi quản lý chọn cách tính doanh thu theo công thức nào thì tại màn hình danh sách, doanh thu trên từng đơn sẽ được tính theo công thức đó.
+
+![](https://user-images.githubusercontent.com/75475064/106424170-4cb80d80-6494-11eb-8bf1-6f6ef706870c.png)
+
+**Lưu ý:**
+  * Trong trường hợp đơn có trạng thái Hủy/Hết hàng, tổng thu khách được hiểu là = 0; trong các trường hợp khác thì = tiền hàng + phí VCNĐ
+  * Đơn được tính lợi nhuận theo các event thay đổi thông tin liên quan đến doanh số, lưu lại việc sử dụng công thức tính phí nào và lợi nhuận tại thời điểm tính đó. Khi thay đổi cấu hình công thức tính phí, những đơn này không thay đổi dữ liệu.
