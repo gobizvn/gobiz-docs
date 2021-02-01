@@ -168,3 +168,15 @@ Tại màn hình này doanh thu mặc cả sẽ được tính theo một trong 
 **Lưu ý:**
   * Trong trường hợp đơn có trạng thái Hủy/Hết hàng, tổng thu khách được hiểu là = 0; trong các trường hợp khác thì = tiền hàng + phí VCNĐ
   * Đơn được tính lợi nhuận theo các event thay đổi thông tin liên quan đến doanh số, lưu lại việc sử dụng công thức tính phí nào và lợi nhuận tại thời điểm tính đó. Khi thay đổi cấu hình công thức tính phí, những đơn này không thay đổi dữ liệu.
+
+## 8. Kho phân phối
+
+**Bước 1:** **Bật** cấu hình Sử dụng nhiều kho phân phối và nhấn **[LƯU]**
+
+![](https://user-images.githubusercontent.com/75475064/106428822-239b7b00-649c-11eb-967d-6f88600bb2f8.png)
+
+**Bước 2:** Quản lý truy cập trang **Đơn đang mua** bổ sung button Chọn địa chỉ kho phân phối. 
+
+![](https://user-images.githubusercontent.com/75475064/106428704-fa7aea80-649b-11eb-80e3-57745c51c5b7.png)
+
+**Bước 3:** Khi chọn **TẮT** cấu hình thì tại màn hình **Đơn đang mua**, disable button chọn địa chỉ kho nhận
