@@ -4,11 +4,11 @@ Từ menu **Cấu hình** người dùng chọn **Cấu hình chung**
 
 ![Cấu hình chung](https://user-images.githubusercontent.com/76998374/106358060-7100d680-633c-11eb-8ba7-2d4e4f049ed0.png)
 
-**Thiết lập cấu hình**
+# Thiết lập cấu hình
 
-**1. HỆ THỐNG**
+## 1. HỆ THỐNG
 
-**1.1. Tải hình đại diện**
+### 1.1. Tải hình đại diện
 
 **Bước 1:** **Thiết lập cấu hình bật/tắt tải ảnh đại diện**
 
@@ -24,7 +24,7 @@ Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disa
 
 ![Disable tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358355-52034400-633e-11eb-92a3-705a44eabb92.png)
 
-**1.2. Sử dụng trạng thái chờ thanh toán**
+### 1.2. Sử dụng trạng thái chờ thanh toán
 
 **Bước 1:** **BẬT** cấu hình sử dụng trạng thái **Chờ thanh toán** và nhấn **[Lưu]**
 
@@ -42,7 +42,7 @@ Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disa
 
 Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ thanh toán**
 
-**1.3. Cho phép GDV điền thông tin khai báo hải quan**
+### 1.3. Cho phép GDV điền thông tin khai báo hải quan**
 
 **Bước 1:** **BẬT** cấu hình cho phép điền thông tin khai báo hải quan và nhấn **[LƯU]**
 
@@ -58,7 +58,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì nút **[Sửa thông tin hải quan]** sẽ bị ẩn.
 
-**1.4. Thông tin khai báo hải quan bắt buộc**
+## 2. Thông tin khai báo hải quan bắt buộc
 
 **Bước 1:** **BẬT** cấu hình thông tin khai báo hải quan bắt buộc và nhấn **[LƯU]**
 
@@ -76,7 +76,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì đơn sẽ mặc định hiển thị tích xanh là **Đã khai quan**
 
-**1.5. Sử dụng nhóm ngành hàng**
+## 3. Sử dụng nhóm ngành hàng**
 
 **Bước 1:** **BẬT** cấu hình sử dụng nhóm ngành hàng và nhấn **[LƯU]**
 
@@ -90,7 +90,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì đơn Disable dropdown box chọn nhóm ngành hàng
 
-**1.6. Nguồn hàng **
+## 4. Nguồn hàng **
 
 **Bước 1:** **BẬT** cấu hình để sử dụng nguồn hàng và nhấn **[LƯU]**
 
@@ -115,7 +115,7 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 ![Danh sách KNNB](https://user-images.githubusercontent.com/75475064/106414461-36538700-647f-11eb-9a87-2b764121d10a.png)
 
 
-**1.7. Sử dụng nhiều kho nhận Trung Quốc
+## 5. Sử dụng nhiều kho nhận Trung Quốc
 
 **Bước 1:** **BẬT** cấu hình sử dụng nhiều kho nhận Trung Quốc và nhấn **[LƯU]**
 
@@ -131,19 +131,25 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 
 ![](https://user-images.githubusercontent.com/75475064/106414329-eeccfb00-647e-11eb-8063-75000fd2af50.png)
 
-**1.8. Cho phép YCTT đơn hàng thường không qua công cụ**
+## 6. Yêu cầu thanh toán
+
+### 6.1 Cho phép YCTT đơn hàng thường không qua công cụ**
 
 **Bước 1:** **BẬT** cấu hình Cho phép YCTT đơn hàng thường không qua công cụ và nhấn **[LƯU]**
 
 ![](https://user-images.githubusercontent.com/75475064/106414793-183a5680-6480-11eb-9f02-c29473d67233.png)
 
-**Bước 2:** Quản lý có thể thực hiện tạo Yêu cầu thanh toán cho đơn hàng từ nhiều màn hình ( Xem hướng dẫn chi tiết **[TẠI ĐÂY](https://hd.gobiz.vn/m5/su-dung-yctt-cho-quy-trinh-mua-hang/ycttadmin)**.
+**Bước 2:** Quản lý có thể thực hiện tạo Yêu cầu thanh toán cho đơn hàng từ nhiều màn hình ( Xem hướng dẫn chi tiết **[TẠI ĐÂY](https://hd.gobiz.vn/m5/su-dung-yctt-cho-quy-trinh-mua-hang/ycttadmin)**).
 
 **Bước 3:** Khi chọn **TẮT** cấu hình thì GDV buộc phải tạo YCTT từ công cụ.
 
-**1.9. Cho phép tự duyệt YCTT của mình tạo** 
+### 6.2 Cho phép tự duyệt YCTT của mình tạo** 
 
 **Bước 1:** **BẬT** cấu hình Cho phép tự duyệt YCTT của mình tạo và nhấn **[LƯU]**
 
 ![](https://user-images.githubusercontent.com/75475064/106414925-6fd8c200-6480-11eb-990a-bdb7c7f76e21.png)
+
+**Bước 2:** Giao dịch viên có thể tự tạo YCTT, nhìn thấy YCTT của mình và tự duyệt được YCTT do mình tạo
+
+**Bước 3:** Khi chọn **TẮT** cấu hình thì tại màn hình **Yêu cầu thanh toán**, những đơn do GDV tạo thì không hiển thị button Duyệt YCTT
 
