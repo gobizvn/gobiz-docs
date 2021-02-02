@@ -48,5 +48,12 @@ Khi tỉ lệ lợi nhuận đơn được tính theo công thức mà vượt q
 
 # 2. Danh sách các loại giao dịch
 
+**Bước 1:** Quản lý nhập **Số MHĐG tối đa cho GD**
 
+![](https://user-images.githubusercontent.com/75475064/106575633-e227d000-656e-11eb-956a-ee39bbc7d2b5.png)
 
+**Bước 2:**  Quản lý chọn **BẬT** cấu hình và nhấn **[Lưu]** để tính trong tài chính mua. 
+
+![](https://user-images.githubusercontent.com/75475064/106575685-eeac2880-656e-11eb-85c3-865d6f67249f.png)
+
+**Bước 3:**  Quản lý chọn **TẮT** cấu hình và nhấn **[Lưu]** để không tính trong tài chính mua. 
