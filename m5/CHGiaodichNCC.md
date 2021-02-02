@@ -14,7 +14,7 @@ Với đơn ở trạng thái Hủy, Hết hàng: Tỉ lệ lợi nhuận = lợ
 
 1.2 Tỉ lệ cho phép
 
-Bước 1: Quản lý nhập giá trị vào ô Tỉ lệ cho phép (Đơn vị: %)
+Bước 1: Quản lý nhập giá trị vào ô Tỉ lệ cho phép (Đơn vị: %) và nhấn [Lưu]
 
 ![](https://user-images.githubusercontent.com/75475064/106563359-3bd3ce80-655e-11eb-9253-f1efd588022b.png)
 
@@ -26,5 +26,25 @@ Khi tỉ lệ lợi nhuận đơn được tính theo công thức mà vượt q
 
 1.3 Cấu hình mã HDG có trong cả GD alipay global và alipay nội địa thì không tính alipay nội địa vào tài chính đơn
 
-Bước 1: Thiết lập cấu hình bật/tắt tải ảnh đại diện
-Khi Quản lý chọn BẬT cấu hình thì tải được ảnh đại diện. Chọn ảnh để tải lên và nhấn [Lưu]
+Bước 1:  Quản lý chọn BẬT cấu hình và nhấn [Lưu]
+
+( Trong cùng MHĐG, nếu có giao dịch Alipay Global, sẽ không tính các giao dịch Alipay từ nguồn file nội địa vào tài chính đơn nữa.)
+
+![image](https://user-images.githubusercontent.com/75475064/106569420-13040700-6567-11eb-8c3c-7f7b10eaf712.png)
+
+Bước 2: Quản lý chọn TẮT cấu hình và nhấn [Lưu]
+
+( Trong cùng MHĐG, nếu có giao dịch Alipay Global, vẫn sẽ tính các giao dịch Alipay từ nguồn file nội địa vào tài chính đơn.)
+
+1.4 Thời gian chờ giao dịch
+
+Bước 1: Quản lý nhập giá trị vào ô Thời gian chờ giao dịch (Đơn vị: giờ) và nhấn [Lưu]
+
+![](https://user-images.githubusercontent.com/75475064/106570113-09c76a00-6568-11eb-9178-61a31889ef2a.png)
+
+Bước 2: Quản lý truy cập kiểm soát mua hàng từ menu bên trái, chọn Kiểm soát đơn hàng.
+
+![](https://user-images.githubusercontent.com/75475064/106573657-80666680-656c-11eb-8b96-a6519c889439.png)
+
+
+
