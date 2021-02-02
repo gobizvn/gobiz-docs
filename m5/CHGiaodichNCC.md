@@ -44,6 +44,8 @@ Khi tỉ lệ lợi nhuận đơn được tính theo công thức mà vượt q
 
 **Bước 2:** Quản lý truy cập **Kiểm soát mua hàng** từ menu bên trái, chọn **Kiểm soát đơn hàng.**
 
+Sau khi đơn chuyển sang trạng thái đã mua một khoảng thời gian như cấu hình mà đơn chưa có giao dịch NCC thì sẽ cảnh báo là đơn có vấn đề **"Đơn chưa có giao dịch NCC"**
+
 ![](https://user-images.githubusercontent.com/75475064/106577759-55324600-6571-11eb-92f4-b3a3b55c10e6.png)
 
 # 2. Danh sách các loại giao dịch
