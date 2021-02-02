@@ -22,7 +22,7 @@
 
 Khi tỉ lệ lợi nhuận đơn được tính theo công thức mà vượt quá ngưỡng cấu hình thì hiển thị cảnh báo.
 
-![](https://user-images.githubusercontent.com/75475064/106565596-a33f4d80-6561-11eb-90d2-3aa0ebcab56c.png)
+![image](https://user-images.githubusercontent.com/75475064/106577932-8b6fc580-6571-11eb-8970-c5cf7207c52b.png)
 
 ## 1.3 Cấu hình mã HDG có trong cả GD alipay global và alipay nội địa thì không tính alipay nội địa vào tài chính đơn
 
@@ -44,7 +44,7 @@ Khi tỉ lệ lợi nhuận đơn được tính theo công thức mà vượt q
 
 **Bước 2:** Quản lý truy cập **Kiểm soát mua hàng** từ menu bên trái, chọn **Kiểm soát đơn hàng.**
 
-![](https://user-images.githubusercontent.com/75475064/106573657-80666680-656c-11eb-8b96-a6519c889439.png)
+![](https://user-images.githubusercontent.com/75475064/106577759-55324600-6571-11eb-92f4-b3a3b55c10e6.png)
 
 # 2. Danh sách các loại giao dịch
 
