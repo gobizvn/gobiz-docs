@@ -73,3 +73,50 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 
 **Màn hình chi tiết đơn:** Kiểm tra cập nhật lại địa chỉ nhận hàng TQ theo địa chỉ mặc định đối với toàn bộ đơn đang trước trạng thái mua
+
+# 4. Khiếu nại người bán
+
+## 4.1. 
+
+## 4.2. Thiết lập bộ lọc KNNB
+
+**Bước 1:** Quản lý nhập giá trị vào ô **Thời gian (Đơn vị: ngày)** và nhấn **[Lưu]**
+ 
+**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn hàng**
+
+Đối với những đơn vượt quá thời gian cấu hình với lý do: Đơn hàng đã mua sau thời gian trong cấu hình không có mã vận đơn, Đơn hàng đã phát sau thời gian trong cấu hình kho Quảng Châu chưa nhận thì sẽ được lọc theo bộ lọc: 
+
+  - Số ngày lâu chưa phát hàng
+  
+  - Số ngày lâu chưa nhận hàng.
+  
+### 4.3. Thiết lập thời gian tự động tạo KNNB
+
+**Bước 1:** Quản lý nhập giá trị vào ô **Thời gian (Đơn vị: ngày)** 
+
+  - Số ngày lâu chưa phát hàng (Tạo KNNB)
+  
+  - Số ngày lâu chưa nhận hàng (Tạo KNNB)
+  
+  - Số ngày đã nhận hàng nhưng chưa có kiện (Tạo KNNB)
+ 
+**Bước 2:** Quản lý **BẬT** cấu hình **Tự động tạo KNNB** và nhấn **[Lưu]**
+
+Khi đó hệ thống có thể tự động tạo KNNB đối với đơn:
+
+  - Đơn hàng đã mua sau khoảng thời gian cấu hình không có mã vận đơn 
+  
+  - Đơn hàng đã phát sau khoảng thời gian cấu hình ngày kho Quảng Châu chưa nhận 
+  
+  - Đã nhận hàng sau khoảng thời gian cấu hình ngày nhưng chưa có kiện 
+
+**Bước 3:** Quản lý **TẮT** cấu hình **Tự động tạo KNNB** và nhấn **[Lưu]** thì GDV có thể tự tạo KNNB 
+( Xem hướng dẫn chi tiết **[TẠI ĐÂY](https://hd.gobiz.vn/m5/quan-ly-don-sau-mua/khieunainguoiban)**)
+
+## 4.4 Tự động tạo KNNB theo Agency
+
+  **Bước 1:** Quản lý **BẬT** cấu hình **Tự động tạo KNNB theo Agency ** và nhấn **[Lưu]**
+  Khi này, hệ thống sẽ tự động tạo KNNB cho Agency theo như cấu hình thiết thiết lập **4.3. Thiết lập thời gian tự động tạo KNNB** 
+
+  **Bước 2:** Quản lý **TẮT** cấu hình **Tự động tạo KNNB** và nhấn **[Lưu]** thì GDV có thể tự tạo KNNB 
+( Xem hướng dẫn chi tiết **[TẠI ĐÂY](https://hd.gobiz.vn/m5/quan-ly-don-sau-mua/khieunainguoiban)**)
