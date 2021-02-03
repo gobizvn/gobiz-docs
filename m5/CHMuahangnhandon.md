@@ -74,7 +74,7 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 **Màn hình chi tiết đơn:** GDV bắt buộc phải chọn Nhóm ngành hàng cho đơn hàng trước khi chuyển trạng thái đơn sang **Thanh toán**. Nếu bỏ trống, khi click chuyển trạng thái đơn hệ thống sẽ hiển thị cảnh báo.
 
-!](https://user-images.githubusercontent.com/75475064/106738014-fe4c6f80-6649-11eb-8e2c-70117869c80a.png)
+![](https://user-images.githubusercontent.com/75475064/106738014-fe4c6f80-6649-11eb-8e2c-70117869c80a.png)
 
 **Bước 3:** Quản lý **Tắt** cấu hình **Bắt buộc chọn nhóm ngành hàng khi thanh toán** và nhấn **[Lưu]** thì không bắt buộc chọn nhóm ngành hàng cho đơn khi chuyển trạng thái **Thanh Toán**
 
@@ -85,7 +85,7 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 **Màn hình chi tiết đơn:** Kiểm tra  cập nhật lại địa chỉ nhận hàng Trung Quốc theo kho phân phối đối với toàn bộ đơn trước trạng thái mua
 
-**Bước 2:** Quản lý **TẮT** cấu hình **Bắt buộc chọn nhóm kho phân phối khi nhận đơn ** và nhấn **[Lưu]**
+**Bước 2:** Quản lý **TẮT** cấu hình **Bắt buộc chọn nhóm kho phân phối khi nhận đơn** và nhấn **[Lưu]**
 
 **Màn hình chi tiết đơn:** Kiểm tra cập nhật lại địa chỉ nhận hàng TQ theo địa chỉ mặc định đối với toàn bộ đơn đang trước trạng thái mua
 
