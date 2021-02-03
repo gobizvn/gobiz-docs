@@ -76,7 +76,19 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 # 4. Khiếu nại người bán
 
-## 4.1. 
+## 4.1. Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công
+
+**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công ** và nhấn **[Lưu]**
+
+**Bước 2:** Quản lý truy cập trang **Khiếu nại người bán** từ menu bên trái màn hình, click **Danh sách KNNB** và chọn **Chi tiết** để xem **Chi tiết KNNB**
+
+Đối với KNNB đang ở trạng thái **Đang xử lý** nếu muốn chuyển trạng thái sang **Thành công** thì sẽ bắt buộc phải nhập Mã giao dịch Alipay trước.
+
+Nếu không hệ thống sẽ hiển thị cảnh báo
+
+**Bước 3:** Quản lý **TẮT** cấu hình **Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công ** và nhấn **[Lưu]**
+
+Đối với KNNB đang ở trạng thái **Đang xử lý** nếu muốn chuyển trạng thái sang **Thành công** thì không bắt buộc phải Mã giao dịch Alipay.
 
 ## 4.2. Thiết lập bộ lọc KNNB
 
@@ -115,8 +127,8 @@ Khi đó hệ thống có thể tự động tạo KNNB đối với đơn:
 
 ## 4.4 Tự động tạo KNNB theo Agency
 
-  **Bước 1:** Quản lý **BẬT** cấu hình **Tự động tạo KNNB theo Agency ** và nhấn **[Lưu]**
+**Bước 1:** Quản lý **BẬT** cấu hình **Tự động tạo KNNB theo Agency ** và nhấn **[Lưu]**
   Khi này, hệ thống sẽ tự động tạo KNNB cho Agency theo như cấu hình thiết thiết lập **4.3. Thiết lập thời gian tự động tạo KNNB** 
 
-  **Bước 2:** Quản lý **TẮT** cấu hình **Tự động tạo KNNB** và nhấn **[Lưu]** thì GDV có thể tự tạo KNNB 
+**Bước 2:** Quản lý **TẮT** cấu hình **Tự động tạo KNNB** và nhấn **[Lưu]** thì GDV có thể tự tạo KNNB 
 ( Xem hướng dẫn chi tiết **[TẠI ĐÂY](https://hd.gobiz.vn/m5/quan-ly-don-sau-mua/khieunainguoiban)**)
