@@ -12,14 +12,64 @@ Quản lý truy cập trang **Cấu hình** từ menu bên trái, chọn **Cấu
 
 ![](https://user-images.githubusercontent.com/75475064/106708517-96842d80-6625-11eb-9405-5c9005413cb5.png)
 
-**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn hàng**
+**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Đơn đang mua** click **[Nhận đơn]**
 
 Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ thống
 
-( Xem chi tiết cách phân đơn và tự nhận đơn **[TẠI ĐÂY](https://hd.gobiz.vn/m5/mua-hang/phandon)**)
+![image](https://user-images.githubusercontent.com/75475064/106730277-f3d9a800-6640-11eb-9262-5789dc1d56bd.png)
 
-![](https://user-images.githubusercontent.com/75475064/106718039-106ee380-6633-11eb-86cc-10bfd68b2055.png)
+**Bước 3:** Quản lý **Tắt** cấu hình **Cho phép tự nhận đơn** và nhấn **[Lưu]** thì sẽ Disable khối cấu hình Nhận đơn. Chỉ quản lý mới có quyền phân đơn cho GDV, GDV không thể tự nhận đơn. Nút nhận đơn sẽ bị Disable.
+(Quản lý xem cách phân đơn **[TẠI ĐÂY](https://hd.gobiz.vn/m5/mua-hang/phandon)**)
 
-**Bước 3:** Quản lý **Tắt** cấu hình **Cho phép tự nhận đơn** và nhấn **[Lưu]** thì sẽ Disable khối cấu hình Nhận đơn. Chỉ quản lý mới có quyền phân đơn cho GDV, GDV không thể tự nhận đơn.
+## 1.2.Số đơn tối đa mỗi lần nhận 
 
-## 1.2. 
+**Bước 1:** Quản lý nhập giá trị vào ô **Số đơn tối đa mỗi lần nhận** và nhấn **[Lưu]**
+
+**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Đơn đang mua** và click **[Nhận đơn]**
+
+Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ thống với mỗi lần nhận tối đa là 5 đơn, khi nhận đủ 5 đơn, hệ thống sẽ tự disable button **[Nhận đơn]**
+
+![](https://user-images.githubusercontent.com/75475064/106730277-f3d9a800-6640-11eb-9262-5789dc1d56bd.png)
+
+
+## 1.3.Trạng thái tính đơn chờ
+
+**Bước 1:** Quản lý click và ô **Trạng thái tính đơn chờ** để chọn trạng thái và nhấn **[Lưu]**
+
+**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn hàng**
+Ví dụ : Nếu Quản lý chọn trạng thái tính đơn chờ là Chờ pai thì sẽ GDV chỉ có thể nhận các đơn từ Chờ pai về trước
+
+## 1.4. Số đơn tối đa đang nhận để được nhận đơn tiếp
+
+**Bước 1:** Quản lý nhập giá trị vào ô **Số đơn tối đa đang nhận để được nhận đơn tiếp ** và nhấn **[Lưu]**
+
+**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Đơn đang mua** và click **[Nhận đơn]**
+
+VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ thống: Với số đơn chờ tối đa là 2 đơn thì khi đó GDV có thể tiếp tục tự nhận đơn
+
+## 1.5. Thời gian thu hồi đơn
+
+**Bước 1:** Quản lý nhập giá trị vào ô **Thời gian thu hồi đơn (Đơn vị: phút)** và nhấn **[Lưu]**
+
+**Bước 2:** Đối với những đơn vượt quá thời gian trong cấu hình thì đơn chưa được mua xong thì sẽ thu hồi đơn đó phân cho người khác.
+
+# 2. Nhóm ngành hàng
+**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc chọn nhóm ngành hàng khi thanh toán ** và nhấn **[Lưu]**
+
+**Bước 2:** GDV truy cập trang **Đơn hàng** từ menu bên trái, chọn **Quản lý đơn hàng**, click **Mã đơn** để xem **Chi tiết đơn hàng**
+
+**Màn hình chi tiết đơn:** GDV bắt buộc phải chọn Nhóm ngành hàng cho đơn hàng trước khi chuyển trạng thái đơn sang **Thanh toán**. Nếu bỏ trống, khi click chuyển trạng thái đơn hệ thống sẽ hiển thị cảnh báo.
+
+**Bước 3:** Quản lý **Tắt** cấu hình **Bắt buộc chọn nhóm ngành hàng khi thanh toán** và nhấn **[Lưu]** thì không bắt buộc chọn nhóm ngành hàng cho đơn khi chuyển trạng thái **Thanh Toán**
+
+# 3. Kho phân phối
+**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc chọn nhóm kho phân phối khi nhận đơn ** và nhấn **[Lưu]**
+
+
+**Màn hình chi tiết đơn:** Kiểm tra  cập nhật lại địa chỉ nhận hàng Trung Quốc theo kho phân phối đối với toàn bộ đơn trước trạng thái mua
+
+
+**Bước 2:** Quản lý **TẮT** cấu hình **Bắt buộc chọn nhóm kho phân phối khi nhận đơn ** và nhấn **[Lưu]**
+
+
+**Màn hình chi tiết đơn:** Kiểm tra cập nhật lại địa chỉ nhận hàng TQ theo địa chỉ mặc định đối với toàn bộ đơn đang trước trạng thái mua
