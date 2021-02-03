@@ -93,7 +93,7 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 ## 4.1. Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công
 
-**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công ** và nhấn **[Lưu]**
+**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công** và nhấn **[Lưu]**
 
 ![](https://user-images.githubusercontent.com/75475064/106738610-ba0d9f00-664a-11eb-88a4-816294f76dbb.png)
 
