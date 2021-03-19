@@ -17,4 +17,22 @@
 **Bước 4:**: Kiện được đóng gói sẽ có trạng thái "Khởi tạo:. Người dùng truy cập hệ thống M6:   để theo dõi quá trình kiện được đóng bao và vận chuyển và cập nhật trạng thái kiện tương ứng
 - Truy cập Menu "Kiện hàng - Danh sách kiện hàng", Click vào Mã kiện cần cập nhật --> "Sửa kiện" --> cập nhật **Kho đích** cho kiện
 
-- Người dùng có thể tạo bao bằng cách truy cập Menu "
+![image](https://user-images.githubusercontent.com/73808891/111741256-c5462280-88b8-11eb-995b-cd182b4cb03c.png)
+
+**Bước 5**: Để đáp ứng nhu cầu vận chuyển quốc tế, hệ thống M6 hỗ trợ chức năng tạo bao. Người dùng truy cập Menu Bao hàng - Tạo bao hàng, nhập các thông tin của bao, lưu và đóng bao
+![image](https://user-images.githubusercontent.com/73808891/111724490-ed715980-8897-11eb-88fe-244a18928ac0.png)
+
+**Bước 6:** Sau khi tạo bao, người dùng quét kiện vào Bao bằng cách nhập mã kiện --> enter và nhập cân nặng kiện trên giao diện
+
+![image](https://user-images.githubusercontent.com/73808891/111744192-68993680-88bd-11eb-88d4-1109bcf9681e.png)
+
+**Bước 7:** Người dùng quét kiện nhập kho xuất để xác nhận kiện đang ở trong Kho xuất bằng cách truy cập Menu Vận hành - Quét mã vạch, chọn hành động "Nhập", chọn kho là kho xuất, nhập mã kiện và Enter. Sau khi quét trạng thái kiện sẽ được cập nhật thành Kiện về kho
+
+![image](https://user-images.githubusercontent.com/73808891/111745679-89628b80-88bf-11eb-992e-6552ebdee92b.png)
+
+![image](https://user-images.githubusercontent.com/73808891/111745910-dd6d7000-88bf-11eb-8263-51fb33cee4bd.png)
+
+**Bước 8:** Khi muốn xuất bao khỏi kho Xuất để vận chuyển quốc tế, người dùng thực hiện thao tác Quét mã vạch, chọn hành động "Xuất", cho kho là kho xuất, nhập mã bao và Enter. Lúc này kiện sẽ được cập nhật trạng thái là Đang vận chuyển quốc tế
+
+**Bước 9:** Thời điểm kiện đến kho đích, người dùng thực hiện việc quét mã vạch nhập vào kho đích (tương tự bước 7,8)
+
