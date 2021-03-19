@@ -34,6 +34,12 @@
 
 **Bước 8:** Khi muốn xuất bao khỏi kho Xuất để vận chuyển quốc tế, người dùng thực hiện thao tác Quét mã vạch, chọn hành động "Xuất", cho kho là kho xuất, nhập mã bao và Enter. Lúc này kiện sẽ được cập nhật trạng thái là Đang vận chuyển quốc tế
 
-**Bước 9:** Thời điểm kiện đến kho đích, người dùng thực hiện việc quét mã vạch nhập vào kho đích (tương tự bước 7,8)
+**Bước 9:** Thời điểm kiện đến kho đích, người dùng thực hiện việc quét mã vạch nhập vào kho đích (tương tự bước 7,8), trạng thái của kiện chuyển sang "Chờ giao"
+![image](https://user-images.githubusercontent.com/73808891/111751001-85863780-88c6-11eb-9fea-4a3a87e5a47e.png)
+
+**Bước 10:** Thời điểm kiện xuất khỏi kho đích người dùng thực hiện việc quét mã vạch xuất khỏi vào kho đích, trạng thái kiện chuyển sang "Đang giao".
+
+
+
 
 
