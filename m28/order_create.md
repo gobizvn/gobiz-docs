@@ -36,3 +36,4 @@
 
 **Bước 9:** Thời điểm kiện đến kho đích, người dùng thực hiện việc quét mã vạch nhập vào kho đích (tương tự bước 7,8)
 
+
