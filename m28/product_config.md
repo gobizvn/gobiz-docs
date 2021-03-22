@@ -1,4 +1,4 @@
-# Cấu hình sản phẩm trong hệ thống
+# Tạo mới và cập  sản phẩm trong hệ thống
 
 **Mục đích**: Để đáp ứng nhu cầu vận hành, trước hết người dùng cần cấu hình dữ liệu sản phẩm trên hệ thống. Có 2 cách để tạo sản phẩm: tạo bằng giao diện ngay trên hệ thống hoặc tải file excel dữ liệu sản phẩm vào hệ thống
 
@@ -20,12 +20,6 @@ Mã loại sản phẩm: vui lòng liên hệ vận hành để cấu hình Mã 
 **Bước 4**: Người dùng có thể cập nhật thông tin sản phẩm bằng cách click vào Mã SKU bản ghi cần cập nhật và chỉnh sửa các thông tin cho SKU
 <img width="1050" alt="Screen Shot 2021-03-15 at 13 46 34" src="https://user-images.githubusercontent.com/73808891/111113799-e0e9ba00-8594-11eb-8388-131352f793a3.png">
 
-**Bước 5**: Để cập nhật giá và tồn kho cho nhiều sản phẩm, hệ thống hỗ trợ người dùng chức năng tải file để nhập tồn kho và cập nhật giá cho 1 loạt các sản phẩm của hệ thống.
-Người dùng click "Tải file nhập tồn kho" hoặc "Tải file nhập giá" để thêm file cập nhật tồn kho/ giá cho sản phẩm. Lưu ý, Mã SKU phải tồn tại trong hệ thống mới có thể cập nhật được 
-![image](https://user-images.githubusercontent.com/73808891/111118296-2a3d0800-859b-11eb-9c1c-845f48d7242c.png)
-
-**Bước 6**: Toàn bộ danh sách sản phẩm trong hệ thống sẽ hiển thị khi click vào Menu "Sản phẩm". Hệ thống hỗ trợ người dùng tìm kiếm theo Mã SKU, lọc theo Mã loại sản phẩm, Trạng thái sản phẩm, ngày tạo sản phẩm
-<img width="1359" alt="Screen Shot 2021-03-15 at 13 58 39" src="https://user-images.githubusercontent.com/73808891/111114963-936e4c80-8596-11eb-826a-623c14fa370c.png">
 
 
 
