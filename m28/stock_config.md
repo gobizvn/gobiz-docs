@@ -1,4 +1,4 @@
-# Cấu hình khotrong hệ thống
+# Cấu hình kho trong hệ thống
 
 **Mục đích**: Chức năng này cho phép người dùng cấu hình dữ liệu kho vào hệ thống
 
