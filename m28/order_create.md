@@ -21,7 +21,12 @@ Người dùng thực hiện đóng gói kiện hàng bằng cách click vào "�
 
 **Bước 4:**: Nhập thông tin kho Đích cho kiện
 
-Kiện được đóng gói sẽ có trạng thái "Khởi tạo: Người dùng truy cập hệ thống M6:   để theo dõi quá trình kiện được đóng bao và vận chuyển của kiện và bao
+Kiện được đóng gói sẽ có trạng thái "Khởi tạo: Người dùng truy cập hệ thống M6: để theo dõi quá trình kiện được đóng bao và vận chuyển của kiện và bao
+- Link truy cập hệ thống M6: 
+Thị trường Thái Lan: ubox_th.logistics.mygobiz.net
+Thị trường Indonesia: ubox_id.logistics.mygobiz.net
+Thị trường Philippines: ubox_ph.logistics.mygobiz.net
+
 - Truy cập Menu "Kiện hàng - Danh sách kiện hàng", Click vào Mã kiện cần cập nhật --> "Sửa kiện" --> cập nhật **Kho đích** cho kiện
 
 ![image](https://user-images.githubusercontent.com/73808891/111741256-c5462280-88b8-11eb-995b-cd182b4cb03c.png)
