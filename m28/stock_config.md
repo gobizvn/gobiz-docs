@@ -9,6 +9,7 @@
 <img width="599" alt="Screen Shot 2021-03-15 at 14 56 58" src="https://user-images.githubusercontent.com/73808891/111121062-c583ac80-859e-11eb-9097-275c9fbe733c.png">
 
 **Bước 3**: Người dùng xem và tìm kiếm kho hàng tại Danh sách kho hàng khi truy cập vào Menu **Quản lý kho**. Tại đây hệ thống hỗ trợ người dùng tìm kiếm và bộ lọc để dễ dàng tìm kiếm các kho 
+
 ![image](https://user-images.githubusercontent.com/73808891/111123304-be11d280-85a1-11eb-98d0-b21b184ac3bd.png)
 
 **Bước 4**: Để cập nhật thông tin kho hàng, người dùng lick vào Mã kho hàng tại bản ghi cần cập nhật.
@@ -20,3 +21,5 @@ Tại Tab Danh sách vị trí, cho phép người dùng xem danh sách, tạo m
 
 ![image](https://user-images.githubusercontent.com/73808891/111123657-35476680-85a2-11eb-9832-ac4ae93924c4.png)
 
+**Bước 5**: Hệ thống cho phép hiển thị danh sách các sản phẩm trong kho và tồn hiện tại. Hỗ trợ tìm kiếm theo Mã/Tên SKU, bộ lọc theo Loại sản phẩm và Seller
+![image](https://user-images.githubusercontent.com/73808891/111934417-f199b300-8af3-11eb-8bcc-13c6b06c2735.png)
