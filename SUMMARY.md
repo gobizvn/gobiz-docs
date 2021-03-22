@@ -146,7 +146,7 @@
      * [Lịch sử nhập hàng](m28/stock_history.md)
 
   * Quản lý đơn hàng
-     * [Tạo mới và danh sách đơn hàng](m28/order_.md)
+     * [Tạo mới và danh sách đơn hàng](m28/order_c.md)
 
      
 
