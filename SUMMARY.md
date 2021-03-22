@@ -136,7 +136,18 @@
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
     * [Nhận thông báo ticket qua Zalo](m27/zalo_ticket.md)
     
-    
+    * [Quản lý kho hàng Ubox](m28/README.md)
+  * Quản lý sản phẩm
+     * [Tạo mới sản phẩm](m28/product_config.md)
+     * [Nhập giá và tồn kho sản phẩm](m28/price_stock_import.md)
+     * [Danh sách sản phẩm](m28/product_list.md)
+  * Quản lý kho hàng
+     * [Tạo mới và danh sách kho hàng](m28/stock_config.md)
+     * [Lịch sử nhập hàng](m28/stock_history.md)
+
+  * Quản lý đơn hàng
+     * [Tạo mới và danh sách đơn hàng](m28/order_.md)
+
      
 
 
