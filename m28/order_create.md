@@ -23,6 +23,7 @@ Người dùng thực hiện đóng gói kiện hàng bằng cách click vào "�
 
 Kiện được đóng gói sẽ có trạng thái "Khởi tạo: Người dùng truy cập hệ thống M6: để theo dõi quá trình kiện được đóng bao và vận chuyển của kiện và bao
 - Link truy cập hệ thống M6: 
+- 
 Thị trường Thái Lan: ubox_th.logistics.mygobiz.net
 Thị trường Indonesia: ubox_id.logistics.mygobiz.net
 Thị trường Philippines: ubox_ph.logistics.mygobiz.net
