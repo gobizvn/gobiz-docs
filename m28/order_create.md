@@ -4,6 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/73808891/111562306-8e90df00-87c8-11eb-9331-89c27e2272e9.png)
 
+Lưu ý: khi xuất danh sách đơn hàng từ Fobiz, người dùng sử dụng button "Export to M28"
 
 **Bước 2:** Chọn kho xuất cho đơn
 
