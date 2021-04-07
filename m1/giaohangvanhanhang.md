@@ -1,4 +1,4 @@
-{% embed url="https://www.youtube.com/watch?v=ptgyzjoTRp8" %}.
+{% embed url="https://www.youtube.com/watch?v=ptgyzjoTRp8" %}
 
 **GIAO HÀNG**
 
