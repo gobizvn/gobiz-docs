@@ -1,3 +1,4 @@
+{% embed url="https://www.youtube.com/watch?v=ZUHtWRhE2zQ" %}
 
 Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến **Chi tiết đơn hàng.**
 
