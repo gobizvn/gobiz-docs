@@ -1,5 +1,15 @@
 # Change Logs
 
+## [1.17.0] - 09/04/2021
+
+### Chức năng mơis
+- Cho phép nhập mã hs code cho sản phẩm và đơn hàng, chuẩn bị sẵn sàng dữ liệu khai báo hải quan
+- Cho phép đồng bộ giao dịch thanh toán hộ hàng loạt (#2940)
+
+### Cập nhật cải tiến
+- Thay text "Đủ điều kiện vận chuyển TMĐT" để phân biệt với dịch vụ "Vận chuyển TMĐT" (nếu có) (#2939)
+- Thêm các cột thông tin trạng thái đơn, thời gian hết hàng (nếu có), tỷ giá khi xuất danh sách kiểm soát đơn (#2941)
+
 ## [1.16.0] - 30/11/2020
 
 ### Chức năng mới
