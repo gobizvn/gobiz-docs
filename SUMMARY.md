@@ -78,6 +78,8 @@
     * [Báo cáo doanh số](m5/baocaodoanhso.md)
     * [Báo cáo hiệu suất](m5/baocaohieusuat.md)
     * [Duyệt thay đổi MHĐG](m5/duyetthaydoiMHDG.md)
+    
+  * [Changelog](m5/change-logs.md)
   
 * [Go Logistics](m6/README.md)
   * Hàng thường
