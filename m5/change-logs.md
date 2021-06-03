@@ -1,5 +1,24 @@
 # Change Logs
 
+## [1.20.0] - 01/06/2021
+
+### Chức năng mới
+
+- Cho phép bỏ phần dịch tên sản phẩm và đơn vị tính sản phẩm (#2968)
+- Cho phép cảnh báo khi đơn có một số tính chất đặc biệt (#3007)
+
+### Cập nhật
+
+- Khi sửa thông tin khai quan, phần log ghi rõ thông tin thay đổi (sửa thành gì) (#2975)
+
+## [1.19.0] - 27/05/2021
+
+### Chức năng mới
+
+- Cho phép đánh dấu tính chất đơn hàng (#2971)
+- Cho phép cấu hình kho nhận trong db (#2972)
+- Cho phép hiển thị cảnh báo khi thay đổi tính chất đơn, dịch vụ làm thay đổi kho nhận (#2974)
+
 ## [1.18.0] - 26/04/2021
 
 ### Chức năng mới
