@@ -1,8 +1,21 @@
 # Change Logs
 
+## [1.18.0]
+### Chức năng mới
+- Cho phép tìm kiếm những file alipay đang xử lý (#2946)
+- Hiển thị trực tiếp link download công cụ hỗ trợ mua hàng để cài đặt (#2948)
+- Bổ sung cột thông tin: nội dung xử lý, người xử lý, thời gian xử lý ở file kiểm soát đơn (#2949)
+- Thêm các bộ lọc: người xử lý và thời gian xử lý ở danh sách kiểm soát đơn (#2949)
+  
+### Cập nhật
+- Giao dịch hoàn lấy thông tin thời gian ở cột C trong file alipay (#2944)
+- Cho phép chặn không cho map giao dịch hoàn có thời gian giao dịch trước thời gian mua của đơn (#2943)
+- Điều chỉnh giao diện quản lý đơn và phân đơn (#2947)
+
+
 ## [1.17.0] - 09/04/2021
 
-### Chức năng mơis
+### Chức năng mới
 - Cho phép nhập mã hs code cho sản phẩm và đơn hàng, chuẩn bị sẵn sàng dữ liệu khai báo hải quan
 - Cho phép đồng bộ giao dịch thanh toán hộ hàng loạt (#2940)
 
