@@ -101,6 +101,7 @@
       * [Các cấu hình khác](m6/m6_cauhinhkhac.md)
     
   * Hàng ký gửi
+    * [Demo](m6/_dan_nhap_kho_tao_kien.md)
     * Vận hành kho nguồn
     
     * Vận hành kho phân phối
