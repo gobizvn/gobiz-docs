@@ -13,10 +13,8 @@
 
 Ngoài ra hệ thống cũng cho phép user có thể tạo mới đơn hàng trong hệ thống bằng file excel hoặc tạo trên giao diện
 
-1. Import đơn hàng bằng file excel: tại danh sách đơn  hàng, click chọn "Import đơn hàng", kéo file vào vùng tải file lên
+1. Import đơn hàng bằng file excel: tại danh sách đơn  hàng, click chọn "Import đơn hàng", kéo file vào vùng tải file lên. Lưu ý: khi xuất danh sách đơn hàng từ Fobiz, người dùng sử dụng button "Export to M28" 
 ![image](https://user-images.githubusercontent.com/73808891/121623322-ab704200-ca99-11eb-9a6b-8d9994083cc8.png)
-
-Lưu ý: khi xuất danh sách đơn hàng từ Fobiz, người dùng sử dụng button "Export to M28"
 
 2. Tạo đơn hàng trên giao diện: Người dùng click button "Tạo đơn hàng mới" và nhập các thông tin của đơn hàng. Các trường (*) là bắt buộc nhập.
 
