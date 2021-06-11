@@ -140,15 +140,18 @@
     * [Nhận thông báo ticket qua Zalo](m27/zalo_ticket.md)
       
 * [Quản lý kho hàng M28](m28/README.md)
+
+  * Quản lý kho hàng
+     * [Tạo mới và danh sách kho hàng](m28/stock_config.md)
+     * [Nhập kho và thông tin tồn kho](m28/import_stock.md)
+     * [Lịch sử nhập hàng](m28/stock_history.md)
+  
   * Quản lý sản phẩm
      * [Tạo mới sản phẩm](m28/product_config.md)
      * [Nhập bảng giá sản phẩm](m28/category_product.md)
      * [Danh sách sản phẩm](m28/product_list.md)
      * [Danh mục sản phẩm](m28/product_list.md)
-  * Quản lý kho hàng
-     * [Tạo mới và danh sách kho hàng](m28/stock_config.md)
-     * [Nhập kho và thông tin tồn kho](m28/import_stock.md)
-     * [Lịch sử nhập hàng](m28/stock_history.md)
+
 
   * Quản lý đơn hàng
      * [Quản lý đơn hàng và luồng vận hành](m28/order_create.md)
