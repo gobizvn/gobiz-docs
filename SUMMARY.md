@@ -139,7 +139,7 @@
     * [Nhận thông báo ticket qua Dingtalk](m27/notification_ticket.md)
     * [Nhận thông báo ticket qua Zalo](m27/zalo_ticket.md)
       
-* [Quản lý kho hàng 28](m28/README.md)
+* [Quản lý kho hàng M28](m28/README.md)
   * Quản lý sản phẩm
      * [Tạo mới sản phẩm](m28/product_config.md)
      * [Nhập bảng giá sản phẩm](m28/category_product.md)
