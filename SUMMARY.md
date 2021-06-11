@@ -152,10 +152,9 @@
      * [Danh sách sản phẩm](m28/product_list.md)
      * [Danh mục sản phẩm](m28/product_list.md)
 
-
-  * Quản lý đơn hàng
+   * Quản lý đơn hàng
      * [Quản lý đơn hàng và luồng vận hành](m28/order_create.md)
-  * Quản lý xuất hàng
+   * Quản lý xuất hàng
      * [Xuất kho và lịch sử xuất kho](m28/xuatkho.md)
 
   * Cấu hình (Vendor, Vận hành, Đồng bộ sản phẩm)
