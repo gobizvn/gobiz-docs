@@ -1,8 +1,11 @@
 # Tạo mới đơn hàng trong hệ thống
 
-**Bước 1:** Để tạo mới đơn hàng trong hệ thống, hệ thống hỗ trợ người dùng 2 cách tạo mới bao gồm:  tạo mới bằng giao diện trên hệ thống và nhập file excel. Người dùng nhập các thông tin của đơn hàng
+**Bước 1:** Đơn hàng từ hệ thống Fobiz, khi đảm bảo 2 yếu tố sau sẽ tự động đồng bộ sang hệ thống M28
+  - Mã vendor trên M28 trùng khớp Mã vendor trên fobiz
+  - Mã sku trên M28 đã được cấu hình tại mục "Đồng bộ sản phẩm" để map được với mã fobiz tương ứng.
+  - Ngoài ra hệ thống cũng cho phép user có thể tạo mới đơn hàng trong hệ thống bằng file excel hoặc tạo trên giao diện
 
-![image](https://user-images.githubusercontent.com/73808891/111562306-8e90df00-87c8-11eb-9331-89c27e2272e9.png)
+**Bước 2:** Import đơn hàng bằng file excel: tại danh sách đơn 
 
 Lưu ý: khi xuất danh sách đơn hàng từ Fobiz, người dùng sử dụng button "Export to M28"
 
