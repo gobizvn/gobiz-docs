@@ -1,85 +1,43 @@
+# Danh sách đơn hàng
+- Tại Menu "Đơn hàng" hệ thống hiển thị danh sách đơn hàng sắp xếp theo Ngày tạo từ mới đến cũ, hỗ trợ các bộ lọc và tìm kiếm
+- Người dùng có thể lọc bộ lọc và chọn "Xuất file excel" để xuất danh sách các đơn hàng tương ứng theo bộ lọc ra file
+
+![image](https://user-images.githubusercontent.com/73808891/121623991-e58e1380-ca9a-11eb-9d71-73ed415da354.png)
+
+
 # Tạo mới đơn hàng trong hệ thống
 
 **Bước 1:** Đơn hàng từ hệ thống Fobiz, khi đảm bảo 2 yếu tố sau sẽ tự động đồng bộ sang hệ thống M28
   - Mã vendor trên M28 trùng khớp Mã vendor trên fobiz
   - Mã sku trên M28 đã được cấu hình tại mục "Đồng bộ sản phẩm" để map được với mã fobiz tương ứng.
-  - Ngoài ra hệ thống cũng cho phép user có thể tạo mới đơn hàng trong hệ thống bằng file excel hoặc tạo trên giao diện
 
-**Bước 2:** Import đơn hàng bằng file excel: tại danh sách đơn 
+Ngoài ra hệ thống cũng cho phép user có thể tạo mới đơn hàng trong hệ thống bằng file excel hoặc tạo trên giao diện
+
+1. Import đơn hàng bằng file excel: tại danh sách đơn  hàng, click chọn "Import đơn hàng", kéo file vào vùng tải file lên
+![image](https://user-images.githubusercontent.com/73808891/121623322-ab704200-ca99-11eb-9a6b-8d9994083cc8.png)
 
 Lưu ý: khi xuất danh sách đơn hàng từ Fobiz, người dùng sử dụng button "Export to M28"
 
-**Bước 2:** Chọn kho xuất cho đơn
+2. Tạo đơn hàng trên giao diện: Người dùng click button "Tạo đơn hàng mới" và nhập các thông tin của đơn hàng. Các trường (*) là bắt buộc nhập.
 
-Đơn hàng sau khi được tạo sẽ ở trạng thái **Chờ chọn kho xuất**, người dùng Click vào đơn hàng - Tab Thông tin cho xuất chọn thông tin Kho, Vị trí kho theo Seller, Số lượng xuất hàng. Sau khi hoàn thành việc nhập thông tin, bấm "Xác nhận kho xuất". Đơn hàng chuyển sang trạng thái **Chờ đóng gói**
+**Bước 2**: Đơn hàng sau khi được tạo trên hệ thống --> hệ thống sẽ tự động chọn Kho xuất hàng dựa theo thông tin Kho và vị trí kho của Vendor còn tồn sản phẩm (Luôn ưu tiên lấy hàng từ kho chính trước). Với đơn hàng tự động chọn được kho xuất sẽ có trạng thái 'Chờ nhập Mã vận đơn". Tồn tạm tính của sản phẩm sẽ được trừ đi ở bước này.
+
+Trường hợp sản phẩm hết hàng hoặc không đủ tồn, hệ thống sẽ dừng ở bước 'Chờ chọn kho xuất" để người dùng cập nhật sau.
+![image](https://user-images.githubusercontent.com/73808891/121623588-2d606b00-ca9a-11eb-87c4-61fd29d5aa65.png)
+
+**Bước 3:** Với các đơn ở trạng thái "Chờ nhập mã vận đơn", người dùng click button "Import mã vận đơn" để cập nhật Mã vận đơn cho các đơn hàng (thông tin Mã VĐ lấy từ đơn vị vận chuyển). Tại file excel, người dùng nhập thông tin Mã đơn hàng, Mã vận đơn để hệ thống cập nhật Mã vận đơn cho đơn hàng.
+Đơn hàng sau khi có thông tin 'mã vận đơn" sẽ dừng ở trạng thái "Chờ giao hàng".
+
 
 ![image](https://user-images.githubusercontent.com/73808891/111563519-aff2ca80-87ca-11eb-8a9f-ca1321cbc281.png)
 
-**Bước 3:**: Đóng gói kiện cho đơn hàng 
+**Bước 3:**: Cập nhật trạng thái đơn hàng.
 
-Người dùng thực hiện đóng gói kiện hàng bằng cách click vào "Đóng gói và chọn ĐVVC" và nhập các thông tin đóng gói
+Các đơn hàng khi ở trạng thái "Chờ giao hàng", để cập nhật trạng thái sang "Đang giao hàng", "Đã giao hàng" hoặc "Đã huỷ", người dùng chọn chức năng 
+"Import trạng thái".
+Lưu ý: với các đơn hàng muốn chuyển sang trạng thái Huỷ cần nhập thông tin tái nhập đơn. Muốn nhập lại sản phẩm vào Vị trí kho và Kho trên đơn hàng hay muốn nhập sang kho trung gian khác, user cần nhập thông tin này theo sheet "tái nhập" trong file excel
 
-![image](https://user-images.githubusercontent.com/73808891/111563650-ecbec180-87ca-11eb-8d76-f99557eb24cb.png)
 
-![image](https://user-images.githubusercontent.com/73808891/111565025-488a4a00-87cd-11eb-96db-3775c541f379.png)
-
-**Bước 4:**: Nhập thông tin kho Đích cho kiện
-
-Kiện được đóng gói sẽ có trạng thái "Khởi tạo: Người dùng truy cập hệ thống M6: để theo dõi quá trình kiện được đóng bao và vận chuyển của kiện và bao
-- Link truy cập hệ thống M6: 
-- 
-Thị trường Thái Lan: ubox_th.logistics.mygobiz.net
-Thị trường Indonesia: ubox_id.logistics.mygobiz.net
-Thị trường Philippines: ubox_ph.logistics.mygobiz.net
-
-- Truy cập Menu "Kiện hàng - Danh sách kiện hàng", Click vào Mã kiện cần cập nhật --> "Sửa kiện" --> cập nhật **Kho đích** cho kiện
-
-![image](https://user-images.githubusercontent.com/73808891/111741256-c5462280-88b8-11eb-995b-cd182b4cb03c.png)
-
-**Bước 5**: Đóng bao
-
-Người dùng truy cập Menu Bao hàng - Tạo bao hàng, nhập các thông tin của bao, lưu và đóng bao
-![image](https://user-images.githubusercontent.com/73808891/111724490-ed715980-8897-11eb-88fe-244a18928ac0.png)
-
-**Bước 6:** Quét kiện vào bao
-
-Sau khi tạo bao, người dùng quét kiện vào Bao bằng cách nhập mã kiện --> enter và nhập cân nặng kiện trên giao diện
-
-![image](https://user-images.githubusercontent.com/73808891/111744192-68993680-88bd-11eb-88d4-1109bcf9681e.png)
-
-**Bước 7:** Quét kiện nhập vào Kho xuất
-
-Người dùng quét kiện nhập kho xuất để xác nhận kiện đang ở trong Kho xuất bằng cách truy cập Menu Vận hành - Quét mã vạch, chọn hành động "Nhập", chọn kho là kho xuất, nhập mã kiện và Enter. Sau khi quét trạng thái kiện sẽ được cập nhật thành Kiện về kho
-
-![image](https://user-images.githubusercontent.com/73808891/111745679-89628b80-88bf-11eb-992e-6552ebdee92b.png)
-
-![image](https://user-images.githubusercontent.com/73808891/111745910-dd6d7000-88bf-11eb-8263-51fb33cee4bd.png)
-
-**Bước 8:** Quét bao xuất khỏi kho xuất (khi bao rời kho xuất và bắt đầu VCQT)
-
-Khi muốn xuất bao khỏi kho Xuất để vận chuyển quốc tế, người dùng thực hiện thao tác Quét mã vạch, chọn hành động "Xuất", cho kho là kho xuất, nhập mã bao và Enter. Lúc này kiện sẽ được cập nhật trạng thái là Đang vận chuyển quốc tế
-
-**Bước 9:** Quét kiện nhập vào kho đích (khi bao đến kho Đích)
-
-Thời điểm kiện đến kho đích, người dùng thực hiện việc quét mã vạch nhập vào kho đích (tương tự bước 7,8), trạng thái của kiện chuyển sang "Chờ giao"
-![image](https://user-images.githubusercontent.com/73808891/111751001-85863780-88c6-11eb-9fea-4a3a87e5a47e.png)
-
-**Bước 10:** Quét kiện xuất khỏi kho đích (khi kiện xuất kho đích để thực hiện giao hàng đến tay người nhận)
-
-Thời điểm kiện xuất khỏi kho đích người dùng thực hiện việc quét mã vạch xuất khỏi vào kho đích, trạng thái kiện chuyển sang "Đang giao".
-
-**Bước 11:** Cập nhật trạng thái kiện sang "Đã nhận" khi kiện đã giao thành công cho người nhận
-
-Click "Sửa kiện" tại bản ghi kiện hàng muốn cập nhật
-Chọn Trạng thái --> "Đã nhận"
-![image](https://user-images.githubusercontent.com/73808891/111932040-25bea500-8aef-11eb-8662-c1b39ebd24af.png)
-
-**Lưu ý:** Các trạng thái của kiện trên M6 sẽ được hiển thị tương ứng trên hệ thống Quản lý kho.
-
-# Danh sách đơn hàng
-- Tại Menu "Đơn hàng" hệ thống hiển thị danh sách đơn hàng sắp xếp theo Ngày tạo từ mới đến cũ, hỗ trợ các bộ lọc và tìm kiếm
-- Người dùng có thể lọc bộ lọc và chọn "Xuất file excel" để xuất danh sách các đơn hàng tương ứng theo bộ lọc ra file
-![image](https://user-images.githubusercontent.com/73808891/111932241-9b2a7580-8aef-11eb-94ac-73b3a5cd799e.png)
 
 
 
