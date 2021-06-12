@@ -2,7 +2,7 @@
 
 * [Giới thiệu](README.md)
 * [Go CB Shopper](m2/README.md)
-  * Customer's Order
+  * Customer's Order - Khách hàng Order
     * [Cài đặt công cụ mua hàng](m1/Congcudathang.md)
     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
     * [Cho sản phẩm vào giỏ hàng](m1/giohang.md)
@@ -16,7 +16,7 @@
     * [Thông tin cá nhân](m1/thongtincanhan.md)
     * [Cài đặt chung](m1/caidatchung.md)
 
-  * Customer's Shipment
+  * Customer's Shipment - Khách hàng Ký Gửi
     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
     * [Tạo đơn ký gửi](m1/taodonkygui.md)
     * [Gửi thông tin cho shop](m1/guithongtinchoshop.md)
@@ -27,13 +27,18 @@
     * [Quản lý tài chính](m1/quanlytaichinh.md)
     * [Thông tin cá nhân](m1/thongtincanhan.md)
     * [Cài đặt chung](m1/caidatchung.md)
-  * Order Management
+   
+  * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
     
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
       * [Cấu hình kho](m2/caidat/setupkho.md)
       * [Cấu hình phí](m2/caidat/setupfee.md)
       * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
+      * [Cấu hình cấp VIP khách hàng]
+      * [Cấu hình thông báo]
+      * [Cấu hình app nạp tiền tự động](m2/appnaptien.md)
+      * [Cấu hình khác]
       
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
        * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
@@ -41,10 +46,10 @@
        * [Danh sách kiện hàng](m2/dskienhang.md)
        * [Yêu cầu giao hàng](m2/ycghang.md)
     
-  * Shipment Management
+  * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
     * [Ký gửi](m2/quanlydonkygui2.md)
   
-* [Go Purchasing](m5/README.md)
+* [Go Purchasing](m5/README.md) 
   * Cấu hình 
     * [Cấu hình chung](m5/Cauhinhchung.md)
     * [Cấu hình mua hàng & nhận đơn](m5/CHMuahangnhandon.md)
