@@ -91,29 +91,27 @@
     * Vận hành kho phân phối
       * [Yêu cầu giao](m6/m6_yeucaugiao.md)
       * [Phiếu xuất](m6/m6_phieuxuat.md)
-
-    * Vận hành chung
-      * [Quét mã xuất nhập](m6/m6_quetmaxuatnhap.md)
-      * [Kiểm kê kho](m6/m6_kiemkekho.md)
-
-    * Cấu hình
-      * [Cấu hình kho](m6/m6_cauhinhkho.md)
-      * [Các cấu hình khác](m6/m6_cauhinhkhac.md)
-    
+      
   * Hàng ký gửi
     * Vận hành kho nguồn
      * [Tạo kiện](m6/KG-taokien.md)
      * [Kiểm hàng](m6/KG-kiemhang.md)
      * [Bao hàng](m6/KG-taobao-xuatbao.md)
-     * 
+     
+   * Vận hành kho phân phối
+     * [Nhập hàng vào kho](m6/nhapkho.md)
+     * [Yêu cầu giao](m6/m6_yeucaugiao.md)
+     * [Phiếu xuất](m6/m6_phieuxuat.md)
+    
+   * Vận hành chung
+      * [Quét mã xuất nhập](m6/m6_quetmaxuatnhap.md)
+      * [Kiểm kê kho](m6/m6_kiemkekho.md)
 
-
-  * Vận hành kho phân phối
+   * Cấu hình chung
+      * [Cấu hình kho](m6/m6_cauhinhkho.md)
+      * [Các cấu hình khác](m6/m6_cauhinhkhac.md)
     
-    * Vận hành chung
-    
-    * Cấu hình
-    
+        
 * [Go Complaints](m3/README.md)
   * [Cấu hình](m3/Cauhinhhethong.md)
   * [Tạo khiếu nại cho khách hàng](m3/Taokhieunai.md)
