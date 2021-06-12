@@ -101,10 +101,14 @@
       * [Các cấu hình khác](m6/m6_cauhinhkhac.md)
     
   * Hàng ký gửi
-    * [Demo](m6/_dan_nhap_kho_tao_kien.md)
     * Vận hành kho nguồn
-    
-    * Vận hành kho phân phối
+     * [Tạo kiện](m6/KG-taokien.md)
+     * [Kiểm hàng](m6/KG-kiemhang.md)
+     * [Bao hàng](m6/KG-taobao-xuatbao.md)
+     * 
+
+
+  * Vận hành kho phân phối
     
     * Vận hành chung
     
