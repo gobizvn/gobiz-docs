@@ -1,5 +1,16 @@
 # Change Logs
 
+
+## [1.21.0] - 17/06/2021
+
+### Chức năng mới
+
+- Cho phép đánh dấu mã quản lý sản phẩm trên từng sản phẩm (#2998)
+
+### Cập nhật
+
+- Thêm cột ID đơn khi xuất file CSV giao dịch alipay (#2967)
+
 ## [1.20.0] - 01/06/2021
 
 ### Chức năng mới
