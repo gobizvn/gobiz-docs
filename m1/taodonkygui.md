@@ -84,6 +84,7 @@ Tiếp tục thêm sản phẩm vào giỏ hàng (nếu còn)
 *Lưu ý: Chỉ chọn những sản phẩm cần mua của 1 nhà cung cấp(NCC)*
 
 - Đối với trang Taobao, Quý khách chọn thay đổi địa chỉ “改修本地址” và Tạo đơn ký gửi:
+
 ![image](https://user-images.githubusercontent.com/73226975/122738685-683d7c80-d2ac-11eb-8ea6-15d83b05a5df.png)
 
 ![image](https://user-images.githubusercontent.com/73226975/122740531-4513cc80-d2ae-11eb-9e01-93686fa5a2e9.png)
@@ -94,6 +95,7 @@ Sau khi có thông báo tạo đơn ký gửi thành công, Quý khách lưu l�
 
 - Tương tự với Tmall Quý khách chọn thay đổi “改修” và 1688.com chữ thay đổi là "更改"
 Trương hợp muốn chọn hoặc sửa dịch vụ vận chuyển cho đơn hàng Quý khách thao tác như sau:
+
 Chọn biểu tượng tiện ích trên trình duyệt Chrome/Cốc cốc  -> Chọn “Gobiz Assistant - Trợ lý mua sắm trực tuyến” -> Chọn dịch vụ vận chuyển và dịch vụ gia tăng (nếu có) cho đơn hàng
 
 ![image](https://user-images.githubusercontent.com/73226975/122745397-282dc800-d2b3-11eb-8e27-f763ffc19f88.png)
