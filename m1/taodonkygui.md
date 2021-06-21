@@ -3,6 +3,7 @@
 - Ký gửi hàng hóa tức là Quý khách đã hoàn thành tất cả giao dịch với đối tác ở Trung Quốc và chỉ sử dụng dịch vụ vận chuyển hàng từ Trung Quốc về Việt Nam.
 - Mục đích của việc tạo đơn ký gửi trên hệ thống để Quý khách có thể lấy được thông tin địa chỉ kho hàng, mã đơn hàng cung cấp cho shop trước khi tiến hành thanh toán. Bên cạnh đó Quý khách có thể cập nhập thông tin sản phẩm, mã vận đơn để tiện cho việc theo dõi và khai quan nếu sử dụng dịch vụ vận chuyển TMĐT.
 
+
 1. **TẠO ĐƠN THỦ CÔNG**
 
 1.1. **TẠO ĐƠN KÝ GỬI TRÊN HỆ THỐNG**
@@ -12,14 +13,14 @@ Tại menu bên tay trái, Quý khách chọn Menu Đơn ký gửi và click và
 ![Menu ký gửi](https://user-images.githubusercontent.com/73226975/122727585-615d3c80-d2a1-11eb-819e-8135d6fc65ab.png)
 
 - Quý khách Chọn “Tạo đơn ký gửi” hệ thống sẽ hiển thị ra giao diện lựa chọn dịch vụ cho đơn hàng:
-- 
+
 ![Tạo đơn ký gửi](https://user-images.githubusercontent.com/73226975/122727665-776afd00-d2a1-11eb-8882-6b4df5fab957.png)
  
 Chọn dịch vụ tương ứng (1) -> Chọn địa chỉ nhận hàng của Quý khách tại Việt Nam (2) -> Bấm tạo đơn ký gửi (3).
 
 Đơn hàng tạo thành công sẽ ở trạng thái **Đã ký gửi** như hình:
 
-![image](https://user-images.githubusercontent.com/73226975/122729094-fdd40e80-d2a2-11eb-92a0-6ad0408e3562.png)
+![Tạo đơn thành công](https://user-images.githubusercontent.com/73226975/122729094-fdd40e80-d2a2-11eb-92a0-6ad0408e3562.png)
 
  
  2. **TẠO ĐƠN BẰNG CÔNG CỤ**
@@ -42,17 +43,17 @@ Truy cập ứng dụng trên cửa hàng chrome trực tuyến [tại đây](ht
 
 (2) Chọn “Thêm tiện ích”
 
-![image](https://user-images.githubusercontent.com/73226975/122734618-725d7c00-d2a8-11eb-931e-e0394a2e5796.png)
+![Thêm tiện ích](https://user-images.githubusercontent.com/73226975/122734618-725d7c00-d2a8-11eb-931e-e0394a2e5796.png)
 
 Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dưới:
 
-![image](https://user-images.githubusercontent.com/73226975/122734664-7b4e4d80-d2a8-11eb-9533-d69f6c4e2868.png)
+![Cài đặt thành công](https://user-images.githubusercontent.com/73226975/122734664-7b4e4d80-d2a8-11eb-9533-d69f6c4e2868.png)
 
 2.2. **HƯỚNG DẪN TẠO ĐƠN KÝ GỬI TRÊN TRANG THANH TOÁN**
 
-Đăng nhập username, mật khẩu của Quý khách đang sử dg trên hệ thống quản lý đơn hàng ký gửi ngay tại trang thanh toán:
+Đăng nhập username và mật khẩu của Quý khách đang sử dụng trên hệ thống quản lý đơn hàng ký gửi, ngay tại trang thanh toán:
 
-![image](https://user-images.githubusercontent.com/73226975/122735060-e009a800-d2a8-11eb-82af-b326ec660947.png)
+![Đăng nhập tài khoản](https://user-images.githubusercontent.com/73226975/122735060-e009a800-d2a8-11eb-82af-b326ec660947.png)
 
 Truy cập vào chi tiết link sản phẩm cần mua:
 
@@ -91,9 +92,22 @@ Sau khi có thông báo tạo đơn ký gửi thành công, Quý khách lưu l�
 
 ![image](https://user-images.githubusercontent.com/73226975/122741631-54dfe080-d2af-11eb-8ab6-6cf0d8d5f9d9.png)
 
+- Tương tự với Tmall Quý khách chọn thay đổi “改修” và 1688.com chữ thay đổi là "更改"
+Trương hợp muốn chọn hoặc sửa dịch vụ vận chuyển cho đơn hàng Quý khách thao tác như sau:
+Chọn biểu tượng tiện ích trên trình duyệt Chrome/Cốc cốc  -> Chọn “Gobiz Assistant - Trợ lý mua sắm trực tuyến” -> Chọn dịch vụ vận chuyển và dịch vụ gia tăng (nếu có) cho đơn hàng
 
+![image](https://user-images.githubusercontent.com/73226975/122745397-282dc800-d2b3-11eb-8e27-f763ffc19f88.png)
 
-Chọn dịch vụ vận chuyển cho đơn hàng
+![image](https://user-images.githubusercontent.com/73226975/122745413-2cf27c00-d2b3-11eb-990a-c39255197b5c.png)
+
 ![image](https://user-images.githubusercontent.com/73226975/122736227-00863200-d2aa-11eb-94b7-22787a3ce200.png)
 
+**Lưu ý:**: Để tạo đơn bằng công cụ Quý khách cần điền đúng thông tin địa chỉ kho, mã bưu điện, số điện thoại kho Trung Quốc của đơn vị vận chuyển, ví dụ:
 
+- 收货地址：广东省，广州市，白云区，均禾街道，石马村旺发大街92号C栋SCB仓库 [username] [mã đơn hàng] 
+
+- 邮政编码：510440
+
+- 电话号码：13148959544
+
+- 收货人：[mã đơn hàng] 
