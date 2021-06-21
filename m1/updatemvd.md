@@ -26,8 +26,4 @@ Quý khách  mua hàng, thanh toán với NCC và yêu cầu NCC gửi hàng v�
 
 Sau khi NCC phát hàng, Quý khách tiến hành cập nhật thông tin MVĐ đã phát vào hệ thống của đối tác cung cấp dịch vụ vận chuyển như hình:
 
-![image](https://user-images.githubusercontent.com/73226975/122753123-fbca7980-d2bb-11eb-8e10-80441115d0f1.png)
-
-![image](https://user-images.githubusercontent.com/73226975/122753255-2e747200-d2bc-11eb-82af-a87224984943.png)
-
 ![image](https://user-images.githubusercontent.com/73226975/122753273-36ccad00-d2bc-11eb-8569-e6ce83c1a8c0.png)
