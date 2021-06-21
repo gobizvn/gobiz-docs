@@ -9,11 +9,11 @@
 
 Tại menu bên tay trái, Quý khách chọn Menu Đơn ký gửi và click vào Tạo đơn như hình:
 
-![image](https://user-images.githubusercontent.com/73226975/122727585-615d3c80-d2a1-11eb-819e-8135d6fc65ab.png)
+![Menu ký gửi](https://user-images.githubusercontent.com/73226975/122727585-615d3c80-d2a1-11eb-819e-8135d6fc65ab.png)
 
 - Quý khách Chọn “Tạo đơn ký gửi” hệ thống sẽ hiển thị ra giao diện lựa chọn dịch vụ cho đơn hàng:
 - 
-![image](https://user-images.githubusercontent.com/73226975/122727665-776afd00-d2a1-11eb-8882-6b4df5fab957.png)
+![Tạo đơn ký gửi](https://user-images.githubusercontent.com/73226975/122727665-776afd00-d2a1-11eb-8882-6b4df5fab957.png)
  
 Chọn dịch vụ tương ứng (1) -> Chọn địa chỉ nhận hàng của Quý khách tại Việt Nam (2) -> Bấm tạo đơn ký gửi (3).
 
@@ -34,11 +34,11 @@ Công cụ Tạo đơn Ký gửi trực tiếp từ Taobao, Tmall, 1688 phù h�
 
 2.1. **CÀI ĐẶT CÔNG CỤ**
 
-Truy cập ứng dụng trên cửa hàng chrome trực tuyến tại đây(https://chrome.google.com/webstore/search/gobiz?hl=vi)
+Truy cập ứng dụng trên cửa hàng chrome trực tuyến [tại đây](https://chrome.google.com/webstore/search/gobiz?hl=vi)
 
 (1) Chọn “Thêm vào chrome”
 
-![image](https://user-images.githubusercontent.com/73226975/122734579-68d41400-d2a8-11eb-8da4-29aa8d45f64c.png)
+![Cài đặt công cụ](https://user-images.githubusercontent.com/73226975/122734579-68d41400-d2a8-11eb-8da4-29aa8d45f64c.png)
 
 (2) Chọn “Thêm tiện ích”
 
