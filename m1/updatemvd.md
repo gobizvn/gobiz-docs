@@ -27,3 +27,9 @@ Quý khách  mua hàng, thanh toán với NCC và yêu cầu NCC gửi hàng v�
 Sau khi NCC phát hàng, Quý khách tiến hành cập nhật thông tin MVĐ đã phát vào hệ thống của đối tác cung cấp dịch vụ vận chuyển như hình:
 
 ![image](https://user-images.githubusercontent.com/73226975/122753273-36ccad00-d2bc-11eb-8569-e6ce83c1a8c0.png)
+
+**Các trạng thái mã vận đơn**
+- Đã khởi tạo: Ngay sau khi Quý khách up MVĐ lên hệ thống.
+- Kho Nhận Hàng: Kho Trung Quốc đã nhận 
+
+*Lưu ý: Khi sử dụng hình thức up MVĐ(Ký gửi một bước) Quý khách hàng TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG trên trang người dùng (ĐƠn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi).
