@@ -30,6 +30,7 @@ Sau khi NCC phát hàng, Quý khách tiến hành cập nhật thông tin MVĐ �
 
 **Các trạng thái mã vận đơn**
 - Đã khởi tạo: Ngay sau khi Quý khách up MVĐ lên hệ thống.
-- Kho Nhận Hàng: Kho Trung Quốc đã nhận 
+- Kho Nhận Hàng: Kho Trung Quốc đã nhận được hàng từ shop.
+- Đã khớp đơn: Đơn vị vận chuyển đã tạo đơn hàng tương ứng với MVĐ.
 
-*Lưu ý: Khi sử dụng hình thức up MVĐ(Ký gửi một bước) Quý khách hàng TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG trên trang người dùng (ĐƠn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi).
+*Lưu ý: Khi sử dụng hình thức up MVĐ(Ký gửi một bước) Quý khách hàng **TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG** trên trang người dùng (Đơn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi)*
