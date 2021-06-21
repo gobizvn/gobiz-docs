@@ -1,6 +1,7 @@
 ## 1. Giới thiệu chung
 
   Go ticket là phần mềm được ra đời để hỗ trợ cho việc  quản lý, phân công công việc trong tổ chức được vận hành một cách hiệu quả. Dưới góc nhìn của các nhà quản lý, Go ticket là chìa khoá giúp cho việc tổ chức, phân công, quản lý tiến độ của team trở lên minh bạch, công khai và rõ ràng. Dưới góc nhìn cá nhân, Go ticket giúp người dùng tiếp nhận/ đánh giá những nhiệm vụ cần hoàn thành. Điểm nổi bật của Go ticket so với các phần mềm tương tự trên thị trường đó là giao diện đơn giản, dễ dùng, các chức năng đánh đúng trọng tâm nhu cầu của người dùng.
+  Gobiz ticket
   
 ## 2. Giao diện chung và các Thanh chức năng
 
