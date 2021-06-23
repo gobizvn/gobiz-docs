@@ -123,6 +123,9 @@
   * [Tạo khiếu nại cho khách hàng](m3/Taokhieunai.md)
   * [Xử lý khiếu nại](m3/Xulykhieunai.md)
 * [Go Authen.me](m10/README.md)
+  * [Tạo tài khoản](m10/taotaikhoan.md)
+  * [Tạo nhóm quyền](m10/taonhomquyen.md)
+  * [Phân quyền](m10/phanquyen.md)
 
 * [Go Ticket](m27/README.md)
   * [Dùng cho Owner] Quy trình thiết lập các chức năng cho 1 project
