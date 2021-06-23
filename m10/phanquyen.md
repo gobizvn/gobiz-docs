@@ -1,10 +1,10 @@
 Để có thể phân quyền xử lý công việc trên hệ thống, người dùng cần thao tác truy cập vào link hệ thống, ví dụ:
 
-- Hệ thống quản lý chung Admin: cú pháp chung thường là admin.tên miền (admin.demo.gobiz.vn)
-- Hệ thống quản lý mua hàng: Mua. tên miền (mua.demo.gobiz.vn)
-- Hệ thống quản lý Kho hàng: Kho. tên miền (kho.demo.gobiz.vn)
-- Hệ thống xử lý khiếu nại: Khiếu nại. tên miền (khieunai.demo.gobiz.vn)
-- Hệ thống quản lý Sale: Sale.tên miền (sale.demo.gobiz.vn)
+- Hệ thống quản lý chung **Admin**: cú pháp chung thường là admin.tên miền (admin.demo.gobiz.vn)
+- Hệ thống quản lý **Mua hàng**: Mua. tên miền (mua.demo.gobiz.vn)
+- Hệ thống quản lý **Kho hàng**: Kho. tên miền (kho.demo.gobiz.vn)
+- Hệ thống xử lý **Khiếu nại**: Khiếu nại. tên miền (khieunai.demo.gobiz.vn)
+- Hệ thống quản lý **Sale**: Sale.tên miền (sale.demo.gobiz.vn)
 
 Đăng nhập thành công, hệ thống sẽ hiển thị giao diện trống, không có thông tin hoặc báo lỗi không có quyền truy cập.
 
