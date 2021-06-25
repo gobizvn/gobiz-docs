@@ -122,6 +122,7 @@
   * [Cấu hình](m3/Cauhinhhethong.md)
   * [Tạo khiếu nại cho khách hàng](m3/Taokhieunai.md)
   * [Xử lý khiếu nại](m3/Xulykhieunai.md)
+  
 * [Go Authen.me](m10/README.md)
   * [Tạo tài khoản](m10/taotaikhoan.md)
   * [Tạo nhóm quyền](m10/taonhomquyen.md)
@@ -171,11 +172,14 @@
   * Cấu hình (Vendor, Vận hành, Đồng bộ sản phẩm)
     * [Các chức năng cấu hình](m28/setting.md)
     
-* [Go Sales] (m19/m19.md)
+* Go Sales
+  *  [Quản lý kinh doanh](m19/m19.md)
+  
 * Sơ đồ vận hành gói dịch vụ
   * [Gói cơ bản](services/standard.md)
   * [Gói tiêu chuẩn](services/standard.md)
   * [Gói vận chuyển](services/standard.md)
+  
 * Q&A
   * [Go Shopper](QA/go_shopper.md)
   * [Go Purchasing](QA/go_shopper.md)
