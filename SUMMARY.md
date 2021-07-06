@@ -178,7 +178,20 @@
 * Sơ đồ vận hành gói dịch vụ
   * [Gói cơ bản](services/basic.md)
     * [Hướng dẫn sử dụng](m2/README.md)
-      * [Customer's Order - Khách hàng Order](m1/README.md)
+      * Customer's Order - Khách hàng Order
+    * [Cài đặt công cụ mua hàng](m1/Congcudathang.md)
+    * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
+    * [Cho sản phẩm vào giỏ hàng](m1/giohang.md)
+    * [Quản lý giỏ hàng](m1/quanlygiohang.md)
+    * [Đặt cọc đơn hàng](m1/datcoc.md)
+    * [Danh sách đơn hàng](m1/Danhsachdonhang.md)
+    * [Chi tiết đơn hàng](m1/Chitietdonhang.md)
+    * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
+    * [Khiếu nại](m1/khieunaidonthuong.md)
+    * [Quản lý tài chính](m1/quanlytaichinh.md)
+    * [Thông tin cá nhân](m1/thongtincanhan.md)
+    * [Cài đặt chung](m1/caidatchung.md)
+
       * 
   * [Gói tiêu chuẩn](services/standard.md)
   * [Gói vận chuyển](services/standard.md)
