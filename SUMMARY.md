@@ -176,7 +176,7 @@
   *  [Quản lý kinh doanh](m19/m19.md)
   
 * Sơ đồ vận hành gói dịch vụ
-  * [Gói cơ bản](services/standard.md)
+  * [Gói cơ bản](services/basic.md)
   * [Gói tiêu chuẩn](services/standard.md)
   * [Gói vận chuyển](services/standard.md)
   
