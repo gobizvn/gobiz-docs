@@ -177,7 +177,8 @@
   
 * Sơ đồ vận hành gói dịch vụ
   * [Gói cơ bản](services/basic.md)
-    * Hướng dẫn sử dụng
+    * [Hướng dẫn sử dụng](m2/README.md)
+    
   * [Gói tiêu chuẩn](services/standard.md)
   * [Gói vận chuyển](services/standard.md)
   
