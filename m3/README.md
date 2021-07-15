@@ -1,3 +1,3 @@
 # Go Complaints
 
-Quản lý tiếp nhận và xử lý yêu cầu khiếu nại từ phía khách hàng
+Hệ thống tiếp nhận và xử lý yêu cầu khiếu nại từ phía khách hàng.
