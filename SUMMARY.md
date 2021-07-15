@@ -13,8 +13,8 @@
     * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
     * [Khiếu nại](m1/khieunaidonthuong.md)
     
-  * Customer's Shipment - Khách hàng Ký Gửi
-    * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
+   * Customer's Shipment - Khách hàng Ký Gửi
+     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
      * [Tạo đơn ký gửi](m1/taodonkygui.md)
      * [Gửi thông tin cho shop](m1/guithongtinchoshop.md)
      * [Thêm sản phẩm và mã vận đơn TQ ](m1/updatemvd.md)
@@ -22,10 +22,10 @@
      * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
      * [Khiếu nại](m1/khieunaikygui.md)
    
-    * Vận hành chung
-      * [Quản lý tài chính](m1/quanlytaichinh.md)
-      * [Thông tin cá nhân](m1/thongtincanhan.md)
-      * [Cài đặt chung](m1/caidatchung.md)
+   * Vận hành chung
+     * [Quản lý tài chính](m1/quanlytaichinh.md)
+     * [Thông tin cá nhân](m1/thongtincanhan.md)
+     * [Cài đặt chung](m1/caidatchung.md)
      
  * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
