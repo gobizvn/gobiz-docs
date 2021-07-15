@@ -14,20 +14,20 @@
     * [Khiếu nại](m1/khieunaidonthuong.md)
    
 
-  * Customer's Shipment - Khách hàng Ký Gửi
-    * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
-    * [Tạo đơn ký gửi](m1/taodonkygui.md)
-    * [Gửi thông tin cho shop](m1/guithongtinchoshop.md)
-    * [Thêm sản phẩm và mã vận đơn TQ ](m1/updatemvd.md)
-    * [Quản lý đơn hàng ](m1/quanlydonkygui.md)
-    * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
-    * [Khiếu nại](m1/khieunaikygui.md)
+   * Customer's Shipment - Khách hàng Ký Gửi
+     * [Đăng ký và Đăng nhập](m1/Loginlogout.md)
+     * [Tạo đơn ký gửi](m1/taodonkygui.md)
+     * [Gửi thông tin cho shop](m1/guithongtinchoshop.md)
+     * [Thêm sản phẩm và mã vận đơn TQ ](m1/updatemvd.md)
+     * [Quản lý đơn hàng ](m1/quanlydonkygui.md)
+     * [Giao hàng và nhận hàng](m1/giaohangvanhanhang.md)
+     * [Khiếu nại](m1/khieunaikygui.md)
    
-   * Vận hành chung
-     * [Quản lý tài chính](m1/quanlytaichinh.md)
-     * [Thông tin cá nhân](m1/thongtincanhan.md)
-     * [Cài đặt chung](m1/caidatchung.md)
-     * 
+    * Vận hành chung hệ thống khách hàng Order
+      * [Quản lý tài chính](m1/quanlytaichinh.md)
+      * [Thông tin cá nhân](m1/thongtincanhan.md)
+      * [Cài đặt chung](m1/caidatchung.md)
+     
   * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
@@ -40,16 +40,16 @@
        * [Danh sách kiện hàng](m2/dskienhang.md)
        * [Yêu cầu giao hàng](m2/ycghang.md)
     
-  * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
-    * [Ký gửi](m2/quanlydonkygui2.md)
-    * 
-  * Vận hành chung
-    * [Cấu hình kho](m2/caidat/setupkho.md)
-    * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
-    * [Cấu hình cấp VIP khách hàng]
-    * [Cấu hình thông báo]
-    * [Cấu hình app nạp tiền tự động](m2/appnaptien.md)
-    * [Cấu hình khác]
+   * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
+      * [Ký gửi](m2/quanlydonkygui2.md)
+     
+    * Vận hành chung 
+     * [Cấu hình kho](m2/caidat/setupkho.md)
+     * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
+     * [Cấu hình cấp VIP khách hàng]
+     * [Cấu hình thông báo]
+     * [Cấu hình app nạp tiền tự động](m2/appnaptien.md)
+     * [Cấu hình khác]
 
 * [Go Purchasing](m5/README.md) 
   * Cấu hình 
