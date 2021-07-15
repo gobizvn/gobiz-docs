@@ -202,7 +202,7 @@
      * [Thông tin cá nhân](m1/thongtincanhan.md)
      * [Cài đặt chung](m1/caidatchung.md)
      
- * Order Management - Đơn vị cung cấp Dịch vụ Order
+  * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
       * [Cấu hình phí](m2/caidat/setupfee.md
@@ -218,12 +218,12 @@
       * [Ký gửi](m2/quanlydonkygui2.md)
      
     * Vận hành chung 
-     * [Cấu hình kho](m2/caidat/setupkho.md)
-     * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
-     * [Cấu hình cấp VIP khách hàng]
-     * [Cấu hình thông báo]
-     * [Cấu hình app nạp tiền tự động](m2/appnaptien.md)
-     * [Cấu hình khác]
+      * [Cấu hình kho](m2/caidat/setupkho.md)
+      * [Cấu hình nhóm khách hàng](m2/setupgroup.md)
+      * [Cấu hình cấp VIP khách hàng]
+      * [Cấu hình thông báo]
+      * [Cấu hình app nạp tiền tự động](m2/appnaptien.md)
+      * [Cấu hình khác]
 
   * [Gói tiêu chuẩn](services/standard.md)
   * [Gói vận chuyển](services/standard.md)
