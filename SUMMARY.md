@@ -30,7 +30,7 @@
  * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
-      * [Cấu hình phí](m2/caidat/setupfee.md
+      * [Cấu hình phí](m2/caidat/setupfee.md)
       * [Cấu hình chung]
       
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
