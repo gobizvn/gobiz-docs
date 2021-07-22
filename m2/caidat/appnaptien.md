@@ -1,4 +1,7 @@
 
+App nạp tiền tự động là tính năng phát triển bởi đội ngũ kỹ thuật Gobiz, với mục đích hỗ trợ khách hàng có thể nạp tiền vào ví điện tử 24/24 không kể ngày lễ hay ngoài giờ hành chính, không bị phụ thuộc vào yếu tố con người quá nhiều. Bên cạnh đó app nạp tiền ra đời cũng góp phần vào việc giảm thiểu rủi ro sai lệch tài chính trong quá trình vận hành, nạp tiền thủ công.
+Tạo sự chủ động trong công việc cho cả khách hàng và cả đơn vị cung cấp dịch vụ Order - Ký gửi hàng hóa.
+
 **Trước khi cài đặt khách hàng cần cung cấp cho Gobiz 1 số thông tin sau:**
 
 - Thông tin tài khoản ngân hàng bao gồm: Tên chủ tài khoản, số tài khoản, chi nhánh ngân hàng, tên ngân hàng viết chuẩn xác hiển thị trên tin nhắn SMS hệ thống ngân hàng trả về.
