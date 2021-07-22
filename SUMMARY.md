@@ -32,7 +32,7 @@
       * [Cấu hình chung](m2/cauhinhchungod.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
       * [Cấu hình phí](m2/caidat/setupfee.md)
-      * [App nạp tiền tự động](m2/caidat/appnaptien.md)
+      
       
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
        * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
@@ -49,7 +49,7 @@
      * [Nhóm khách hàng](m2/setupgroup.md)
      * [Cấu hình cấp VIP khách hàng]
      * [Cấu hình thông báo]
-     * [Cấu hình app nạp tiền tự động](m2/appnaptien.md)
+     * [App nạp tiền tự động](m2/caidat/appnaptien.md)
      * [Cấu hình khác]
 
 * [Go Purchasing](m5/README.md) 
