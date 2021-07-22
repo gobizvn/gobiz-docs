@@ -32,6 +32,7 @@
       * [Cấu hình chung](m2/cauhinhchungod.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
       * [Cấu hình phí](m2/caidat/setupfee.md)
+      * [App nạp tiền tự động](m2/caidat/appnaptien.md)
       
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
        * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
