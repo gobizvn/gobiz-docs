@@ -202,20 +202,19 @@
      * [Thông tin cá nhân](m1/thongtincanhan.md)
      * [Cài đặt chung](m1/caidatchung.md)
      
-   * Order Management - Đơn vị cung cấp Dịch vụ Order
+  * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
-      * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
-      * [Cấu hình phí](m2/caidat/setupfee.md
-      * [Cấu hình chung]
+     * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
+     * [Cấu hình phí](m2/caidat/setupfee.md)
       
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
-      * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
-      * [Chi tiết đơn hàng](m2/quanlydonhang/chitietdon.md)
-      * [Danh sách kiện hàng](m2/dskienhang.md)
-      * [Yêu cầu giao hàng](m2/ycghang.md)
+     * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
+     * [Chi tiết đơn hàng](m2/quanlydonhang/chitietdon.md)
+     * [Danh sách kiện hàng](m2/dskienhang.md)
+     * [Yêu cầu giao hàng](m2/ycghang.md)
     
-   * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
-      * [Ký gửi](m2/quanlydonkygui2.md)
+  * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
+    * [Ký gửi](m2/quanlydonkygui2.md)
      
     * Vận hành chung 
       * [Cấu hình kho](m2/caidat/setupkho.md)
