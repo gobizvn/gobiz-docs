@@ -93,10 +93,12 @@
     * Vận hành kho nguồn
      * [Tạo kiện](m6/m6_taokien.md)
      * [Kiểm hàng](m6/m6_kiemhang.md)
-     * [Tạo và Đóng bao](m6/m6_dongbao.md)
+     * [Xử lý hàng sai lỗi](m6/hangsailoi.md)
+     * [Bao hàng](m6/baohang.md)
+     * [Xuất kho](m6/xuatkho.md)
 
     * Vận hành kho phân phối
-     * [Nhập hàng](m6/nhapkho.md)
+     * [Nhập kho](m6/nhapkho.md)
      * [Yêu cầu giao](m6/m6_yeucaugiao.md)
      * [Phiếu xuất](m6/m6_phieuxuat.md)
       
@@ -104,7 +106,9 @@
     * Vận hành kho nguồn
      * [Tạo kiện](m6/KG-taokien.md)
      * [Kiểm hàng](m6/KG-kiemhang.md)
-     * [Bao hàng](m6/KG-taobao-xuatbao.md)
+     * [Xử lý hàng sai lỗi](m6/hangsailoi.md)
+     * [Bao hàng](m6/KG-baohang.md)
+     * [Xuất kho](m6/xuatkhotq.md)
      
     * Vận hành kho phân phối
      * [Nhập hàng](m6/nhapkho.md)
@@ -112,12 +116,17 @@
      * [Phiếu xuất](m6/m6_phieuxuat.md)
     
   * Vận hành chung
-    * [Quét mã xuất nhập](m6/m6_quetmaxuatnhap.md)
+    * [Lịch sử xuất nhập hàng](m6/xuatnhaphang.md)
+    * [Quản lý kiện hàng](m6/quanlykienhang.md)
     * [Kiểm kê kho](m6/m6_kiemkekho.md)
+    * [Lưu ý hàng hóa](m6/luuyhanghoa.md)
+    * [Thống kê](m6/thongkekho.md)
 
   * Cấu hình chung
     * [Cấu hình kho](m6/m6_cauhinhkho.md)
-    * [Các cấu hình khác](m6/m6_cauhinhkhac.md)
+    * [Cấu hình bao](m6/baomau.md)
+    * [Lưu ý hàng hóa](lyhh.md)
+    * [Cài đặt khác](m6/caidatkhac.md)
     
         
 * [Go Complaints](m3/README.md)
