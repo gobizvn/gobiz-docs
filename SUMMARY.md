@@ -68,13 +68,14 @@
     * [Phân đơn](m5/phandon.md)
     * [Xử lý đơn](m5/xulydon.md)
   
-  * Sử dụng YCTT cho quy trình mua hàng
+  * Thanh toán
     * [GDV gửi YCTT qua công cụ](m5/YCTTcongcu.md)
     * [GDV gửi YCTT qua admin](m5/YCTTadmin.md)
     * [GDV tự thanh toán qua ví Alipay](m5/GDVtuthanhtoan.md)
    
   * Quản lý đơn sau mua
     * [Khai báo hải quan](m5/thongtinhaiquan.md)
+    * [Cập nhập thông tin đơn hàng](update.md)
     * [Đồng bộ mã vận đơn](m5/dongbomavandon.md)
     * [Khiếu nại người bán](m5/khieunainguoiban.md)
    
