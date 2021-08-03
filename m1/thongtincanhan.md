@@ -62,7 +62,7 @@ Thông tin hiển thị trong danh sách:
 
 4. **Câu hỏi thường gặp**
 
-- Danh mục này sẽ hiển thị các bài viết hướng dẫn, các câu hỏi thường gặp...
+-- Danh mục này sẽ hiển thị các bài viết hướng dẫn, các câu hỏi thường gặp...
 - Các bài viết sẽ hiển thị tên tiêu đề theo dạng danh sách, để đọc nội dung chi tiết Quý khách click vào mũi tên lên xuống hoặc tiêu đề bài viết.
 
 ![image](https://user-images.githubusercontent.com/85599407/127990839-301e7404-9288-43a2-ace8-2a43927b1297.png)
