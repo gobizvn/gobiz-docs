@@ -22,7 +22,6 @@ Quý khách có thể click vào ảnh đại diện của mình, chọn **Thôn
 
 ![Email xác nhận](https://user-images.githubusercontent.com/73226975/104561388-e94b7480-5679-11eb-9daf-c489d87f4367.png)
 
-  \
 2. **Địa chỉ của bạn**
 
 Tại màn hình **Địa chỉ của bạn**, Quý khách sẽ thấy danh sách địa chỉ nhận hàng mà Quý khách đã thêm. Quý khách có thể thêm địa chỉ nhận hàng bằng cách click vào nút **Thêm địa chỉ mới**.
@@ -62,7 +61,7 @@ Thông tin hiển thị trong danh sách:
 
 4. **Câu hỏi thường gặp**
 
--- Danh mục này sẽ hiển thị các bài viết hướng dẫn, các câu hỏi thường gặp...
+- Danh mục này sẽ hiển thị các bài viết hướng dẫn, các câu hỏi thường gặp...
 - Các bài viết sẽ hiển thị tên tiêu đề theo dạng danh sách, để đọc nội dung chi tiết Quý khách click vào mũi tên lên xuống hoặc tiêu đề bài viết.
 
 ![image](https://user-images.githubusercontent.com/85599407/127990839-301e7404-9288-43a2-ace8-2a43927b1297.png)
