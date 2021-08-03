@@ -12,7 +12,7 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 **2.1. Thêm MVĐ đối với trường hợp ký gửi có tạo đơn)**
 
-**2.1.1 Thêm MVĐ thủ công (trường hợp tạo đơn thủ công từ hệ thống**
+**2.1.1 Thêm MVĐ thủ công (trường hợp tạo đơn thủ công từ hệ thống)**
 
 - Chọn đơn hàng cần khớp MVĐ -> Chọn tab Vận chuyển (1) -> Thêm mã vận đơn (2) -> Điền mã vận đơn (3) -> Bấm Lưu (4).
 
@@ -31,7 +31,7 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 ![image](https://user-images.githubusercontent.com/85599407/127981334-5e090b1e-300d-4093-ac5d-f0be65c4e909.png)
 
-**Bước 3**: Quý khách thao tác bấm chọn Khớp mã vận đơn tương tự như bước khớp đơn.
+**Bước 3**: Bấm chọn Khớp mã vận đơn tương tự như bước khớp đơn.
 
 
 **2.2. Thêm MVĐ đối với hình thức ký gửi không tạo đơn**
@@ -46,4 +46,4 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 - Kho Nhận Hàng: Kho Trung Quốc đã nhận được hàng từ NCC.
 - Đã khớp đơn: Kho Trung Quốc đã tạo đơn hàng tương ứng với MVĐ nhận được.
 
-*Lưu ý: Khi sử dụng hình thức up MVĐ (Ký gửi một bước)Quý khách hàng **TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG** trên trang người dùng (Đơn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi)*
+*Lưu ý: Khi sử dụng hình thức up MVĐ Quý khách hàng **TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG** trên trang người dùng (Đơn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi)*
