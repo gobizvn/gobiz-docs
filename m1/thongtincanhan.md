@@ -7,14 +7,15 @@ Quý khách có thể click vào ảnh đại diện của mình, chọn **Thôn
 ![Truy cập Thông tin cá nhân](https://user-images.githubusercontent.com/73226975/103864938-03270d80-50f6-11eb-9b6f-b13503744302.png)
 
 **Thông tin có thể chỉnh sửa:**
-+ Họ tên
-+ Ngày tháng năm sinh
++ Họ và tên
++ Ngày sinh
 + Địa chỉ liên hệ
 + Email
 + Giới tính
 + Số điện thoại liên hệ
+
 **Lưu ý:**
-Để thay đổi thành công địa chỉ email đang dùng sang một địa chỉ email khác, sau khi điền email mới, Quý khách vui lòng truy cập vào hòm thư và xác nhận thông tin theo nội dung được hướng dẫn trong email hệ thống gửi đến.
+Để thay đổi thành công địa chỉ email đang dùng sang một địa chỉ email khác, sau khi điền email mới, Quý khách vui lòng truy cập vào email để xác nhận thông tin.
 
 
 ![Chỉnh sửa thông tin cá nhân](https://user-images.githubusercontent.com/73226975/103864946-04f0d100-50f6-11eb-80ce-f4edc5ee515b.png)
@@ -59,11 +60,10 @@ Thông tin hiển thị trong danh sách:
 
 ![Danh sách sản phẩm đã lưu](https://user-images.githubusercontent.com/73226975/104710873-2df70e80-5753-11eb-94d7-c83ca06ab265.png)
 
-  \
 4. **Câu hỏi thường gặp**
 
-Danh mục này sẽ hiển thị các bài viết hướng dẫn và một số thông tin khác đơn vị cung cấp dịch vụ muốn thông báo tới khách hàng.
-Các bài viết sẽ hiển thị tên tiêu đề theo dạng danh sách, để đọc nội dung Quý khách click vào mũi tên lên xuống hoặc tiêu đề bài viết.
+- Danh mục này sẽ hiển thị các bài viết hướng dẫn, các câu hỏi thường gặp...
+- Các bài viết sẽ hiển thị tên tiêu đề theo dạng danh sách, để đọc nội dung chi tiết Quý khách click vào mũi tên lên xuống hoặc tiêu đề bài viết.
 
-![Câu hỏi thường gặp](https://user-images.githubusercontent.com/73226975/104713480-84198100-5756-11eb-882e-a69df3e24415.png)
+![image](https://user-images.githubusercontent.com/85599407/127990839-301e7404-9288-43a2-ace8-2a43927b1297.png)
 
