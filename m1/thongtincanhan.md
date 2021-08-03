@@ -8,11 +8,11 @@ Quý khách click vào ảnh đại diện, chọn **Thông tin cá nhân** đ�
 
 **Các thông tin có thể chỉnh sửa**: Họ và tên, địa chỉ liên hệ, Email, số điện thoại liên hệ...
 
-- Để thay đổi thông tin cá nhân, Quý khách click vào bi tượng hình bút bên cạnh thông tin cần sửa đổi.
+- Để thay đổi thông tin cá nhân, Quý khách click vào biểu tượng hình bút bên cạnh thông tin cần sửa đổi như hình:
 
 ![image](https://user-images.githubusercontent.com/85599407/127995970-9fcb00fb-d7f4-4a71-84a8-d8f7689b7289.png)
 
-**Lưu ý**: Để thay đổi địa chỉ email, Quý khách cần truy cập vào email để xác nhận thông tin (sau khi điền địa chỉ email mới).
+**Lưu ý**: Để thay đổi địa chỉ Email, Quý khách cần truy cập vào Email để xác nhận thông tin (sau khi điền địa chỉ email mới).
 
 ![Email xác nhận](https://user-images.githubusercontent.com/73226975/104561388-e94b7480-5679-11eb-9daf-c489d87f4367.png)
 
