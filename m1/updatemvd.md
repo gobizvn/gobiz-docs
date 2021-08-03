@@ -1,4 +1,4 @@
-**Cập nhật thông tin sản phẩm và Mã vận đơn (MVĐ) lên đơn hàng**
+**Cập nhật thông tin sản phẩm và Mã vận đơn lên đơn hàng**
 
 **1. Cập nhật thông tin sản phẩm:**
 
@@ -8,7 +8,7 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 
 
-**2. Cập nhật Mã vận đơn (bill vận chuyển Trung Quốc):**
+**2. Cập nhật Mã vận đơn (MVĐ)/bill vận chuyển Trung Quốc:**
 
 **2.1. Thêm MVĐ đối với trường hợp ký gửi có tạo đơn)**
 
