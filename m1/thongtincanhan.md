@@ -32,7 +32,7 @@ Quý khách có thể tham khảo thêm cách tạo địa chỉ mới tại bà
 **Tìm kiếm sản phẩm đã lưu:**
 - Quý khách có thể lọc theo các điều kiện: Tên sản phẩm, thời gian lưu sản phẩm.
 
-- Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng *Làm mới bộ lọc.*
+- Để xóa dữ liệu đã lọc Quý khách sử dụng chức năng **Làm mới bộ lọc.**
 
 ![Tìm kiếm sản phẩm đã lưu](https://user-images.githubusercontent.com/73226975/104710569-d062c200-5752-11eb-8a7c-942729a80e7b.png)
 
