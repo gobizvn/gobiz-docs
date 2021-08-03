@@ -12,21 +12,25 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 **2.1. Thêm MVĐ đối với trường hợp ký gửi có tạo đơn)**
 
-**Thêm MVĐ thủ công (trường hợp tạo đơn thủ công từ hệ thống**
+**2.1.1 Thêm MVĐ thủ công (trường hợp tạo đơn thủ công từ hệ thống**
 
 - Chọn đơn hàng cần khớp MVĐ -> Chọn tab Vận chuyển (1) -> Thêm mã vận đơn (2) -> Điền mã vận đơn (3) -> Bấm Lưu (4).
 
 ![image](https://user-images.githubusercontent.com/73226975/122752864-a7bf9500-d2bb-11eb-819f-535b02827f68.png)
 
  
-Sau khi thêm MVD, trạng thái đơn được chuyển sang **Người Bán giao** như hình:
+- Sau khi thêm MVD, trạng thái đơn được chuyển sang **Người Bán giao** như hình:
 
 ![image](https://user-images.githubusercontent.com/73226975/122752982-cb82db00-d2bb-11eb-83a1-e5c7ae903c4d.png)
 
-**Thêm MVĐ tự động (trường hợp tạo đơn tự động từ công cụ)**
-**Bước 1**: Mở danh sách đơn trong mục Quản lý đơn hàng “我的淘宝”  “已买到的宝贝”
+**2.1.2 Thêm MVĐ tự động (trường hợp tạo đơn tự động từ công cụ)**
+
+**Bước 1**: Mở danh sách đơn trong mục Quản lý đơn hàng **我的淘宝** -> **已买到的宝贝**
+
 ![image](https://user-images.githubusercontent.com/85599407/127981253-68960e9c-0633-4474-9ab1-e246d535d211.png)
+
 **Bước 2**: Chọn khớp từng đơn hoặc khớp tất cả các đơn như hình:
+
 ![image](https://user-images.githubusercontent.com/85599407/127981334-5e090b1e-300d-4093-ac5d-f0be65c4e909.png)
 
 **Bước 3**: Quý khách thao tác bấm chọn Khớp mã vận đơn tương tự như bước khớp đơn.
