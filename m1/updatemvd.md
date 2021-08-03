@@ -25,9 +25,7 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 **2.1.2 Thêm MVĐ tự động (trường hợp tạo đơn tự động từ công cụ)**
 
-**Bước 1**: Mở danh sách đơn trong mục Quản lý đơn hàng **我的淘宝** -> **已买到的宝贝**
-
-![image](https://user-images.githubusercontent.com/85599407/127981253-68960e9c-0633-4474-9ab1-e246d535d211.png)
+**Bước 1**: Mở danh sách đơn trong mục Quản lý đơn hàng **我的淘宝** -> **已买到的宝贝**.
 
 **Bước 2**: Chọn khớp từng đơn hoặc khớp tất cả các đơn như hình:
 
