@@ -18,9 +18,9 @@ Quý khách click vào ảnh đại diện, chọn **Thông tin cá nhân** đ�
 
 2. **Địa chỉ của bạn**
 
-Tại màn hình **Địa chỉ của bạn**, Quý khách sẽ thấy danh sách địa chỉ nhận hàng mà Quý khách đã thêm. Quý khách có thể thêm địa chỉ nhận hàng bằng cách click vào nút **Thêm địa chỉ mới**.
-
-- Đối với địa chỉ Quý khách đã đặt làm mặc định không thể thao tác xóa, chỉ có thể chỉnh sửa thông tin. 
+Danh sách địa chỉ nhận hàng, Quý khách sẽ thấy toàn bộ các danh sách các địa chỉ nhận hàng đã lưu, ngoài ra có thể thêm địa chỉ nhận hàng bằng cách click vào nút **Thêm địa chỉ mới**.
+*Lưu ý*
+- Đối với địa chỉ đã đặt làm mặc định sẽ không thể xóa, chỉ có thể chỉnh sửa thông tin. 
 - Đối với các địa chỉ khác, Quý khách có thể tùy chọn chỉnh sửa hoặc xóa theo nhu cầu.
 
 ![Quản lý địa chỉ nhận hàng](https://user-images.githubusercontent.com/73226975/104695584-94723180-573f-11eb-9431-ba51a9422123.png)
