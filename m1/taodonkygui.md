@@ -12,7 +12,7 @@ Tại menu bên tay trái, Quý khách chọn Menu Đơn ký gửi và click và
 
 ![Menu ký gửi](https://user-images.githubusercontent.com/73226975/122727585-615d3c80-d2a1-11eb-819e-8135d6fc65ab.png)
 
-/- Quý khách Chọn “Tạo đơn ký gửi” hệ thống sẽ hiển thị ra giao diện lựa chọn dịch vụ cho đơn hàng:
+- Quý khách Chọn “Tạo đơn ký gửi” hệ thống sẽ hiển thị ra giao diện lựa chọn dịch vụ cho đơn hàng:
 
 ![Tạo đơn ký gửi](https://user-images.githubusercontent.com/73226975/122727665-776afd00-d2a1-11eb-8882-6b4df5fab957.png)
  
