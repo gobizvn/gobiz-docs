@@ -1,30 +1,23 @@
-**Định nghĩa:**
 
-- Ký gửi hàng hóa tức là Quý khách đã hoàn thành tất cả giao dịch với đối tác ở Trung Quốc và chỉ sử dụng dịch vụ vận chuyển hàng từ Trung Quốc về Việt Nam.
-- Mục đích của việc tạo đơn ký gửi trên hệ thống để Quý khách có thể lấy được thông tin địa chỉ kho hàng, mã đơn hàng cung cấp cho shop trước khi tiến hành thanh toán. Bên cạnh đó Quý khách có thể cập nhập thông tin sản phẩm, mã vận đơn để tiện cho việc theo dõi và khai quan nếu sử dụng dịch vụ vận chuyển TMĐT.
-
-*123
+- Ký gửi hàng hóa tức là sau khi đã hoàn thành tất cả giao dịch với đối tác ở Trung Quốc và chỉ sử dụng dịch vụ vận chuyển hàng từ Trung Quốc về Việt Nam.
+- Mục đích của việc tạo đơn ký gửi là để Quý khách có thể lấy được thông tin địa chỉ kho nhận hàng tại Trung Quốc và mã đơn hàng để cung cấp cho NCC trước khi thanh toán tiền hàng . Bên cạnh đó Quý khách có thể cập nhập thông tin sản phẩm, mã vận đơn để tiện cho việc theo dõi và kê khai hàng hoá để khai quan nếu sử dụng dịch vụ vận chuyển TMĐT.
 
 1. **TẠO ĐƠN THỦ CÔNG**
 
-1.1. **TẠO ĐƠN KÝ GỬI TRÊN HỆ THỐNG**
+**Bước1**: Từ bảng chung hoặc giao diện quản lý đơn hàng (1) -> chọn Tạo đơn ký gửi (2)
 
-Tại menu bên tay trái, Quý khách chọn Menu Đơn ký gửi và click vào Tạo đơn như hình:
+![image](https://user-images.githubusercontent.com/85599407/128111220-ffaac004-c5c7-47f3-a904-a5cd32ee203d.png)
 
-![Menu ký gửi](https://user-images.githubusercontent.com/73226975/122727585-615d3c80-d2a1-11eb-819e-8135d6fc65ab.png)
-
-- Quý khách Chọn “Tạo đơn ký gửi” hệ thống sẽ hiển thị ra giao diện lựa chọn dịch vụ cho đơn hàng:
+**Bước2**: Chọn dịch vụ cho đơn (1) -> Kiểm tra/sửa địa chỉ nhận hàng tại Việt Nam (2) -> Bấm tạo đơn ký gửi (3).
 
 ![Tạo đơn ký gửi](https://user-images.githubusercontent.com/73226975/122727665-776afd00-d2a1-11eb-8882-6b4df5fab957.png)
- 
-Chọn dịch vụ tương ứng (1) -> Chọn địa chỉ nhận hàng của Quý khách tại Việt Nam (2) -> Bấm tạo đơn ký gửi (3).
 
 Đơn hàng tạo thành công sẽ ở trạng thái **Đã ký gửi** như hình:
 
 ![Tạo đơn thành công](https://user-images.githubusercontent.com/73226975/122729094-fdd40e80-d2a2-11eb-92a0-6ad0408e3562.png)
 
  
- 2. **TẠO ĐƠN BẰNG CÔNG CỤ**
+ 2. **TẠO ĐƠN TỰ ĐỘNG BẰNG CÔNG CỤ**
 
 Công cụ Tạo đơn Ký gửi trực tiếp từ Taobao, Tmall, 1688 phù hợp với:
 
@@ -34,76 +27,60 @@ Công cụ Tạo đơn Ký gửi trực tiếp từ Taobao, Tmall, 1688 phù h�
 
 - Sử dụng cho nền tảng máy tính (chưa hỗ trợ trên điện thoại)
 
-2.1. **CÀI ĐẶT CÔNG CỤ**
+2.1. **HƯỚNG DẪN CÀI ĐẶT CÔNG CỤ TẠO ĐƠN**
 
-Truy cập ứng dụng trên cửa hàng chrome trực tuyến [tại đây](https://chrome.google.com/webstore/search/gobiz?hl=vi)
+- Truy cập ứng dụng trên cửa hàng chrome trực tuyến [tại đây](https://chrome.google.com/webstore/search/gobiz?hl=vi)
 
-(1) Chọn “Thêm vào chrome”
+- Chọn “Thêm vào chrome” (1) -> Thêm tiện ích (2)
 
-![Cài đặt công cụ](https://user-images.githubusercontent.com/73226975/122734579-68d41400-d2a8-11eb-8da4-29aa8d45f64c.png)
-
-(2) Chọn “Thêm tiện ích”
-
-![Thêm tiện ích](https://user-images.githubusercontent.com/73226975/122734618-725d7c00-d2a8-11eb-931e-e0394a2e5796.png)
+![image](https://user-images.githubusercontent.com/85599407/128112100-1039b824-d26d-4cd1-b5ec-0bfee175c87d.png)
 
 Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dưới:
 
 ![Cài đặt thành công](https://user-images.githubusercontent.com/73226975/122734664-7b4e4d80-d2a8-11eb-9533-d69f6c4e2868.png)
 
-2.2. **HƯỚNG DẪN TẠO ĐƠN KÝ GỬI TRÊN TRANG THANH TOÁN**
+2.2. **HƯỚNG DẪN TẠO ĐƠN KÝ GỬI BẰNG CÔNG CỤ TRÊN TRANG MUA HÀNG**
 
-Đăng nhập username và mật khẩu của Quý khách đang sử dụng trên hệ thống quản lý đơn hàng ký gửi, ngay tại trang thanh toán:
+**Bước 1**: Đăng nhập tài khoản mùa hàng trên www.taobao.com
 
-![Đăng nhập tài khoản](https://user-images.githubusercontent.com/73226975/122735060-e009a800-d2a8-11eb-82af-b326ec660947.png)
+![image](https://user-images.githubusercontent.com/85599407/128112419-6e95273c-e2a2-487d-bc3f-2766a248f45a.png)
 
-Truy cập vào chi tiết link sản phẩm cần mua:
+- Đăng nhập username và mật khẩu của hệ thống quản lý đơn hàng trên trang mua hàng ngay tại trang thanh toán.
 
-(1) Chọn thông tin sản phẩm -> (2) Thêm sản phẩm vào giỏ hàng
+![image](https://user-images.githubusercontent.com/85599407/128112852-e175640e-0157-4c7e-b8af-feecc5dd06e4.png)
 
-*Lưu ý: Bắt buộc phải thêm sản phẩm vào giỏ hàng trước khi mua*
+**Bước 2**: Mở link sản phẩm cần mua -> Chọn thông tin sản phẩm (1) -> Thêm sản phẩm vào giỏ hàng (2).
+ 
+*Lưu ý: Bắt buộc phải thêm sản phẩm vào giỏ hàng trước khi mua
 
-![image](https://user-images.githubusercontent.com/73226975/122735292-18a98180-d2a9-11eb-9f28-f9519ef22510.png)
+![image](https://user-images.githubusercontent.com/85599407/128113310-d5bfa925-e112-4bf7-9e88-ed6029826e72.png)
 
-Khi thêm sản phẩm vào giỏ hàng thành công, hệ thống sẽ hiển thị giao diện như hình bên dưới tương ứng với từng site, cụ thể:
+**Bước 3**: Bấm vào giỏ hàng “购物车” (3) -> Chọn sản phẩm cần mua trong giỏ (4) -> Chọn kết đơn hàng **去购物车结算** (5) .
 
-- Đối với trang Taobao
+*Lưu ý: Chỉ chọn những sản phẩm cần mua của 1 NCC
 
-![image](https://user-images.githubusercontent.com/73226975/122735450-3e368b00-d2a9-11eb-9d49-5af52efa058d.png)
+![image](https://user-images.githubusercontent.com/85599407/128113423-78495fb8-4375-4548-9030-5c45762ce096.png)
 
-- Đối với trang Tmall
+**Bước 4**: Sửa địa chỉ kho Trung Quốc![image](https://user-images.githubusercontent.com/85599407/128113462-4ce3ca56-d02d-489d-b85c-cdf19377ad3e.png)
+Để thêm/sửa địa chỉ nhận hàng tại kho Trung Quốc, Quý khách bấm chọn như sau:
+- Đối với Taobao: Chọn 改修本地址
+- Đối với Tmall: Chọn 改修
+- Đối với 1688:Chọn 更改
 
-![image](https://user-images.githubusercontent.com/73226975/122735514-4c84a700-d2a9-11eb-8c0b-c71781373dca.png)
+![image](https://user-images.githubusercontent.com/85599407/128113512-3a779068-497b-4019-9c4f-2794e080bc84.png)
 
-Tiếp tục thêm sản phẩm vào giỏ hàng (nếu còn)
+**Bước 5**: Chọn dịch vụ cho đơn hàng
+Quý khách chọn dịch vụ vận chuyển cho đơn hàng bằng cách bấm vào biểu tượng Menu ở góc phải màn hình (1) -> chọn dịch vụ cho đơn hàng (2) -> Bấm chọn dịch vụ (3) -> Lưu dịch vụ - nếu muốn (4).
 
-(3) Chọn giỏ hàng “购物车”
+![image](https://user-images.githubusercontent.com/85599407/128113933-a27ac0a5-cd47-46b9-a71a-a9687b0ceb5a.png)
+![image](https://user-images.githubusercontent.com/85599407/128114101-4224fbca-1798-4da4-a300-47f30a7a6a21.png)
 
-![image](https://user-images.githubusercontent.com/73226975/122735885-a1c0b880-d2a9-11eb-864e-9ae15e5fbe8e.png)
+*Lưu ý: Sau khi chọn dịch vụ cho đơn, Quý khách có thể chọn *lưu dịch vụ* để những lần mua sau có thể bỏ qua bước này.
 
-(4) Chọn sản phẩm cần mua -> (5) Chọn kết đơn hàng “去购物车结算” -> (6) Sửa địa chỉ và tạo đơn ký gửi
+**Bước 6**: Quý khách tiến hành mua hàng và thanh toán tiền hàng cho NCC như thông thường.
 
-*Lưu ý: Chỉ chọn những sản phẩm cần mua của 1 nhà cung cấp(NCC)*
+![image](https://user-images.githubusercontent.com/85599407/128114394-d2e368cc-c8f0-486a-909d-404f7e769e57.png)
 
-- Đối với trang Taobao, Quý khách chọn thay đổi địa chỉ “改修本地址” và Tạo đơn ký gửi:
-
-![image](https://user-images.githubusercontent.com/73226975/122738685-683d7c80-d2ac-11eb-8ea6-15d83b05a5df.png)
-
-![image](https://user-images.githubusercontent.com/73226975/122740531-4513cc80-d2ae-11eb-9e01-93686fa5a2e9.png)
-
-Sau khi có thông báo tạo đơn ký gửi thành công, Quý khách lưu lại địa chỉ “保存” và tiến hành thanh toán cho NCC nhé
-
-![image](https://user-images.githubusercontent.com/73226975/122741631-54dfe080-d2af-11eb-8ab6-6cf0d8d5f9d9.png)
-
-- Tương tự với Tmall Quý khách chọn thay đổi “改修” và 1688.com chữ thay đổi là "更改"
-Trương hợp muốn chọn hoặc sửa dịch vụ vận chuyển cho đơn hàng Quý khách thao tác như sau:
-
-Chọn biểu tượng tiện ích trên trình duyệt Chrome/Cốc cốc  -> Chọn “Gobiz Assistant - Trợ lý mua sắm trực tuyến” -> Chọn dịch vụ vận chuyển và dịch vụ gia tăng (nếu có) cho đơn hàng
-
-![image](https://user-images.githubusercontent.com/73226975/122745397-282dc800-d2b3-11eb-8e27-f763ffc19f88.png)
-
-![image](https://user-images.githubusercontent.com/73226975/122745413-2cf27c00-d2b3-11eb-990a-c39255197b5c.png)
-
-![image](https://user-images.githubusercontent.com/73226975/122736227-00863200-d2aa-11eb-94b7-22787a3ce200.png)
 
 **Lưu ý:**: Để tạo đơn bằng công cụ Quý khách cần điền đúng thông tin địa chỉ kho, mã bưu điện, số điện thoại kho Trung Quốc của đơn vị vận chuyển, ví dụ:
 
