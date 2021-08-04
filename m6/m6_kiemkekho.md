@@ -22,13 +22,13 @@ Kiểm kê hàng hoá nhằm mục đích kiểm soát và dõi tình trạng h�
 
 <ul>•	Chọn “Đã xử lý": Khi đã tìm thấy kiện tại kho hoặc kiện đã được tìm thấy tại kho khác và có phương án xử lý với kiện.
 
-<ul>•	Chọn “Thất lạc”: Khi không tìm thấy kiện.
+•	Chọn “Thất lạc”: Khi không tìm thấy kiện.
 
 **- Danh sách kiện thừa:**
 
 <ul>•	Chọn “Nhập kho”: Nhập kiện thừa vào kho hiện tại.
 
-<ul>•	Chọn "Đã xử lý": Khi đã có phương án xử lý khác với kiện thừa (VD: chuyển về kho đúng của kiện, lưu kho...) và nhập lý do xử lý.
+•	Chọn "Đã xử lý": Khi đã có phương án xử lý khác với kiện thừa (VD: chuyển về kho đúng của kiện, lưu kho...) và nhập lý do xử lý.
 
 
 
