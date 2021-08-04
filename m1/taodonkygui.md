@@ -1,14 +1,14 @@
 
-- Ký gửi hàng hóa tức là sau khi đã hoàn thành tất cả giao dịch với đối tác ở Trung Quốc và chỉ sử dụng dịch vụ vận chuyển hàng từ Trung Quốc về Việt Nam.
-- Mục đích của việc tạo đơn ký gửi là để Quý khách có thể lấy được thông tin địa chỉ kho nhận hàng tại Trung Quốc và mã đơn hàng để cung cấp cho NCC trước khi thanh toán tiền hàng . Bên cạnh đó Quý khách có thể cập nhập thông tin sản phẩm, mã vận đơn để tiện cho việc theo dõi và kê khai hàng hoá để khai quan nếu sử dụng dịch vụ vận chuyển TMĐT.
+Ký gửi hàng hóa tức là sau khi đã hoàn thành tất cả giao dịch với đối tác ở Trung Quốc và chỉ sử dụng dịch vụ vận chuyển hàng từ Trung Quốc về Việt Nam.
+Mục đích của việc tạo đơn ký gửi là để Quý khách có thể lấy được thông tin địa chỉ kho nhận hàng tại Trung Quốc và mã đơn hàng để cung cấp cho NCC trước khi thanh toán tiền hàng . Bên cạnh đó Quý khách có thể cập nhập thông tin sản phẩm, mã vận đơn để tiện cho việc theo dõi và kê khai hàng hoá để khai quan nếu sử dụng dịch vụ vận chuyển TMĐT.
 
 1. **TẠO ĐƠN THỦ CÔNG**
 
-**Bước1**: Từ bảng chung hoặc giao diện quản lý đơn hàng (1) -> chọn Tạo đơn ký gửi (2)
+**Bước 1**: Từ bảng chung hoặc giao diện quản lý đơn hàng (1) -> chọn Tạo đơn ký gửi (2)
 
 ![image](https://user-images.githubusercontent.com/85599407/128111220-ffaac004-c5c7-47f3-a904-a5cd32ee203d.png)
 
-**Bước2**: Chọn dịch vụ cho đơn (1) -> Kiểm tra/sửa địa chỉ nhận hàng tại Việt Nam (2) -> Bấm tạo đơn ký gửi (3).
+**Bước 2**: Chọn dịch vụ cho đơn (1) -> Kiểm tra/sửa địa chỉ nhận hàng tại Việt Nam (2) -> Bấm tạo đơn ký gửi (3).
 
 ![Tạo đơn ký gửi](https://user-images.githubusercontent.com/73226975/122727665-776afd00-d2a1-11eb-8882-6b4df5fab957.png)
 
