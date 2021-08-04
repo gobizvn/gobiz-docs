@@ -20,4 +20,5 @@
 ![image](https://user-images.githubusercontent.com/85599407/128137345-86f863fe-322a-4cba-a074-e8c61ed33a75.png)
  
 *-* Cách tìm lại các kiện sai/lỗi đã được đánh dấu: Menu -> Kiện hàng (1) -> Danh sách kiện (2) -> Kiện lỗi (3) -> Chọn lý do lỗi (4) -> Tìm kiếm (5).
+
 ![image](https://user-images.githubusercontent.com/85599407/128137428-00199b13-fcf5-424b-8c1e-f88c6c0eec18.png)
