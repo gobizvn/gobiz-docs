@@ -6,7 +6,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
 
 **1. Tạo kiện từ Mã vận đơn**
 
-**Mục đích:** Hỗ trợ tạo kiện bằng cách scan mã vận đơn trên đơn hàng
+***Mục đích:** Hỗ trợ tạo kiện bằng cách scan mã vận đơn trên đơn hàng
 
 **Bước1:** Quý khách truy cập trang Tạo kiện từ menu bên trái màn hình tạo kiện
 
@@ -26,7 +26,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
 
 **2. Tạo kiện hàng loạt từ file excel**
 
-**- Mục đích:** Hỗ trợ tạo đồng thời nhiều kiện bằng mã vận đơn từ file excel
+***Mục đích:** Hỗ trợ tạo đồng thời nhiều kiện bằng mã vận đơn từ file excel
 
 **Bước 1:** Quý khách truy cập trang upload kiện từ menu bên trái màn hình, sau đó chọn tab Tạo kiện
  
@@ -47,7 +47,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
 
 **3. Tạo kiện độc lập**
 
-**- Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
+***Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
 
 **Bước 1:** Từ màn hình tạo kiện, Quý khách chọn kho vận hành và click chọn "Tạo kiện độc lập", sau đó nhập thông tin cho kiện độc lập muốn tạo (cân nặng, đơn hàng cần khớp…)
  
