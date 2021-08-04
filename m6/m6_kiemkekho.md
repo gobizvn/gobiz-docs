@@ -43,6 +43,8 @@ Vào menu -> Kiểm kê (1) -> Danh sách đã kiểm kê (2) -> Chọn mã ki�
 *-* Ví dụ: Phiếu kiểm kê có mã là **“K-HN-2021061003”**, trong đó:
 
 **•	K-HN**: Ký hiệu của kho phân phối.
+
 **•	20210610:** Là ngày thực hiện kiểm kê: 10/06/2021.
+
 **•	03:** Là số phiếu kiểm kê thứ 3 được tạo trong ngày.
 
