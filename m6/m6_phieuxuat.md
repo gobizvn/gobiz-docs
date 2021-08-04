@@ -7,6 +7,7 @@ Menu -> Vận hành (1) -> Quét mã vạch (2) -> Chọn hành động “Nhậ
 ![image](https://user-images.githubusercontent.com/85599407/128136567-5c3ead4d-81b3-4923-8dba-7ef62fd50797.png)
 
 **II.	XUẤT HÀNG**
+
 **1.	Xuất hàng và tạo phiếu xuất theo phiếu yêu cầu giao.**
 
 **Bước 1:** Vào menu -> Yêu cầu giao (1) -> Danh sách yêu cầu giao (2) -> Chọn Kho (3) -> Tìm kiếm (4) -> Chọn user/mã yêu cầu giao (5) -> Tạo phiếu xuất (6).
@@ -27,7 +28,7 @@ Menu -> Vận hành (1) -> Quét mã vạch (2) -> Chọn hành động “Nhậ
 
 ![image](https://user-images.githubusercontent.com/85599407/128136635-b9411b51-0851-4058-8c84-12edfb4e61be.png)
 
-***Lưu ý:** Hệ thống sẽ hiển thị toàn bộ các kiện có sẵn trong kho tại mục Danh sách có thể giao, sau khi Quét/điền mã kiện cần xuất, Kiện sẽ được chuyển sang Danh sách sẵn sàng giao.
+*Lưu ý: Hệ thống sẽ hiển thị toàn bộ các kiện có sẵn trong kho tại mục Danh sách có thể giao, sau khi Quét/điền mã kiện cần xuất, Kiện sẽ được chuyển sang Danh sách sẵn sàng giao.
 
 **Bước 2:** Từ màn hình phiếu xuất -> Chọn Xuất kho -> In phiếu xuất kho.
 
