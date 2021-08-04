@@ -4,7 +4,7 @@
 
 Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể nhập thủ công bằng tay hoặc sử dụng súng bắn mã vạch), hoặc tạo nhiều kiện cùng lúc bằng cách upload file excel, tạo kiện độc lập (không có mã vận đơn).
 
-**I. Tạo kiện từ mã vận đơn**
+**1. Tạo kiện từ mã vận đơn**
 
 **Mục đích:** Hỗ trợ tạo kiện bằng cách scan mã vận đơn trên đơn hàng
 **Bước1:** Quý khách truy cập trang Tạo kiện từ menu bên trái màn hình tạo kiện
@@ -23,7 +23,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
  
  ![image](https://user-images.githubusercontent.com/85599407/128134963-ab392ad7-9740-401f-b519-4e81633e89bc.png)
 
-**II. Tạo kiện hàng loạt từ file excel**
+**2. Tạo kiện hàng loạt từ file excel**
 
 **Mục đích:** Hỗ trợ tạo đồng thời nhiều kiện bằng mã vận đơn từ file excel
 
@@ -44,7 +44,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
  ![image](https://user-images.githubusercontent.com/85599407/128135019-cec36318-7078-40a4-a0f7-ac5c420b83fa.png)
  ![image](https://user-images.githubusercontent.com/85599407/128135029-11efb049-c8eb-4f41-a81b-b3364a29860b.png)
 
-**III. Tạo kiện độc lập**
+**3. Tạo kiện độc lập**
 
 **Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
 
