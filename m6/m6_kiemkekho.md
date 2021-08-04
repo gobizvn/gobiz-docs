@@ -24,7 +24,7 @@ Kiểm kê hàng hoá nhằm mục đích kiểm soát và dõi tình trạng h�
 
 •	Chọn “Thất lạc”: Khi không tìm thấy kiện.
 
-**- Danh sách kiện thừa:**
+<li>**- Danh sách kiện thừa:**
 
 <ul>•	Chọn “Nhập kho”: Nhập kiện thừa vào kho hiện tại.
 
