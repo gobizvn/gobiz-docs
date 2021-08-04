@@ -30,26 +30,23 @@
  * Order Management - Đơn vị cung cấp Dịch vụ Order
     * [Cài đặt ban đầu](m2/caidatbandau.md)
       * [Cấu hình chung](m2/cauhinhchungod.md)
+      * [Cấu hình kho](m2/caidat/setupkho.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
       * [Cấu hình phí](m2/caidat/setupfee.md)
-      
+      * [Nhóm khách hàng](m2/setupgroup.md)
+      * [Chính sách khách hàng]
+      * [App nạp tiền tự động](m2/caidat/appnaptien.md)
+      * [Cấu hình khác]
+    
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
       * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
       * [Chi tiết đơn hàng](m2/quanlydonhang/chitietdon.md)
       * [Danh sách kiện hàng](m2/dskienhang.md)
       * [Yêu cầu giao hàng](m2/ycghang.md)
     
-    * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
-      * [Cấu hình chung](m2/cauhinhchungkg.md)
-      * [Ký gửi](m2/quanlydonkygui2.md)
+   * Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi
+     * [Ký gửi](m2/quanlydonkygui2.md)
      
-    * Vận hành chung 
-      * [Cấu hình kho](m2/caidat/setupkho.md)
-      * [Nhóm khách hàng](m2/setupgroup.md)
-      * [Cấu hình cấp VIP khách hàng]
-      * [Cấu hình thông báo]
-      * [App nạp tiền tự động](m2/caidat/appnaptien.md)
-      * [Cấu hình khác]
 
 * [Go Purchasing](m5/README.md) 
   * Cấu hình 
@@ -127,7 +124,7 @@
     * [Cấu hình kho](m6/m6_cauhinhkho.md)
     * [Cấu hình bao](m6/baomau.md)
     * [Lưu ý hàng hóa](lyhh.md)
-    * [Cài đặt khác](m6/caidatkhac.md)
+    * [Cấu hình vận chuyển](m6/vanchuyen.md)
     
         
 * [Go Complaints](m3/README.md)
