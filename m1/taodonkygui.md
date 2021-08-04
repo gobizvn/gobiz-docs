@@ -1,5 +1,5 @@
-
 Ký gửi hàng hóa tức là sau khi đã hoàn thành tất cả giao dịch với đối tác ở Trung Quốc và chỉ sử dụng dịch vụ vận chuyển hàng từ Trung Quốc về Việt Nam.
+
 Mục đích của việc tạo đơn ký gửi là để Quý khách có thể lấy được thông tin địa chỉ kho nhận hàng tại Trung Quốc và mã đơn hàng để cung cấp cho NCC trước khi thanh toán tiền hàng . Bên cạnh đó Quý khách có thể cập nhập thông tin sản phẩm, mã vận đơn để tiện cho việc theo dõi và kê khai hàng hoá để khai quan nếu sử dụng dịch vụ vận chuyển TMĐT.
 
 1. **TẠO ĐƠN THỦ CÔNG**
