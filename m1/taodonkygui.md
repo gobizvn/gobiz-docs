@@ -69,17 +69,17 @@ Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dư�
 
 ![image](https://user-images.githubusercontent.com/85599407/128113512-3a779068-497b-4019-9c4f-2794e080bc84.png)
 
-**Lưu ý:**: Quý khách cần điền đúng thông tin người nhận hàng, địa chỉ kho hàng, số điện thoại, mã bưu cục (nếu dùng trên app thì không cần)
+**Lưu ý:** Quý khách cần điền đúng thông tin người nhận hàng, địa chỉ kho hàng, số điện thoại, mã bưu cục (nếu dùng trên app thì không cần)
 
-*- Ví dụ*:
+**Ví dụ*:
 
-- Địa chỉ nhận hàng/收货地址：广东省，广州市，白云区，均禾街道，石马村旺发大街92号C栋SCB仓库 - User + mã đơn hàng (mã đơn hệ thống tự điền)
+*- Địa chỉ nhận hàng/收货地址：广东省，广州市，白云区，均禾街道，石马村旺发大街92号C栋SCB仓库 - User + mã đơn hàng (mã đơn hệ thống tự điền)*
 
-- Mã bưu cục/邮政编码：510440
+*- Mã bưu cục/邮政编码：510440*
 
-- Số điện thoại nhận hàng/电话号码：13148959544
+*- Số điện thoại nhận hàng/电话号码：13148959544*
 
-- Người nhận hàng/收货人：Tên user + mã đơn hàng (mã đơn hệ thống tự điền)
+*- Người nhận hàng/收货人：Tên user + mã đơn hàng (mã đơn hệ thống tự điền)*
 
 **Bước 5**: Chọn dịch vụ cho đơn hàng
 Quý khách chọn dịch vụ vận chuyển cho đơn hàng bằng cách bấm vào biểu tượng Menu ở góc phải màn hình (1) -> chọn dịch vụ cho đơn hàng (2) -> Bấm chọn dịch vụ (3) -> Lưu dịch vụ - nếu muốn (4).
