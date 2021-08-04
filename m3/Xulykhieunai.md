@@ -8,7 +8,7 @@ Khiếu nại dịch vụ sau khi được tạo thành công sẽ ở trạng t
 
 **Bước 1**: Menu -> Danh sách Khiếu nại (1) -> Chờ tiếp nhận (2) -> Click vào mã đơn hàng để mở chi tiết KN (3) 
 
- ![image](https://user-images.githubusercontent.com/85599407/128159543-2e9360eb-34de-40e1-a100-7b5438722c55.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128163704-3acd3de9-b3ba-44e2-a7a0-f3f1ae210ca4.png)
 
 **Bước 2:** Tại giao diện chi tiết Khiếu nại chọn từ chối khiếu nại (1) để kết thúc khiếu nại luôn hoặc chọn “Tiếp nhận” hay phân công Khiếu nại cho Nhân viên khác xử lý (2).
 
@@ -18,7 +18,7 @@ Khiếu nại dịch vụ sau khi được tạo thành công sẽ ở trạng t
 
 **Bước 1:** Xem lý do Khiếu nại của Khách hàng (2) -> Kiểm tra phần mô tả lỗi, ảnh/video, trao đổi trước đó của Khách hàng (3) -> Mở chi tiết đơn hàng ra để kiểm tra (4) -> Lưu ý nội bộ nếu có (5) -> Phản hồi thông tin cho Khách hàng (6).
 
- ![image](https://user-images.githubusercontent.com/85599407/128160209-2f2ca411-ac55-452c-bedc-1882552b50d7.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128163776-f1206738-b4ff-451f-9580-f0385e054ac8.png)
 
 **Bươc 2:** Yêu cầu Khách hàng cung cấp các thông tin hình ảnh/bằng chứng để phục vụ cho Khiếu nại (nếu có) -> Kiểm tra thông tin với các Bộ phận liên quan -> Phản hồi lại Khách hàng – trao đổi/đàm phán và thống nhất phương án xử lý Khiếu nại. 
 
@@ -26,11 +26,11 @@ Khiếu nại dịch vụ sau khi được tạo thành công sẽ ở trạng t
 
 **Bước 1:** Ghi chú nội bộ thông tin nếu có (1) -> Phản hồi thông tin chốt lên Khiếu nại cho Khách hàng (2) -> Chọn “ thêm” để tạo tài chính cần hoàn (3) -> Tạo tài chính Khiếu nại (4) -> Lưu (5) -> Chọn “Thêm” tại mục lỗi xuất phát nếu có (6) -> Điền nội dung lỗi xuất phát (7) -> Chọn “Lưu” (8).
 
-![image](https://user-images.githubusercontent.com/85599407/128160265-956bac60-dc21-41f8-9274-b111c40f0930.png)
+![image](https://user-images.githubusercontent.com/85599407/128163844-80d2711a-4d05-481f-8001-29a32b936a6b.png)
  
 **Bước 2:** Bấm chấp nhận Khiếu nại 
 
-![image](https://user-images.githubusercontent.com/85599407/128160339-e39f8f6b-c156-42ff-8b00-18a7796459d9.png)
+![image](https://user-images.githubusercontent.com/85599407/128163903-c80fd352-2280-4c80-85df-e445068bbd4f.png)
 
 **4.	Hoàn tiền**
 
@@ -38,7 +38,7 @@ Khiếu nại dịch vụ sau khi được tạo thành công sẽ ở trạng t
 
 **Bước 2:** Bấm nút hoàn tiền (1) hoặc bấm nút Đàm phán lại (2) trong tình huống Khiếu nại xử lý chưa đúng/chưa thoả đáng để yêu cầu xử lý lại Khiếu nại cho Khách hàng.
 
- ![image](https://user-images.githubusercontent.com/85599407/128160441-528fab48-21ea-4144-b609-d6809d1ce156.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128163958-3fe21df1-8617-4335-b1f7-fb8c0864631e.png)
  
 **Bước 3:** Nhập mã pin xác nhận (1) -> Đồng ý (2)
 
@@ -55,7 +55,4 @@ Sau khi duyệt hoàn tiền, Khiếu nại sẽ chuyển sang trạng thái **H
 **5.	Từ chối Khiếu nại (trường hợp sau khi xử lý)**
 Thông báo lý do từ chối Khiếu nại cho Khách hàng (1) -> Từ chối (2) – Có thể điền thêm lưu ý cho nội bộ (nếu cần).
 
-![image](https://user-images.githubusercontent.com/85599407/128160571-2a2b0523-e9ee-4dd7-a02a-622bc315ca21.png)
-
-
-
+![image](https://user-images.githubusercontent.com/85599407/128164001-a506671f-851f-45f2-8cd6-f63da1b99954.png)
