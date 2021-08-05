@@ -1,4 +1,4 @@
-1**HƯỚNG DẪN NHẬP VÀ XUẤT HÀNG TẠI KHO PHÂN PHỐI**
+**HƯỚNG DẪN NHẬP VÀ XUẤT HÀNG TẠI KHO PHÂN PHỐI**
 
 **I.	NHẬP HÀNG**
 
