@@ -29,7 +29,7 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 **Bước 2**: Chọn khớp từng đơn hoặc khớp tất cả các đơn như hình:
 
-![image](https://user-images.githubusercontent.com/85599407/127981334-5e090b1e-300d-4093-ac5d-f0be65c4e909.png)
+![123456788765432](https://user-images.githubusercontent.com/85599407/128284860-155f7d41-e33c-4350-8619-ad8df290d92c.png)
 
 **Bước 3**: Bấm chọn Khớp mã vận đơn tương tự như bước khớp đơn.
 
