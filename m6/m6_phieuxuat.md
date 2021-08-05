@@ -41,7 +41,10 @@ Menu -> Vận hành (1) -> Quét mã vạch (2) -> Chọn hành động “Nhậ
 ***Lưu ý chung:**
 
 *1. Số điện thoại và địa chỉ của khách hàng sẽ tự động cập nhật khi tạo phiếu.
+
 *2. Danh sách sẵn sàng giao là danh sách các kiện/bao đang trong kho và có thể giao của khách hàng và chưa được quét vào phiếu.
+
 *3. Danh sách có thể giao là danh sách các kiện/bao đã được quét vào phiếu.
+
 *4.  Quý khách có thể in phiếu giao cho khách hàng ngay tại màn hình tạo phiếu sau khi xuất phiếu thành công (hoặc in phiếu trong chi tiết phiếu xuất).
 
