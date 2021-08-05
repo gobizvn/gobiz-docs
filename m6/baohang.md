@@ -1,17 +1,23 @@
-**Mục đích**: Tạo bao và quét các kiện vào bao để thực hiện đóng bao. 
 
-Nhân viên kho thực hiện tạo và đóng bao như sau:
+**HƯỚNG DẪN TẠO VÀ XUẤT BAO HÀNG**
 
-**Bước 1**: Nhân viên kho truy cập trang Tạo bao từ menu bên trái
+***Mục đích:** Để quản lý các kiện hàng trong quá trình Vận chuyển Quốc tế, một bao hàng có thể được khớp một kiện hoặc nhiều kiện theo đúng tình trạng của bao hàng vật lý.
 
-![tạo bao](https://user-images.githubusercontent.com/75357871/101147212-a8117f00-364e-11eb-9f6b-ab912526f760.png)
+**1. Tạo bao hàng**
 
-**Bước 2**: Nhân viên kho tạo bao bằng cách nhập thông tin của bao như: Loại bao (bao ghép/ bao nguyên), Khách hàng (dành cho bao nguyên), Loại vận chuyển, Tên vận chuyển.... 
+**- Các bước thực hiện đóng bao như sau:
 
-Sau khi nhập xong thông tin bao, nhân viên kho click chọn "Lưu và đóng bao" để lưu bao, đồng thời hệ thống tự động chuyển sang màn hình đóng bao để nhân viên thực hiện quét kiện vào bao
+**Bước 1:** Vào Menu -> Bao hàng (1) -> Tạo bao hàng (2) -> Điền thông tin bao hàng (kích thước bao hàng, chọn kho, loại vận chuyển…(3,4,5) -> Lưu và đóng bao.
+ 
+![image](https://user-images.githubusercontent.com/85599407/128309444-db058596-6679-45ce-847b-152cd8005af8.png)
 
-![tạo bao](https://user-images.githubusercontent.com/75357871/101148440-34707180-3650-11eb-8e6c-6d70c153e814.png)
+**Bước 2:** Quét kiện vào bao hàng: Tại ô quét mã kiện, Nhân viên điền mã hoặc quét mã kiện cần đóng vào bao hàng -> nhập cân nặng của bao và chọn "Kết thúc đóng bao" để hoàn tất.
 
-**Bước 3**: Nhân viên kho thực hiện đóng bao bằng cách quét mã kiện cần đóng vào bao (hoặc nhập mã kiện). Sau khi quét xong các kiện cần đóng, nhân viên kho nhập cân nặng của bao và chọn "Kết thúc đóng bao" để hoàn tất quá trình đóng bao.
+ ![image](https://user-images.githubusercontent.com/85599407/128309479-0e8225e1-465c-41a7-b999-1cfd06e90269.png)
 
-![đóng bao](https://user-images.githubusercontent.com/75357871/101131085-4bef3080-3637-11eb-8edd-37b87f6801d3.png)
+**2. Xuất bao hàng**
+
+**Bước 1:** Vào menu -> Bao hàng -> Danh sách bao hàng (1) -> Xuất bao (2).
+
+![image](https://user-images.githubusercontent.com/85599407/128310534-d5ec9b7c-7de8-4f9b-9551-469422f13aaf.png)
+
