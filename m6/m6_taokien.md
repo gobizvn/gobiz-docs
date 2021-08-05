@@ -1,66 +1,61 @@
-Quý khách có thể tạo kiện từ việc quét mã vận đơn, upload file excel hoặc tạo kiện độc lập
+{% embed url="https://youtu.be/wxkYXTsfYj4" %}
 
-**I. Tạo kiện từ mã vận đơn**
+**HƯỚNG DẪN NHẬP KHO TẠO KIỆN**
 
-**Mục đích**: Hỗ trợ tạo kiện bằng cách dùng súng bắn mã vạch, scan mã vận đơn in trên tem vận chuyển được dán vào kiện hàng.
+Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể nhập thủ công bằng tay hoặc sử dụng súng bắn mã vạch), hoặc tạo nhiều kiện cùng lúc bằng cách upload file excel, tạo kiện độc lập (không có mã vận đơn).
 
-**Bước1**: Quý khách truy cập trang Tạo kiện từ menu bên trái màn hình
+**1. Tạo kiện từ Mã vận đơn**
 
-![tạo kiện](https://user-images.githubusercontent.com/75357871/101143961-3a635400-364a-11eb-9c4f-06baf4ea4c42.png)
+***Mục đích:** Hỗ trợ tạo kiện bằng cách scan mã vận đơn trên đơn hàng
 
-**Bước 2**: Quý khách chọn kho vận hành và quét mã vận đơn để tạo kiện
+**Bước1:** Quý khách truy cập trang Tạo kiện từ menu bên trái màn hình tạo kiện
 
-![tạo kiện](https://user-images.githubusercontent.com/75357871/100954975-3ea74880-3548-11eb-81a4-34e70db62a04.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308385-f0f2de22-e7df-4491-b1b2-510e5f04d344.png)
 
-**Bước 3**: 
+**Bước 2:** Quý khách chọn kho vận hành tương ứng và điền/quét mã vận đơn tương ứng để tạo kiện
+ 
+ ![image](https://user-images.githubusercontent.com/85599407/128308454-1f13f396-8b4e-4c6c-8e4e-6c5f604261d3.png)
 
-- Đối với mã vận đơn đã được nhân viên mua hàng cập nhập trên hệ thống, sau khi quét mã tạo kiện hệ thống sẽ tự động khớp kiện vào đơn hàng, quý khách kiểm tra thông tin đơn trên kiện và cập nhật cân nặng, thể tích, kích thước đóng gói, cân nặng đóng gói cho kiện
+**Bước 3:** Sau khi kiện được tạo ra sẽ được đồng bộ vào hệ thống admin và đơn hàng, Quý khách kiểm tra thông tin đơn trên kiện và cập nhật cân nặng, thể tích, kích thước đóng gói…
+ 
+ ![image](https://user-images.githubusercontent.com/85599407/128308563-f83b2440-91b0-4dca-b246-e9ab2068d19e.png)
 
-![đóng gói kiện](https://user-images.githubusercontent.com/75357871/100955243-bd9c8100-3548-11eb-9ae6-1b6c3c01716c.png)
+**Bước 4:** Sau khi tạo kiện thành công, Quý khách click vào chức năng In tem để in tem kiện. Thông tin trên tem kiện gồm: Kho đích, mã kiện, Username khách hàng, cân nặng của kiện, mã đơn hàng
+ 
+ ![image](https://user-images.githubusercontent.com/85599407/128308594-fe063eaf-7fc5-4174-90e4-d4d55843a170.png)
 
-- Đối với mã vận đơn chưa được cập nhập trên hệ thống, sau khi quét mã tạo kiện hệ thống sẽ cảnh báo *Chưa khớp*, quý khách kiểm tra thông tin và khớp đơn thủ công và cập nhật cân nặng, thể tích, kích thước đóng gói, cân nặng đóng gói cho kiện.
+**2. Tạo kiện hàng loạt từ file excel**
 
-![image](https://user-images.githubusercontent.com/73226975/127641546-94228154-f218-4029-bd1d-ab8322c08967.png)
+***Mục đích:** Hỗ trợ tạo đồng thời nhiều kiện bằng mã vận đơn từ file excel
 
+**Bước 1:** Quý khách truy cập trang upload kiện từ menu bên trái màn hình, sau đó chọn tab Tạo kiện
+ 
+ ![image](https://user-images.githubusercontent.com/85599407/128308625-71f2365b-8589-4e45-90ce-9c865266e6b6.png)
 
-**Bước 4**: Sau khi tạo kiện thành công, quý khách click vào chức năng In tem để in tem kiện. Trên tem kiện hiển thị các thông tin: Kho đích, Mã kiện, Username khách hàng, Cân nặng tịnh của kiện, Thể tích kiện, Mã khớp đơn, Agency
+**Bước 2:** Quý khách tải xuống file mẫu trên hệ thống sau đó cập nhật thông tin đầy đủ vào các cột trên file excel.
 
-![in tem](https://user-images.githubusercontent.com/75357871/101144598-21a76e00-364b-11eb-9774-bf387ed500e4.png)
+  ![image](https://user-images.githubusercontent.com/85599407/128308657-6f309859-c35f-41d6-a68f-ea52c0836837.png)
 
+**Bước 3:** Quý khách chọn kho vận hành sau đó chọn file cần upload để tạo kiện
 
-**II. Upload kiện từ file excel**
+  ![image](https://user-images.githubusercontent.com/85599407/128308700-f396b3d7-8a2d-4315-a7df-644dccb545e6.png)
 
-**Mục đích**: Hỗ trợ tạo đồng thời nhiều kiện hàng bằng mã vận đơn từ file excel
+**Bước 4:** Quý khách truy cập danh sách kiện sau đó chọn kiện vừa tạo để truy cập chi tiết kiện, sau đó thực hiện in tem.
+ 
+![image](https://user-images.githubusercontent.com/85599407/128308734-4e5e141b-7950-495b-b469-444785422b2e.png)
 
-**Bước 1**: Quý khách truy cập trang upload kiện từ menu bên trái màn hình, sau đó chọn tab Tạo kiện
-
-![trang import kiện](https://user-images.githubusercontent.com/75357871/100959085-1d4a5a80-3550-11eb-9828-504fb601d422.png)
-
-**Bước 2**: Quý khách tải xuống file mẫu trên hệ thống, sau đó cập nhật thông tin mã vận đơn vào file excel, lưu file lại.
-
-![import tạo kiện](https://user-images.githubusercontent.com/75357871/100956052-44059280-354a-11eb-9921-3505d58df555.png)
-
-**Bước 3**: Quý khách chọn kho vận hành sau đó chọn file cần upload để tạo kiện
-
-![import kiện](https://user-images.githubusercontent.com/75357871/100955756-b1fd8a00-3549-11eb-8a13-db93e6b146a2.png)
-
-**Bước 4**: Quý khách truy cập danh sách kiện sau đó chọn kiện vừa tạo để truy cập chi tiết kiện, sau đó in tem kiện trên Chi tiết kiện
-
-![ds kiện](https://user-images.githubusercontent.com/75357871/101146158-413f9600-364d-11eb-80f9-d76faee26548.png)
-
-![in tem kiện](https://user-images.githubusercontent.com/75357871/101146721-ece8e600-364d-11eb-8a7b-b05b75200298.png)
+![image](https://user-images.githubusercontent.com/85599407/128308786-f08ca55f-1f4a-4dfb-a191-909598e0c754.png)
 
 
-**III. Tạo kiện độc lập**
+**3. Tạo kiện độc lập**
 
-**Mục đích**: Hỗ trợ tạo kiện không có mã vận đơn hoặc kiện vô chủ
+***Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
 
-**Bước 1**: Từ màn hình tạo kiện, Quý khách chọn kho vận hành và click chọn "Tạo kiện độc lập", sau đó nhập thông tin cho kiện độc lập
+**Bước 1:** Từ màn hình tạo kiện, Quý khách chọn kho vận hành và click chọn "Tạo kiện độc lập", sau đó nhập thông tin cho kiện độc lập muốn tạo (cân nặng, đơn hàng cần khớp…)
+ 
+ ![image](https://user-images.githubusercontent.com/85599407/128308826-66a1579f-cc9b-4b4a-9620-8b431730f6e4.png)
 
-![kiện độc lập](https://user-images.githubusercontent.com/75357871/100956462-140abf00-354b-11eb-9d44-49cff0aed06b.png)
+**Bước 2:** Sau khi tạo kiện độc lập thành công, hệ thống tự động mở sang trang Chi tiết kiện, Quý khách thực hiện in tem kiện trên chi tiết kiện
+ 
+ ![image](https://user-images.githubusercontent.com/85599407/128308855-0f1b9c8a-0c5a-4c7b-918d-99c412f41d52.png)
 
-![image](https://user-images.githubusercontent.com/73226975/127642382-6e834dd6-bb3b-4f23-873d-ce861b3ba0ab.png)
-
-**Bước 2**: Sau khi tạo kiện độc lập thành công, hệ thống tự động mở sang trang Chi tiết kiện, Quý khách thực hiện in tem kiện trên chi tiết kiện
-
-![in tem kiện](https://user-images.githubusercontent.com/75357871/101146721-ece8e600-364d-11eb-8a7b-b05b75200298.png)
