@@ -10,19 +10,19 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
 
 **Bước1:** Quý khách truy cập trang Tạo kiện từ menu bên trái màn hình tạo kiện
 
- ![image](https://user-images.githubusercontent.com/85599407/128134915-3a24089f-5904-4030-8650-101548e4bf92.png) 
+ ![image](https://user-images.githubusercontent.com/85599407/128308385-f0f2de22-e7df-4491-b1b2-510e5f04d344.png)
 
 **Bước 2:** Quý khách chọn kho vận hành tương ứng và điền/quét mã vận đơn tương ứng để tạo kiện
  
- ![image](https://user-images.githubusercontent.com/85599407/128134932-688a9312-2f9a-4314-bb2c-f3dea68c5f46.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308454-1f13f396-8b4e-4c6c-8e4e-6c5f604261d3.png)
 
 **Bước 3:** Sau khi kiện được tạo ra sẽ được đồng bộ vào hệ thống admin và đơn hàng, Quý khách kiểm tra thông tin đơn trên kiện và cập nhật cân nặng, thể tích, kích thước đóng gói…
  
- ![image](https://user-images.githubusercontent.com/85599407/128134949-dd53b9a6-39a1-4fc0-a2cf-cbcf79ebba4e.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308563-f83b2440-91b0-4dca-b246-e9ab2068d19e.png)
 
 **Bước 4:** Sau khi tạo kiện thành công, Quý khách click vào chức năng In tem để in tem kiện. Thông tin trên tem kiện gồm: Kho đích, mã kiện, Username khách hàng, cân nặng của kiện, mã đơn hàng
  
- ![image](https://user-images.githubusercontent.com/85599407/128134963-ab392ad7-9740-401f-b519-4e81633e89bc.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308594-fe063eaf-7fc5-4174-90e4-d4d55843a170.png)
 
 **2. Tạo kiện hàng loạt từ file excel**
 
@@ -30,20 +30,22 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
 
 **Bước 1:** Quý khách truy cập trang upload kiện từ menu bên trái màn hình, sau đó chọn tab Tạo kiện
  
- ![image](https://user-images.githubusercontent.com/85599407/128134984-4a1ec73c-fa61-4d8c-ad57-104b795f743e.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308625-71f2365b-8589-4e45-90ce-9c865266e6b6.png)
 
 **Bước 2:** Quý khách tải xuống file mẫu trên hệ thống sau đó cập nhật thông tin đầy đủ vào các cột trên file excel.
 
-  ![image](https://user-images.githubusercontent.com/85599407/128134992-006a7d90-4f81-4c8b-b258-2b6bc97a53c3.png)
+  ![image](https://user-images.githubusercontent.com/85599407/128308657-6f309859-c35f-41d6-a68f-ea52c0836837.png)
 
 **Bước 3:** Quý khách chọn kho vận hành sau đó chọn file cần upload để tạo kiện
 
-  ![image](https://user-images.githubusercontent.com/85599407/128135001-436efa57-6538-4c37-b2df-c6863a29e790.png)
+  ![image](https://user-images.githubusercontent.com/85599407/128308700-f396b3d7-8a2d-4315-a7df-644dccb545e6.png)
 
 **Bước 4:** Quý khách truy cập danh sách kiện sau đó chọn kiện vừa tạo để truy cập chi tiết kiện, sau đó thực hiện in tem.
  
- ![image](https://user-images.githubusercontent.com/85599407/128135019-cec36318-7078-40a4-a0f7-ac5c420b83fa.png)
- ![image](https://user-images.githubusercontent.com/85599407/128135029-11efb049-c8eb-4f41-a81b-b3364a29860b.png)
+![image](https://user-images.githubusercontent.com/85599407/128308734-4e5e141b-7950-495b-b469-444785422b2e.png)
+
+![image](https://user-images.githubusercontent.com/85599407/128308786-f08ca55f-1f4a-4dfb-a191-909598e0c754.png)
+
 
 **3. Tạo kiện độc lập**
 
@@ -51,9 +53,9 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc (có thể 
 
 **Bước 1:** Từ màn hình tạo kiện, Quý khách chọn kho vận hành và click chọn "Tạo kiện độc lập", sau đó nhập thông tin cho kiện độc lập muốn tạo (cân nặng, đơn hàng cần khớp…)
  
- ![image](https://user-images.githubusercontent.com/85599407/128135058-5c2fff3f-b55d-44ba-989e-9c2c01ae8177.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308826-66a1579f-cc9b-4b4a-9620-8b431730f6e4.png)
 
 **Bước 2:** Sau khi tạo kiện độc lập thành công, hệ thống tự động mở sang trang Chi tiết kiện, Quý khách thực hiện in tem kiện trên chi tiết kiện
  
- ![image](https://user-images.githubusercontent.com/85599407/128135071-a0fb7b51-eddd-47b7-8536-bb23dd93d667.png)
+ ![image](https://user-images.githubusercontent.com/85599407/128308855-0f1b9c8a-0c5a-4c7b-918d-99c412f41d52.png)
 
