@@ -3,7 +3,7 @@
 
 **1.	Tạo lưu ý hàng hoá**
 
-**Mục đích:** Cảnh báo/lưu ý hay tạo một yêu cầu nào đó cho một khâu/bộ phận xử lý Đơn hàng (Khi các khâu được cảnh báo quyét mã (Mã đơn/mã kiênj/Mã vận đơn) sẽ nhận được cảnh báo bằng âm thanh “Lưu ý” – Khâu được cảnh báo cần chủ động kiểm tra nội dung được lưu ý để xử lý theo yêu cầu).
+**Mục đích:** Cảnh báo/lưu ý hay tạo một yêu cầu nào đó cho một khâu/bộ phận xử lý Đơn hàng (Khi các khâu được cảnh báo quyét mã (Mã đơn/mã kiện/Mã vận đơn) sẽ nhận được cảnh báo bằng âm thanh “Lưu ý” – Khâu được cảnh báo cần chủ động kiểm tra nội dung được lưu ý để xử lý theo yêu cầu).
 
 **Bước 1:** Vào Menu -> Lưu ý hàng hoá (1) -> DS lưu ý hàng hoá (2) -> Chọn tad lưu ý cho mã đơn/Kiện/Mã vận đơn (3) -> Điền mã đơn hoặc mã kiện hay MVĐ muốn tạo lưu ý (4) -> Click vào dấu (+) (5).
 
@@ -22,8 +22,4 @@ Sau khi tạo, lưu ý sẽ được tổng hợp trong danh sách lưu ý hàng
 Tại danh sách lưu ý hàng hoá sẽ có đầy đủ các thông tin: Mã vận đơn, mã đơn hay mã kiện tương ứng vừa tạo (1); thời gian hết hạn lưu ý (2); Nội dung lưu ý đã tạo (3); Khâu cảnh báo (4).
 
  ![image](https://user-images.githubusercontent.com/85599407/128456556-60f53989-3597-4978-8d4c-ba4f420e435f.png)
-
-*Thông tin lưu ý sẽ được cảnh báo thêm bằng âm thanh khi quét mã kiện* 
-
-![image](https://user-images.githubusercontent.com/85599407/128456576-73c1b4f3-ac35-4083-99e9-3c1c4c52194b.png)
 
