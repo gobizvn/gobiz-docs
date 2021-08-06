@@ -15,9 +15,7 @@
 
 **2.	Xem danh sách lưu ý đã tạo**
 
-Sau khi tạo, lưu ý sẽ được tổng hợp trong danh sách lưu ý hàng hoá như hình
-
-Để xem được chi tiết lưu ý hàng hoá: Quý khách vào Menu -> Lưu ý hàng hoá -> DS lưu ý hàng hoá.
+Để xem được chi tiết lưu ý hàng hoá đã tạo: Quý khách vào Menu -> Lưu ý hàng hoá -> DS lưu ý hàng hoá.
 
 Tại danh sách lưu ý hàng hoá sẽ có đầy đủ các thông tin: Mã vận đơn, mã đơn hay mã kiện tương ứng vừa tạo (1); thời gian hết hạn lưu ý (2); Nội dung lưu ý đã tạo (3); Khâu cảnh báo (4).
 
