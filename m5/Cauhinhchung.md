@@ -8,23 +8,41 @@ Từ menu **Cấu hình** người dùng chọn **Cấu hình chung**
 
 ## 1. HỆ THỐNG
 
+**Thiết lập cấu hình bật/tắt quyền cấu hình hệ thống**
+Khi Quản lý chọn BẬT cấu hình thì Quý khách sẽ tải được ảnh đại diện và cấu hình các mục khác trong menu.
 ### 1.1. Tải hình đại diện
 
-**Bước 1:** **Thiết lập cấu hình bật/tắt tải ảnh đại diện**
-
-Khi Quản lý chọn BẬT cấu hình thì tải được ảnh đại diện. Chọn ảnh để tải lên và nhấn **[Lưu]**
+Chọn ảnh để tải lên và nhấn **[Lưu]**
 
 ![Tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106357907-a1944080-633b-11eb-88c8-6e59df6cb8fd.png)
 
 Sau khi upload và lưu thành công, Quản lý có thể kiểm tra ảnh đại diện vừa upload lên ở phía trên menu 
 
-![Ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358240-87f3f880-633d-11eb-803c-f583ad7b7337.png)
+![Uploading image.png…]()
+
 
 Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disable
 
 ![Disable tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358355-52034400-633e-11eb-92a3-705a44eabb92.png)
 
-### 1.2. Sử dụng trạng thái chờ thanh toán
+### 1.2. Cho phép GDV điền thông tin khai báo hải quan
+
+**Bước 1:** **BẬT** cấu hình cho phép điền thông tin khai báo hải quan và nhấn **[LƯU]**
+
+![Cấu hình điền thông tin hải quan](https://user-images.githubusercontent.com/75475064/106408079-3d26cd80-6470-11eb-92e0-8320b6f759a6.png)
+
+**Bước 2:** Quản lý truy cập trang chi tiết đơn để khai báo thông tin hải quan.
+
+**Màn chi tiết đơn:** Bổ sung button Sửa thông tin hải quan
+
+![Button Sửa thông tin hải quan](https://user-images.githubusercontent.com/75475064/106408114-562f7e80-6470-11eb-8d89-1a1229ad210e.png)
+
+Để xem cách sửa thông tin  khai báo hải quan, quản lý và Giao dịch viên xem hướng dẫn **[TẠI ĐÂY](https://hd.gobiz.vn/m5/quan-ly-don-sau-mua/thongtinhaiquan)**
+
+**Bước 3:** Khi chọn **TẮT** cấu hình thì nút **[Sửa thông tin hải quan]** sẽ bị ẩn.
+
+
+### 1.3. Sử dụng trạng thái chờ thanh toán
 
 **Bước 1:** **BẬT** cấu hình sử dụng trạng thái **Chờ thanh toán** và nhấn **[Lưu]**
 
@@ -41,22 +59,6 @@ Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disa
 ![Trạng thái chờ thanh toán](https://user-images.githubusercontent.com/76998374/106358594-ca1e3980-633f-11eb-8e65-d73d7afddb1a.png)
 
 Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ thanh toán**
-
-### 1.3. Cho phép GDV điền thông tin khai báo hải quan
-
-**Bước 1:** **BẬT** cấu hình cho phép điền thông tin khai báo hải quan và nhấn **[LƯU]**
-
-![Cấu hình điền thông tin hải quan](https://user-images.githubusercontent.com/75475064/106408079-3d26cd80-6470-11eb-92e0-8320b6f759a6.png)
-
-**Bước 2:** Quản lý truy cập trang chi tiết đơn để khai báo thông tin hải quan.
-
-**Màn chi tiết đơn:** Bổ sung button Sửa thông tin hải quan
-
-![Button Sửa thông tin hải quan](https://user-images.githubusercontent.com/75475064/106408114-562f7e80-6470-11eb-8d89-1a1229ad210e.png)
-
-Để xem cách sửa thông tin  khai báo hải quan, quản lý và Giao dịch viên xem hướng dẫn **[TẠI ĐÂY](https://hd.gobiz.vn/m5/quan-ly-don-sau-mua/thongtinhaiquan)**
-
-**Bước 3:** Khi chọn **TẮT** cấu hình thì nút **[Sửa thông tin hải quan]** sẽ bị ẩn.
 
 ## 2. Thông tin khai báo hải quan bắt buộc
 
