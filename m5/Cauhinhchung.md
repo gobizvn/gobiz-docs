@@ -10,16 +10,16 @@ Từ menu **Cấu hình** người dùng chọn **Cấu hình chung**
 
 **Thiết lập cấu hình bật/tắt quyền cấu hình hệ thống**
 Khi Quản lý chọn BẬT cấu hình thì Quý khách sẽ tải được ảnh đại diện và cấu hình các mục khác trong menu.
+
 ### 1.1. Tải hình đại diện
 
 Chọn ảnh để tải lên và nhấn **[Lưu]**
 
 ![Tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106357907-a1944080-633b-11eb-88c8-6e59df6cb8fd.png)
 
-Sau khi upload và lưu thành công, Quản lý có thể kiểm tra ảnh đại diện vừa upload lên ở phía trên menu 
+Sau khi upload và lưu thành công, Quản lý có thể kiểm tra ảnh đại diện vừa upload lên ở phía trên menu
 
-![Uploading image.png…]()
-
+![Anhdaidien](https://user-images.githubusercontent.com/73226975/128830003-79df600b-9d22-4ce1-8d8a-4d9df49a0c75.png)
 
 Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disable
 
