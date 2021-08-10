@@ -15,17 +15,19 @@ Khi Quản lý chọn BẬT cấu hình thì Quý khách sẽ tải được ả
 
 Chọn ảnh để tải lên và nhấn **[Lưu]**
 
-![Tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106357907-a1944080-633b-11eb-88c8-6e59df6cb8fd.png)
+![image](https://user-images.githubusercontent.com/73226975/128831064-8c6cb710-f11e-4514-b72b-6b5e8943e9bb.png)
 
 Sau khi upload và lưu thành công, Quản lý có thể kiểm tra ảnh đại diện vừa upload lên ở phía trên menu
 
-![Anhdaidien](https://user-images.githubusercontent.com/73226975/128830003-79df600b-9d22-4ce1-8d8a-4d9df49a0c75.png)
+![Ảnh logo](https://user-images.githubusercontent.com/73226975/128830003-79df600b-9d22-4ce1-8d8a-4d9df49a0c75.png)
 
 Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disable
 
 ![Disable tải ảnh đại diện](https://user-images.githubusercontent.com/76998374/106358355-52034400-633e-11eb-92a3-705a44eabb92.png)
 
 ### 1.2. Cho phép GDV điền thông tin khai báo hải quan
+
+**Mục đích:** Phục vụ cho việc khai báo hải quan các đơn hàng sử dụng hình thức vận chuyển thương mại điện tử.
 
 **Bước 1:** **BẬT** cấu hình cho phép điền thông tin khai báo hải quan và nhấn **[LƯU]**
 
