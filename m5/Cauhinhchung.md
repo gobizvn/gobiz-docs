@@ -62,6 +62,11 @@ Khi chọn **TẮT** cấu hình thì nút **[Tải ảnh lên]** sẽ bị disa
 
 Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ thanh toán**
 
+### 1.4. Tự động dịch thông tin sản phẩm
+**Bước 1:** **BẬT** cấu hình sử dụng trạng thái **Tự động dịch thông tin sản phẩm** và hấn **[Lưu]**
+
+![image](https://user-images.githubusercontent.com/73226975/128849835-7796bfd2-70c8-4bc4-909a-b9d5b95240d1.png)
+
 ## 2. Thông tin khai báo hải quan bắt buộc
 
 **Bước 1:** **BẬT** cấu hình thông tin khai báo hải quan bắt buộc và nhấn **[LƯU]**
