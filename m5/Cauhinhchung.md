@@ -9,6 +9,7 @@ Từ menu **Cấu hình** người dùng chọn **Cấu hình chung**
 ## 1. HỆ THỐNG
 
 **Thiết lập cấu hình bật/tắt quyền cấu hình hệ thống**
+
 Khi Quản lý chọn BẬT cấu hình thì Quý khách sẽ tải được ảnh đại diện và cấu hình các mục khác trong menu.
 
 ### 1.1. Tải hình đại diện
@@ -66,6 +67,14 @@ Khi **TẮT** cấu hình thì hệ thống sẽ bỏ qua trạng thái **Chờ 
 **Bước 1:** **BẬT** cấu hình sử dụng trạng thái **Tự động dịch thông tin sản phẩm** và hấn **[Lưu]**
 
 ![image](https://user-images.githubusercontent.com/73226975/128849835-7796bfd2-70c8-4bc4-909a-b9d5b95240d1.png)
+
+**Bước 2:** Quản lý truy cập trang chi tiết đơn để kiểm tra cấu hình
+
+![image](https://user-images.githubusercontent.com/73226975/128851655-2992bad2-1c29-4cc3-ab58-377be3a2bf92.png)
+
+Khi chọn **TẮT** cấu hình thì thông tin sản phẩm sẽ không được dịch sang tiếng Việt.
+
+![image](https://user-images.githubusercontent.com/73226975/128851949-9758db7e-ebe5-4dab-9b7b-cfed41ee74c3.png)
 
 ## 2. Thông tin khai báo hải quan bắt buộc
 
