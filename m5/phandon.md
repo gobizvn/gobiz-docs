@@ -1,4 +1,4 @@
-{% embed url="https://youtu.be/yDkKwilywLk" %}
+{% embed url="https://www.youtube.com/watch?v=yDkKwilywLk" %}
 
 **Mục đích:** Quản lý phân đơn cho Giao dịch viên(GDV) và hỗ trợ thu hồi đơn đã phân đối với GDV.
 
