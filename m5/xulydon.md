@@ -1,3 +1,5 @@
+{% embed url="https://youtu.be/-JoduWqo2s8" %}
+
 **Mục đích:** Chức năng này cho phép quản lý tập trung tất cả các đơn hàng, hỗ trợ các bộ lọc để tìm kiếm đơn một cách dễ dàng, xem chi tiết thông tin đơn hàng và cập nhật các thông tin liên quan đến đơn.
 
 **Giao dịch viên(GDV) tiến hành xử lý đơn hàng như sau:**
