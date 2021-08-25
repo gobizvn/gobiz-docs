@@ -50,4 +50,4 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 - Kho Nhận Hàng: Kho Trung Quốc đã nhận được hàng từ NCC.
 - Đã khớp đơn: Kho Trung Quốc đã tạo đơn hàng tương ứng với MVĐ nhận được.
 
-*Lưu ý: Khi sử dụng hình thức up MVĐ Quý khách hàng **TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG** trên trang người dùng (Đơn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi)*
+*Lưu ý: Khi sử dụng hình thức thêm MVĐ tự động Quý khách hàng **TUYỆT ĐỐI KHÔNG TỰ TẠO ĐƠN HÀNG** trên trang người dùng (Đơn vị vận chuyển nhận hàng sẽ tự tạo đơn hàng và cập nhật lên hệ thống theo Mã vận đơn NCC phát đến để Khách hàng theo dõi)*
