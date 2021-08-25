@@ -41,9 +41,9 @@ Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dư�
 
 **2.2 HƯỚNG DẪN TẠO ĐƠN KÝ GỬI BẰNG CÔNG CỤ TRÊN TRANG MUA HÀNG**
 
-**Bước 1**: Đăng nhập tài khoản mùa hàng (taobao, tmall, 1688).
+**Bước 1**: Đăng nhập tài khoản mua hàng (taobao, tmall, 1688).
 
-![image](https://user-images.githubusercontent.com/85599407/128112419-6e95273c-e2a2-487d-bc3f-2766a248f45a.png)
+![image](https://user-images.githubusercontent.com/85599407/130717455-2a677751-3d47-44f6-8fc6-af1243879e1c.png)
 
 Đăng nhập username và mật khẩu của hệ thống quản lý đơn hàng trên trang mua hàng ngay tại trang thanh toán.
 
@@ -53,13 +53,13 @@ Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dư�
  
 *Lưu ý: Bắt buộc phải thêm sản phẩm vào giỏ hàng trước khi mua
 
-![image](https://user-images.githubusercontent.com/85599407/128113310-d5bfa925-e112-4bf7-9e88-ed6029826e72.png)
+![image](https://user-images.githubusercontent.com/85599407/130717570-7396c92e-f677-4ba8-872c-d9d895fade2c.png)
 
 **Bước 3**: Bấm vào giỏ hàng “购物车” (3) -> Chọn sản phẩm cần mua trong giỏ (4) -> Chọn kết đơn hàng **去购物车结算** (5) .
 
 *Lưu ý: Chỉ chọn những sản phẩm cần mua của 1 NCC
 
-![image](https://user-images.githubusercontent.com/85599407/128113423-78495fb8-4375-4548-9030-5c45762ce096.png)
+![image](https://user-images.githubusercontent.com/85599407/130717713-e9842533-d915-4a88-b491-254f15f20323.png)
 
 **Bước 4**: Sửa địa chỉ kho Trung Quốc
 Để thêm/sửa địa chỉ nhận hàng tại kho Trung Quốc, Quý khách bấm chọn như sau:
@@ -67,7 +67,7 @@ Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dư�
 - Đối với Tmall: Chọn 改修
 - Đối với 1688:Chọn 更改
 
-![image](https://user-images.githubusercontent.com/85599407/128113512-3a779068-497b-4019-9c4f-2794e080bc84.png)
+![image](https://user-images.githubusercontent.com/85599407/130718016-f61b34b5-448e-4f35-98ca-0d7146322014.png)
 
 **Lưu ý:** Quý khách cần điền đúng thông tin người nhận hàng, địa chỉ kho hàng, số điện thoại, mã bưu cục (nếu dùng trên app thì không cần)
 
@@ -91,4 +91,4 @@ Quý khách chọn dịch vụ vận chuyển cho đơn hàng bằng cách bấm
 
 **Bước 6**: Quý khách tiến hành mua hàng và thanh toán tiền hàng cho NCC như thông thường.
 
-![image](https://user-images.githubusercontent.com/85599407/128114394-d2e368cc-c8f0-486a-909d-404f7e769e57.png)
+![image](https://user-images.githubusercontent.com/85599407/130718102-3bf27550-7bbf-4b28-89e6-91f401f23c8a.png)
