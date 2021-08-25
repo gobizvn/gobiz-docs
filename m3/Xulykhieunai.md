@@ -53,6 +53,7 @@ Sau khi duyệt hoàn tiền, Khiếu nại sẽ chuyển sang trạng thái **H
 ![image](https://user-images.githubusercontent.com/85599407/128161370-d01b33a2-5da0-493a-a4c1-6cdb92ebe7ff.png)
 
 **5.	Từ chối Khiếu nại (trường hợp sau khi xử lý)**
-Thông báo lý do từ chối Khiếu nại cho Khách hàng (1) -> Từ chối (2) – Có thể điền thêm lưu ý cho nội bộ (nếu cần).
+Thông báo lý do từ chối Khiếu nại cho Khách hàng (1) -> Từ chối (2) 
+– Có thể điền thêm lưu ý cho nội bộ (nếu cần).
 
 ![image](https://user-images.githubusercontent.com/85599407/128164001-a506671f-851f-45f2-8cd6-f63da1b99954.png)
