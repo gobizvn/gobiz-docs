@@ -27,11 +27,15 @@ Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào 
 
 **Bước 1**: Mở danh sách đơn trong mục Quản lý đơn hàng **我的淘宝** -> **已买到的宝贝**.
 
-**Bước 2**: Chọn khớp từng đơn hoặc khớp tất cả các đơn như hình:
+**Bước 2**: Chọn khớp từng đơn (1) hoặc khớp tất cả các đơn (2) như hình:
 
-![123456788765432](https://user-images.githubusercontent.com/85599407/128284860-155f7d41-e33c-4350-8619-ad8df290d92c.png)
+![image](https://user-images.githubusercontent.com/85599407/130724361-cf74f39e-25e5-4293-b084-5754e423e280.png)
 
-**Bước 3**: Bấm chọn Khớp mã vận đơn tương tự như bước khớp đơn.
+![image](https://user-images.githubusercontent.com/85599407/130724415-973e5835-09a8-47ca-80d6-933cfdbe398c.png)
+
+**Bước 3**: Bấm khớp đơn (hệ thống hiện thị ra mục bấm khớp MVĐ nếu đơn hàng NCC đã phát).
+
+![image](https://user-images.githubusercontent.com/85599407/130724454-c103660e-9d4e-48d1-8d2b-a2539867fe31.png)
 
 
 **2.2. Thêm MVĐ đối với hình thức ký gửi không tạo đơn**
