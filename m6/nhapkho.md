@@ -24,13 +24,13 @@ Sau khi tạo đơn thành công sẽ có thông báo và hiển thị mã đơn
 
 **Bước1:** Quý khách truy cập trang Tạo kiện từ menu -> Tạo kiện (1) -> Chọn kho vận hành (2) -> Điền hoặc quét MVĐ (3).
 
-![image](https://user-images.githubusercontent.com/85599407/131279877-67a6a264-87da-4882-a03c-b2e067fc8fd5.png)
+![image](https://user-images.githubusercontent.com/85599407/131282904-8160f569-8919-46dd-a39a-297313079aa0.png)
 
 **Bước 2:** Điền thông tin của Kiện hàng: Cân nặng (1) ->  kích thước (nếu có) (2) -> Chọn dịch vụ cho đơn hàng (3).
 
 *Lưu ý: Bấm enter sau mỗi lần điền thông tin kiện (cân nặng, kích thước).
 
-![image](https://user-images.githubusercontent.com/85599407/131281517-9b8e1296-0d50-40fa-aef5-46c0aa346eff.png)
+![image](https://user-images.githubusercontent.com/85599407/131283328-6c6ea2c8-4e54-44cb-ba3c-b14a077dd1ad.png)
 
 **Bước 3:** Điền Username tương ứng của Khách hàng (1) -> Bấm tạo đơn theo khách hàng (2).
 
