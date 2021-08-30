@@ -10,11 +10,11 @@
 
 *Lưu ý: Bấm enter sau mỗi lần điền thông tin kiện (cân nặng, kích thước).
 
-![image](https://user-images.githubusercontent.com/85599407/131281517-9b8e1296-0d50-40fa-aef5-46c0aa346eff.png)
+![image](https://user-images.githubusercontent.com/85599407/131283328-6c6ea2c8-4e54-44cb-ba3c-b14a077dd1ad.png)
 
 **Bước 3:** Bấm tạo đơn ký gửi theo Khách hàng
 
-![image](https://user-images.githubusercontent.com/85599407/131281698-049381b9-8feb-41e0-bf3d-f343eee8ea95.png)
+![image](https://user-images.githubusercontent.com/85599407/131283380-4161a09a-6580-4759-b6de-c357bc6726f1.png)
 
 Sau khi tạo đơn thành công sẽ có thông báo và hiển thị mã đơn hàng tương ứng được sinh ra như hình:
 
