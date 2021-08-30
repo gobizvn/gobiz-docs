@@ -1,8 +1,10 @@
 **HƯỚNG DẪN NHẬP KHO TẠO ĐƠN KÝ GỬI THAY KHÁCH HÀNG**
 
+https://www.youtube.com/watch?v=wxkYXTsfYj4
+
 **1.	Tạo đơn ký gửi khi Khách đã up Mã vận đơn lên hệ thống**
 
-**Bước1:** Quý khách truy cập trang Tạo kiện từ menu -> Tạo kiện (1) -> Chọn kho vận hành (2) -> Điền hoặc quét MVĐ (3).
+**Bước 1:** Quý khách truy cập trang Tạo kiện từ menu -> Tạo kiện (1) -> Chọn kho vận hành (2) -> Điền hoặc quét MVĐ (3).
 
 ![image](https://user-images.githubusercontent.com/85599407/131282904-8160f569-8919-46dd-a39a-297313079aa0.png)
 
@@ -20,9 +22,10 @@ Sau khi tạo đơn thành công sẽ có thông báo và hiển thị mã đơn
 
 ![image](https://user-images.githubusercontent.com/85599407/131281848-eb802931-0389-4776-88d9-7861d8853466.png)
 
+
 **2.	Tạo đơn ký gửi khi chưa up Mã vận đơn lên hệ thống**
 
-**Bước1:** Quý khách truy cập trang Tạo kiện từ menu -> Tạo kiện (1) -> Chọn kho vận hành (2) -> Điền hoặc quét MVĐ (3).
+**Bước 1:** Quý khách truy cập trang Tạo kiện từ menu -> Tạo kiện (1) -> Chọn kho vận hành (2) -> Điền hoặc quét MVĐ (3).
 
 ![image](https://user-images.githubusercontent.com/85599407/131282904-8160f569-8919-46dd-a39a-297313079aa0.png)
 
