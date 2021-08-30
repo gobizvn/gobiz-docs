@@ -1,4 +1,4 @@
-HƯỚNG DẪN NHẬP KHO TẠO ĐƠN KÝ GỬI THAY KHÁCH HÀNG
+**HƯỚNG DẪN NHẬP KHO TẠO ĐƠN KÝ GỬI THAY KHÁCH HÀNG**
 
 **1.	Tạo đơn ký gửi khi Khách đã up Mã vận đơn lên hệ thống**
 
