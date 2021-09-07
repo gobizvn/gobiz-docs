@@ -28,8 +28,8 @@
      * [Cài đặt chung](m1/caidatchung.md)
      
  * Order Management - Đơn vị cung cấp Dịch vụ Order
-    * [Cài đặt ban đầu](m2/caidatbandau.md)
-      * [Cấu hình chung](m2/cauhinhchung.md)
+    * [Cài đặt ban đầu](m2/caidat.md)
+      * [Cấu hình chung](m2/caidat/cauhinhchung.md)
       * [Cấu hình kho](m2/caidat/setupkho.md)
       * [Cấu hình tỷ giá](m2/caidat/setuptygia.md)
       * [Cấu hình phí](m2/caidat/setupfee.md)
