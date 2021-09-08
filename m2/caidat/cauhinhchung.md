@@ -40,3 +40,24 @@ Admin có quyền duyệt hoặc từ chối giao dịch yêu cầu:
 
 ![Danh sách giao dịch yêu cầu](https://user-images.githubusercontent.com/73226975/132471406-5e42caff-6e17-456b-9db3-12d83c1f4ba0.png)
 
+Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được tạo sẽ thành giao dịch tài chính thực trong ví điện tử của khách hàng. 
+
+![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132473030-e15c1248-6fe6-4328-b521-c5630a27b1a5.png)
+
+![Danh sách giao dịch](https://user-images.githubusercontent.com/73226975/132473612-b5e06c1a-0321-402f-bb4f-15a35a2c4dcd.png)
+
+## 3. Bật/Tắt tính năng Tắt ghi chú của khách hàng trên đơn
+
+Khi chọn **BẬT** và **Lưu** cấu hình thì tại giao diện giỏ hàng, 
+![image](https://user-images.githubusercontent.com/73226975/132475691-00a59357-69fe-4172-b9ea-33ffd641a385.png)
+
+Khi chọn **BẬT** và **Lưu** cấu hình, tại giao diện giỏ hàng khách có thể ghi chú thông tin cần lưu ý của đơn hàng cho đơn vị cung cấp dịch vụ order.
+
+![Ghi chú thông tin](https://user-images.githubusercontent.com/73226975/132474020-e5d04228-c684-4eae-a926-580066db4c4a.png)
+
+
+
+
+
+
+
