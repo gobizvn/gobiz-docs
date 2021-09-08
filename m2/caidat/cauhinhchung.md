@@ -48,10 +48,11 @@ Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được 
 
 ## 3. Bật/Tắt tính năng Tắt ghi chú của khách hàng trên đơn
 
-Khi chọn **BẬT** và **Lưu** cấu hình thì tại giao diện giỏ hàng, 
+Khi chọn **BẬT** và **Lưu** cấu hình thì tại giao diện giỏ hàng, mục ghi chú k
+
 ![image](https://user-images.githubusercontent.com/73226975/132475691-00a59357-69fe-4172-b9ea-33ffd641a385.png)
 
-Khi chọn **BẬT** và **Lưu** cấu hình, tại giao diện giỏ hàng khách có thể ghi chú thông tin cần lưu ý của đơn hàng cho đơn vị cung cấp dịch vụ order.
+Khi chọn **TẮT** và **Lưu** cấu hình, tại giao diện giỏ hàng khách có thể ghi chú thông tin cần lưu ý của đơn hàng cho đơn vị cung cấp dịch vụ order.
 
 ![Ghi chú thông tin](https://user-images.githubusercontent.com/73226975/132474020-e5d04228-c684-4eae-a926-580066db4c4a.png)
 
