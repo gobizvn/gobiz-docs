@@ -1,6 +1,6 @@
-- **Cài công cụ đặt hàng trên Chrome/Cốc cốc**
+# Cài công cụ đặt hàng trên Chrome/Cốc cốc
 
-**Bước 1**: 
+## Bước 1: 
 
 Cài add-on công cụ đặt hàng (Sử dụng máy tính)
 Quý khách tìm kiếm tool công cụ trên Google (tên tool tìm kiếm trên Google store https://chrome.google.com/webstore/category/extensions?hl=vi)
@@ -9,13 +9,13 @@ Quý khách add tool trên thanh extension
 ![Cài công cụ đặt hàng trên Chrome-Cốc cốc](https://user-images.githubusercontent.com/73226975/99616059-2bc44c80-2a4f-11eb-8e42-3df4522e00a3.png)
 
 
-- **Cài công cụ đặt hàng thủ công (File Zip)**
+# Cài công cụ đặt hàng thủ công (File Zip)
 
-**Bước 1**: Download file zip công cụ đặt hàng.
+## Bước 1: Download file zip công cụ đặt hàng.
 
-**Bước 2**: Giải nén file
+## Bước 2: Giải nén file
 
-**Bước 3**: 
+## Bước 3: 
 
 - Mở tiện ích mở rộng trên trình duyệt Chrome/Cốc Cốc : chrome://extensions/
 
@@ -26,7 +26,7 @@ Quý khách add tool trên thanh extension
 ![Bật chế độ cho nhà phát triển](https://user-images.githubusercontent.com/73226975/100176194-6b34e200-2f02-11eb-8b08-ff233322440b.png)
 
 
-**Bước 4**: 
+## Bước 4: 
 
 - Mở file download công cụ đặt hàng, di chuột vào file, sau đó giữ chuột trái để kéo và thả file vào mục tiện tích
 
