@@ -5,10 +5,17 @@ Truy cập Menu => Chọn menu **Cấu hình** => Chọn **Cấu Hình Chung**
 
 # Thiết lập chung
 ## 1. Thông tin liên hệ
-Mục đích: việc bổ sung thông tin liên hệ giúp các khách hàng có thể dễ dàng liên lạc, trao đổi với đơn vị cung cấp dịch vụ khi cần thiết. 
-Tại mục Cấu hình chung, Quý khách điền đầy đủ thông tin liên hệ của công ty vào các mục tương ứng: Email, số điện thoại, địa chỉ và thông tin chuyển khoản thanh toán.Sau đó Quý khách chọn **Lưu** cấu hình.
+**Mục đích**: việc bổ sung thông tin liên hệ giúp các khách hàng có thể dễ dàng liên lạc, trao đổi với đơn vị cung cấp dịch vụ khi cần thiết.
+
+- Tại mục **Cấu hình chung**, Quý khách điền đầy đủ thông tin liên hệ của công ty vào các mục tương ứng: *Email, số điện thoại, địa chỉ và thông tin chuyển khoản thanh toán*.
+-  Sau đó Quý khách chọn **Lưu** cấu hình.
 
 ![Lưu cấu hình](https://user-images.githubusercontent.com/73226975/132631569-4646dfbc-1e21-4e20-b8ee-5cf189f79999.png)
+
+Khách hàng sẽ thấy được thông tin liên hệ khi truy cập vào hệ thống đặt hàng, ngay tại chân trang website.
+
+![Thông tin liên hệ](https://user-images.githubusercontent.com/73226975/132632453-8eb7b5b5-ffef-45c8-acdb-a38ede703535.png)
+
 
 ## 2. Bật/Tắt tính năng Yêu cầu duyệt giao dịch
 
