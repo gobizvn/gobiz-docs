@@ -5,7 +5,7 @@ Truy cập Menu => Chọn menu **Cấu hình** => Chọn **Cấu Hình Chung**
 
 # Thiết lập chung
 ## 1. Thông tin liên hệ
-**Mục đích**: việc bổ sung thông tin liên hệ giúp các khách hàng có thể dễ dàng liên lạc, trao đổi với đơn vị cung cấp dịch vụ khi cần thiết.
+**Mục đích sử dụng**: việc bổ sung thông tin liên hệ giúp các khách hàng có thể dễ dàng liên lạc, trao đổi với đơn vị cung cấp dịch vụ khi cần thiết.
 
 - Tại mục **Cấu hình chung**, Quý khách điền đầy đủ thông tin liên hệ của công ty vào các mục tương ứng: *Email, số điện thoại, địa chỉ và thông tin chuyển khoản thanh toán*.
 -  Sau đó Quý khách chọn **Lưu** cấu hình.
@@ -21,7 +21,7 @@ Khách hàng sẽ thấy được thông tin liên hệ khi truy cập vào hệ
 ![Bỏ trống thông tin](https://user-images.githubusercontent.com/73226975/132633019-82aa78ec-c1b6-4360-8a4c-870f567f03d2.png)
 
 
-![Không có thông tin liên hệ](https://user-images.githubusercontent.com/73226975/132633140-068ad703-b0a7-44e5-bafb-f7078f2b4f82.png)
+![Thông tin liên hệ trống](https://user-images.githubusercontent.com/73226975/132633140-068ad703-b0a7-44e5-bafb-f7078f2b4f82.png)
 
 
 ## 2. Bật/Tắt tính năng Yêu cầu duyệt giao dịch
@@ -41,6 +41,21 @@ Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được 
 ![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132473030-e15c1248-6fe6-4328-b521-c5630a27b1a5.png)
 
 ![Danh sách giao dịch](https://user-images.githubusercontent.com/73226975/132473612-b5e06c1a-0321-402f-bb4f-15a35a2c4dcd.png)
+
+## 3. Cài đặt thời gian tự xác nhận Đã nhận hàng
+
+- **Định nghĩa và mục đích sử dụng**: Khi hàng về Việt Nam, kho tiến hành giao hàng cho khách, nếu khách không xác nhận đã nhận hàng , Admin có thể cài đặt thời gian sau bao nhiêu ngày đơn sẽ chuyển từ trạng thái **Đang giao** sang **Đã nhận hàng*. 
+
+*Đơn vị thời gian tính bằng giây*
+
+- Quý khách điền thời gian tương ứng và **Lưu** cấu hình.
+
+![Lưu cấu hình](https://user-images.githubusercontent.com/73226975/132636002-2a1a7d19-7a39-4dde-8211-2813b059d305.png)
+
+- Đơn hàng tự động đổi trạng thái sang **Đã nhận hàng**.
+
+![image](https://user-images.githubusercontent.com/73226975/132636216-da280e72-04fe-4ec4-9b07-2a741fc18ffb.png)
+
 
 # Đơn mua hộ
 ## 1. Bật/Tắt tính năng tạo đơn hàng ngoài
