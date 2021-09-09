@@ -16,6 +16,13 @@ Khách hàng sẽ thấy được thông tin liên hệ khi truy cập vào hệ
 
 ![Thông tin liên hệ](https://user-images.githubusercontent.com/73226975/132632453-8eb7b5b5-ffef-45c8-acdb-a38ede703535.png)
 
+- Quý khách có thể chọn để trống tất cả các mục hoặc điền thông tin liên hệ ở một số mục.
+
+![Bỏ trống thông tin](https://user-images.githubusercontent.com/73226975/132633019-82aa78ec-c1b6-4360-8a4c-870f567f03d2.png)
+
+
+![Không có thông tin liên hệ](https://user-images.githubusercontent.com/73226975/132633140-068ad703-b0a7-44e5-bafb-f7078f2b4f82.png)
+
 
 ## 2. Bật/Tắt tính năng Yêu cầu duyệt giao dịch
 
