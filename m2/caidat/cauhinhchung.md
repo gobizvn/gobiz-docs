@@ -44,9 +44,9 @@ Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được 
 
 ## 3. Cài đặt thời gian tự xác nhận Đã nhận hàng
 
-- **Định nghĩa và mục đích sử dụng**: Khi hàng về Việt Nam, kho tiến hành giao hàng cho khách, nếu khách không xác nhận đã nhận hàng , Admin có thể cài đặt thời gian sau bao nhiêu ngày đơn sẽ chuyển từ trạng thái **Đang giao** sang **Đã nhận hàng*. 
+- **Định nghĩa và mục đích sử dụng**: Khi hàng về Việt Nam, kho tiến hành giao hàng cho khách, nếu khách không xác nhận đã nhận hàng , Admin có thể cài đặt thời gian sau bao nhiêu ngày đơn sẽ chuyển từ trạng thái **Đang giao** sang **Đã nhận hàng**. 
 
-*Đơn vị thời gian tính bằng giây*
+  *Đơn vị thời gian tính bằng giây*
 
 - Quý khách điền thời gian tương ứng và **Lưu** cấu hình.
 
@@ -54,7 +54,7 @@ Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được 
 
 - Đơn hàng tự động đổi trạng thái sang **Đã nhận hàng**.
 
-![image](https://user-images.githubusercontent.com/73226975/132636216-da280e72-04fe-4ec4-9b07-2a741fc18ffb.png)
+![Đã nhận hàng](https://user-images.githubusercontent.com/73226975/132636216-da280e72-04fe-4ec4-9b07-2a741fc18ffb.png)
 
 
 # Đơn mua hộ
