@@ -1,18 +1,19 @@
 
 Truy cập Menu => Chọn menu **Cấu hình** => Chọn **Cấu Hình Chung**
 
-![image](https://user-images.githubusercontent.com/73226975/132312213-9ada8b75-1c7c-435b-9d63-b62d5f6b8715.png)
+![Cấu hình chung](https://user-images.githubusercontent.com/73226975/132312213-9ada8b75-1c7c-435b-9d63-b62d5f6b8715.png)
 
 
 # Thiết lập chung
 ## 1. Bật/Tắt tính năng tạo đơn hàng ngoài
+
 - **Định nghĩa đơn hàng ngoài**: là đơn hàng không mua từ hệ thống taobao.com, tmall.com, 1688.com.
 
 - **Mục đích sử dụng**: Hỗ trợ khách hàng tạo đơn mua sản phẩm từ các trang web ngoài hệ thống taobao.com, tmall.com, 1688.com như: 2taobao, wechat, pindoudou, alibaba, một số xưởng hoặc các trang nội địa Trung Quốc.
 
-Khi Admin chọn **BẬT** và **Lưu** cấu hình thì giao diện giỏ hàng của khách hàng sẽ hiển thị tính năng tạo đơn hàng ngoài.
+Khi chọn **BẬT** và **Lưu** cấu hình thì giao diện giỏ hàng của khách hàng sẽ hiển thị tính năng tạo đơn hàng ngoài.
 
-![Bật cấu hình](https://user-images.githubusercontent.com/73226975/132317395-e98d7f54-d400-454e-a2d9-f141fa3aa7f8.png)
+![Bật cấu hình](https://user-images.githubusercontent.com/73226975/132630053-31a2fc37-4dcc-496d-bdbd-03dd91c7a65f.png)
 
 Tính năng tạo đơn hàng ngoài hiển thị tại trang **Giỏ hàng**:
 
@@ -22,7 +23,7 @@ Tính năng tạo đơn hàng ngoài hiển thị tại trang **Giỏ hàng**:
 
 Khi chọn **TẮT** và **Lưu** cấu hình thì giao diện giỏ hàng của khách hàng sẽ không hiển thị tính năng tạo đơn hàng ngoài.
 
-![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132318327-7e60ef75-852d-487c-8e9c-55f5d4e1ba8d.png)
+![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132630132-9174de73-49a2-4245-80ab-8e59dede92a2.png)
 
 Tính năng tạo đơn hàng ngoài không hiển thị tại trang **Giỏ hàng**:
 
