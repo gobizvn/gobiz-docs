@@ -3,8 +3,32 @@ Truy cập Menu => Chọn menu **Cấu hình** => Chọn **Cấu Hình Chung**
 
 ![Cấu hình chung](https://user-images.githubusercontent.com/73226975/132312213-9ada8b75-1c7c-435b-9d63-b62d5f6b8715.png)
 
-
 # Thiết lập chung
+## 1. Thông tin liên hệ
+Mục đích: việc bổ sung thông tin liên hệ giúp các khách hàng có thể dễ dàng liên lạc, trao đổi với đơn vị cung cấp dịch vụ khi cần thiết. 
+Tại mục Cấu hình chung, Quý khách điền đầy đủ thông tin liên hệ của công ty vào các mục tương ứng: Email, số điện thoại, địa chỉ và thông tin chuyển khoản thanh toán.Sau đó Quý khách chọn **Lưu** cấu hình.
+
+![Lưu cấu hình](https://user-images.githubusercontent.com/73226975/132631569-4646dfbc-1e21-4e20-b8ee-5cf189f79999.png)
+
+## 2. Bật/Tắt tính năng Yêu cầu duyệt giao dịch
+
+- **Định nghĩa và mục đích sử dụng**: Tất cả những giao dịch không ảnh hưởng tới tài chính của đơn hàng như: nạp tiền, rút tiền, điều chỉnh, truy thu,…cần qua bước kiểm duyệt trước khi chuyển thành giao dịch tài chính thực. 
+
+Khi chọn **BẬT** và **Lưu** cấu hình, giao dịch tài chính được tạo sẽ chuyển vào menu Danh sách giao dịch yêu cầu
+
+![Bật cấu hình](https://user-images.githubusercontent.com/73226975/132471196-e2d42dc7-acc4-422b-9e84-2fd6fd13eb41.png)
+
+Admin có quyền duyệt hoặc từ chối giao dịch yêu cầu:
+
+![Danh sách giao dịch yêu cầu](https://user-images.githubusercontent.com/73226975/132471406-5e42caff-6e17-456b-9db3-12d83c1f4ba0.png)
+
+Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được tạo sẽ thành giao dịch tài chính thực trong ví điện tử của khách hàng. 
+
+![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132473030-e15c1248-6fe6-4328-b521-c5630a27b1a5.png)
+
+![Danh sách giao dịch](https://user-images.githubusercontent.com/73226975/132473612-b5e06c1a-0321-402f-bb4f-15a35a2c4dcd.png)
+
+# Đơn mua hộ
 ## 1. Bật/Tắt tính năng tạo đơn hàng ngoài
 
 - **Định nghĩa đơn hàng ngoài**: là đơn hàng không mua từ hệ thống taobao.com, tmall.com, 1688.com.
@@ -29,23 +53,6 @@ Tính năng tạo đơn hàng ngoài không hiển thị tại trang **Giỏ hà
 
 ![Giao diện giỏ hàng](https://user-images.githubusercontent.com/73226975/132318982-102e8176-067e-4511-bb14-1fe29b891ead.png)
 
-## 2. Bật/Tắt tính năng Yêu cầu duyệt giao dịch
-
-- **Định nghĩa và mục đích sử dụng**: Tất cả những giao dịch không ảnh hưởng tới tài chính của đơn hàng như: nạp tiền, rút tiền, điều chỉnh, truy thu,…cần qua bước kiểm duyệt trước khi chuyển thành giao dịch tài chính thực. 
-
-Khi chọn **BẬT** và **Lưu** cấu hình, giao dịch tài chính được tạo sẽ chuyển vào menu Danh sách giao dịch yêu cầu
-
-![Bật cấu hình](https://user-images.githubusercontent.com/73226975/132471196-e2d42dc7-acc4-422b-9e84-2fd6fd13eb41.png)
-
-Admin có quyền duyệt hoặc từ chối giao dịch yêu cầu:
-
-![Danh sách giao dịch yêu cầu](https://user-images.githubusercontent.com/73226975/132471406-5e42caff-6e17-456b-9db3-12d83c1f4ba0.png)
-
-Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được tạo sẽ thành giao dịch tài chính thực trong ví điện tử của khách hàng. 
-
-![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132473030-e15c1248-6fe6-4328-b521-c5630a27b1a5.png)
-
-![Danh sách giao dịch](https://user-images.githubusercontent.com/73226975/132473612-b5e06c1a-0321-402f-bb4f-15a35a2c4dcd.png)
 
 ## 3. Bật/Tắt tính năng Tắt ghi chú của khách hàng trên đơn
 
