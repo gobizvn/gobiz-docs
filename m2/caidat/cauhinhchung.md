@@ -24,7 +24,7 @@ Khách hàng sẽ thấy được thông tin liên hệ khi truy cập vào hệ
 ![Thông tin liên hệ trống](https://user-images.githubusercontent.com/73226975/132633140-068ad703-b0a7-44e5-bafb-f7078f2b4f82.png)
 
 
-## 2. Bật/Tắt tính năng Yêu cầu duyệt giao dịch
+## 2. Yêu cầu duyệt giao dịch
 
 - **Định nghĩa và mục đích sử dụng**: Tất cả những giao dịch không ảnh hưởng tới tài chính của đơn hàng như: nạp tiền, rút tiền, điều chỉnh, truy thu,…cần qua bước kiểm duyệt trước khi chuyển thành giao dịch tài chính thực. 
 
@@ -123,6 +123,17 @@ Khi chọn **TẮT** và **Lưu** cấu hình, tại giao diện giỏ hàng kh�
 
 ![Giao diện chi tiết đơn](https://user-images.githubusercontent.com/73226975/133065468-ff17ade3-2342-4de7-9ad1-8cdd29865e80.png)
 
+## 4. Đơn mua hộ
+- - Khi chọn **BẬT** và **Lưu** cấu hình đơn mua hộ, dịch vụ mua hộ (order) sẽ được kích hoạt, giao diện của khách sẽ xuất hiện giỏ hàng và danh sách đơn mua hộ.
 
+![Bật cấu hình](https://user-images.githubusercontent.com/73226975/133066347-aa96c21a-9055-4baf-9a29-13add51d4e81.png)
+
+![Giao diện đặt hàng](https://user-images.githubusercontent.com/73226975/133067615-afde4501-9589-4a64-909e-332d040ed67a.png)
+
+- Khi chọn **TẮT** và **Lưu** cấu hình, tại giao diện của khách chỉ xuất hiện danh sách đơn ký gửi.
+
+![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/133068966-c2f295b0-96ba-479a-860d-9b0689041dbe.png)
+
+![Giao diện đặt hàng](https://user-images.githubusercontent.com/73226975/133068921-964396bc-4d5c-4a49-b8d4-fe4cf059e651.png)
 
 
