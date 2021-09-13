@@ -124,7 +124,7 @@ Khi chọn **TẮT** và **Lưu** cấu hình, tại giao diện giỏ hàng kh�
 ![Giao diện chi tiết đơn](https://user-images.githubusercontent.com/73226975/133065468-ff17ade3-2342-4de7-9ad1-8cdd29865e80.png)
 
 ## 4. Đơn mua hộ
-- - Khi chọn **BẬT** và **Lưu** cấu hình đơn mua hộ, dịch vụ mua hộ (order) sẽ được kích hoạt, giao diện của khách sẽ xuất hiện giỏ hàng và danh sách đơn mua hộ.
+- Khi chọn **BẬT** và **Lưu** cấu hình đơn mua hộ, dịch vụ mua hộ (order) sẽ được kích hoạt, giao diện của khách sẽ xuất hiện giỏ hàng và danh sách đơn mua hộ.
 
 ![Bật cấu hình](https://user-images.githubusercontent.com/73226975/133066347-aa96c21a-9055-4baf-9a29-13add51d4e81.png)
 
