@@ -58,7 +58,8 @@ Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được 
 
 ## 4. Link favicon
 - **Định nghĩa và mục đích sử dụng**: Favicon là viết tắt của cụm từ Favorite Icon, có thể hiểu như là shortcut icon, website icon, tab icon, URL icon, hay bookmark icon.
-Favicon là một hình ảnh nhỏ hiển thị bên trái Tiêu đề của trang web trên tab trong khi mở trình duyệt, là biểu tượng riêng để phân biệt các website với nhau tương tự như việc dùng logo dùng để phân biệt các thương hiệu với nhau.
+Favicon là một hình ảnh nhỏ hiển thị bên trái Tiêu đề của trang web trên tab trong khi mở trình duyệt, là biểu tượng riêng để phân biệt các website với nhau, tương tự như việc dùng logo dùng để phân biệt các thương hiệu với nhau.
+- Tại màn hình **Cấu hình chung**, Quý khách cấu hình **Favicon** hiển thị trên giao diện khách hàng bằng cách thêm link ảnh (*bắt buộc phải là url*), sau đó **Lưu** cấu hình.
 
 
 ![Favicon](https://user-images.githubusercontent.com/73226975/132638898-fdf3fdbd-90ed-4761-bec2-ef8a3ec29434.png)
