@@ -44,7 +44,7 @@ Khi chọn **TẮT** và **Lưu** cấu hình, giao dịch tài chính được 
 
 ## 3. Cài đặt thời gian tự xác nhận Đã nhận hàng
 
-- **Định nghĩa và mục đích sử dụng**: Khi hàng về Việt Nam, kho tiến hành giao hàng cho khách, nếu khách không xác nhận đã nhận hàng , Admin có thể cài đặt thời gian sau bao nhiêu ngày đơn sẽ chuyển từ trạng thái **Đang giao** sang **Đã nhận hàng**. 
+- **Định nghĩa và mục đích sử dụng**: Khi hàng về Việt Nam, kho tiến hành giao hàng cho khách, trong trường hợp khách không xác nhận đã nhận hàng , Admin có thể cài đặt thời gian sau bao nhiêu ngày kể từ khi xuất kho đơn sẽ chuyển từ trạng thái **Đang giao** sang **Đã nhận hàng**. 
 
   *Đơn vị thời gian tính bằng giây*
 
@@ -66,9 +66,9 @@ Favicon là một hình ảnh nhỏ hiển thị bên trái Tiêu đề của tr
 
 
 # Đơn mua hộ
-## 1. Bật/Tắt tính năng tạo đơn hàng ngoài
+## 1. Tạo đơn hàng ngoài
 
-- **Định nghĩa đơn hàng ngoài**: là đơn hàng không mua từ hệ thống taobao.com, tmall.com, 1688.com.
+- **Đơn hàng ngoài**: là đơn hàng không mua từ hệ thống taobao.com, tmall.com, 1688.com.
 
 - **Mục đích sử dụng**: Hỗ trợ khách hàng tạo đơn mua sản phẩm từ các trang web ngoài hệ thống taobao.com, tmall.com, 1688.com như: 2taobao, wechat, pindoudou, alibaba, một số xưởng hoặc các trang nội địa Trung Quốc.
 
@@ -91,22 +91,37 @@ Tính năng tạo đơn hàng ngoài không hiển thị tại trang **Giỏ hà
 ![Giao diện giỏ hàng](https://user-images.githubusercontent.com/73226975/132318982-102e8176-067e-4511-bb14-1fe29b891ead.png)
 
 
-## 3. Bật/Tắt tính năng Tắt ghi chú của khách hàng trên đơn
+## 2. Tắt ghi chú của khách hàng trên đơn
 
 Khi chọn **BẬT** và **Lưu** cấu hình, tại giao diện giỏ hàng sẽ không còn xuất hiện phần ghi chú cho đơn hàng.
 
-![image](https://user-images.githubusercontent.com/73226975/132493316-9d74f4cf-8507-4767-ad3b-c441c168393a.png)
+![Bật cấu hình](https://user-images.githubusercontent.com/73226975/132493316-9d74f4cf-8507-4767-ad3b-c441c168393a.png)
 
-![image](https://user-images.githubusercontent.com/73226975/132475691-00a59357-69fe-4172-b9ea-33ffd641a385.png)
+![Giao diện giỏ hàng](https://user-images.githubusercontent.com/73226975/132475691-00a59357-69fe-4172-b9ea-33ffd641a385.png)
 
 Khi chọn **TẮT** và **Lưu** cấu hình, tại giao diện giỏ hàng khách có thể ghi chú thông tin cần lưu ý của đơn hàng cho đơn vị cung cấp dịch vụ order.
 
-![Bật cấu hình](https://user-images.githubusercontent.com/73226975/132474020-e5d04228-c684-4eae-a926-580066db4c4a.png)
+![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/132474020-e5d04228-c684-4eae-a926-580066db4c4a.png)
 
 ![Ghi chú đơn hàng](https://user-images.githubusercontent.com/73226975/132493172-498462ed-14e9-4f24-9470-c218b64d46b7.png)
 
+## 3. Đặt lại đơn hàng
 
+- Khi bật chức năng đặt lại đơn hàng, khách hàng có thể thêm toàn bộ sản phẩm của đơn hàng đã đặt trước đó vào giỏ hàng mà không cần dùng công cụ. 
 
+*Lưu ý: giá sản phẩm có thể sai lệch so với việc khách hàng thêm từ công cụ*
+
+- Khi chọn **BẬT** và **Lưu** cấu hình, tại giao diện chi tiết đơn hàng sẽ xuất hiện button **Đặt lại đơn**
+
+![Bật cấu hình](https://user-images.githubusercontent.com/73226975/133065304-5d41643c-08e7-42d6-9144-7004d765692f.png)
+
+![Đặt lại đơn](https://user-images.githubusercontent.com/73226975/133064973-4f81d673-63bb-4e0c-a51b-c57423b41449.png)
+
+- Khi chọn **TẮT** và **Lưu** cấu hình, tại giao diện chi tiết đơn hàng button **Đặt lại đơn** sẽ không được hiển thị.
+
+![Tắt cấu hình](https://user-images.githubusercontent.com/73226975/133065413-c6a02f54-af79-4576-96f1-193ad2562e56.png)
+
+![Giao diện chi tiết đơn](https://user-images.githubusercontent.com/73226975/133065468-ff17ade3-2342-4de7-9ad1-8cdd29865e80.png)
 
 
 
