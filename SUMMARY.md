@@ -36,7 +36,7 @@
       * [Nhóm khách hàng](m2/setupgroup.md)
       * [Chính sách khách hàng]
       * [App nạp tiền tự động](m2/caidat/appnaptien.md)
-      * [Cấu hình khác](m2/caidat/madichvu.md)
+      * [Cấu hình khác](m2/caidat/Madichvu.md)
     
     * [Đơn hàng](m2/quanlydonhang/donhang.md)
       * [Danh sách đơn hàng](m2/quanlydonhang/dsdonhang.md)
