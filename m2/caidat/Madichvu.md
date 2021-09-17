@@ -3,7 +3,7 @@
 
 - Gobiz cung cấp một số mã dịch vụ thường dùng trong hệ thống để Quý khách tham khảo thêm trong quá trình sử dụng tính năng **Cấu hình bộ chính sách**
 
-|  Mã Dịch Vụ                | Tên Dịch vụ | 
+|  Mã Dịch Vụ      | Tên Dịch vụ | 
 | :---             |    ----:   |
 | inspection    | Kiểm hàng |
 | special_packaging    | Đóng gỗ | 
