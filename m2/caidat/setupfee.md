@@ -17,13 +17,27 @@
 
 # Đơn mua hộ
 
-## Sao chép bộ cấu hình mới
+## 1. Sao chép bộ cấu hình mới
 – Tại menu chọn **Cấu hình** => Chọn **Bộ cấu hình chính sách**
 
 ![Menu cấu hình](https://user-images.githubusercontent.com/73226975/133953967-50499e47-5ffe-4a1c-b87e-2fc1f1ffb35e.png)
 
+– Quý khách tạo mới bộ cấu hình bằng cách sao chép từ bộ cũ đang hoạt động trên hệ thống.
 
-![image](https://user-images.githubusercontent.com/73226975/133954217-d4480199-e71b-473d-a7dd-d1da925955bd.png)
+*(1) - Tìm tên bộ cấu hình phí Quý khách muốn sao chép*
+*(2) - Click vào dấu ba chấm bên cạnh button **Thao tác** > Chọn **Sao chép**
+
+![Sao chép bộ cấu hình](https://user-images.githubusercontent.com/73226975/133954217-d4480199-e71b-473d-a7dd-d1da925955bd.png)
+
+- Quý khách sửa tên bộ cấu hình để phân biệt với các bộ cấu hình cũ, sau đó chọn mốc thời gian áp dụng(*), điền nội dung phần mô tả (mục này không bắt buộc). Chọn **Thêm** sau khi hoàn tất quá trình điền thông tin.
+
+(*) - Quý khách lưu ý khi mới bắt đầu sao chép bộ cấu hình luôn phải chọn thời gian áp dụng cách xa thời điểm hiện tại tối thiểu khoảng 20 phút. Hoặc đủ thời gian để có thể chỉnh sửa xong bộ cấu hình.
+
+![Sao chép bộ cấu hình](https://user-images.githubusercontent.com/73226975/133955691-091f1173-ad8b-4b3e-a4e2-6bb879512034.png)
+
+- Sau khi sao chép thành công, hệ thống sẽ hiển thị bộ cấu hình mới trên cùng danh sách, theo tên và thời gian áp dụng Quý khách đã chọn.
+
+![Bộ cấu hình mới](https://user-images.githubusercontent.com/73226975/133956428-4b29298e-0c0b-463d-9f5d-3876fe2f750d.png)
 
 
 
