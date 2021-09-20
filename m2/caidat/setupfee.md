@@ -75,6 +75,7 @@
 ![Thêm nhóm dịch vụ](https://user-images.githubusercontent.com/73226975/133957762-d5a58af4-eee8-4095-a60c-e079ee45a4a1.png)
 
 (*) - Thông thường 1 hệ thống sẽ có các nhóm dịch vụ cơ bản: 
+
 +) *Nhóm dịch vụ vận chuyển, nhóm dịch vụ đóng hàng và một số dịch vụ không thuộc nhóm nào*.
 
 ![Nhóm dịch vụ](https://user-images.githubusercontent.com/73226975/133957888-bb07c5ae-ca2a-4438-bd0d-e63bb2d42cf6.png)
