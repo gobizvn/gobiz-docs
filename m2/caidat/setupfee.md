@@ -29,7 +29,8 @@
 
 ![Sao chép bộ cấu hình](https://user-images.githubusercontent.com/73226975/133954217-d4480199-e71b-473d-a7dd-d1da925955bd.png)
 
-- Quý khách sửa tên bộ cấu hình để phân biệt với các bộ cấu hình cũ, sau đó chọn mốc thời gian áp dụng(*), điền nội dung phần mô tả (mục này không bắt buộc). Chọn **Thêm** sau khi hoàn tất quá trình điền thông tin.
+- Quý khách sửa tên bộ cấu hình để phân biệt với các bộ cấu hình cũ, sau đó chọn mốc thời gian áp dụng, điền nội dung phần mô tả (mục này không bắt buộc). 
+- Chọn **Thêm** sau khi hoàn tất quá trình điền thông tin.
 
 (*) - Quý khách lưu ý khi mới bắt đầu sao chép bộ cấu hình luôn phải chọn thời gian áp dụng cách xa thời điểm hiện tại tối thiểu khoảng 20 phút. Hoặc đủ thời gian để có thể chỉnh sửa xong bộ cấu hình.
 
