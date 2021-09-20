@@ -81,15 +81,14 @@
 ![Nhóm dịch vụ](https://user-images.githubusercontent.com/73226975/133957888-bb07c5ae-ca2a-4438-bd0d-e63bb2d42cf6.png)
 
 
-- Click **Bước tiếp theo** để thêm các dịch vụ
-
-![image](https://user-images.githubusercontent.com/73226975/133958704-d2da2e43-efde-423b-abfa-4caffdb4b9e5.png)
-
 - Click **Bước tiếp theo** để thêm các dịch vụ vào nhóm vừa tạo ở bước 1 & 2.
+
+![Bước tiếp theo](https://user-images.githubusercontent.com/73226975/133958704-d2da2e43-efde-423b-abfa-4caffdb4b9e5.png)
+
 
 - Quý khách thêm mới **Mã dịch vụ** => **Chọn nhóm dịch vụ** tương ứng => Thêm **Tên dịch vụ** => Thêm **Thông tin** và **Mô tả** (Mục này không bắt buộc) => Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
 
-- Chọn cấu hình **Nhân viên được chọn** nếu Quý khách không muốn hiển thị dịch vụ này ngoài danh sách để khách lựa chọn tại bước**Đặt cọc**
+- Chọn cấu hình **Nhân viên được chọn** nếu Quý khách không muốn hiển thị dịch vụ này ngoài danh sách để khách lựa chọn tại bước **Đặt cọc**
 
 - Sau đó ấn **Lưu**
 
