@@ -1,6 +1,6 @@
 
 
-## Một số lưu ý quan trọng:
+# Một số lưu ý quan trọng:
 – Bộ cấu hình chính sách chỉ có hiệu lực khi được áp dụng cho một **Nhóm khách hàng** hoặc một **Đơn hàng** cụ thể.
 
 – Chỉ **Sửa** được bộ cấu hình khi thời gian hiệu lực áp dụng chính sách ở thì tương lai.
@@ -80,5 +80,17 @@
 
 ![Nhóm dịch vụ](https://user-images.githubusercontent.com/73226975/133957888-bb07c5ae-ca2a-4438-bd0d-e63bb2d42cf6.png)
 
+
+- Click **Bước tiếp theo** để thêm các dịch vụ
+
+![image](https://user-images.githubusercontent.com/73226975/133958704-d2da2e43-efde-423b-abfa-4caffdb4b9e5.png)
+
+- Click **Bước tiếp theo** để thêm các dịch vụ vào nhóm vừa tạo ở bước 1 & 2.
+
+- Quý khách thêm mới **Mã dịch vụ** => **Chọn nhóm dịch vụ** tương ứng => Thêm **Tên dịch vụ** => Thêm **Thông tin** và **Mô tả** (Mục này không bắt buộc) => Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
+
+- Chọn cấu hình **Nhân viên được chọn** nếu Quý khách không muốn hiển thị dịch vụ này ngoài danh sách để khách lựa chọn tại bước**Đặt cọc**
+
+- Sau đó ấn **Lưu**
 
 
