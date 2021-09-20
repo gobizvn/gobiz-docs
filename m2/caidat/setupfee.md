@@ -53,9 +53,18 @@
 
 *(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ)*
 
-- Quý khách thêm mới **Mã phương thức vận chuyển** => **Tên phương thức vận chuyển** => Mô tả (Mục này không bắt buộc)
+- Quý khách thêm mới **Mã phương thức vận chuyển** => **Tên phương thức vận chuyển** => Mô tả (Mục này không bắt buộc) => Chọn thêm ngôn ngữ nếu website của Quý khách đang chạy giao diện song ngữ.
+- Sau đó ấn **Lưu**
 
 (*) - Quý khách có thể tham khảo thêm các mã phương thức vận chuyển tại đây.
 
+![image](https://user-images.githubusercontent.com/73226975/133957499-a3de7321-da16-422a-8b67-e959a23d876c.png)
 
+- Click Bước tiếp theo để thêm Mã nhóm dịch vụ
+
+![image](https://user-images.githubusercontent.com/73226975/133957674-7b43e103-4a20-4d18-bc17-02134e30073c.png)
+
+![image](https://user-images.githubusercontent.com/73226975/133957586-8b37282a-7468-4b14-9be2-9a5336bb800a.png)
+
+![image](https://user-images.githubusercontent.com/73226975/133957762-d5a58af4-eee8-4095-a60c-e079ee45a4a1.png)
 
