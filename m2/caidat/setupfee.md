@@ -41,5 +41,21 @@
 ![Bộ cấu hình mới](https://user-images.githubusercontent.com/73226975/133956428-4b29298e-0c0b-463d-9f5d-3876fe2f750d.png)
 
 
+## 2. Sửa bộ cấu hình
+
+– Quý khách click trực tiếp vào tiêu đề bộ cấu hình mới để chỉnh sửa.
+
+![Chỉnh sửa bộ cấu hình](https://user-images.githubusercontent.com/73226975/133957097-c18647dc-7499-4c57-bc99-c938611d025e.png)
+
+### 2.1. Thêm mới dịch vụ
+
+- Tại chi tiết bộ cấu hình chọn **Cấu hình dịch vụ đơn mua hộ**.
+
+*(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ)*
+
+- Quý khách thêm mới **Mã phương thức vận chuyển** => **Tên phương thức vận chuyển** => Mô tả (Mục này không bắt buộc)
+
+(*) - Quý khách có thể tham khảo thêm các mã phương thức vận chuyển tại đây.
+
 
 
