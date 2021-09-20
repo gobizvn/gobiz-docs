@@ -58,18 +58,26 @@
 
 (*) - Quý khách có thể tham khảo thêm các mã phương thức vận chuyển tại đây.
 
-![image](https://user-images.githubusercontent.com/73226975/133957499-a3de7321-da16-422a-8b67-e959a23d876c.png)
+![Thêm phương thức vận chuyển](https://user-images.githubusercontent.com/73226975/133957499-a3de7321-da16-422a-8b67-e959a23d876c.png)
 
 - Click Bước tiếp theo để thêm **Mã nhóm dịch vụ**
 
 ![Bước tiếp theo](https://user-images.githubusercontent.com/73226975/133957674-7b43e103-4a20-4d18-bc17-02134e30073c.png)
 
-- Quý khách thêm mới **Mã phương thức vận chuyển** => **Tên phương thức vận chuyển** => **Mô tả** (Mục này không bắt buộc) => Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
+- Quý khách thêm mới **Mã nhóm dịch vụ** => **Tên nhóm dịch vụ** => **Mô tả** (Mục này không bắt buộc) => Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
+
+- Chọn cấu hình bắt buộc hoặc không bắt buộc cho nhóm dịch vụ khi khách tiến hành đặt cọc đơn hàng.
+
+- Chọn cấu hình khách chỉ được chọn 1 hoặc nhiều dịch vụ trong nhóm.
+
 - Sau đó ấn **Lưu**
 
-![image](https://user-images.githubusercontent.com/73226975/133957762-d5a58af4-eee8-4095-a60c-e079ee45a4a1.png)
+![Thêm nhóm dịch vụ](https://user-images.githubusercontent.com/73226975/133957762-d5a58af4-eee8-4095-a60c-e079ee45a4a1.png)
 
-![image](https://user-images.githubusercontent.com/73226975/133957888-bb07c5ae-ca2a-4438-bd0d-e63bb2d42cf6.png)
+(*) - Thông thường 1 hệ thống sẽ có các nhóm dịch vụ cơ bản: 
++) *Nhóm dịch vụ vận chuyển, nhóm dịch vụ đóng hàng và một số dịch vụ không thuộc nhóm nào*.
+
+![Nhóm dịch vụ](https://user-images.githubusercontent.com/73226975/133957888-bb07c5ae-ca2a-4438-bd0d-e63bb2d42cf6.png)
 
 
 
