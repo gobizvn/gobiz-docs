@@ -92,7 +92,7 @@
 
 - Sau đó ấn **Lưu**
 
-!Tên dịch vụ](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)
+!(Tên dịch vụ](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)
 
 - Click **Bước tiếp theo** để chỉnh sửa quan hệ của các dịch vụ.
 
