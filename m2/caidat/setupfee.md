@@ -92,11 +92,20 @@
 
 - Sau đó ấn **Lưu**
 
-![image](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)
+!Tên dịch vụ](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)
 
 - Click **Bước tiếp theo** để chỉnh sửa quan hệ của các dịch vụ.
 
-![image](https://user-images.githubusercontent.com/73226975/134137710-052ada47-131c-4240-bd60-0b36e51999b6.png)
+![Bước tiếp theo](https://user-images.githubusercontent.com/73226975/134137710-052ada47-131c-4240-bd60-0b36e51999b6.png)
+
+![image](https://user-images.githubusercontent.com/73226975/134200087-96986cb4-df22-4aaf-a04a-4a557bb6a6df.png)
+
+- Phải chọn dịch vụ:
+- Không được chọn dịch vụ:
+- Sẽ chọn dịch vụ:
+- Phải chọn nhóm dịch vụ:
+- Không được chọn nhóm dịch vụ:
+
 
 
 
