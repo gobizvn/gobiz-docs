@@ -47,7 +47,7 @@
 
 ![Chỉnh sửa bộ cấu hình](https://user-images.githubusercontent.com/73226975/133957097-c18647dc-7499-4c57-bc99-c938611d025e.png)
 
-### 2.1. Thêm mới dịch vụ
+## 2.1. Thêm mới dịch vụ
 
 - Tại chi tiết bộ cấu hình chọn **Cấu hình dịch vụ đơn mua hộ**.
 
@@ -91,5 +91,13 @@
 - Chọn cấu hình **Nhân viên được chọn** nếu Quý khách không muốn hiển thị dịch vụ này ngoài danh sách để khách lựa chọn tại bước **Đặt cọc**
 
 - Sau đó ấn **Lưu**
+
+![image](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)
+
+- Click **Bước tiếp theo** để chỉnh sửa quan hệ của các dịch vụ.
+
+![image](https://user-images.githubusercontent.com/73226975/134137710-052ada47-131c-4240-bd60-0b36e51999b6.png)
+
+
 
 
