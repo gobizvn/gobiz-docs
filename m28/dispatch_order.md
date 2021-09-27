@@ -14,4 +14,4 @@
 
 ### Nghiệp vụ kho
 1. [Xác nhận đóng hàng](packing_confirmation.md)
-2. Xác nhận xuất hàng
+2. [Xác nhận xuất hàng](export_confirmation.md)
