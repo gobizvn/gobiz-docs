@@ -16,7 +16,16 @@
 
 - Quý khách cick vào button **Tạo mới**
 
-![image](https://user-images.githubusercontent.com/73226975/134859189-f742d05f-0bb9-4b41-9439-f88f042d5fc3.png)
+![Danh sách cấu hình](https://user-images.githubusercontent.com/73226975/134859189-f742d05f-0bb9-4b41-9439-f88f042d5fc3.png)
 
+- Quý khách chọn **tỷ giá** và **giá trị quy đổi** tương ứng sang VND => **Thời gian áp dụng** => Click **Thêm**
 
-![image](https://user-images.githubusercontent.com/73226975/134864658-3e436106-65aa-409f-95a3-2315e73e57df.png)
+![Tạo tỷ giá mới](https://user-images.githubusercontent.com/73226975/134881598-8f663d1b-0b85-46c4-947d-24b66533120b.png)
+
+- Xác nhận đồng ý tạo tạo tỷ giá mới
+
+![image](https://user-images.githubusercontent.com/73226975/134891516-6d8b5991-62f9-4cd7-a734-a67058766337.png)
+
+- Có thể sửa cấu hình trong trường hợp bộ cấu hình chưa có hiệu lực.
+
+![Sửa cấu hình](https://user-images.githubusercontent.com/73226975/134891592-3f223bf1-2dcb-4758-b1a8-34b813231be6.png)
