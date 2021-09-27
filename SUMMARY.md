@@ -163,6 +163,7 @@
 * [Quản lý kho hàng M28](m28/README.md)
 
   * Quản lý kho hàng
+     * [Nhập hàng theo SKU](m28/import_by_sku.md)
      * [Tạo mới và danh sách kho hàng](m28/stock_config.md)
      * [Nhập kho và thông tin tồn kho](m28/import_stock.md)
      * [Lịch sử nhập hàng](m28/stock_history.md)
