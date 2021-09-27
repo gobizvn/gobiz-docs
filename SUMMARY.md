@@ -162,6 +162,13 @@
       
 * [Quản lý kho hàng M28](m28/README.md)
 
+  * [Phát đơn hàng](m28/dispatch_order.md)
+     * [Chọn kho xuất](m28/order_picking_warehouse.md)
+     * [Xác nhận đơn hàng](m28/order_confirmation.md)
+     * [Gửi đơn cho đơn vị vận chuyển](m28/order_get_tracking.md)
+     * [Xác nhận đóng hàng](m28/packing_confirmation.md)
+     * [Xuất kho theo đơn hàng](m28/export_confirmation.md)
+     
   * Quản lý kho hàng
      * [Nhập hàng theo SKU](m28/import_by_sku.md)
      * [Tạo mới và danh sách kho hàng](m28/stock_config.md)
