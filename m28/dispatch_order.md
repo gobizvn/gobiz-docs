@@ -9,7 +9,7 @@
 ## Hướng dẫn 
 ### Nghiệp vụ vận hành
 1. [Chọn kho xuất](order_picking_warehouse.md)
-2. Xác nhận đơn hàng
+2. [Xác nhận đơn hàng](order_confirmation.md)
 
 ### Nghiệp vụ kho
 1. Xác nhận đóng hàng
