@@ -13,5 +13,5 @@
 3. [Gửi đơn cho ĐVVC](order_get_tracking.md)
 
 ### Nghiệp vụ kho
-1. Xác nhận đóng hàng
+1. [Xác nhận đóng hàng](packing_confirmation.md)
 2. Xác nhận xuất hàng
