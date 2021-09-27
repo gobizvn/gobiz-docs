@@ -33,5 +33,8 @@ Click vào mã phiếu nhập để xem chi tiết
 ![Screen Shot 2021-09-27 at 17 07 48](https://user-images.githubusercontent.com/24457565/134891724-a07ba1e7-22e6-4e93-b92c-520656490f79.png)
 
 **Bước 7**: Khi kho nhận thông tin, chỉnh sửa số lượng thực nhận và xác nhận nhập hàng.
-Nếu phát hiện chứng từ có nhiều hơn/ít hơn số lượng SKU cần nhập. có thể huỷ chứng từ và tạo lại cái mới.
+Sau khi xác nhận nhập hàng, số lượng tồn kho sẽ được cộng thêm theo phiếu nhập.
+
+*Nếu phát hiện chứng từ có nhiều hơn/ít hơn số lượng SKU cần nhập. có thể huỷ chứng từ và tạo lại cái mới*
+
 ![Screen Shot 2021-09-27 at 17 09 16](https://user-images.githubusercontent.com/24457565/134891776-12435f68-e3e0-4f52-aa08-9be14f654493.png)
