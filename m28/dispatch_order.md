@@ -8,7 +8,7 @@
 
 ## Hướng dẫn 
 ### Nghiệp vụ vận hành
-1. Chọn kho xuất
+1. [Chọn kho xuất](order_picking_warehouse.md)
 2. Xác nhận đơn hàng
 
 ### Nghiệp vụ kho
