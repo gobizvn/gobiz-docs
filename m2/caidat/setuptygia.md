@@ -24,7 +24,7 @@
 
 - Xác nhận đồng ý tạo tạo tỷ giá mới
 
-![image](https://user-images.githubusercontent.com/73226975/134891516-6d8b5991-62f9-4cd7-a734-a67058766337.png)
+![Xác nhận](https://user-images.githubusercontent.com/73226975/134891516-6d8b5991-62f9-4cd7-a734-a67058766337.png)
 
 - Có thể sửa cấu hình trong trường hợp bộ cấu hình chưa có hiệu lực.
 
