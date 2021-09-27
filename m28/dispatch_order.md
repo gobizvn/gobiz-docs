@@ -10,6 +10,7 @@
 ### Nghiệp vụ vận hành
 1. [Chọn kho xuất](order_picking_warehouse.md)
 2. [Xác nhận đơn hàng](order_confirmation.md)
+3. [Gửi đơn cho ĐVVC](order_get_tracking.md)
 
 ### Nghiệp vụ kho
 1. Xác nhận đóng hàng
