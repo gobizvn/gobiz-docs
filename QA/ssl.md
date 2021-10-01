@@ -36,7 +36,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![MMC](https://user-images.githubusercontent.com/73226975/135575282-b8db95c1-9529-4323-941c-1a8946831bf3.png)
 
-- Quý khách chọn **Menu File**
+### Bước 3: chọn **Menu File**
 
 ![File](https://user-images.githubusercontent.com/73226975/135575387-0c5bac89-e754-4413-bdf0-40a424663926.png)
 
@@ -44,8 +44,9 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![Add/remove](https://user-images.githubusercontent.com/73226975/135575553-65ead00a-71f6-4007-a1fe-a26b30bed3c7.png)
 
-- Chọn **Certificates** => **Add** => Chọn **My user account** => **Finish**
+### Bước 4: Chọn **Certificates** 
 
+- Chọn **Add** => **My user account** => Click **Finish**
 
 ![Certificates](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
 
@@ -72,14 +73,17 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 - Chọn **Next** cho tới hết các bước, Quý khách ấn **OK** để kết thúc quá trình cài đặt
 
-![image](https://user-images.githubusercontent.com/73226975/135578312-4b5614da-fdec-43c0-bd89-e457828456f5.png)
+![Next](https://user-images.githubusercontent.com/73226975/135578312-4b5614da-fdec-43c0-bd89-e457828456f5.png)
 
+![Next](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
 
-![image](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
+![Finish](https://user-images.githubusercontent.com/73226975/135583095-f13f380d-13da-4e38-ab75-c0b7a0de0cf9.png)
 
+![OK](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
 
-![image](https://user-images.githubusercontent.com/73226975/135583095-f13f380d-13da-4e38-ab75-c0b7a0de0cf9.png)
+### Bước 5: Trusted Root Certification Authorities
 
-![image](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
+- Quý khách thao tác tương tự như các bước vừa làm với mục **Certification**
+
 
 
