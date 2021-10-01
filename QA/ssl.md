@@ -18,9 +18,9 @@
 
 - Đây có khả năng không phải là trang web bạn đang tìm kiếm (This is probably not the site you are looking for).
 
-Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất nhiều lỗi SSL khác mà người dùng có thể gặp phải. 
+Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất nhiều lỗi SSL khác mà người dùng có thể gặp phải. Quý khách có thể tham khảo 1 số cách khắc phục sau:
 
-## Thêm chứng chỉ
+## 1. Thêm chứng chỉ
 
 ### Bước 1: Download file import
 
@@ -71,7 +71,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/135578288-84653059-e35d-4472-9a92-6aad86565f7e.png)
 
-- Chọn **Next** cho tới hết các bước, Quý khách ấn **OK** để kết thúc quá trình cài đặt
+- Tiếp tục chọn **Next** cho tới hết các bước, Quý khách ấn **OK** để kết thúc quá trình chỉnh sửa.
 
 ![Next](https://user-images.githubusercontent.com/73226975/135578312-4b5614da-fdec-43c0-bd89-e457828456f5.png)
 
@@ -85,5 +85,8 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 - Quý khách thao tác tương tự như các bước vừa làm với mục **Certification**
 
+## 2. Xoá lịch sử trình duyệt web
 
-
+- - Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể xóa tất cả dữ liệu duyệt web (bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…). 
+- 
+- Sau đó khởi động lại trình duyệt hoặc máy tính và truy cập lại nhé.
