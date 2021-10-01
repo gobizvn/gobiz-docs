@@ -5,7 +5,7 @@
 ## Guidance 
 **Step 1**: Enter order list. Filter as per status "For Agree", other filters can be used as "Market", "Vendor" and "Warehouse"
 
-![Danh sách đơn hàng](https://user-images.githubusercontent.com/24457565/134949639-ddc6d79c-9a7f-49c0-a43c-5cc00179f933.png)
+![Screen Shot 2021-10-01 at 17 27 33](https://user-images.githubusercontent.com/24457565/135608141-97c964eb-7897-4a72-8532-a319bc36f761.png)
 
 
 
@@ -23,8 +23,10 @@
 
 **Step 4**: Click on "Update order", and upload file on the system
 
-![Cập nhật thông tin đơn](https://user-images.githubusercontent.com/24457565/134950663-75a6a44a-a63d-431d-bfc2-1a7984ebba90.png)
+![Screen Shot 2021-10-01 at 17 28 00](https://user-images.githubusercontent.com/24457565/135608236-fa62fd3d-8d55-4cd7-8aca-6c570586490b.png)
+
 
 **Step 5**: Click on "Confirm order" and upload file on the system to confirm that the order is available for dispatch
 
-![Xác nhận thông tin đơn](https://user-images.githubusercontent.com/24457565/134950984-9e264766-5469-4ae2-8bbd-120a1dc8cce2.png)
+
+![Screen Shot 2021-10-01 at 17 28 10](https://user-images.githubusercontent.com/24457565/135608258-4b50e5d2-a26b-40c6-ba23-43e5ff3b18f6.png)
