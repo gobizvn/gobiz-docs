@@ -1,23 +1,18 @@
-# Phát đơn hàng
+# Dispatch
+## Purpose
+- To dispatch orders to the customers
 
-## Mục đích
+## Value Chain
 
-* Xuất kho theo đơn hàng nhập và chuyển giao cho đơn vị vận chuyển gửi đến tay người mua hàng
+![Frame 1](https://user-images.githubusercontent.com/24457565/135583902-9011601a-5ae5-450d-b5ed-21be5e73654a.png)
 
-## Chuỗi giá trị
 
-![flow\_1](https://user-images.githubusercontent.com/24457565/134947518-5e50f2af-3c3e-4ca1-bf97-6de177e03271.png)
+## Guidance 
+### Operation Task
+1. [Select warehouse](order_picking_warehouse.md)
+2. [Confirm order](order_confirmation.md)
+3. [Send couriers the dispatch orders](order_get_tracking.md)
 
-## Hướng dẫn
-
-### Nghiệp vụ vận hành
-
-1. [Chọn kho xuất](order_picking_warehouse.md)
-2. [Xác nhận đơn hàng](order_confirmation.md)
-3. [Gửi đơn cho ĐVVC](order_get_tracking.md)
-
-### Nghiệp vụ kho
-
-1. [Xác nhận đóng hàng](packing_confirmation.md)
-2. [Xác nhận xuất hàng](export_confirmation.md)
-
+### Warehouse Task
+1. [Agree for Package](packing_confirmation.md)
+2. [Export for warehouse as per order](export_confirmation.md)
