@@ -47,17 +47,20 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 - Chọn **Certificates** => **Add** => Chọn **My user account** => **Finish**
 
 
-![image](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
+![Certificates](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
 
-![image](https://user-images.githubusercontent.com/73226975/135575845-5b2314e1-b7a2-45d6-91bc-36a54c364e9b.png)
+![Add](https://user-images.githubusercontent.com/73226975/135575845-5b2314e1-b7a2-45d6-91bc-36a54c364e9b.png)
 
-![image](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
+![User account](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
 
 - Click **OK**
 
-![image](https://user-images.githubusercontent.com/73226975/135575993-cc16a3e9-ee02-4213-b68e-89a92183a9f3.png)
+![OK](https://user-images.githubusercontent.com/73226975/135575993-cc16a3e9-ee02-4213-b68e-89a92183a9f3.png)
 
+- Quý khách click vào button **Certificates** => Click chuột phải vào **Personal**, chọn **All Tasks** => **Import**
 
-![image](https://user-images.githubusercontent.com/73226975/135576291-47947ff4-77fb-4a15-aa64-daa654213ca8.png)
+![Personal](https://user-images.githubusercontent.com/73226975/135576291-47947ff4-77fb-4a15-aa64-daa654213ca8.png)
+
+- Chọn file **pem** tại thư mục đã download ở [Bước 1](https://hd.gobiz.vn/q-and-a/ssl#buoc-1-download-file-import)
 
 
