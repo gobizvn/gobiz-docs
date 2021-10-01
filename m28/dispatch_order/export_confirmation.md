@@ -1,32 +1,30 @@
-# Xuất kho theo đơn hàng
+# Export for warehouse as per order
+## Purpose 
+- To confirm if orders are exported from warehouse and dispatch to couriers
 
-## Mục đích
+## Condition
+- Computer
+- Printer
+- Scanner
 
-* Xác nhận là đã xuất kho và chuyển giao cho đơn vị vận chuyển
+## Guidance
+**Step 1**: Enter "Export for warehouse", then click on "Enter or scan the code", Choose scan type as "Tracking number"
 
-## Điều kiện
+![Screen Shot 2021-10-01 at 17 41 17](https://user-images.githubusercontent.com/24457565/135610030-ac226d36-d556-4109-8d1b-2329ddc86fea.png)
 
-* Máy tính tại kho
-* Máy in tem
-* Máy quét mã vạch 
 
-## Hướng dẫn
+**Step 2**: Scan orders and send to couriers
 
-**Bước 1**: Vào Xuất kho, click vào ô "Nhập hoặc quét mã"
+**Step 3**: Click on "Create Dispatch Note", we will received a license as follow:
 
-![Xuat kho](https://user-images.githubusercontent.com/24457565/134956274-11918318-ccab-482b-8032-60f89c2fc306.png)
+![Screen Shot 2021-10-01 at 17 41 48](https://user-images.githubusercontent.com/24457565/135610171-0298749f-9246-457f-b9e2-548ec727e715.png)
 
-**Bước 2**: Quét từng đơn hàng và giao cho đơn vị vận chuyển.
 
-**Bước 3**: Click _Tạo phiếu xuất_, chúng ta sẽ được một chứng từ như sau:
+**Step 4**: Click on "Edit Buyer Information", the fill the information of receiver
 
-![Phieu xuat](https://user-images.githubusercontent.com/24457565/134956757-70d334f9-b2de-4cb3-9965-ab5de562f726.png)
+![Screen Shot 2021-10-01 at 17 42 11](https://user-images.githubusercontent.com/24457565/135610220-5641a4d5-0c73-493b-9cea-12574bdb68d8.png)
 
-**Bước 4**: Click _Chỉnh sửa thông tin người nhận_, điền thông tin của người nhận vào
 
-![Screen Shot 2021-09-28 at 00 26 58](https://user-images.githubusercontent.com/24457565/134956815-ce4cc3ec-b3f1-49f6-85f4-a02d11c5e0e9.png)
+**Step 5**: Print Dispatch note, then take signatures of warehouse staff and pickup staff
 
-**Bước 5**: Click _In phiếu_ và lấy chữ ký của Nhân viên xuất kho và Nhân viên lấy hàng
-
-**Bước 6**: Click _Xuất kho_ để xác nhận là đã xuất kho thành công
-
+**Step 6**: Click on "Exported warehouse" to confirm and finish 
