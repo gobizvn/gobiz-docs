@@ -78,13 +78,8 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![image](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
 
 
-![image](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
-
-
 ![image](https://user-images.githubusercontent.com/73226975/135583095-f13f380d-13da-4e38-ab75-c0b7a0de0cf9.png)
 
-
 ![image](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
 
-![image](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
 
