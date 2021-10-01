@@ -1,30 +1,32 @@
-# Xác nhận đơn hàng
+# Confirm order
+## Purpose
+- To confirm if the order is available for dispatch
 
-## Mục đích
+## Guidance 
+**Step 1**: Enter order list. Filter as per status "For Agree", other filters can be used as "Market", "Vendor" and "Warehouse"
 
-* Xác nhận đơn hàng đủ điều kiện để được xuất kho 
+![Screen Shot 2021-10-01 at 17 27 33](https://user-images.githubusercontent.com/24457565/135608141-97c964eb-7897-4a72-8532-a319bc36f761.png)
 
-## Hướng dẫn
 
-**Bước 1**: Vào danh sách đơn hàng. Lọc theo trạng thái _Chờ xác nhận_, và có thể tận dụng các bộ filter khác như _Thị trường_, _Vendor_, _Kho hàng_
 
-![Danh s&#xE1;ch &#x111;&#x1A1;n h&#xE0;ng](https://user-images.githubusercontent.com/24457565/134949639-ddc6d79c-9a7f-49c0-a43c-5cc00179f933.png)
+**Step 2**: Click to "Export to excel"
 
-**Bước 2**: Click vào _Xuất file Excel_ để tải về danh sách order có trong danh sách
 
-**Bước 3**: Chỉnh sửa đơn hàng
+**Step 3**: Edit Order
 
-**Chỉnh sửa số lượng / giá bán**: Chỉnh sửa trực tiếp trong file
+**Edit Quantity/COD**: Directly on file
 
-**Thêm SKU**: Duplicate dòng của order đó và chỉnh lại SKU, số lượng, giá bán của dòng mới thêm
+**Add SKU**: Dublicate that order row, then edit SKU, quantity, and COD of new row
 
-![Ch&#x1EC9;nh s&#x1EED;a &#x111;&#x1A1;n h&#xE0;ng](https://user-images.githubusercontent.com/24457565/134950335-ab5eb4c6-ac77-4405-a4c6-e4717a8a961e.png)
+![Chỉnh sửa đơn hàng](https://user-images.githubusercontent.com/24457565/134950335-ab5eb4c6-ac77-4405-a4c6-e4717a8a961e.png)
 
-**Bước 4**: Click _Cập nhật thông tin đơn_ và upload file lên hệ thống
 
-![C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin &#x111;&#x1A1;n](https://user-images.githubusercontent.com/24457565/134950663-75a6a44a-a63d-431d-bfc2-1a7984ebba90.png)
+**Step 4**: Click on "Update order", and upload file on the system
 
-**Bước 5**: Click _Xác nhận thông tin đơn_ và upload file lên hệ thống để xác nhận là đơn hàng đã đủ điều kiện để xuất kho
+![Screen Shot 2021-10-01 at 17 28 00](https://user-images.githubusercontent.com/24457565/135608236-fa62fd3d-8d55-4cd7-8aca-6c570586490b.png)
 
-![X&#xE1;c nh&#x1EAD;n th&#xF4;ng tin &#x111;&#x1A1;n](https://user-images.githubusercontent.com/24457565/134950984-9e264766-5469-4ae2-8bbd-120a1dc8cce2.png)
 
+**Step 5**: Click on "Confirm order" and upload file on the system to confirm that the order is available for dispatch
+
+
+![Screen Shot 2021-10-01 at 17 28 10](https://user-images.githubusercontent.com/24457565/135608258-4b50e5d2-a26b-40c6-ba23-43e5ff3b18f6.png)
