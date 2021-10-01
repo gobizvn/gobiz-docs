@@ -61,6 +61,17 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![Personal](https://user-images.githubusercontent.com/73226975/135576291-47947ff4-77fb-4a15-aa64-daa654213ca8.png)
 
+
+- Chọn **Next**
+
+![image](https://user-images.githubusercontent.com/73226975/135578126-8480484a-99b8-4319-be76-cdf6ac9d72d3.png)
+
 - Chọn file **pem** tại thư mục đã download ở [Bước 1](https://hd.gobiz.vn/q-and-a/ssl#buoc-1-download-file-import)
 
+![image](https://user-images.githubusercontent.com/73226975/135578288-84653059-e35d-4472-9a92-6aad86565f7e.png)
+
+- 
+![image](https://user-images.githubusercontent.com/73226975/135578312-4b5614da-fdec-43c0-bd89-e457828456f5.png)
+
+![image](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
 
