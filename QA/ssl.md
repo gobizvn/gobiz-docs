@@ -70,8 +70,21 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/135578288-84653059-e35d-4472-9a92-6aad86565f7e.png)
 
-- 
+- Chọn **Next** cho tới hết các bước, Quý khách ấn **OK** để kết thúc quá trình cài đặt
+
 ![image](https://user-images.githubusercontent.com/73226975/135578312-4b5614da-fdec-43c0-bd89-e457828456f5.png)
+
+
+![image](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
+
+
+![image](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
+
+
+![image](https://user-images.githubusercontent.com/73226975/135583095-f13f380d-13da-4e38-ab75-c0b7a0de0cf9.png)
+
+
+![image](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
 
 ![image](https://user-images.githubusercontent.com/73226975/135578431-56d78ccc-aa38-4758-b90f-d781d5eadebc.png)
 
