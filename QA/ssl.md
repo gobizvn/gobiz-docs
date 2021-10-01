@@ -32,19 +32,19 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ### Bước 2: Vào Start Menu
 
-- Quý khách gõ vào ô tìm kiếm**mmc.exe**, sau đó ấn **Enter**
+- Quý khách gõ vào ô tìm kiếm **mmc.exe**, sau đó ấn **Enter**
 
 ![MMC](https://user-images.githubusercontent.com/73226975/135575282-b8db95c1-9529-4323-941c-1a8946831bf3.png)
 
-- Quý khách chọn Menu File
+- Quý khách chọn **Menu File**
 
 ![File](https://user-images.githubusercontent.com/73226975/135575387-0c5bac89-e754-4413-bdf0-40a424663926.png)
 
-- Chọn Add/remove Snap-in
+- Chọn **Add/remove Snap-in**
 
 ![Add/remove](https://user-images.githubusercontent.com/73226975/135575553-65ead00a-71f6-4007-a1fe-a26b30bed3c7.png)
 
-- Chọn Certificates => Add => Chọn My user account => Finish
+- Chọn **Certificates** => **Add** => Chọn **My user account** => **Finish**
 
 
 ![image](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
@@ -57,5 +57,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/135575993-cc16a3e9-ee02-4213-b68e-89a92183a9f3.png)
 
+
+![image](https://user-images.githubusercontent.com/73226975/135576291-47947ff4-77fb-4a15-aa64-daa654213ca8.png)
 
 
