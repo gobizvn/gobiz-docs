@@ -9,9 +9,9 @@
 - Printer
 
 ## Guidance
-**Step 1**: Enter "Wait for Pickup", select "For Processing"
+**Step 1**: Enter "Packing Request ", select "Waiting for processing"
 
-![Yeu cau dong hang](https://user-images.githubusercontent.com/24457565/134954578-9ef0ca52-0d3c-4cd5-9309-e66fc8f61cb0.png)
+![Screen Shot 2021-10-01 at 17 37 42](https://user-images.githubusercontent.com/24457565/135609313-b6c0020c-adea-4d49-b5a1-2ce5223b18d8.png)
 
 **Step 2**: Select the orders need to be handled (can select all)
 
@@ -21,10 +21,10 @@
 
 **Step 4**: Check orders one by one, pack and stick printed waybill. Note: Do not hide the waybill content (use colorless tape)
 
-**Step 5**: Enter "Agree for Package"
+**Step 5**: Enter "Done pickup"
 
-![Xac nhan dong hang](https://user-images.githubusercontent.com/24457565/134955306-d14a0e58-8f59-471c-b599-3596f6f02c9d.png)
+![Screen Shot 2021-10-01 at 17 41 17](https://user-images.githubusercontent.com/24457565/135609551-38661d11-dbe7-4214-b33e-2d266dc8ef08.png)
 
-**Step 6**: Select the "Input/Scan", then scan all waybills of packaged parcels
+**Step 6**: Select the "Enter or scan code", then scan all waybills of packaged parcels
 
 **Step 7**: Click on "Confirm" for done packing all orders of list.
