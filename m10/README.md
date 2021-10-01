@@ -1,2 +1,2 @@
-# Go Authen.me - Hệ thống phân quyền
+# Go Authen.me
 

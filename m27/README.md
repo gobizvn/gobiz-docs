@@ -1,1 +1,2 @@
-# Go Ticket (Closed Alpha)
+# Go Ticket
+
