@@ -1,5 +1,8 @@
 # Another Ploblem
 
+
+{% embed url="https://youtu.be/ipUyti7lPaw" caption="" %}
+
 ## Các lỗi chứng chỉ bảo mật Google Chrome hay gặp
 
 * Kết nối không đáng tin cậy \(This connection is untrusted\)
