@@ -4,7 +4,8 @@
 
 ## Value Chain
 
-![flow_1](https://user-images.githubusercontent.com/24457565/134947518-5e50f2af-3c3e-4ca1-bf97-6de177e03271.png)
+![Frame 1](https://user-images.githubusercontent.com/24457565/135583902-9011601a-5ae5-450d-b5ed-21be5e73654a.png)
+
 
 ## Guidance 
 ### Operation Task
