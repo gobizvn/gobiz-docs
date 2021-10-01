@@ -14,4 +14,4 @@ to select manually to coordinate orders from the specified warehouse.
 ![Screen Shot 2021-10-01 at 17 25 26](https://user-images.githubusercontent.com/24457565/135607997-9db11068-7b79-403c-a790-c07315aa7d1f.png)
 
 
-**Step 3**: Click "Confirm warehouse"
+**Step 3**: Click "Confirm"
