@@ -8,20 +8,22 @@
 - Scanner
 
 ## Guidance
-**Step 1**: Enter "Export for warehouse", then click on "Input/Scan"
+**Step 1**: Enter "Export for warehouse", then click on "Enter or scan the code", Choose scan type as "Tracking number"
 
-![Xuat kho](https://user-images.githubusercontent.com/24457565/134956274-11918318-ccab-482b-8032-60f89c2fc306.png)
+![Screen Shot 2021-10-01 at 17 41 17](https://user-images.githubusercontent.com/24457565/135610030-ac226d36-d556-4109-8d1b-2329ddc86fea.png)
+
 
 **Step 2**: Scan orders and send to couriers
 
 **Step 3**: Click on "Create Dispatch Note", we will received a license as follow:
 
-![Phieu xuat](https://user-images.githubusercontent.com/24457565/134956757-70d334f9-b2de-4cb3-9965-ab5de562f726.png)
+![Screen Shot 2021-10-01 at 17 41 48](https://user-images.githubusercontent.com/24457565/135610171-0298749f-9246-457f-b9e2-548ec727e715.png)
 
 
 **Step 4**: Click on "Edit Buyer Information", the fill the information of receiver
 
-![Screen Shot 2021-09-28 at 00 26 58](https://user-images.githubusercontent.com/24457565/134956815-ce4cc3ec-b3f1-49f6-85f4-a02d11c5e0e9.png)
+![Screen Shot 2021-10-01 at 17 42 11](https://user-images.githubusercontent.com/24457565/135610220-5641a4d5-0c73-493b-9cea-12574bdb68d8.png)
+
 
 **Step 5**: Print Dispatch note, then take signatures of warehouse staff and pickup staff
 
