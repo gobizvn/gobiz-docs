@@ -87,6 +87,6 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ## 2. Xoá lịch sử trình duyệt web
 
-- - Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể xóa tất cả dữ liệu duyệt web (bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…). 
-- 
+- Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể xóa tất cả dữ liệu duyệt web (bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…). 
+
 - Sau đó khởi động lại trình duyệt hoặc máy tính và truy cập lại nhé.
