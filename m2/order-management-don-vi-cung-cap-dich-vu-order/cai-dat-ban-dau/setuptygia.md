@@ -48,3 +48,4 @@ Tương tự như với tỷ giá bán, hệ thống sẽ hiển thị danh sác
 - Tỷ giá áp dụng
 
 Thao tác **Cài đặt và thêm tỷ giá mua mới** Quý khách thực hiện các nghiệp vụ tương tự như bài viết hướng dẫn thêm tỷ giá bán.
+
