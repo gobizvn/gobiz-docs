@@ -4,7 +4,7 @@
 
 **1. Cập nhật thông tin sản phẩm:**
 
-Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào chi tiết “Đơn ký gửi” -&gt; Chọn “Thêm sản phẩm” và điền đầy đủ các thông tin theo yêu cầu \(thông tin có dấu  _là thông tin bắt buộc\) -&gt; Chọn \*“Thêm sản phẩm”_ như hình:
+Quý khách truy cập vào hệ thống quản lý đơn ký gửi, click vào chi tiết “Đơn ký gửi” -&gt; Chọn “Thêm sản phẩm” và điền đầy đủ các thông tin theo yêu cầu \(thông tin có dấu _là thông tin bắt buộc\) -&gt; Chọn \*“Thêm sản phẩm”_ như hình:
 
 ![Th&#xEA;m s&#x1EA3;n ph&#x1EA9;m](https://user-images.githubusercontent.com/73226975/122751919-8d38ec00-d2ba-11eb-9792-a58939c1c41c.png)
 

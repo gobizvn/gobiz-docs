@@ -34,7 +34,7 @@ Tạo khiếu nại thành công, hệ thống sẽ gửi thông báo và chuy�
 
 Các bước tạo khiếu nại Quý khách tiến hành như tạo khiếu nại trong chi tiết đơn hàng.
 
- 2. **Quản lý danh sách khiếu nại**
+1. **Quản lý danh sách khiếu nại**
 
 * **Tìm kiếm đơn khiếu nại:**
 

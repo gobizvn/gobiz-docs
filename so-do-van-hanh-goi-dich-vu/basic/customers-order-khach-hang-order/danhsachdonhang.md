@@ -4,7 +4,7 @@
 
 Quý khách có thể đến màn hình **Danh sách đơn** từ màn hình Kết quả đặt đơn thành công, hoặc có thể truy cập từ menu bên trái màn hình:
 
-1.  **Tìm kiếm đơn hàng**:
+1. **Tìm kiếm đơn hàng**:
 
 Quý khách Click **“Mở rộng tìm kiếm”** để hiển thị hết khối tìm kiếm tại **Danh sách đơn hàng**
 
@@ -28,7 +28,7 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![X&#xF3;a b&#x1ED9; l&#x1ECD;c](https://user-images.githubusercontent.com/73226975/101593743-08276d00-3a23-11eb-89ca-0361b09f2c72.png)
 
- 2. **Danh sách đơn hàng:**
+1. **Danh sách đơn hàng:**
 
 * Các thông tin hiển thị:
   * Tổng số đơn hàng.
@@ -46,7 +46,7 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![M&#xE0;n h&#xEC;nh hi&#x1EC3;n th&#x1ECB; th&#xF4;ng tin trong danh s&#xE1;ch &#x111;&#x1A1;n h&#xE0;ng](https://user-images.githubusercontent.com/73226975/102169683-4ad6c280-3ec5-11eb-8354-11caf7d2b4b9.png)
 
- 3. **Xuất CSV danh sách đơn hàng**
+1. **Xuất CSV danh sách đơn hàng**
 
 Quý khách có thể xuất file csv các đơn hàng trong danh sách, có thể xuất toàn bộ danh sách hoặc xuất danh sách đơn hàng theo điều kiện lọc
 

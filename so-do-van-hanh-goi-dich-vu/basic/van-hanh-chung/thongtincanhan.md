@@ -4,7 +4,7 @@
 
 1. **Thông tin cá nhân**
 
-   Quý khách click vào ảnh đại diện, chọn **Thông tin cá nhân** để xem hoặc sửa Thông tin cá nhân. 
+   Quý khách click vào ảnh đại diện, chọn **Thông tin cá nhân** để xem hoặc sửa Thông tin cá nhân.
 
 ![Truy c&#x1EAD;p Th&#xF4;ng tin c&#xE1; nh&#xE2;n](https://user-images.githubusercontent.com/73226975/103864938-03270d80-50f6-11eb-9b6f-b13503744302.png)
 

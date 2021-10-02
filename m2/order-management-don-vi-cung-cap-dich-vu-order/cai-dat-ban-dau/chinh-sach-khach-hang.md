@@ -1,2 +1,2 @@
-# \[Chính sách khách hàng\]
+# Chính sách khách hàng
 
