@@ -4,7 +4,6 @@
 
 ## Tỷ giá bán
 
-
 * Tại menu chọn **Cấu hình** =&gt; Chọn **Cấu hình tỷ giá**
 
 ![Menu c&#x1EA5;u h&#xEC;nh](https://user-images.githubusercontent.com/73226975/134858934-c0da4b4c-0c9e-4a08-ba8b-b436f64310eb.png)
@@ -48,5 +47,4 @@ Tương tự như với tỷ giá bán, hệ thống sẽ hiển thị danh sác
 
 - Tỷ giá áp dụng
 
-Thao tác **Cài đặt và thêm tỷ giá mua** Quý khách thực hiện các nghiệp vụ tương tự như hướng dẫn thêm tỷ giá bán Gobiz đã 
-
+Thao tác **Cài đặt và thêm tỷ giá mua mới** Quý khách thực hiện các nghiệp vụ tương tự như bài viết hướng dẫn thêm tỷ giá bán.
