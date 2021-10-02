@@ -14,7 +14,7 @@ Cài add-on công cụ đặt hàng \(Sử dụng máy tính\) Quý khách tìm 
 
 ### Bước 2: Giải nén file
 
-### Bước 3:
+### Bước 3: Truy cập tiện ích mở rộng trên trình duyệt Chrome/Cốc Cốc 
 
 * Mở tiện ích mở rộng trên trình duyệt Chrome/Cốc Cốc : chrome://extensions/
 
@@ -24,7 +24,7 @@ Cài add-on công cụ đặt hàng \(Sử dụng máy tính\) Quý khách tìm 
 
 ![B&#x1EAD;t ch&#x1EBF; &#x111;&#x1ED9; cho nh&#xE0; ph&#xE1;t tri&#x1EC3;n](https://user-images.githubusercontent.com/73226975/100176194-6b34e200-2f02-11eb-8b08-ff233322440b.png)
 
-### Bước 4:
+### Bước 4: Cài file công cụ
 
 * Mở file download công cụ đặt hàng, di chuột vào file, sau đó giữ chuột trái để kéo và thả file vào mục tiện tích
 
