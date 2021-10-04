@@ -34,7 +34,6 @@ Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 
 ![Danh sách kho](https://user-images.githubusercontent.com/73226975/135808991-be804eda-34b7-4ed3-83ce-5ff9914476e5.png)
 
-## Thuật ngữ code
 
 ## Tạo kho mới
 
@@ -43,5 +42,10 @@ Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 ![Tạo kho](https://user-images.githubusercontent.com/73226975/135809218-cb40c7bb-268d-4180-a4b7-8113ad230c0e.png)
 
 ![image](https://user-images.githubusercontent.com/73226975/135810869-f737ace3-25e0-45d9-8699-85478dec02c6.png)
+
+(1) - Mã kho quý khách viết tiếng việt không dấu (Lưu ý mã kho tạo ở admin phải trùng với mã kho tạo trên hệ thống quản lý kho.
+(2) - Tên kho: tên kho hàng tương ứng với mã kho Quý khách vừa tạo.
+(3) - Vị trí sắp xếp hiển thị trong danh sách kho.
+(4) - Gõ tìm kiếm và Chọn địa chỉ kho tương ứng.
 
 
