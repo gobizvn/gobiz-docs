@@ -1,12 +1,13 @@
 # Cấu hình kho
 
-## Tạo kho mới
+## Danh sách kho
 
 Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 
-![Danh sách kho](https://user-images.githubusercontent.com/73226975/135796120-a16f27c6-7832-4b6d-8a5f-3c44b8ca039f.png)
+![Menu cấu hình](https://user-images.githubusercontent.com/73226975/135796120-a16f27c6-7832-4b6d-8a5f-3c44b8ca039f.png)
 
 **Hệ thống sẽ hiển thị danh sách kho hàng gồm các thông tin:**
+
 - Tổng số lượng kho
 
 - Log: Quý khách có thể kiểm tra lịch sử thao tác cập nhập thông tin kho của nhân viên quản trị
@@ -30,5 +31,15 @@ Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 - Ghi chú 
 
 - Loại kho hàng
+
+![Danh sách kho](https://user-images.githubusercontent.com/73226975/135808991-be804eda-34b7-4ed3-83ce-5ff9914476e5.png)
+
+## Tạo kho mới
+
+- Tại danh sách kho Quý khách click vào button **Tạo kho mới**
+
+![Tạo kho](https://user-images.githubusercontent.com/73226975/135809218-cb40c7bb-268d-4180-a4b7-8113ad230c0e.png)
+
+![image](https://user-images.githubusercontent.com/73226975/135810869-f737ace3-25e0-45d9-8699-85478dec02c6.png)
 
 
