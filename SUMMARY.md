@@ -193,7 +193,7 @@
     * [Shipment Management - Đơn vị cung cấp Dịch vụ Ký Gửi](so-do-van-hanh-goi-dich-vu/basic/shipment-management-don-vi-cung-cap-dich-vu-ky-gui/README.md)
       * [Ký gửi](so-do-van-hanh-goi-dich-vu/basic/shipment-management-don-vi-cung-cap-dich-vu-ky-gui/quanlydonkygui2.md)
     * [Vận hành chung](so-do-van-hanh-goi-dich-vu/basic/van-hanh-chung-1/README.md)
-      * [Cấu hình kho](so-do-van-hanh-goi-dich-vu/basic/van-hanh-chung-1/setupkho.md)
+      * [Cấu hình kho]()
       * [Cấu hình nhóm khách hàng](so-do-van-hanh-goi-dich-vu/basic/van-hanh-chung-1/cau-hinh-nhom-khach-hang.md)
       * [\[Cấu hình cấp VIP khách hàng\]](so-do-van-hanh-goi-dich-vu/basic/van-hanh-chung-1/cau-hinh-cap-vip-khach-hang.md)
       * [\[Cấu hình thông báo\]](so-do-van-hanh-goi-dich-vu/basic/van-hanh-chung-1/cau-hinh-thong-bao.md)
