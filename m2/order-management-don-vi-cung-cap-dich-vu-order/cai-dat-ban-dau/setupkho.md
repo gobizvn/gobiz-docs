@@ -43,7 +43,7 @@ Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 
 ![image](https://user-images.githubusercontent.com/73226975/135810869-f737ace3-25e0-45d9-8699-85478dec02c6.png)
 
-(1) - Mã kho quý khách viết tiếng việt không dấu (Lưu ý mã kho tạo ở admin phải trùng với mã kho tạo trên hệ thống quản lý kho.
+(1) - Mã kho quý khách viết tiếng việt không dấu (Lưu ý mã kho tạo ở admin phải trùng với mã kho tạo trên hệ thống quản lý kho).
 
 (2) - Tên kho: tên kho hàng tương ứng với mã kho Quý khách vừa tạo.
 
