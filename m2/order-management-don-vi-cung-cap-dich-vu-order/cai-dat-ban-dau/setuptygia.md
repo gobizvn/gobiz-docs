@@ -1,6 +1,6 @@
 # Cấu hình tỷ giá
 
-- Khái niệm Tỷ giá: là giá trị của một đồng tiền khi chuyển đổi sang một đồng tiền khác hay có thể hiểu là mức giá tại một thời điểm khi mà đồng tiền của một nước hay khu vực có thể được chuyển đổi sang một loại đồng tiền của quốc gia, khu vực hay ngoại tệ khác.
+- **Khái niệm Tỷ giá**: là giá trị của một đồng tiền khi chuyển đổi sang một đồng tiền khác hay có thể hiểu là mức giá tại một thời điểm khi mà đồng tiền của một nước hay khu vực có thể được chuyển đổi sang một loại đồng tiền của quốc gia, khu vực hay ngoại tệ khác.
 
 ## Tỷ giá bán
 
@@ -29,7 +29,7 @@
 
 ![S&#x1EED;a c&#x1EA5;u h&#xEC;nh](https://user-images.githubusercontent.com/73226975/134891592-3f223bf1-2dcb-4758-b1a8-34b813231be6.png)
 
-## Cấu hình tỷ giá mua
+## Tỷ giá mua
 
 - **Tỷ giá mua**: hay còn gọi là Tỷ giá mua vào, là tỷ giá mà các đại lý đổi tiền sẽ mua ngoại tệ.
 
