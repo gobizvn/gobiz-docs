@@ -9,7 +9,7 @@
 - Printer
 
 ## Guidance
-**Step 1**: Enter "Packing Request ", select "Waiting for processing"
+**Step 1**: Enter "Packing Request ", select "Processing"
 
 ![Screen Shot 2021-10-01 at 17 37 42](https://user-images.githubusercontent.com/24457565/135609313-b6c0020c-adea-4d49-b5a1-2ce5223b18d8.png)
 
