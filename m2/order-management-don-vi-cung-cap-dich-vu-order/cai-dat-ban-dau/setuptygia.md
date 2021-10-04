@@ -21,11 +21,11 @@
 
 ![T&#x1EA1;o t&#x1EF7; gi&#xE1; m&#x1EDB;i](https://user-images.githubusercontent.com/73226975/134881598-8f663d1b-0b85-46c4-947d-24b66533120b.png)
 
-* Xác nhận đồng ý tạo tạo tỷ giá mới
+* **Xác nhận** đồng ý tạo tạo tỷ giá mới
 
 ![X&#xE1;c nh&#x1EAD;n](https://user-images.githubusercontent.com/73226975/134891516-6d8b5991-62f9-4cd7-a734-a67058766337.png)
 
-* Có thể sửa cấu hình trong trường hợp bộ cấu hình chưa có hiệu lực.
+* Có thể **sửa** cấu hình trong trường hợp bộ cấu hình chưa có hiệu lực
 
 ![S&#x1EED;a c&#x1EA5;u h&#xEC;nh](https://user-images.githubusercontent.com/73226975/134891592-3f223bf1-2dcb-4758-b1a8-34b813231be6.png)
 
@@ -33,7 +33,7 @@
 
 - **Tỷ giá mua**: hay còn gọi là Tỷ giá mua vào, là tỷ giá mà các đại lý đổi tiền sẽ mua ngoại tệ.
 
-- Tại menu chọn **Cấu hình** => Chọn **Cấu hình tỷ giá mua**
+- Tại **menu** chọn **Cấu hình** => Chọn **Cấu hình tỷ giá mua**
 
 ![Menu cấu hình](https://user-images.githubusercontent.com/73226975/135709129-21667d44-7403-4039-b209-660c9f1b300b.png)
 
@@ -48,4 +48,7 @@ Tương tự như với tỷ giá bán, hệ thống sẽ hiển thị danh sác
 - Tỷ giá áp dụng
 
 Thao tác **Cài đặt và thêm tỷ giá mua mới** Quý khách thực hiện các nghiệp vụ tương tự như bài viết hướng dẫn thêm tỷ giá bán.
+
+![Tạo mới tỷ giá mua](https://user-images.githubusercontent.com/73226975/135787302-7c0d407e-923a-48ef-a163-30dc32fb2f9c.png)
+
 
