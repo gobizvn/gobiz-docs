@@ -184,7 +184,7 @@
     * [Order Management - Đơn vị cung cấp Dịch vụ Order](so-do-van-hanh-goi-dich-vu/basic/order-management-don-vi-cung-cap-dich-vu-order/README.md)
       * [Cài đặt ban đầu](so-do-van-hanh-goi-dich-vu/basic/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau.md)
       * [Cấu hình tỷ giá]()
-      * [Cấu hình phí](so-do-van-hanh-goi-dich-vu/basic/order-management-don-vi-cung-cap-dich-vu-order/setupfee.md)
+      * [Cấu hình phí]()
       * [Đơn hàng](so-do-van-hanh-goi-dich-vu/basic/order-management-don-vi-cung-cap-dich-vu-order/donhang.md)
       * [Danh sách đơn hàng](so-do-van-hanh-goi-dich-vu/basic/order-management-don-vi-cung-cap-dich-vu-order/dsdonhang.md)
       * [Chi tiết đơn hàng](so-do-van-hanh-goi-dich-vu/basic/order-management-don-vi-cung-cap-dich-vu-order/chitietdon.md)
