@@ -95,11 +95,19 @@ _\(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dị
 ![image](https://user-images.githubusercontent.com/73226975/134200087-96986cb4-df22-4aaf-a04a-4a557bb6a6df.png)
 
 **Phải chọn dịch vụ:**
+
 **Không được chọn dịch vụ:**
+
 **Sẽ chọn dịch vụ:**
+
 **Phải chọn nhóm dịch vụ:**
+
 **Không được chọn nhóm dịch vụ:**
+
 **Sẽ chọn dịch vụ: **
+
 **Mặc định:**
+
 **Cần duyệt:**
+
 **Vận chuyển:**
