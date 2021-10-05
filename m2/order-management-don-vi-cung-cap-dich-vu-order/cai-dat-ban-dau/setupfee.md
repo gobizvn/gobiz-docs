@@ -53,7 +53,7 @@ _\(1\) - Tìm tên bộ cấu hình phí Quý khách muốn sao chép_ _\(2\) - 
 
 _\(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ\)_
 
-* Quý khách thêm mới **Mã phương thức vận chuyển** =&gt; **Tên phương thức vận chuyển** =&gt; Mô tả \(Mục này không bắt buộc\) =&gt; Chọn thêm ngôn ngữ nếu website của Quý khách đang chạy giao diện song ngữ.
+* Quý khách thêm mới **Mã phương thức vận chuyển** =&gt; **Tên phương thức vận chuyển** =&gt; Mô tả \(Mục này không bắt buộc\) =&gt; Chọn **thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
 * Sau đó ấn **Lưu**
 
 \(\*\) - Quý khách có thể tham khảo thêm các mã phương thức vận chuyển tại đây.
@@ -65,8 +65,8 @@ _\(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dị
 ![B&#x1B0;&#x1EDB;c ti&#x1EBF;p theo](https://user-images.githubusercontent.com/73226975/133957674-7b43e103-4a20-4d18-bc17-02134e30073c.png)
 
 * Quý khách thêm mới **Mã nhóm dịch vụ** =&gt; **Tên nhóm dịch vụ** =&gt; **Mô tả** \(Mục này không bắt buộc\) =&gt; Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
-* Chọn cấu hình bắt buộc hoặc không bắt buộc cho nhóm dịch vụ khi khách tiến hành đặt cọc đơn hàng.
-* Chọn cấu hình khách chỉ được chọn 1 hoặc nhiều dịch vụ trong nhóm.
+* Chọn cấu hình **bắt buộc** hoặc **không bắt buộc** cho nhóm dịch vụ khi khách tiến hành đặt cọc đơn hàng.
+* Chọn cấu hình khách **chỉ được chọn 1** hoặc **chọn nhiều dịch vụ** trong nhóm.
 * Sau đó ấn **Lưu**
 
 ![Th&#xEA;m nh&#xF3;m d&#x1ECB;ch v&#x1EE5;](https://user-images.githubusercontent.com/73226975/133957762-d5a58af4-eee8-4095-a60c-e079ee45a4a1.png)
@@ -94,9 +94,12 @@ _\(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dị
 
 ![image](https://user-images.githubusercontent.com/73226975/134200087-96986cb4-df22-4aaf-a04a-4a557bb6a6df.png)
 
-* Phải chọn dịch vụ:
-* Không được chọn dịch vụ:
-* Sẽ chọn dịch vụ:
-* Phải chọn nhóm dịch vụ:
-* Không được chọn nhóm dịch vụ:
-
+**Phải chọn dịch vụ:**
+**Không được chọn dịch vụ:**
+**Sẽ chọn dịch vụ:**
+**Phải chọn nhóm dịch vụ:**
+**Không được chọn nhóm dịch vụ:**
+**Sẽ chọn dịch vụ: **
+**Mặc định:**
+**Cần duyệt:**
+**Vận chuyển:**
