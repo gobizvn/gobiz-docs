@@ -12,7 +12,7 @@
 
 – Mã dịch vụ áp dụng trong các bộ cấu hình phải được sử dụng đồng nhất.
 
-– Mã dịch vụ đơn hàng thường và đơn hàng ký gửi không được trùng nhau.
+– Mã dịch vụ **đơn hàng mua hộ** và **đơn hàng ký gửi** không được trùng nhau.
 
 – Sau khi **Thêm** 1 mã dịch vụ mới chưa từng xuất hiện trên hệ thống, Quý khách vui lòng gửi lại bộ phận CSKH Gobiz theo mẫu: _Tên dịch vụ + Mã dịch vụ mới_, Gobiz sẽ tiến hành đồng bộ dịch vụ trên server.
 
@@ -81,11 +81,12 @@ _\(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dị
 
 ![B&#x1B0;&#x1EDB;c ti&#x1EBF;p theo](https://user-images.githubusercontent.com/73226975/133958704-d2da2e43-efde-423b-abfa-4caffdb4b9e5.png)
 
-* Quý khách thêm mới **Mã dịch vụ** =&gt; **Chọn nhóm dịch vụ** tương ứng =&gt; Thêm **Tên dịch vụ** =&gt; Thêm **Thông tin** và **Mô tả** \(Mục này không bắt buộc\) =&gt; Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
-* Chọn cấu hình **Nhân viên được chọn** nếu Quý khách không muốn hiển thị dịch vụ này ngoài danh sách để khách lựa chọn tại bước **Đặt cọc**
-* Sau đó ấn **Lưu**
+* Quý khách thêm mới **Mã dịch vụ** 
+**Chọn nhóm dịch vụ** tương ứng , điền **Tên dịch vụ**,  **Thông tin** và **Mô tả** \(Mục này không bắt buộc\), sau đó Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
+* Tick vào mục cấu hình **Nhân viên được chọn** nếu Quý khách không muốn hiển thị dịch vụ này ngoài danh sách để khách lựa chọn tại bước **Đặt cọc**
+* Hoàn tất thông tin Quý khách ấn **Lưu**
 
-!\[Tên dịch vụ\]\([https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)\)
+![Tên dịch vụ][https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png](https://user-images.githubusercontent.com/73226975/134134287-4c8a117c-6506-4753-b6f9-f096b4c29235.png)\)
 
 * Click **Bước tiếp theo** để chỉnh sửa quan hệ của các dịch vụ.
 
