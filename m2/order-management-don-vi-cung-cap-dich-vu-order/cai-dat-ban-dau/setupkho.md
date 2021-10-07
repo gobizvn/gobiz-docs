@@ -57,4 +57,8 @@ Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 
 (4) - Gõ tìm kiếm và Chọn địa chỉ kho tương ứng.
 
+(5) - Áp dụng cho kho nhận hàng.
+Khi Quý khách điền đầy đủ thông tin địa chỉ, số điện thoại và tên người nhận hàng tại kho nhận lên hệ thống.
+Đối với các khách ký gửi đã thêm địa chỉ này trên site gốc, công cụ đặt hàng sẽ nhận diện được địa chỉ kho và hướng dẫn khách tạo đơn ký gửi bằng công cụ đặt hàng.
+
 
