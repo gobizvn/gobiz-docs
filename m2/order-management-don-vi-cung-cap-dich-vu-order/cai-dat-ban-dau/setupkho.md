@@ -1,5 +1,11 @@
 # Cấu hình kho
 
+## Thuật ngữ chuyên ngành:
+
+- **Kho nhận**:
+- **Kho phân phối**:
+
+
 ## Danh sách kho
 
 Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
@@ -35,7 +41,7 @@ Tại **menu** chọn **Cấu hình** => Chọn **Danh sách kho**
 ![Danh sách kho](https://user-images.githubusercontent.com/73226975/135808991-be804eda-34b7-4ed3-83ce-5ff9914476e5.png)
 
 
-## Tạo kho mới
+## Tạo mới
 
 - Tại danh sách kho Quý khách click vào button **Tạo kho mới**
 
