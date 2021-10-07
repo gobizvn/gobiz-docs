@@ -80,14 +80,19 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![image](https://user-images.githubusercontent.com/73226975/136367202-ec8a963a-3b8f-4264-81a5-fd2bc51f7b69.png)
 
 
-## 1. Thêm chứng chỉ trên trình duyệt
+## 2. Thêm chứng chỉ trên trình duyệt
 
 ### Bước 1: Mở cài đặt trình duyệt
 
+![image](https://user-images.githubusercontent.com/73226975/136367918-d422b0a7-d133-437d-abd0-c0e2ffa9b23a.png)
+
+### Bước 2: Chọn Bảo mật và quyền riêng tư
 
 ![image](https://user-images.githubusercontent.com/73226975/136367776-98e93fd0-824c-4c6f-8e01-ef86cb34a3d1.png)
 
-
+(1) - Bảo mật và quyền riêng tư
+(2) - Bật luôn sử dụng kết nối an toàn
+(3) - Truy cập vào mục Quản lý chứng chỉ
 
 
 ## 2. Xoá lịch sử trình duyệt web
