@@ -91,7 +91,9 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![image](https://user-images.githubusercontent.com/73226975/136367776-98e93fd0-824c-4c6f-8e01-ef86cb34a3d1.png)
 
 (1) - Bảo mật và quyền riêng tư
+
 (2) - Bật luôn sử dụng kết nối an toàn
+
 (3) - Truy cập vào mục Quản lý chứng chỉ
 
 
