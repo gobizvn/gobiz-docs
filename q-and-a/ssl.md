@@ -15,7 +15,7 @@
 
 Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất nhiều lỗi SSL khác mà người dùng có thể gặp phải. Quý khách có thể tham khảo 1 số cách khắc phục sau:
 
-## 1. Thêm chứng chỉ
+## 1. Thêm chứng chỉ trên máy tính
 
 ### Bước 1: Download file import
 
@@ -46,11 +46,10 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![Add](https://user-images.githubusercontent.com/73226975/135575845-5b2314e1-b7a2-45d6-91bc-36a54c364e9b.png)
 
+* Click **OK**
+* 
 ![User account](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
 
-* Click **OK**
-
-![OK](https://user-images.githubusercontent.com/73226975/135575993-cc16a3e9-ee02-4213-b68e-89a92183a9f3.png)
 
 * Quý khách click vào button **Certificates** =&gt; Click chuột phải vào **Personal**, chọn **All Tasks** =&gt; **Import**
 
@@ -76,7 +75,20 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ### Bước 5: Trusted Root Certification Authorities
 
-* Quý khách thao tác tương tự như các bước vừa làm với mục **Certification**
+* Quý khách thao tác tương tự như các bước vừa làm với mục **Personal**
+
+![image](https://user-images.githubusercontent.com/73226975/136367202-ec8a963a-3b8f-4264-81a5-fd2bc51f7b69.png)
+
+
+## 1. Thêm chứng chỉ trên trình duyệt
+
+### Bước 1: Mở cài đặt trình duyệt
+
+
+![image](https://user-images.githubusercontent.com/73226975/136367776-98e93fd0-824c-4c6f-8e01-ef86cb34a3d1.png)
+
+
+
 
 ## 2. Xoá lịch sử trình duyệt web
 
