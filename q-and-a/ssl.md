@@ -30,7 +30,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![MMC](https://user-images.githubusercontent.com/73226975/135575282-b8db95c1-9529-4323-941c-1a8946831bf3.png)
 
-### Bước 3: chọn **Menu File**l
+### Bước 3: Chọn **Menu File**l
 
 ![File](https://user-images.githubusercontent.com/73226975/135575387-0c5bac89-e754-4413-bdf0-40a424663926.png)
 
@@ -47,9 +47,10 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![Add](https://user-images.githubusercontent.com/73226975/135575845-5b2314e1-b7a2-45d6-91bc-36a54c364e9b.png)
 
 * Click **OK**
-* 
+
 ![User account](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
 
+### Bước 5: Xác thực Personal
 
 * Quý khách click vào button **Certificates** =&gt; Click chuột phải vào **Personal**, chọn **All Tasks** =&gt; **Import**
 
@@ -73,7 +74,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![OK](https://user-images.githubusercontent.com/73226975/135582876-c5d712b0-c819-4c01-9b0c-0b4414fb148c.png)
 
-### Bước 5: Trusted Root Certification Authorities
+### Bước 6: Xác thực Trusted Root Certification Authorities
 
 * Quý khách thao tác tương tự như các bước vừa làm với mục **Personal**
 
@@ -128,8 +129,17 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![image](https://user-images.githubusercontent.com/73226975/136499183-f63170bd-9755-4d4c-8b6e-441da8d71e41.png)
 
 
-## 2. Xoá lịch sử trình duyệt web
+## 3. Xoá lịch sử trình duyệt web nâng cao
 
-* Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể xóa tất cả dữ liệu duyệt web \(bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…\).
-* Sau đó khởi động lại trình duyệt hoặc máy tính và truy cập lại nhé.
+* Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể **xoá lịch sử trình duyệt web** \(bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…\).
+
+![image](https://user-images.githubusercontent.com/73226975/136500173-301a6eb7-18a0-4a98-8e52-c868e73b19fe.png)
+
+![image](https://user-images.githubusercontent.com/73226975/136500214-e41a21d9-c475-4eba-b634-628c1306a6d4.png)
+
+![image](https://user-images.githubusercontent.com/73226975/136500273-893439b9-dd6b-4125-a0da-3ced518f03fe.png)
+
+* Cài đặt lại **quyền truy cập** của trình duyệt.
+
+* Sau đó **khởi động lại** trình duyệt hoặc máy tính và truy cập lại nhé.
 
