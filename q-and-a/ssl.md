@@ -30,7 +30,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![MMC](https://user-images.githubusercontent.com/73226975/135575282-b8db95c1-9529-4323-941c-1a8946831bf3.png)
 
-### Bước 3: chọn **Menu File**
+### Bước 3: chọn **Menu File**l
 
 ![File](https://user-images.githubusercontent.com/73226975/135575387-0c5bac89-e754-4413-bdf0-40a424663926.png)
 
@@ -96,6 +96,8 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 (3) - Truy cập vào mục Quản lý chứng chỉ
 
+### Bước 3: Xác thực Personal
+
 - Quý khách chọn **import** file tại mục Personal
 
 ![Quản lý chứng chỉ](https://user-images.githubusercontent.com/73226975/136496053-91a4f108-386c-4815-b2b4-a9e74a25990f.png)
@@ -109,9 +111,21 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![Next](https://user-images.githubusercontent.com/73226975/136496841-f099a304-99ab-4b8c-9b6b-b13c1984829b.png)
 
 - Click **Finish** để kết thúc quá trình cài đặt Personal
-- 
+
+
 ![Finish](https://user-images.githubusercontent.com/73226975/136496988-f467498b-70d2-418e-a65f-b4d663e45821.png)
 
+### Bước 4 Xác thực Trusted Root Certification Authorities
+
+![image](https://user-images.githubusercontent.com/73226975/136499120-a95c618a-7bfb-444c-bcf7-d42b3bc35d6f.png)
+
+![image](https://user-images.githubusercontent.com/73226975/136499135-971e6055-936c-42c6-9cbc-d09d69ff46a3.png)
+
+![image](https://user-images.githubusercontent.com/73226975/136499151-72ab64e8-5587-4c81-8f37-4b714f34a4b3.png)
+
+![image](https://user-images.githubusercontent.com/73226975/136499169-3617e65b-63e1-4dfe-87db-b153e3360393.png)
+
+![image](https://user-images.githubusercontent.com/73226975/136499183-f63170bd-9755-4d4c-8b6e-441da8d71e41.png)
 
 
 ## 2. Xoá lịch sử trình duyệt web
