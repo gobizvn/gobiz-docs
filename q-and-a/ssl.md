@@ -96,6 +96,23 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 (3) - Truy cập vào mục Quản lý chứng chỉ
 
+- Quý khách chọn **import** file tại mục Personal
+
+![Quản lý chứng chỉ](https://user-images.githubusercontent.com/73226975/136496053-91a4f108-386c-4815-b2b4-a9e74a25990f.png)
+
+
+![Tải file](https://user-images.githubusercontent.com/73226975/136496369-468af108-34e9-4105-ab65-ec98324e6997.png)
+
+
+- Click **Next** chuyển sang bước tiếp theo
+
+![Next](https://user-images.githubusercontent.com/73226975/136496841-f099a304-99ab-4b8c-9b6b-b13c1984829b.png)
+
+- Click **Finish** để kết thúc quá trình cài đặt Personal
+- 
+![Finish](https://user-images.githubusercontent.com/73226975/136496988-f467498b-70d2-418e-a65f-b4d663e45821.png)
+
+
 
 ## 2. Xoá lịch sử trình duyệt web
 
