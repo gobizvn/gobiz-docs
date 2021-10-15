@@ -1,21 +1,20 @@
-# Another Ploblem
+# Khắc phục lỗi kết nối SSL
 
-
-{% embed url="https://youtu.be/ipUyti7lPaw" caption="" %}
+{% embed url="https://youtu.be/ipUyti7lPaw" %}
 
 ## Các lỗi chứng chỉ bảo mật Google Chrome hay gặp
 
-* Kết nối không đáng tin cậy \(This connection is untrusted\)
-* Lỗi kết nối và lỗi giao thức SSL \(SSL connection Error or SSL Protocol Error\)
-* Kết nối của bạn không phải là kết nối riêng tư hoặc không an toàn \(Your connection is not private or secure\)
-* Bảo mật chứng chỉ của máy chủ không hợp lệ \(The server’s certificate security is not yet valid\)
-* Chứng chỉ an toàn của web không tin cậy \(The sites security certificate is not trusted\)
-* Chứng chỉ của máy chủ không đáng tin cậy \(Server’s certificate is not trusted\)
-* Đây có khả năng không phải là trang web bạn đang tìm kiếm \(This is probably not the site you are looking for\).
+* Kết nối không đáng tin cậy (This connection is untrusted)
+* Lỗi kết nối và lỗi giao thức SSL (SSL connection Error or SSL Protocol Error)
+* Kết nối của bạn không phải là kết nối riêng tư hoặc không an toàn (Your connection is not private or secure)
+* Bảo mật chứng chỉ của máy chủ không hợp lệ (The server’s certificate security is not yet valid)
+* Chứng chỉ an toàn của web không tin cậy (The sites security certificate is not trusted)
+* Chứng chỉ của máy chủ không đáng tin cậy (Server’s certificate is not trusted)
+* Đây có khả năng không phải là trang web bạn đang tìm kiếm (This is probably not the site you are looking for).
 
 Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất nhiều lỗi SSL khác mà người dùng có thể gặp phải. Quý khách có thể tham khảo 1 số cách khắc phục sau:
 
-## Cách 1. Thêm chứng chỉ trên máy tính
+## 1. Thêm chứng chỉ trên máy tính
 
 ### Bước 1: Download file import
 
@@ -40,7 +39,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ### Bước 4: Chọn **Certificates**
 
-* Chọn **Add** =&gt; **My user account** =&gt; Click **Finish**
+* Chọn **Add** => **My user account** => Click **Finish**
 
 ![Certificates](https://user-images.githubusercontent.com/73226975/135575741-f7eb220d-dee4-4943-8aeb-db79188cda3d.png)
 
@@ -52,7 +51,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ### Bước 5: Xác thực Personal
 
-* Quý khách click vào button **Certificates** =&gt; Click chuột phải vào **Personal**, chọn **All Tasks** =&gt; **Import**
+* Quý khách click vào button **Certificates** => Click chuột phải vào **Personal**, chọn **All Tasks** => **Import**
 
 ![Personal](https://user-images.githubusercontent.com/73226975/135576291-47947ff4-77fb-4a15-aa64-daa654213ca8.png)
 
@@ -80,8 +79,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/136367202-ec8a963a-3b8f-4264-81a5-fd2bc51f7b69.png)
 
-
-## Cách 2. Thêm chứng chỉ trên trình duyệt
+## 2. Thêm chứng chỉ trên trình duyệt
 
 ### Bước 1: Mở cài đặt trình duyệt
 
@@ -99,20 +97,17 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ### Bước 3: Xác thực Personal
 
-- Quý khách chọn **import** file tại mục Personal
+* Quý khách chọn **import** file tại mục Personal
 
 ![Quản lý chứng chỉ](https://user-images.githubusercontent.com/73226975/136496053-91a4f108-386c-4815-b2b4-a9e74a25990f.png)
 
-
 ![Tải file](https://user-images.githubusercontent.com/73226975/136496369-468af108-34e9-4105-ab65-ec98324e6997.png)
 
-
-- Click **Next** chuyển sang bước tiếp theo
+* Click **Next** chuyển sang bước tiếp theo
 
 ![Next](https://user-images.githubusercontent.com/73226975/136496841-f099a304-99ab-4b8c-9b6b-b13c1984829b.png)
 
-- Click **Finish** để kết thúc quá trình cài đặt Personal
-
+* Click **Finish** để kết thúc quá trình cài đặt Personal
 
 ![Finish](https://user-images.githubusercontent.com/73226975/136496988-f467498b-70d2-418e-a65f-b4d663e45821.png)
 
@@ -128,10 +123,9 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/136499183-f63170bd-9755-4d4c-8b6e-441da8d71e41.png)
 
+## 3. Xoá lịch sử trình duyệt web nâng cao
 
-## 2. Xoá lịch sử trình duyệt web nâng cao
-
-* Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể **xoá lịch sử trình duyệt web** \(bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…\).
+* Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể **xoá lịch sử trình duyệt web** (bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…).
 
 ![image](https://user-images.githubusercontent.com/73226975/136500173-301a6eb7-18a0-4a98-8e52-c868e73b19fe.png)
 
@@ -140,6 +134,4 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![image](https://user-images.githubusercontent.com/73226975/136500273-893439b9-dd6b-4125-a0da-3ced518f03fe.png)
 
 * Cài đặt lại **quyền truy cập** của trình duyệt.
-
 * Sau đó **khởi động lại** trình duyệt hoặc máy tính và truy cập lại nhé.
-
