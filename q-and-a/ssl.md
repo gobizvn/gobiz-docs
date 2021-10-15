@@ -129,7 +129,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 ![image](https://user-images.githubusercontent.com/73226975/136499183-f63170bd-9755-4d4c-8b6e-441da8d71e41.png)
 
 
-## Cách 3. Xoá lịch sử trình duyệt web nâng cao
+## 2. Xoá lịch sử trình duyệt web nâng cao
 
 * Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể **xoá lịch sử trình duyệt web** \(bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…\).
 
