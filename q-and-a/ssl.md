@@ -151,5 +151,9 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/136500273-893439b9-dd6b-4125-a0da-3ced518f03fe.png)
 
-* Cài đặt lại **quyền truy cập** của trình duyệt.
+* Cài đặt lại một số **quyền truy cập** của trình duyệt.
+
+![Cấp quyền truy cập](https://user-images.githubusercontent.com/73226975/137861630-f0f2a5e9-4816-4e86-9933-118b788c7d54.png)
+
+
 * Sau đó **khởi động lại** trình duyệt hoặc máy tính và truy cập lại nhé.
