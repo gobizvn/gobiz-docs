@@ -14,7 +14,7 @@
 
 Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất nhiều lỗi SSL khác mà người dùng có thể gặp phải. Quý khách có thể tham khảo 1 số cách khắc phục sau:
 
-## 1. Thêm chứng chỉ trên máy tính
+## Cách 1. Thêm chứng chỉ trên máy tính
 
 ### Bước 1: Download file import
 
@@ -79,7 +79,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/136367202-ec8a963a-3b8f-4264-81a5-fd2bc51f7b69.png)
 
-## 2. Thêm chứng chỉ trên trình duyệt
+## Cách 2. Thêm chứng chỉ trên trình duyệt
 
 ### Bước 1: Mở cài đặt trình duyệt
 
@@ -123,7 +123,7 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![image](https://user-images.githubusercontent.com/73226975/136499183-f63170bd-9755-4d4c-8b6e-441da8d71e41.png)
 
-## 3. Xoá lịch sử trình duyệt web nâng cao
+## 2. Xoá lịch sử trình duyệt web nâng cao
 
 * Nếu sau khi thao tác chỉnh sửa bằng cách import file vẫn không hiệu quả, Quý khách có thể **xoá lịch sử trình duyệt web** (bộ nhớ cache, cookie, dữ liệu ứng dụng được lưu trữ, v.v…).
 
