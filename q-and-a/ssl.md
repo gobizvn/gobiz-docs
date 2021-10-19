@@ -2,6 +2,24 @@
 
 {% embed url="https://youtu.be/ipUyti7lPaw" %}
 
+## Nguyên nhân gây ra lỗi kết nối SSL
+
+Theo thông báo mới nhất từ tuần báo **Entrepreneur**, sau ngày **30/9/2021** tổ chức **Let's Encrypt** là đơn vị phát hành **IdentTrust DST Root CA X3** sẽ ngừng cung cấp chứng chỉ.
+
+Từ ngày **01/10/2021** chứng chỉ **IdentTrust DST Root CA X3** sẽ hết hạn. Đây là tiêu chuẩn mã hóa kết nối giữa thiết bị của người dùng với Internet, đảm bảo rằng không ai có thể chặn và đánh cắp dữ liệu khi truyền đi. Nên một số smartphone và máy tính đời cũ có thể không vào Internet được nữa nếu không kịp update phần mềm. 
+
+Giải thích một cách đơn giản, khi người dùng truy cập vào một địa chỉ **https**, Internet của họ sẽ được bảo mật bởi một số chứng chỉ trong đó có **IdentTrust DST Root CA X3**. Tuy nhiên, Đối với đa số người dùng Internet, việc ngừng chứng chỉ này sẽ không gây ảnh hưởng gì, chỉ những người dùng **thiết bị đời cũ**, chưa hoặc không có khả năng **cập nhật lên hệ điều hành mới hơn**, mới bị ảnh hưởng.
+
+**Cụ thể các trường hợp bị ảnh hưởng nằm trong danh sách sau:**
+
+- Những người dùng sử dụng hệ điều hành macOS 2016 hoặc Windows XP SP3 trở về trước.
+
+- Máy chơi game PlayStation 4 hoặc trước đó chưa được nâng cấp firmware và sử dụng các ứng dụng dựa trên thư viện phần mềm bảo mật OpenSSL 1.0.2
+
+- Đối với smartphone, nếu đang sử dụng nền tảng Android 7.1.1 hoặc iPhone chạy iOS 10 trở về trước, sẽ bị ảnh hưởng bởi sự thay đổi sắp diễn ra và không thể kết nối Internet. Hiện tại, iPhone 5 là chiếc smartphone cuối cùng đang được hỗ trợ nền tảng iOS 10, các phiên bản iPhone trở về sau đều có thể nâng cấp lên iOS 11 hoặc mới hơn.
+
+- Để tránh mất khả năng kết nối Internet, người dùng cần phải **nâng cấp** thiết bị của mình lên **phiên bản hệ điều hành mới nhất**. Với các thiết bị đã quá cũ và không còn được hỗ trợ nâng cấp hệ điều hành, người dùng nên đổi sang một thiết bị mới hơn hoặc sử dụng các thiết bị này cho những mục đích không cần kết nối Internet hoặc tham khảo một số cách xử lý Gobiz gợi ý bên dưới.
+
 ## Các lỗi chứng chỉ bảo mật Google Chrome hay gặp
 
 * Kết nối không đáng tin cậy (This connection is untrusted)
