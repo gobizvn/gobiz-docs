@@ -35,15 +35,15 @@ Tại đây Quý khách có thể xem được một số thông tin:
 
 ## 3. Kiểm tra giỏ hàng
 
-- Sau khi thêm sản phẩm thành công, Quý khách click vào **Menu**
+- Sau khi thêm sản phẩm thành công, Quý khách click vào **Menu** ![image](https://user-images.githubusercontent.com/73226975/138028984-4308d62d-6296-43a1-a37c-fa72fc3f4f49.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/73226975/138026564-67ae5676-4ca6-467a-a559-6e15b350e5a2.png)
 
 - Chọn biểu tượng **Giỏ hàng** (1) 
 
 ![image](https://user-images.githubusercontent.com/73226975/138026656-2ead95f9-c3f2-41b5-8f35-862a45730a04.png)
-
-![image](https://user-images.githubusercontent.com/73226975/138027716-75d738a9-5473-44c7-b746-0e075457b592.png)
 
 (1) - Vào giỏ hàng
 
@@ -54,6 +54,10 @@ Tại đây Quý khách có thể xem được một số thông tin:
 (4) - Sản phẩm xu hướng
 
 (5) - Đăng xuất tài khoản
+
+![image](https://user-images.githubusercontent.com/73226975/138027716-75d738a9-5473-44c7-b746-0e075457b592.png)
+
+
 
 
 
