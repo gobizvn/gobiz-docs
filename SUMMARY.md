@@ -207,6 +207,6 @@
   * [Go Logistics](q-and-a/go_shopper-2.md)
   * [Go Complaints](q-and-a/go_shopper-3.md)
   * [Go Sales](q-and-a/go_shopper-4.md)
-  * [Một số vấn đề khác](<q-and-a/README (1).md>)
+  * [Một số vấn đề khác](q-and-a/README (1).md)
     * [Khắc phục lỗi kết nối SSL](q-and-a/ssl.md)
     * [Fix lỗi trống giỏ hàng](q-and-a/fixcart.md)
