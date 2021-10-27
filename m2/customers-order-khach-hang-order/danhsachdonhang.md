@@ -16,7 +16,8 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![Màn hình tìm kiếm thông tin](https://user-images.githubusercontent.com/73226975/99638833-6ba02980-2a79-11eb-9d75-654a218bcbd5.png)
 
-## Các điều kiện lọc:
+## Các điều kiện lọc
+
 * Trạng thái đơn hàng.
 * Thời gian tạo đơn.
 * Đơn dừng ở trạng thái.
@@ -36,7 +37,7 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
   * Logo site gốc, tên shop và link shop.
   * Số lượng hiển thị từ trái sang phải bao gồm các thông tin: Số lượng đặt cọc/Số lượng mua được/Số lượng thực nhận.
 
-  Trong đó số lượng nhận sẽ chỉ hiển thị khi đơn có chọn dịch vụ kiểm hàng.
+  *Trong đó số lượng nhận sẽ chỉ hiển thị khi đơn có chọn dịch vụ kiểm hàng.
   * Tổng chi phí đơn hàng.
   * Tổng tiền hàng.
   * Số tiền cần thanh toán còn lại.
