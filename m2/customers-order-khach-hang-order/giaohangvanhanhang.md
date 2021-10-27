@@ -32,7 +32,7 @@ Hệ thống mặc định chọn giao tất cả các kiện hàng và cho phé
 
 * Sau khi có yêu cầu giao hàng, kho phân phối nhận được phiếu giao sẽ xử lý xuất hàng giao tới địa chỉ của Quý khách.
 
-## 4. NHẬN HÀNG
+## 4. Nhận hàng
 
 Để hoàn tất đơn hàng, Quý khách truy cập vào chi tiết đơn hàng ở trạng thái **Đang giao** click vào **Đã nhận**.
 
