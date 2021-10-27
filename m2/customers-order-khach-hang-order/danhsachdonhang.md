@@ -4,7 +4,7 @@
 
 Quý khách có thể đến màn hình **Danh sách đơn** từ màn hình Kết quả đặt đơn thành công, hoặc có thể truy cập từ menu bên trái màn hình:
 
-1. ** Tìm kiếm đơn hàng**:
+## Tìm kiếm đơn hàng
 
 Quý khách Click **“Mở rộng tìm kiếm”** để hiển thị hết khối tìm kiếm tại **Danh sách đơn hàng**
 
@@ -16,7 +16,7 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![Màn hình tìm kiếm thông tin](https://user-images.githubusercontent.com/73226975/99638833-6ba02980-2a79-11eb-9d75-654a218bcbd5.png)
 
-* **Các điều kiện lọc:**
+## Các điều kiện lọc:
 * Trạng thái đơn hàng.
 * Thời gian tạo đơn.
 * Đơn dừng ở trạng thái.
@@ -28,15 +28,15 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![Xóa bộ lọc](https://user-images.githubusercontent.com/73226975/101593743-08276d00-3a23-11eb-89ca-0361b09f2c72.png)
 
- 2\. **Danh sách đơn hàng:**
+## Danh sách đơn hàng
 
 * Các thông tin hiển thị:
   * Tổng số đơn hàng.
   * Mã đơn hàng.
   * Logo site gốc, tên shop và link shop.
-  *   Số lượng hiển thị từ trái sang phải bao gồm các thông tin: Số lượng đặt cọc/Số lượng mua được/Số lượng thực nhận.
+  * Số lượng hiển thị từ trái sang phải bao gồm các thông tin: Số lượng đặt cọc/Số lượng mua được/Số lượng thực nhận.
 
-      Trong đó số lượng nhận sẽ chỉ hiển thị khi đơn có chọn dịch vụ kiểm hàng.
+  Trong đó số lượng nhận sẽ chỉ hiển thị khi đơn có chọn dịch vụ kiểm hàng.
   * Tổng chi phí đơn hàng.
   * Tổng tiền hàng.
   * Số tiền cần thanh toán còn lại.
@@ -45,7 +45,7 @@ Tại danh sách đơn hàng Quý khách có thể lọc search theo các thông
 
 ![Màn hình hiển thị thông tin trong danh sách đơn hàng](https://user-images.githubusercontent.com/73226975/102169683-4ad6c280-3ec5-11eb-8354-11caf7d2b4b9.png)
 
- 3\. **Xuất CSV danh sách đơn hàng**
+## Xuất CSV danh sách đơn hàng
 
 Quý khách có thể xuất file csv các đơn hàng trong danh sách, có thể xuất toàn bộ danh sách hoặc xuất danh sách đơn hàng theo điều kiện lọc
 
