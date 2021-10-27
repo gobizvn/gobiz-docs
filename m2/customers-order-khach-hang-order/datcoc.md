@@ -1,14 +1,16 @@
 # Đặt cọc đơn hàng
 
+## Đặt đơn order từ công cụ
+
 Quý khách có thể tạo từng đơn hàng hoặc tạo nhiều đơn hàng cùng lúc tùy theo nhu cầu
 
-**Lưu ý**: Để tạo nhiều đơn cùng lúc Quý khách chọn những sản phẩm mình muốn đặt bằng cách tick chọn vào sản phẩm đó
+**Lưu ý**: Để tạo nhiều đơn cùng lúc Quý khách chọn những sản phẩm mình muốn đặt bằng cách click chọn vào sản phẩm đó
 
 ![&#x110;&#x1EB7;t c&#x1ECD;c &#x111;&#x1A1;n h&#xE0;ng \(1\)](https://user-images.githubusercontent.com/73226975/99634690-7b1c7400-2a73-11eb-9068-9be4c231c8a8.png)
 
 Sau chọn những sản phẩm và dịch vụ cho đơn xong Quý khách ấn đặt hàng thì hệ thống sẽ chuyển sang màn hình kiểm tra đơn hàng trước khi đặt hàng
 
-– **Chưa có địa chỉ nhận hàng**
+## Chưa có địa chỉ nhận hàng
 
 Quý khách tạo mới địa chỉ ngay tại khối địa chỉ giao hàng
 
@@ -31,4 +33,6 @@ Mã PIN hệ thống mặc định là **123456**
 Sau khi nhập mã PIN đơn sẽ chuyển sang trạng thái đặt cọc thành công
 
 ![&#x110;&#x1EB7;t c&#x1ECD;c th&#xE0;nh c&#xF4;ng](https://user-images.githubusercontent.com/73226975/99635190-36450d00-2a74-11eb-8bd7-5386086a44f3.png)
+
+## Đặt đơn ngoài hệ thống
 
