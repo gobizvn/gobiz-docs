@@ -170,9 +170,19 @@ Quý khách click vào mục **Tạo phí mới**
 
 ![image](https://user-images.githubusercontent.com/73226975/139216792-fdb0eac5-f55f-4f15-97f2-f415a0cf42b1.png)
 
+(1) -  Quý khách có thể điều chỉnh tăng/giảm giá vận chuyển cho toàn khu vực.
+
+(2) - Thêm khoảng cân nặng tính phí.
+
+(3) - Điều chỉnh tăng/giảm giá vận chuyển cho từng khu vực riêng.
+
+(4) - Thêm khu vực áp dụng phí vận chuyển.
 
 ![image](https://user-images.githubusercontent.com/73226975/139226353-04fdb946-87cc-4c45-9d9d-8e76d936414f.png)
 
+*Lưu ý: Khi điều chỉnh giảm số tiền phí vận chuyển Quý khách điền số âm vào ô khoảng giá
 
-![image](https://user-images.githubusercontent.com/73226975/139225327-e20cc474-70f2-456d-8801-91997d9322cd.png)
+![image](https://user-images.githubusercontent.com/73226975/139228388-b5a06e17-970c-4d75-a099-7dee4d5205be.png)
+
+
 
