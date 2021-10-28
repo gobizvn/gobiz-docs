@@ -105,7 +105,7 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 **Không được chọn nhóm dịch vụ:**
 
-**Sẽ chọn dịch vụ: **
+**Sẽ chọn dịch vụ:**
 
 **Mặc định:**
 
@@ -115,7 +115,7 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 - Đối với các dịch vụ vận chuyển, Quý khách lưu ý phải chọn dịch vụ vận chuyển tương ứng kèm công thức quy đổi cân nặng.
 
-- Ví dụ: Dịch vụ **Vận chuyển thường** để mặc định, công thức quy đổi **(Dài x Rộng x Cao)/7000**
+- Ví dụ: Dịch vụ Vận chuyển thường để mặc định, công thức quy đổi (Dài x Rộng x Cao)/7000, Quý khách tick chọn và điền công thức quy đổi như hình minh hoạ sau.
 
 ![image](https://user-images.githubusercontent.com/73226975/139187332-258f294d-c9af-4fdb-baef-05c5ee5841ff.png)
 
