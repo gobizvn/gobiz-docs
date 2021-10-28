@@ -132,7 +132,13 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 ![image](https://user-images.githubusercontent.com/73226975/139209222-8ac93da9-ea6c-4f20-b63a-95f57477a282.png)
 
-Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý** để lưu![image](https://user-images.githubusercontent.com/73226975/139209627-aebb292a-f75a-4ac4-820d-c8e2fa40c0df.png)
+Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý**![image](https://user-images.githubusercontent.com/73226975/139209627-aebb292a-f75a-4ac4-820d-c8e2fa40c0df.png) để lưu và cài đặt tiếp các dịch vụ còn lại.
+
+- Quý khách ấn **Kết thúc**![image](https://user-images.githubusercontent.com/73226975/139210685-8afa91e7-726a-43b2-bee3-31d736d9818b.png)sau khi đã cài đặt xong tất cả các bước.
+
+![image](https://user-images.githubusercontent.com/73226975/139210837-0e63f5e6-4798-4403-8cc7-0542ee5ab906.png)
+
+
 
 
 
