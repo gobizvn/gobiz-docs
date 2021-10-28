@@ -125,6 +125,9 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 ![image](https://user-images.githubusercontent.com/73226975/139209222-8ac93da9-ea6c-4f20-b63a-95f57477a282.png)
 
+Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý** ![image](https://user-images.githubusercontent.com/73226975/139209627-aebb292a-f75a-4ac4-820d-c8e2fa40c0df.png)
+
+
 
 
 
