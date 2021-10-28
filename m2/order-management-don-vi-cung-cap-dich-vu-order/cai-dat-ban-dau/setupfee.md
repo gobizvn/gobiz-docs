@@ -171,5 +171,8 @@ Quý khách click vào mục **Tạo phí mới**
 ![image](https://user-images.githubusercontent.com/73226975/139216792-fdb0eac5-f55f-4f15-97f2-f415a0cf42b1.png)
 
 
+![image](https://user-images.githubusercontent.com/73226975/139226353-04fdb946-87cc-4c45-9d9d-8e76d936414f.png)
+
+
 ![image](https://user-images.githubusercontent.com/73226975/139225327-e20cc474-70f2-456d-8801-91997d9322cd.png)
 
