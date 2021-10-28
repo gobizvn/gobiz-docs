@@ -1,6 +1,6 @@
 # Cấu hình phí
 
-## Một số lưu ý quan trọng:
+## Một số lưu ý quan trọng
 
 – Bộ cấu hình chính sách chỉ có hiệu lực khi được áp dụng cho một **Nhóm khách hàng** hoặc một **Đơn hàng** cụ thể.
 
@@ -112,3 +112,13 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 **Cần duyệt:**
 
 **Vận chuyển:**
+
+- Đối với các dịch vụ vận chuyển, Quý khách lưu ý phải chọn dịch vụ vận chuyển tương ứng kèm công thức quy đổi cân nặng.
+
+- Ví dụ: Dịch vụ **Vận chuyển thường** để mặc định, công thức quy đổi **(Dài x Rộng x Cao)/7000**
+
+![image](https://user-images.githubusercontent.com/73226975/139187332-258f294d-c9af-4fdb-baef-05c5ee5841ff.png)
+
+
+
+
