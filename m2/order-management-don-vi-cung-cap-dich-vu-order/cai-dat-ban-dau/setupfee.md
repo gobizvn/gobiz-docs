@@ -146,8 +146,23 @@ Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý
 
 *(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ)*
 
+Quý khách click vào mục **Tạo phí mới**
+
+(1) - Mã phí dịch vụ viết liền không dấu, không khoảng cách
+
+(2) - Điền tên phí dịch vụ mới
+
+(3) - Thêm ngôn ngữ nếu website của Quý khách đang chạy giao diện song ngữ
+
+(4) - Cài đặt mức phí tối thiểu, tối đa cần thu của khách trên đơn hàng.
+
+(5) - Chọn dịch vụ tương ứng với chi phí
 
 ![image](https://user-images.githubusercontent.com/73226975/139212005-a518e8b7-bf8e-438a-967c-e965a1a71acb.png)
+
+- Quý khách ấn **Thêm**![image](https://user-images.githubusercontent.com/73226975/139214897-2dded922-7745-4436-a1a6-a2ab9e674218.png)và chuyển sang **Bước tiếp theo** ![image](https://user-images.githubusercontent.com/73226975/139215166-5bd1ec27-afc2-4648-845e-a4ba312308de.png)
+
+![image](https://user-images.githubusercontent.com/73226975/139216114-c7fefe4c-6eaf-45e8-add7-d8005fed325c.png)
 
 
 
