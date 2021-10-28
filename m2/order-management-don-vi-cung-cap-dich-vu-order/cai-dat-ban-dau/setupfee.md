@@ -180,7 +180,7 @@ Quý khách click vào mục **Tạo phí mới**
 
 ![image](https://user-images.githubusercontent.com/73226975/139226353-04fdb946-87cc-4c45-9d9d-8e76d936414f.png)
 
-*Lưu ý: Khi điều chỉnh giảm số tiền phí vận chuyển Quý khách điền số âm vào ô khoảng giá
+*Lưu ý: Khi điều chỉnh giảm số tiền phí vận chuyển Quý khách điền số âm vào ô khoảng giá*
 
 ![image](https://user-images.githubusercontent.com/73226975/139228388-b5a06e17-970c-4d75-a099-7dee4d5205be.png)
 
