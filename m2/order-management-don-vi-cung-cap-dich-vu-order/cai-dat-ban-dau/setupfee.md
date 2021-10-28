@@ -93,6 +93,13 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 ![Bước tiếp theo](https://user-images.githubusercontent.com/73226975/134137710-052ada47-131c-4240-bd60-0b36e51999b6.png)
 
+
+- Quý khách click vào biểu tượng **cài đặt** ![image](https://user-images.githubusercontent.com/73226975/139210103-704a28cb-bc54-46e8-9378-a04b1d606537.png)
+
+
+![image](https://user-images.githubusercontent.com/73226975/139209982-d1f703a2-8fd2-4b4b-8f29-9398f1811d3b.png)
+
+
 ![image](https://user-images.githubusercontent.com/73226975/134200087-96986cb4-df22-4aaf-a04a-4a557bb6a6df.png)
 
 **Phải chọn dịch vụ:**
@@ -125,7 +132,7 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 ![image](https://user-images.githubusercontent.com/73226975/139209222-8ac93da9-ea6c-4f20-b63a-95f57477a282.png)
 
-Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý** ![image](https://user-images.githubusercontent.com/73226975/139209627-aebb292a-f75a-4ac4-820d-c8e2fa40c0df.png)
+Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý** để lưu![image](https://user-images.githubusercontent.com/73226975/139209627-aebb292a-f75a-4ac4-820d-c8e2fa40c0df.png)
 
 
 
