@@ -160,7 +160,7 @@ Quý khách click vào mục **Tạo phí mới**
 
 ![image](https://user-images.githubusercontent.com/73226975/139212005-a518e8b7-bf8e-438a-967c-e965a1a71acb.png)
 
-- Quý khách ấn **Thêm**![image](https://user-images.githubusercontent.com/73226975/139214897-2dded922-7745-4436-a1a6-a2ab9e674218.png)và chuyển sang **Bước tiếp theo** ![image](https://user-images.githubusercontent.com/73226975/139215166-5bd1ec27-afc2-4648-845e-a4ba312308de.png)
+- Quý khách ấn **Thêm**![image](https://user-images.githubusercontent.com/73226975/139216353-85beed4d-a13a-4136-9e69-6838035a118b.png)và chuyển sang **Bước tiếp theo** ![image](https://user-images.githubusercontent.com/73226975/139215166-5bd1ec27-afc2-4648-845e-a4ba312308de.png)
 
 ![image](https://user-images.githubusercontent.com/73226975/139216114-c7fefe4c-6eaf-45e8-add7-d8005fed325c.png)
 
