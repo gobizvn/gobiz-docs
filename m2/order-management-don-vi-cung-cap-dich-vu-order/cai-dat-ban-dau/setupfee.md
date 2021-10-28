@@ -113,11 +113,17 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 **Vận chuyển:**
 
-- Đối với các dịch vụ vận chuyển, Quý khách lưu ý phải chọn dịch vụ vận chuyển tương ứng kèm công thức quy đổi cân nặng.
+- Đối với các dịch vụ vận chuyển, Quý khách lưu ý **chọn dịch vụ vận chuyển tương ứng** kèm **công thức quy đổi cân nặng**
 
-- Ví dụ: Dịch vụ Vận chuyển thường để mặc định, công thức quy đổi (Dài x Rộng x Cao)/7000, Quý khách tick chọn và điền công thức quy đổi như hình minh hoạ sau.
+- Ví dụ: Dịch vụ **Vận chuyển thường** để **Mặc định**, công thức quy đổi **(Dài x Rộng x Cao)/7000**, Quý khách tick chọn và điền công thức quy đổi như hình minh hoạ sau.
 
 ![image](https://user-images.githubusercontent.com/73226975/139187332-258f294d-c9af-4fdb-baef-05c5ee5841ff.png)
+
+- Ngoài ra Quý khách có thể cấu hình các **mối quan hệ dịch vụ** theo nhóm hoặc riêng lẻ từng dịch vụ như sau: 
+
++) Chọn vận chuyển thường **bắt buộc** phải dùng dịch vụ Đóng gỗ và **không được chọn** dịch vụ quấn bọt khí riêng/chung. Hoặc gợi ý nếu dùng vận chuyển thường khách hàng **nên** sử dụng Kiểm hàng…
+
+![image](https://user-images.githubusercontent.com/73226975/139209222-8ac93da9-ea6c-4f20-b63a-95f57477a282.png)
 
 
 
