@@ -136,11 +136,18 @@ Cài đặt xong mối quan hệ các dịch vụ, Quý khách ấn **Đồng ý
 
 - Quý khách ấn **Kết thúc**![image](https://user-images.githubusercontent.com/73226975/139210685-8afa91e7-726a-43b2-bee3-31d736d9818b.png)sau khi đã cài đặt xong tất cả các bước.
 
+
 ![image](https://user-images.githubusercontent.com/73226975/139210837-0e63f5e6-4798-4403-8cc7-0542ee5ab906.png)
 
 
+### 2.2. Thêm mới phí dịch vụ
+
+- Tại chi tiết bộ cấu hình chọn **Cấu hình phí đơn mua hộ**.
+
+*(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ)*
 
 
+![image](https://user-images.githubusercontent.com/73226975/139212005-a518e8b7-bf8e-438a-967c-e965a1a71acb.png)
 
 
 
