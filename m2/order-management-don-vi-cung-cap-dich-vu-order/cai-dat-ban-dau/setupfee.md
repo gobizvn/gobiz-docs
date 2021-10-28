@@ -164,5 +164,10 @@ Quý khách click vào mục **Tạo phí mới**
 
 ![image](https://user-images.githubusercontent.com/73226975/139216114-c7fefe4c-6eaf-45e8-add7-d8005fed325c.png)
 
+### 2.3. Công thức tính phí dịch vụ
+
+- Quý khách click vào phí dịch vụ cần **thêm mới/sửa** công thức tính phí trên menu bên trái, sau đó chọn mẫu phí tương ứng với dịch vụ như hình minh hoạ sau:
+
+![image](https://user-images.githubusercontent.com/73226975/139216792-fdb0eac5-f55f-4f15-97f2-f415a0cf42b1.png)
 
 
