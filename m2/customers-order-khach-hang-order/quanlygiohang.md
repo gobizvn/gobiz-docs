@@ -8,13 +8,15 @@ Tại đây sẽ hiển thị tất cả các thông tin liên quan như: giá t
 
 ## Xóa sản phẩm trong giỏ
 
-Sau khi thêm hàng vào giỏ Quý khách có thể xóa bỏ sản phẩm khỏi giỏ hàng.
-
-Tùy theo nhu cầu Quý khách có thể xóa từng sản phẩm, xóa tất cả sản phẩm trong cùng một người bán, xóa tất cả sản phẩm trong giỏ hàng
+- Quý khách có thể xóa bỏ 1 sản phẩm khỏi giỏ hàng hoặc xóa nhiều sản phẩm và nhiều shop cùng lúc theo hình minh họa sau:
 
 ![X&#xF3;a gi&#x1ECF; h&#xE0;ng](https://user-images.githubusercontent.com/73226975/99623855-954c5700-2a5f-11eb-8d0c-c30cce13dfed.png)
 
-**Lưu ý**: _Trước khi chọn xóa hết tất cả các sản phẩm trong giỏ hàng Quý khách cần tick vào checkbox “Chọn tất cả” để chọn tất cả sản phẩm có trong giỏ._
+**Lưu ý**: Trước khi chọn xóa hết tất cả các sản phẩm trong giỏ hàng Quý khách cần tick vào checkbox “Chọn tất cả” để chọn tất cả sản phẩm có trong giỏ.
+
+- Ngoài ra để xem nhiều shop trong 1 trang hoặc nhiều link sản phẩm của 1 shop trong 1 trang giỏ hàng, Quý khách tùy chọn số lượng tương ứng trên bộ lọc như sau:
+
+![image](https://user-images.githubusercontent.com/73226975/147807223-e1ecb5c7-a894-40bd-955d-da390959f1ef.png)
 
 ## Lưu link yêu thích
 
