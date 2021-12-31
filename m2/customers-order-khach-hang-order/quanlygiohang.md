@@ -6,7 +6,7 @@ Tại đây sẽ hiển thị tất cả các thông tin liên quan như: giá t
 
 ![M&#xE0;n h&#xEC;nh gi&#x1ECF; h&#xE0;ng](https://user-images.githubusercontent.com/73226975/99622958-b744da00-2a5d-11eb-876d-d5714edc12c0.png)
 
-**Xóa sản phẩm trong giỏ**
+## Xóa sản phẩm trong giỏ
 
 Sau khi thêm hàng vào giỏ Quý khách có thể xóa bỏ sản phẩm khỏi giỏ hàng.
 
@@ -16,13 +16,22 @@ Tùy theo nhu cầu Quý khách có thể xóa từng sản phẩm, xóa tất c
 
 **Lưu ý**: _Trước khi chọn xóa hết tất cả các sản phẩm trong giỏ hàng Quý khách cần tick vào checkbox “Chọn tất cả” để chọn tất cả sản phẩm có trong giỏ._
 
-**Lưu link yêu thích:**
+## Lưu link yêu thích
 
 Quý khách có thể lưu lại được những sản phẩm mình yêu thích để tham khảo và đặt hàng cho những đơn sau.
 
 Tại Giỏ hàng và Chi tiết đơn hàng có chức năng Lưu link yêu thích.
 
-* **Lưu link tại chức năng giỏ hàng.**
+### Lưu link tại chức năng giỏ hàng
 
 ![L&#x1B0;u link y&#xEA;u th&#xED;ch](https://user-images.githubusercontent.com/73226975/99624126-36d3a880-2a60-11eb-8bb0-0ee079101b9a.png)
+
+### Lưu link tại chi tiết đơn hàng
+
+- Tai chi tiết đơn hàng, tab Sản phẩm, Quý khách click vào icon 🤍 bên cạnh chữ **LƯU**
+
+![Lưu sản phẩm](https://user-images.githubusercontent.com/73226975/147806687-f6a5d9a2-83fd-4b8f-8dbd-55ce262b7679.png)
+
+- Lưu sản phẩm thành công hệ thống sẽ hiển thị thông báo trên góc phải màn hình
+
 
