@@ -16,7 +16,7 @@ Tại đây sẽ hiển thị tất cả các thông tin liên quan như: giá t
 
 - Ngoài ra để xem nhiều shop trong 1 trang hoặc nhiều link sản phẩm của 1 shop trong 1 trang giỏ hàng, Quý khách tùy chọn số lượng tương ứng trên bộ lọc như sau:
 
-![image](https://user-images.githubusercontent.com/73226975/147807223-e1ecb5c7-a894-40bd-955d-da390959f1ef.png)
+![Bộ lọc giỏ hàng](https://user-images.githubusercontent.com/73226975/147807223-e1ecb5c7-a894-40bd-955d-da390959f1ef.png)
 
 ## Lưu link yêu thích
 
@@ -30,7 +30,7 @@ Tại Giỏ hàng và Chi tiết đơn hàng có chức năng Lưu link yêu th�
 
 ### Lưu link tại chi tiết đơn hàng
 
-- Tai chi tiết đơn hàng, tab Sản phẩm, Quý khách click vào icon 🤍 bên cạnh chữ **LƯU**
+- Tại chi tiết đơn hàng, tab Sản phẩm, Quý khách click vào icon 🤍 bên cạnh chữ **LƯU**
 
 ![Lưu sản phẩm](https://user-images.githubusercontent.com/73226975/147806687-f6a5d9a2-83fd-4b8f-8dbd-55ce262b7679.png)
 
