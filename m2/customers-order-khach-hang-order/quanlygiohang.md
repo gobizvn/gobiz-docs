@@ -34,4 +34,6 @@ Tại Giỏ hàng và Chi tiết đơn hàng có chức năng Lưu link yêu th�
 
 - Lưu sản phẩm thành công hệ thống sẽ hiển thị thông báo trên góc phải màn hình
 
+![Lưu link thành công](https://user-images.githubusercontent.com/73226975/147806911-d1572445-3f20-474a-89db-71620ab66bd7.png)
+
 
