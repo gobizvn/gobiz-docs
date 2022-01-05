@@ -168,6 +168,8 @@ Quý khách click vào mục **Tạo phí mới**
 
 - Quý khách click vào phí dịch vụ cần **thêm mới/sửa** công thức tính phí trên menu bên trái, sau đó chọn mẫu phí tương ứng với dịch vụ như hình minh hoạ sau:
 
+#### Phí vận chuyển quốc tế
+
 ![image](https://user-images.githubusercontent.com/73226975/139216792-fdb0eac5-f55f-4f15-97f2-f415a0cf42b1.png)
 
 (1) -  Quý khách có thể điều chỉnh tăng/giảm giá vận chuyển cho toàn khu vực.
@@ -184,5 +186,6 @@ Quý khách click vào mục **Tạo phí mới**
 
 ![image](https://user-images.githubusercontent.com/73226975/139228388-b5a06e17-970c-4d75-a099-7dee4d5205be.png)
 
+#### Phí mua hàng, bảo hiểm
 
 
