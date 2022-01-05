@@ -102,11 +102,11 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 ![image](https://user-images.githubusercontent.com/73226975/134200087-96986cb4-df22-4aaf-a04a-4a557bb6a6df.png)
 
-**Phải chọn dịch vụ:**
+**Phải chọn dịch vụ:** Khách chọn dịch vụ A đồng nghĩa với việc phải đi cùng dịch vụ B.
 
-**Không được chọn dịch vụ:**
+**Không được chọn dịch vụ:** Khách chọn dịch vụ A sẽ không được chọn sử dụng dịch vụ B.
 
-**Sẽ chọn dịch vụ:**
+**Sẽ chọn dịch vụ:** Gợi ý các dịch vụ đi kèm khác, không bắt buộc.
 
 **Phải chọn nhóm dịch vụ:**
 
