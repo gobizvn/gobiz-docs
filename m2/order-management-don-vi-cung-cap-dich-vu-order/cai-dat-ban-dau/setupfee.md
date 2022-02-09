@@ -49,6 +49,9 @@ _(1) - Tìm tên bộ cấu hình phí Quý khách muốn sao chép_ _(2) - Clic
 
 ### 2.1. Thêm mới dịch vụ
 
+### Dịch vụ là gì?
+- Dịch vụ là hàng hóa có tính vô hình nhất định nhằm đáp ứng một nhu cầu cụ thể nào đó.
+
 * Tại chi tiết bộ cấu hình chọn **Cấu hình dịch vụ đơn mua hộ**.
 
 _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ)_
@@ -61,6 +64,8 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 ![Thêm phương thức vận chuyển](https://user-images.githubusercontent.com/73226975/133957499-a3de7321-da16-422a-8b67-e959a23d876c.png)
 
 * Click Bước tiếp theo để thêm **Mã nhóm dịch vụ**
+### Nhóm dịch vụ là gì?
+- Nhóm dịch vụ được cấu trúc bằng cách xác định dựa trên các sản phẩm và dịch vụ có tính chất tương đồng, cùng lĩnh vực.
 
 ![Bước tiếp theo](https://user-images.githubusercontent.com/73226975/133957674-7b43e103-4a20-4d18-bc17-02134e30073c.png)
 
