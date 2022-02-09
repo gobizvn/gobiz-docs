@@ -52,7 +52,7 @@ _(1) - Tìm tên bộ cấu hình phí Quý khách muốn sao chép_ _(2) - Clic
 ### Dịch vụ là gì?
 - Dịch vụ là hàng hóa có tính vô hình nhất định nhằm đáp ứng một nhu cầu cụ thể nào đó.
 
-* Tại chi tiết bộ cấu hình chọn **Cấu hình dịch vụ đơn mua hộ**.
+Tại chi tiết bộ cấu hình chọn **Cấu hình dịch vụ đơn mua hộ**.
 
 _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịch vụ đơn mua hộ)_
 
