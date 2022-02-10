@@ -195,7 +195,7 @@ Quý khách click vào mục **Tạo phí mới**
 
 ### Phí mua hàng, bảo hiểm
 
-Thông thường phí mua hàng và phí bảo hiểm sẽ tính theo giá trị đơn hàng, với công thức bên dưới, Quý khách có thể tham khảo cách cấu hình như sau:
+Thông thường phí mua hàng và phí bảo hiểm sẽ tính theo giá trị đơn hàng, với công thức bên dưới Quý khách có thể tham khảo cách cấu hình như sau:
 
 ![Mẫu phí](https://user-images.githubusercontent.com/73226975/153358585-249dd410-7fa5-4d0a-aca2-156f77c75f69.png)
 
@@ -205,3 +205,6 @@ Thông thường phí mua hàng và phí bảo hiểm sẽ tính theo giá trị
 
 ![Lưu công thức](https://user-images.githubusercontent.com/73226975/153362757-e13d130f-c58e-4205-b9f6-1a61480dc1f0.png)
 
+** Lưu ý:**
+
+- Mục phần trăm phí dịch vụ, nếu giá trị là 2.5% Quý khách chỉ điền vào ô trống phần số 2.5, không điền thêm % hoặc quy đổi giá trị sang số liệu khác.
