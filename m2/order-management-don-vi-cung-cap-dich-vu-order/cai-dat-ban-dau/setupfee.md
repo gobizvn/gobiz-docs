@@ -70,6 +70,10 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 ![Bước tiếp theo](https://user-images.githubusercontent.com/73226975/133957674-7b43e103-4a20-4d18-bc17-02134e30073c.png)
 
 * Quý khách thêm mới **Mã nhóm dịch vụ** => **Tên nhóm dịch vụ** => **Mô tả** (Mục này không bắt buộc) => Chọn **Thêm ngôn ngữ** nếu website của Quý khách đang chạy giao diện song ngữ.
+
+![Song ngữ](https://user-images.githubusercontent.com/73226975/153355647-d9c72f2e-607f-488f-aaf8-8e8ae94944bf.png)
+
+
 * Chọn cấu hình **bắt buộc** hoặc **không bắt buộc** cho nhóm dịch vụ khi khách tiến hành đặt cọc đơn hàng.
 * Chọn cấu hình khách **chỉ được chọn 1** hoặc **chọn nhiều dịch vụ** trong nhóm.
 * Sau đó ấn **Lưu**
@@ -171,9 +175,9 @@ Quý khách click vào mục **Tạo phí mới**
 
 - Quý khách click vào phí dịch vụ cần **thêm mới/sửa** công thức tính phí trên menu bên trái, sau đó chọn mẫu phí tương ứng với dịch vụ như hình minh hoạ sau:
 
-#### Phí vận chuyển quốc tế
+### Phí vận chuyển quốc tế
 
-![image](https://user-images.githubusercontent.com/73226975/139216792-fdb0eac5-f55f-4f15-97f2-f415a0cf42b1.png)
+![phí vận chuyển](https://user-images.githubusercontent.com/73226975/139216792-fdb0eac5-f55f-4f15-97f2-f415a0cf42b1.png)
 
 (1) -  Quý khách có thể điều chỉnh tăng/giảm giá vận chuyển cho toàn khu vực.
 
@@ -183,12 +187,12 @@ Quý khách click vào mục **Tạo phí mới**
 
 (4) - Thêm khu vực áp dụng phí vận chuyển.
 
-![image](https://user-images.githubusercontent.com/73226975/139226353-04fdb946-87cc-4c45-9d9d-8e76d936414f.png)
+![Điều chỉnh](https://user-images.githubusercontent.com/73226975/139226353-04fdb946-87cc-4c45-9d9d-8e76d936414f.png)
 
 *Lưu ý: Khi điều chỉnh giảm số tiền phí vận chuyển Quý khách điền số âm vào ô khoảng giá*
 
 ![image](https://user-images.githubusercontent.com/73226975/139228388-b5a06e17-970c-4d75-a099-7dee4d5205be.png)
 
-#### Phí mua hàng, bảo hiểm
+### Phí mua hàng, bảo hiểm
 
 
