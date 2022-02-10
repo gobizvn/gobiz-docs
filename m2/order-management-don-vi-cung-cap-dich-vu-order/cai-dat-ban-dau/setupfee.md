@@ -205,6 +205,16 @@ Thông thường phí mua hàng và phí bảo hiểm sẽ tính theo giá trị
 
 ![Lưu công thức](https://user-images.githubusercontent.com/73226975/153362757-e13d130f-c58e-4205-b9f6-1a61480dc1f0.png)
 
-** Lưu ý:**
+**Lưu ý:**
 
 - Mục phần trăm phí dịch vụ, nếu giá trị là 2.5% Quý khách chỉ điền vào ô trống phần số 2.5, không điền thêm % hoặc quy đổi giá trị sang số liệu khác.
+
+### Phí đóng gỗ, đóng bọt khí
+
+- Nhìn chung các đơn vị vận chuyển đang áp dụng 2 cách tính phí cho hình thức đóng gỗ và đóng bọt khí.
+
+**1. Tính phí theo công thức quy đổi từ quy cách đóng gói, thu phí theo tiền VND.**
+
+**2. Tính phí theo công thức chung, thu phí theo ngoại tệ, ví dụ: tiền Tệ (RMB).**
+
+Với cả 2 cách Gobiz sẽ hỗ trợ khách hàng viết công thức tính phí và cài đặt chạy thử trước khi bàn giao hệ thống.
