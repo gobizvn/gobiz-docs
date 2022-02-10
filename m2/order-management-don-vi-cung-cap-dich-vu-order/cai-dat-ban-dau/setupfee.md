@@ -201,3 +201,7 @@ Thông thường phí mua hàng và phí bảo hiểm sẽ tính theo giá trị
 
 
 ![Chọn công thức](https://user-images.githubusercontent.com/73226975/153358402-dcaab5e3-8768-4aeb-be42-4cd66d90bfe8.png)
+
+
+![Lưu công thức](https://user-images.githubusercontent.com/73226975/153362757-e13d130f-c58e-4205-b9f6-1a61480dc1f0.png)
+
