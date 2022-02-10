@@ -218,3 +218,11 @@ Thông thường phí mua hàng và phí bảo hiểm sẽ tính theo giá trị
 **2. Tính phí theo công thức chung, thu phí theo ngoại tệ, ví dụ: tiền Tệ (RMB).**
 
 Với cả 2 cách Gobiz sẽ hỗ trợ khách hàng viết công thức tính phí và cài đặt chạy thử trước khi bàn giao hệ thống.
+
+### Phí kiểm hàng
+
+![Mẫu phí](https://user-images.githubusercontent.com/73226975/153366566-55419848-30c1-495a-8a2b-bc54155b7d30.png)
+
+![cấu hình phí](https://user-images.githubusercontent.com/73226975/153367384-1f936693-903e-451c-a535-e6fb2d530912.png)
+
+
