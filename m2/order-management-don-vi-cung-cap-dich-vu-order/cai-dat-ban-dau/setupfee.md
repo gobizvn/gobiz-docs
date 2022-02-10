@@ -113,15 +113,13 @@ _(Áp dụng cho trường hợp Quý khách cần thêm mới/thay đổi dịc
 
 **Sẽ chọn dịch vụ:** Gợi ý các dịch vụ đi kèm khác, không bắt buộc.
 
-**Phải chọn nhóm dịch vụ:**
+**Phải chọn nhóm dịch vụ:** Khi sử dụng dịch vụ A, bắt buộc phải sử dụng 1 trong các dịch vụ thuộc nhóm dịch vụ B.
 
-**Không được chọn nhóm dịch vụ:**
+**Không được chọn nhóm dịch vụ:** Khi sử dụng dịch vụ A, khách hàng sẽ không được phép sử dụng 1 trong các dịch vụ thuộc nhóm dịch vụ B.
 
-**Sẽ chọn dịch vụ:**
+**Mặc định:** Dịch vụ tự động đi kèm khi khách thêm sản phẩm vào giỏ hàng.
 
-**Mặc định:**
-
-**Cần duyệt:**
+**Cần duyệt:** Dịch vụ cần kiểm tra và kiểm duyệt trước khi thanh toán đơn hàng.
 
 **Vận chuyển:**
 
