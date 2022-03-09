@@ -24,5 +24,9 @@
 | shipping_group | Nhóm Dịch vụ chuyển phát |
 
 
-## 2. Thuật ngữ code
+## 2. Một số công thức tính phí thông dụng
+
+| PHÍ DỊCH VỤ | ORDER | KÝ GỬI |
+| :--- | ---: | ---: |
+| inspection | Kiểm hàng |
 
