@@ -28,7 +28,7 @@
 
 ### 2.1. Phí Đóng gỗ & Quấn bọt khí
 
-![Mẫu 1](https://user-images.githubusercontent.com/73226975/157414629-e1af2bde-906b-4ffe-9f4f-897901cf1b13.png)
+![image](https://user-images.githubusercontent.com/73226975/157421429-a83c411c-aeff-40dc-8ab7-fd72549907a9.png)
 
 
 | DỊCH VỤ | ORDER | KÝ GỬI |
