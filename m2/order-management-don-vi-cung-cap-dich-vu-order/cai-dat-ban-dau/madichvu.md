@@ -34,7 +34,7 @@
 | DỊCH VỤ | ORDER | KÝ GỬI |
 | :--- | ---: | ---: |
 | ĐÓNG GỖ | **Scope**: Tính theo đơn | **Scope**: Tính theo đơn |
-| | **Công thức tính đơn giá**: totalWeight != null ? (exchangeRate != null ? (totalWeight > 1.00 ? (exchangeRate * (25.00 + ((totalWeight - 1.00).intValue() + 1) * 2.00)) : (exchangeRate * 25.00)) : 0.00) : 0.00 | actualWeight != null ? (exchangeRate != null ? (actualWeight > 1.00 ? (exchangeRate * (25.00 + ((actualWeight - 1.00).intValue() + 1) * 2.00)) : (exchangeRate * 25.00)) : 0.00) : 0.00 |
+| | **Công thức tính đơn giá**: totalWeight != null ? (exchangeRate != null ? (totalWeight > 1.00 ? (exchangeRate * (25.00 + ((totalWeight - 1.00).intValue() + 1) * 2.00)) : (exchangeRate * 25.00)) : 0.00) : 0.00 | **Công thức tính đơn giá**: actualWeight != null ? (exchangeRate != null ? (actualWeight > 1.00 ? (exchangeRate * (25.00 + ((actualWeight - 1.00).intValue() + 1) * 2.00)) : (exchangeRate * 25.00)) : 0.00) : 0.00 |
 | 
 | 
 | 
