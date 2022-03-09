@@ -33,7 +33,7 @@
 
 | DỊCH VỤ | ORDER | KÝ GỬI |
 | :--- | ---: | ---: |
-| ĐÓNG GỖ | **Scope**: Tính theo đơn |
+| ĐÓNG GỖ | **Scope**: Tính theo đơn | **Scope**: Tính theo đơn |
 | 
 | 
 | 
