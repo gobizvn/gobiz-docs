@@ -26,7 +26,17 @@
 
 ## 2. Một số công thức tính phí thông dụng
 
-| PHÍ DỊCH VỤ | ORDER | KÝ GỬI |
+### 2.1. Phí Đóng gỗ & Quấn bọt khí
+
+![Mẫu 1](https://user-images.githubusercontent.com/73226975/157414629-e1af2bde-906b-4ffe-9f4f-897901cf1b13.png)
+
+
+| DỊCH VỤ | ORDER | KÝ GỬI |
 | :--- | ---: | ---: |
-| inspection | Kiểm hàng |
+| ĐÓNG GỖ | **Scope**: Tính theo đơn |
+| 
+| 
+| 
+| 
+| 
 
