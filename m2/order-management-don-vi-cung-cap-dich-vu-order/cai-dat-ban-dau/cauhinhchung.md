@@ -140,7 +140,7 @@ _Lưu ý: giá sản phẩm có thể sai lệch so với việc khách hàng th
 
 ### 5. Ghi chú cho sản phẩm
 
-- Khi chọn BẬT và LƯU cấu hình  ghi chú cho sản phẩm, giao diện giỏ hàng của khách sẽ xuất hiện phần thêm ghi chú cho sản phẩm của đơn mua hộ.
+- Khi chọn **BẬT** và **LƯU** cấu hình  ghi chú cho sản phẩm, giao diện giỏ hàng của khách sẽ xuất hiện phần thêm ghi chú cho sản phẩm của đơn mua hộ.
 
 ![image](https://user-images.githubusercontent.com/73226975/158142193-ddaac1d6-51e8-4e6a-94d7-121b486c3102.png)
 
