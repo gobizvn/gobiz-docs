@@ -138,14 +138,19 @@ _Lưu ý: giá sản phẩm có thể sai lệch so với việc khách hàng th
 
 ![Giao di&#x1EC7;n &#x111;&#x1EB7;t h&#xE0;ng](https://user-images.githubusercontent.com/73226975/133068921-964396bc-4d5c-4a49-b8d4-fe4cf059e651.png)
 
-### 5. Yêu cầu thanh toán hộ
+### 5. Ghi chú cho sản phẩm
+
+- Khi chọn BẬT và LƯU cấu hình  ghi chú cho sản phẩm, giao diện giỏ hàng của khách sẽ xuất hiện phần thêm ghi chú cho sản phẩm của đơn mua hộ.
+
+![image](https://user-images.githubusercontent.com/73226975/158142193-ddaac1d6-51e8-4e6a-94d7-121b486c3102.png)
+
+![image](https://user-images.githubusercontent.com/73226975/158142096-85802c66-02af-43f9-b078-1795694b8ee8.png)
 
 
-### 6. Ghi chú cho sản phẩm
-### 7. Dịch thông tin sản phẩm
-### 8. Hàng sai lỗi
-### 9. Thời gian tự chuyển kiện sang Đã nhận
-### 10. Số lượng sản phẩm tối đa trên 1 shop
+### 6. Dịch thông tin sản phẩm
+### 7. Hàng sai lỗi
+### 8. Thời gian tự chuyển kiện sang Đã nhận
+### 9. Số lượng sản phẩm tối đa trên 1 shop
 ## Ký Gửi
 ## Phương thức vận chuyển
 ## Bật kết nối Zalo
