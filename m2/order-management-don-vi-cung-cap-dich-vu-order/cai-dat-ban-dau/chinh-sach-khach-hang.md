@@ -90,6 +90,7 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 ### Bước 3: Cấu hình phí tương ứng cho cấp khách hàng
 - Mỗi một cấp khách hàng sẽ có những ưu đãi riêng, tùy vào công thức của từng đơn vị.
 Ví dụ khách đạt 200 điểm lên Vip 1, được giảm 5% trong tổng tiền phí mua hàng hoặc giảm 5000đ phí mua hàng...
+- Quý khách ấn **Hoàn thành** để kết thúc cấu hình.
 
 ![image](https://user-images.githubusercontent.com/73226975/160097949-75380d36-9dec-44a5-b1d9-8d29a7d65732.png)
 
