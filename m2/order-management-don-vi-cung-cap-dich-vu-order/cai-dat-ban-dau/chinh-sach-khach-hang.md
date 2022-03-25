@@ -59,7 +59,15 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 - Chính sách ưu đãi tốt sẽ hấp dẫn được nhiều khách hàng tham gia và hưởng ứng chương trình. Hệ thống cho phép người dùng có thể thiết lập chính sách giảm giá cho từng cấp độ để khách hàng được hưởng đúng chế độ tương ứng với cấp độ đó. 
 
 ### 3.1. Quy tắc cấu hình
+- Không cho phép xoá thiết lập
 
+- Có hiển thị lịch sử hành động sửa thiết lập từ người dùng
+
+- Cho phép sửa thiết lập chưa áp dụng nhưng không thể sửa thiết lập có hiệu lực
+
+- Chọn giảm giá các loại phí theo phần trăm (%) hoặc số tiền hoặc không giảm giá
+
+### 3.2. 
 
 ![image](https://user-images.githubusercontent.com/73226975/160097453-f64a5e94-1729-4ded-aa5f-c8f917fcc2e4.png)
 
