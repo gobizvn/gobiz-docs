@@ -74,14 +74,17 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 
 ### Bước 1: Đặt tên cấu hình
 - Click button **Thêm cấu hình** ![image](https://user-images.githubusercontent.com/73226975/160099839-5e5ffc8d-0c7c-4f4a-9f53-8fbebef0e05d.png)
+
 ![Thêm cấu hình](https://user-images.githubusercontent.com/73226975/160099769-6afa8bda-7593-4621-a775-948605f64872.png)
 
 - Điền tên cấu hình (tên chương trình khuyến mãi) và thời gian áp dụng chương trình, hoàn tất Quý khách ấn sang **Bước tiếp theo**
+
 ![Đặt tên cấu hình](https://user-images.githubusercontent.com/73226975/160097453-f64a5e94-1729-4ded-aa5f-c8f917fcc2e4.png)
 
 ### Bước 2: Set tỷ lệ đặt cọc
 - Quý khách cấu hình tỷ lệ đặt cọc cho từng cấp khách hàng.
 - Sau đó chuyển sang **Bước tiếp theo**
+
 ![Tỷ lệ đặt cọc](https://user-images.githubusercontent.com/73226975/160097640-293a7870-6dc4-4a4e-a886-1e3c4ea003a9.png)
 
 ### Bước 3: Cấu hình phí tương ứng cho cấp khách hàng
