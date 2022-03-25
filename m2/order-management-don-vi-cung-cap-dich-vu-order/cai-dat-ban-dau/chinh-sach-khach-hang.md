@@ -24,3 +24,8 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
  - Để hoàn tất cấu hình, Quý khách ấn **Thêm**
 
 ![Thêm cấu hình](https://user-images.githubusercontent.com/73226975/160081961-49595b7a-8a72-4708-adb9-6fa862201890.png)
+
+## 2. Cấu hình cấp khách hàng
+- Hình thức này áp dụng cho các đơn vị có nhiều cấp khách hàng khác nhau và với mỗi một cấp có số điểm tích lũy tương ứng. Ví dụ khách đạt 200 điểm sẽ lên Vip 1 và được hưởng ưu đãi dành riêng cho khách hàng thuộc nhóm Vip 1.
+
+- 
