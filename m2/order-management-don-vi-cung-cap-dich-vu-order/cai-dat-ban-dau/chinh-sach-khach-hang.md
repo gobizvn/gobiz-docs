@@ -29,6 +29,17 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 - Hình thức này áp dụng cho các đơn vị có nhiều cấp khách hàng khác nhau và với mỗi một cấp có số điểm tích lũy tương ứng. Ví dụ khách đạt 200 điểm sẽ lên Vip 1 và được hưởng ưu đãi dành riêng cho khách hàng thuộc nhóm Vip 1.
 - Tại menu Quý khách chọn **Cấu hình** => Chọn **Cấu hình cấp khách hàng**
 
-![image](https://user-images.githubusercontent.com/73226975/160091010-b43cd280-7951-4dcc-b9b2-4bfefed7c07c.png)
+![Menu](https://user-images.githubusercontent.com/73226975/160091292-0e7fa8f6-9d7c-4fce-bbeb-8cb66ecda0bc.png)
 
-Click button **Thêm cấp khách hàng**
+- Click button **Thêm cấp khách hàng** ![image](https://user-images.githubusercontent.com/73226975/160091345-b1bec2cf-3e81-4455-b097-3243e355a622.png)
+
+![Thêm cấp khách hàng](https://user-images.githubusercontent.com/73226975/160091010-b43cd280-7951-4dcc-b9b2-4bfefed7c07c.png)
+
+Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu hình như sau:
+**(1)** - Tên cấp độ khách hàng
+**(2)** - Điểm tích lũy tối thiểu để đạt cấp độ khách
+**(3)** - Link ảnh hiển thị cấp độ khách hàng
+
+![Điền thông tin](https://user-images.githubusercontent.com/73226975/160091654-f55deab9-082a-4e73-a390-9b1c6a22436c.png)
+
+
