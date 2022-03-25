@@ -5,6 +5,6 @@
 
 ## Tạo nhóm khách hàng:
 ### Tạo bộ cấu hình chính sách cho nhóm khách hàng mới
-- Quý khách tham khảo bài viết hướng dẫn cấu hình phí Tại đây.
+- Quý khách tham khảo bài viết hướng dẫn cấu hình phí [**TẠI ĐÂY**](https://hd.gobiz.vn/m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setupfee)
 
 ### Tạo nhóm khách hàng mới
