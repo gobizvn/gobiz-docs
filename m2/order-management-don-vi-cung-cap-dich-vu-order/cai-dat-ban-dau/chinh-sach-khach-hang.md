@@ -27,6 +27,14 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 
 ## 2. Cấu hình cấp khách hàng
 - Hình thức này áp dụng cho các đơn vị có nhiều cấp khách hàng khác nhau và với mỗi một cấp có số điểm tích lũy tương ứng. Ví dụ khách đạt 200 điểm sẽ lên Vip 1 và được hưởng ưu đãi dành riêng cho khách hàng thuộc nhóm Vip 1.
+
+### 2.1. Quy tắc cấu hình
+- Khi cấu hình cấp độ chỉ nhập 1 mức điểm tối thiểu, cho phép nhập cả âm cả dương (Ví dụ: 1000 điểm = VIP 1)
+- Khi cấu hình phải cấu hình theo thứ tự điểm từ thấp đến cao, danh sách cũng sắp xếp theo điểm từ thấp đến cao
+- Khi tạo mới cấp độ, điểm tích lũy tối thiếu không được trùng điểm của cấp VIP đã được tạo
+- Không thể xóa nhưng có thể sửa cấp độ đang được áp dụng.
+- 
+### 2.2. Tạo cấu hình
 - Tại menu Quý khách chọn **Cấu hình** => Chọn **Cấu hình cấp khách hàng**
 
 ![Menu](https://user-images.githubusercontent.com/73226975/160091292-0e7fa8f6-9d7c-4fce-bbeb-8cb66ecda0bc.png)
@@ -42,6 +50,7 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 **(2)** - Điểm tích lũy tối thiểu để đạt cấp độ khách
 
 **(3)** - Link ảnh hiển thị cấp độ khách hàng
+
 - Quý khách ấn **Lưu** ![image](https://user-images.githubusercontent.com/73226975/160092370-1179aaa7-7c58-45b4-8251-6a4ef3392165.png) để hoàn tất cấu hình.
 
 ![Điền thông tin](https://user-images.githubusercontent.com/73226975/160091654-f55deab9-082a-4e73-a390-9b1c6a22436c.png)
