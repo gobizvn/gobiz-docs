@@ -67,7 +67,14 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 
 - Chọn giảm giá các loại phí theo phần trăm (%) hoặc số tiền hoặc không giảm giá
 
-### 3.2. 
+### 3.2. Thêm cấu hình
+- Tại menu Quý khách chọn **Cấu hình** => Chọn **Cấu hình chính sách khách hàng**
+
+![menu](https://user-images.githubusercontent.com/73226975/160099517-6caf0213-8e51-46b8-a4c6-1218d4bb95b8.png)
+
+- Click button **Thêm cấu hình** ![image](https://user-images.githubusercontent.com/73226975/160099839-5e5ffc8d-0c7c-4f4a-9f53-8fbebef0e05d.png)
+
+![image](https://user-images.githubusercontent.com/73226975/160099769-6afa8bda-7593-4621-a775-948605f64872.png)
 
 ![image](https://user-images.githubusercontent.com/73226975/160097453-f64a5e94-1729-4ded-aa5f-c8f917fcc2e4.png)
 
