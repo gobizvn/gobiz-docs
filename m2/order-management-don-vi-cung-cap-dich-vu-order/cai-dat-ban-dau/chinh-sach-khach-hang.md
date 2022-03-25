@@ -5,7 +5,7 @@
 ## 1. Cấu hình quy đổi điểm
 - Tính năng được thiết lập theo mô hình thẻ thành viên, các khách hàng sẽ được tích lũy điểm khi sử dụng dịch vụ. 
 Khi đạt mức điểm nhất định khách hàng sẽ được hưởng các chính sách ưu đãi mà người mua bình thường không có. Mỗi đơn vị sẽ có hệ thống tính điểm, tỉ lệ quy đổi riêng, tùy vào các chính sách mà đơn vị đó quy ước.
-- Tại menu Quý khách chọn**Cấu hình** => Chọn **Cấu hình quy đổi điểm**
+- Tại menu Quý khách chọn **Cấu hình** => Chọn **Cấu hình quy đổi điểm**
 
 ![Menu](https://user-images.githubusercontent.com/73226975/160079530-14ff5ba7-8879-4a32-b0a5-57a13dccc5d0.png)
 
@@ -17,5 +17,10 @@ Khi đạt mức điểm nhất định khách hàng sẽ được hưởng các
 
 ![Điền thông tin](https://user-images.githubusercontent.com/73226975/160081750-0b33cb72-d814-4a03-ae5b-379473da2016.png)
 
+Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu hình như sau:
+- Tên cấu hình: Tên chương trình khuyến mãi.
+- Thời gian áp dụng: Thời gian chương trình khuyến mãi có hiệu lực.
+- Phần quy đổi điểm từ dịch vụ sang giá trị, Quý khách điền theo công thức tính tỉ lệ quy đổi riêng hoặc có thể tham khảo theo ảnh bên dưới.
+ - Để hoàn tất cấu hình, Quý khách ấn **Thêm**
 
 ![Thêm cấu hình](https://user-images.githubusercontent.com/73226975/160081961-49595b7a-8a72-4708-adb9-6fa862201890.png)
