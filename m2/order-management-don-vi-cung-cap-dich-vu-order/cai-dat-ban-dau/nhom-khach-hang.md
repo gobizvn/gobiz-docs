@@ -17,7 +17,7 @@
 ![Tạo mới](https://user-images.githubusercontent.com/73226975/160045448-eea7ce78-3756-4144-af4a-02092a9550a4.png)
 
 - Quý khách điền thông tin nhóm khách hàng mới theo chỉ dẫn trong bảng cấu hình như sau:
-- 
+
 **(1)** - Điền mã nhóm khách hàng mới, quy tắc đặt mã nhóm Quý khách viết liền không dấu, không ký tự đặc biệt. 
 Ví dụ: vip01
 
@@ -36,3 +36,8 @@ Ví dụ: Nhóm VIP 01 Quý khách thu 40% tiền đặt cọc đơn hàng, Quý
 - Quý khách chọn button **Thêm** ![image](https://user-images.githubusercontent.com/73226975/160047326-05e31b67-1661-4f95-8544-d1b7dd590742.png) để hoàn tất quá trình tạo nhóm khách hàng mới.
 
 ![Thêm nhóm khách hàng](https://user-images.githubusercontent.com/73226975/160047195-b6b0d8c1-a688-4024-983e-0b7214b61d95.png)
+
+- Giao diện hiển thị và thông báo tạo nhóm khách hàng thành công với đầy đủ thông tin: mã nhóm, tên nhóm, ngày tạo, người tạo....
+
+![Tạo nhóm thành công](https://user-images.githubusercontent.com/73226975/160047855-a79f5ee4-3866-4a61-838b-5a45cebb7972.png)
+
