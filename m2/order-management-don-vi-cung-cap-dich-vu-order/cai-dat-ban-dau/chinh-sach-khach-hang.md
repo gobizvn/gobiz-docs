@@ -21,7 +21,7 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 - Tên cấu hình: Tên chương trình khuyến mãi.
 - Thời gian áp dụng: Thời gian chương trình khuyến mãi có hiệu lực.
 - Phần quy đổi điểm từ dịch vụ sang giá trị, Quý khách điền theo công thức tính tỉ lệ quy đổi riêng hoặc có thể tham khảo theo ảnh bên dưới.
- - Để hoàn tất cấu hình, Quý khách ấn **Thêm**
+- Để hoàn tất cấu hình, Quý khách ấn **Thêm**
 
 ![Thêm cấu hình](https://user-images.githubusercontent.com/73226975/160081961-49595b7a-8a72-4708-adb9-6fa862201890.png)
 
@@ -35,10 +35,14 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 
 ![Thêm cấp khách hàng](https://user-images.githubusercontent.com/73226975/160091010-b43cd280-7951-4dcc-b9b2-4bfefed7c07c.png)
 
-Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu hình như sau:
+- Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu hình như sau:
+
 **(1)** - Tên cấp độ khách hàng
+
 **(2)** - Điểm tích lũy tối thiểu để đạt cấp độ khách
+
 **(3)** - Link ảnh hiển thị cấp độ khách hàng
+- Quý khách ấn **Lưu** ![image](https://user-images.githubusercontent.com/73226975/160092370-1179aaa7-7c58-45b4-8251-6a4ef3392165.png) để hoàn tất cấu hình.
 
 ![Điền thông tin](https://user-images.githubusercontent.com/73226975/160091654-f55deab9-082a-4e73-a390-9b1c6a22436c.png)
 
