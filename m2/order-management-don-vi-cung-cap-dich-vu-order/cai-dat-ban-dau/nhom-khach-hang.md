@@ -3,7 +3,7 @@
 ## Định nghĩa:
 - Nhóm khách hàng là tập hợp các khách hàng có cùng tính cách, đặc tính riêng biệt, từ đó đơn vị cung cấp dịch vụ sẽ tìm hiểu và đưa ra những phương pháp tiếp cận khách hàng phù hợp.
 
-## 1. Tạo nhóm khách hàng:
+## 1. Tạo nhóm khách hàng
 ### Tạo bộ cấu hình chính sách cho nhóm khách hàng mới
 - Quý khách tham khảo bài viết hướng dẫn cấu hình phí [**TẠI ĐÂY**](https://hd.gobiz.vn/m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setupfee)
 
@@ -41,11 +41,20 @@ Ví dụ: Nhóm VIP 01 Quý khách thu 40% tiền đặt cọc đơn hàng, Quý
 
 ![Tạo nhóm thành công](https://user-images.githubusercontent.com/73226975/160047855-a79f5ee4-3866-4a61-838b-5a45cebb7972.png)
 
-## 2. Sửa nhóm khách hàng:
+## 2. Sửa nhóm khách hàng
 - Quý khách có thể sửa **Tên** nhóm khách hàng và **Tỷ lệ đặt cọc** đang áp dụng.
-- Tại giao diện danh sách nhóm khách hàng, Quý khách chọn nhóm khách hàng cần sửa và click vào button **Sửa** ![image](https://user-images.githubusercontent.com/73226975/160050952-fbf21ccb-c633-42c2-9b66-f7375195878e.png)
-
+- Tại giao diện danh sách nhóm khách hàng, Quý khách chọn nhóm khách hàng cần sửa và click vào button **Sửa**
 - Sau khi điền đầy đủ thông tin mới, Quý khách click vào button **Sửa** ![image](https://user-images.githubusercontent.com/73226975/160051215-ac95a85b-f4e4-42bd-bb74-59396dd8fd0e.png) để hoàn tất thao tác chỉnh sửa.
 
-![Sủa nhóm khách hàng](https://user-images.githubusercontent.com/73226975/160051009-eae17770-9b78-46b7-9ba9-3a11305fd98a.png)
+![Sửa nhóm khách hàng](https://user-images.githubusercontent.com/73226975/160051009-eae17770-9b78-46b7-9ba9-3a11305fd98a.png)
+
+## 3. Xóa nhóm khách hàng
+- Quý khách có thể xóa nhóm khách hàng khi nhóm không có khách hàng.
+- Ngược lại, Quý khách không thể xóa các nhóm có khách hàng đang sử dụng.
+- Để xóa, tại giao diện danh sách nhóm khách hàng, Quý khách chọn nhóm khách hàng cần xóa và click vào button **Xóa**. Bấm xác nhận **Đồng ý** để hoàn tất thao tác.
+
+![Xóa](https://user-images.githubusercontent.com/73226975/160052326-6fc7e340-dfc6-42c5-8fbc-01ec609af870.png)
+
+![Đồng ý](https://user-images.githubusercontent.com/73226975/160052197-ef246991-1dd4-483f-9c5a-5fda4ba3d096.png)
+
 
