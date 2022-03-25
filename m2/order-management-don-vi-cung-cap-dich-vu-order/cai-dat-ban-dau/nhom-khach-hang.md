@@ -57,7 +57,7 @@ Ví dụ: Nhóm VIP 01 Quý khách thu 40% tiền đặt cọc đơn hàng, Quý
 
 ![Đồng ý](https://user-images.githubusercontent.com/73226975/160052197-ef246991-1dd4-483f-9c5a-5fda4ba3d096.png)
 
-## 4. Cấu hình khách hàng tương ứng với nhóm khách hàng
+## 4. Thêm khách hàng vào nhóm
 - Tại menu Quý khách chọn **Khách hàng** => Chọn **Danh sách khách hàng**
 
 ![Menu](https://user-images.githubusercontent.com/73226975/160053304-2586baa2-b223-4a8e-ae08-e0397301b871.png)
@@ -65,7 +65,6 @@ Ví dụ: Nhóm VIP 01 Quý khách thu 40% tiền đặt cọc đơn hàng, Quý
 - Quý khách tìm kiếm thông tin khách hàng cần cấu hình, sau đó click vào **Mã khách hàng** để truy cập vào trang **Chi tiết khách hàng**
 
 ![image](https://user-images.githubusercontent.com/73226975/160053361-0e730afb-f321-45db-b8b1-dd7d852a94c9.png)
-
 
 ![image](https://user-images.githubusercontent.com/73226975/160053446-d669743a-9c42-48d0-ac48-07f5d7cecf97.png)
 
