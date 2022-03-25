@@ -14,5 +14,7 @@
 
 - Click button **Tạo mới** ![image](https://user-images.githubusercontent.com/73226975/160045602-c11ddf79-ebb2-44f0-9a44-6206cc745a8c.png)
 
-- 
-![image](https://user-images.githubusercontent.com/73226975/160045448-eea7ce78-3756-4144-af4a-02092a9550a4.png)
+![Tạo mới](https://user-images.githubusercontent.com/73226975/160045448-eea7ce78-3756-4144-af4a-02092a9550a4.png)
+
+
+![image](https://user-images.githubusercontent.com/73226975/160045981-7f5d1a5c-af65-4aed-9bbe-b250896dbd9b.png)
