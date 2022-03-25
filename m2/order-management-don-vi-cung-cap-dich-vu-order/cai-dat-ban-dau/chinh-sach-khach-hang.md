@@ -33,7 +33,7 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 - Khi cấu hình phải cấu hình theo thứ tự điểm từ thấp đến cao, danh sách cũng sắp xếp theo điểm từ thấp đến cao
 - Khi tạo mới cấp độ, điểm tích lũy tối thiếu không được trùng điểm của cấp VIP đã được tạo
 - Không thể xóa nhưng có thể sửa cấp độ đang được áp dụng.
-- 
+
 ### 2.2. Tạo cấu hình
 - Tại menu Quý khách chọn **Cấu hình** => Chọn **Cấu hình cấp khách hàng**
 
@@ -54,5 +54,20 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 - Quý khách ấn **Lưu** ![image](https://user-images.githubusercontent.com/73226975/160092370-1179aaa7-7c58-45b4-8251-6a4ef3392165.png) để hoàn tất cấu hình.
 
 ![Điền thông tin](https://user-images.githubusercontent.com/73226975/160091654-f55deab9-082a-4e73-a390-9b1c6a22436c.png)
+
+## 3. Cấu hình chính sách khách hàng
+- Chính sách ưu đãi tốt sẽ hấp dẫn được nhiều khách hàng tham gia và hưởng ứng chương trình. Hệ thống cho phép người dùng có thể thiết lập chính sách giảm giá cho từng cấp độ để khách hàng được hưởng đúng chế độ tương ứng với cấp độ đó. 
+
+### 3.1. Quy tắc cấu hình
+
+
+![image](https://user-images.githubusercontent.com/73226975/160097453-f64a5e94-1729-4ded-aa5f-c8f917fcc2e4.png)
+
+![image](https://user-images.githubusercontent.com/73226975/160097640-293a7870-6dc4-4a4e-a886-1e3c4ea003a9.png)
+
+![image](https://user-images.githubusercontent.com/73226975/160097949-75380d36-9dec-44a5-b1d9-8d29a7d65732.png)
+
+![image](https://user-images.githubusercontent.com/73226975/160098212-c0b0378d-bbc3-4c97-964f-44175fa19b62.png)
+
 
 
