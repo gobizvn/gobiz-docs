@@ -1,8 +1,8 @@
 # Kiểm hàng
 
-## Mục đích: Kiểm tra số lượng các sản phẩm trong kiện hàng
+## Mục đích: 
 
-Nhân viên kho thực hiện kiểm hàng như sau:
+- Kiểm tra số lượng các sản phẩm thực tế nhận được trong kiện hàng
 
 ## Bước 1: Quét mã kiện cần kiểm
 
