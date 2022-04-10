@@ -44,9 +44,7 @@
 
 - Click chuột vào 1 mã bao hàng cần xuất kho
 
-![Chọn bao hàng](https://user-images.githubusercontent.com/73226975/162608710-a1c36648-f395-481f-a5a3-77cde37d704a.png)
 
 - Tại màn hình chi tiết bao hàng, Quý khách thao tác bấm **Xuất bao**
 
-![Xuất bao hàng](https://user-images.githubusercontent.com/85599407/128310534-d5ec9b7c-7de8-4f9b-9551-469422f13aaf.png)
-
+![Xuất bao hàng](https://user-images.githubusercontent.com/73226975/162608710-a1c36648-f395-481f-a5a3-77cde37d704a.png)
