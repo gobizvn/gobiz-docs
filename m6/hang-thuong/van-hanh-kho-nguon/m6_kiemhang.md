@@ -49,9 +49,12 @@
 ## 2. Tách kiện
 
 - Cảnh báo tách kiện chỉ hiển thị khi kiện hàng vượt quá điều kiện về cân nặng, tổng giá trị sản phẩm tối đa.
-- Quý khách tham khảo thêm bài hướng dẫn cấu hình **Đối tác vận chuyển**
+- Quý khách tham khảo thêm bài hướng dẫn cấu hình [Đối tác vận chuyển](https://hd.gobiz.vn/m6/cau-hinh-chung/vanchuyen)
 
 ![Cảnh báo tách kiện](https://user-images.githubusercontent.com/73226975/162614234-44ceb987-0bd6-451f-b88d-10c6918354f9.png)
+
+- Quý khách click vào cảnh báo **Tách kiện**
+- Hệ thống sẽ chuyển hướng từ giao diện **Kiểm hàng** sang giao diện **Tách kiện**
 
 ![Thêm kiện](https://user-images.githubusercontent.com/73226975/162614261-73acb8c4-ddc2-4b84-b9b4-46c04c2a1c6a.png)
 
