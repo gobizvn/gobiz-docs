@@ -8,7 +8,9 @@
 
 - Quý khách tham khảo thêm tại video hướng dẫn: [Hướng dẫn sử dụng hệ thống từ A-Z bản update](https://youtu.be/ZHQZUob3I7g?t=701)
 
-### Bước 1: Quý khách truy cập vào Menu => Chọn Bao hàng (1) => Chọn Tạo bao hàng (2)
+### Bước 1: Quý khách truy cập vào Menu 
+
+- Chọn Bao hàng (1) => Chọn Tạo bao hàng (2)
 
 - Điền thông tin bao hàng : kích thước bao hàng, chọn kho, loại vận chuyển…(3,4,5), sau đó click **Lưu và đóng bao**
 
@@ -37,6 +39,14 @@
 ![Xuất DS bao](https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png)
 
 ### 2. Xuất kho từng bao hàng
+
+- Quý khách truy cập vào Menu => Chọn Bao hàng => chọn Danh sách bao hàng
+
+- Click chuột vào 1 mã bao hàng cần xuất kho
+
+![Chọn bao hàng](https://user-images.githubusercontent.com/73226975/162608710-a1c36648-f395-481f-a5a3-77cde37d704a.png)
+
+- Tại màn hình chi tiết bao hàng, Quý khách thao tác bấm **Xuất bao**
 
 ![Xuất bao hàng](https://user-images.githubusercontent.com/85599407/128310534-d5ec9b7c-7de8-4f9b-9551-469422f13aaf.png)
 
