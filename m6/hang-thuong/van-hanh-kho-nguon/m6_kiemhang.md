@@ -14,8 +14,6 @@
 
 - Quý khách truy cập vào Menu => Chọn **Kiện hàng** => chọn **Kiểm hàng**
 
-![Menu](https://user-images.githubusercontent.com/73226975/162612550-990d2234-f0ee-439f-b2b5-b97451ed722a.png)
-
 - Quý khách dùng súng bắn mã vạch quét mã kiện cần kiểm vào ô trống như hình minh họa
 
 ![Quét mã kiện cần kiểm](https://user-images.githubusercontent.com/73226975/162417522-5bdc03ce-d67a-43db-8b4c-6d5fc796ff1a.png)
@@ -27,6 +25,14 @@
 (2) - Bấm **Kết thúc kiểm kiện** để hoàn tất quá trình kiểm hàng 
 
 *Lưu ý: Có thể bấm vào nút nhận đủ trên từng kiện, hoặc nút nhận đủ tất cả sản phẩm trên kiện 
+
+
+![Kiểm hàng](https://user-images.githubusercontent.com/73226975/162612231-b62a9a03-3fb7-433d-b820-85f167fc7502.png)
+
+### Bước 3: Chat nội bộ & tải file/ảnh sản phẩm
+
+![Chat nội bộ](https://user-images.githubusercontent.com/73226975/162612826-e84590af-4d39-465f-aebb-a5f6b87e466c.png)
+
 
 ![Kiểm hàng](https://user-images.githubusercontent.com/73226975/162612231-b62a9a03-3fb7-433d-b820-85f167fc7502.png)
 
