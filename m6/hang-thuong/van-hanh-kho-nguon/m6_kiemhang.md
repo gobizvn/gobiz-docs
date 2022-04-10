@@ -30,7 +30,7 @@
 ![Kiểm hàng](https://user-images.githubusercontent.com/73226975/162612231-b62a9a03-3fb7-433d-b820-85f167fc7502.png)
 
 ### Bước 3: Chức năng liên quan
-### 3.1: Chat với khách trên đơn & Lịch sử thao tác trên kiện
+### 3.1. Chat với khách trên đơn & Lịch sử thao tác trên kiện
 
 - Quý khách thao tác chat, tải file và tải hình ảnh sản phẩm và kiểm tra lịch sử thao tác trên đơn tại khối menu bên phải màn hình chi tiết kiểm hàng như ảnh minh họa
 - Quý khách ấn enter để hoàn tất quá trình thao tác: chat, tải file, tải hình ảnh
@@ -38,7 +38,7 @@
 
 ![Chat với khách](https://user-images.githubusercontent.com/73226975/162613433-a83347af-4ac1-4c60-b716-4152f668e8ab.png)
 
-### 3.2: Chat nội bộ & tải file/ảnh sản phẩm
+### 3.2. Chat nội bộ & tải file/ảnh sản phẩm
 
 - Quý khách thao tác chat, tải file và tải hình ảnh sản phẩm và kiểm tra lịch sử thao tác trên đơn tại khối menu bên phải màn hình chi tiết kiểm hàng như ảnh minh họa
 - Quý khách ấn enter để hoàn tất quá trình thao tác: chat, tải file, tải hình ảnh
@@ -48,5 +48,11 @@
 
 ## 2. Tách kiện
 
+- Cảnh báo tách kiện chỉ hiển thị khi kiện hàng vượt quá điều kiện về cân nặng, tổng giá trị sản phẩm tối đa.
+- Quý khách tham khảo thêm bài hướng dẫn cấu hình **Đối tác vận chuyển**
+
+![Cảnh báo tách kiện](https://user-images.githubusercontent.com/73226975/162614234-44ceb987-0bd6-451f-b88d-10c6918354f9.png)
+
+![Thêm kiện](https://user-images.githubusercontent.com/73226975/162614261-73acb8c4-ddc2-4b84-b9b4-46c04c2a1c6a.png)
 
 
