@@ -8,7 +8,7 @@
 
 ### 1. Xuất danh sách bao hàng
 
-#### 1.1. Tại danh sách bao hàng
+### 1.1. Tại danh sách bao hàng
 
 - Quý khách truy cập vào Menu => Chọn Bao hàng => chọn Danh sách bao hàng
 
@@ -16,7 +16,7 @@
 
 ![Xuất DS bao](https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png)
 
-#### 1.2. Tại màn hình Quét mã vạch
+### 1.2. Tại màn hình Quét mã vạch
 
 - Quý khách truy cập vào Menu => Chọn **Vận hành** => Chọn **Quét mã vạch**
 
@@ -33,7 +33,7 @@
 
 ### 2. Xuất kho từng bao hàng
 
-#### 1.1. Tại danh sách bao hàng
+### 1.1. Tại danh sách bao hàng
 
 - Quý khách truy cập vào Menu => Chọn **Bao hàng** => chọn **Danh sách bao hàng**
 
@@ -49,7 +49,7 @@
 
 ![Chi tiết bao](https://user-images.githubusercontent.com/73226975/162609301-ec4f5aca-c397-4606-8136-29fc8d351a3a.png)
 
-#### 1.2. Tại màn hình Quét mã vạch
+### 1.2. Tại màn hình Quét mã vạch
 
 - Quý khách truy cập vào Menu => Chọn **Vận hành** => Chọn **Quét mã vạch**
 
