@@ -1,10 +1,8 @@
 # Bao hàng
 
-## HƯỚNG DẪN TẠO VÀ XUẤT BAO HÀNG
-
 **Mục đích:** Để quản lý các kiện hàng trong quá trình Vận chuyển Quốc tế, một bao hàng có thể được khớp một kiện hoặc nhiều kiện theo đúng tình trạng của bao hàng vật lý.
 
-## 1. Tạo bao hàng
+## Tạo bao hàng
 
 - Quý khách tham khảo thêm tại video hướng dẫn: [Hướng dẫn sử dụng hệ thống từ A-Z bản update](https://youtu.be/ZHQZUob3I7g?t=701)
 
@@ -27,32 +25,3 @@
 - Nhập cân nặng của bao và chọn **Kết thúc đóng bao** để hoàn tất.
 
 ![Quét kiện vào bao](https://user-images.githubusercontent.com/85599407/128309479-0e8225e1-465c-41a7-b999-1cfd06e90269.png)
-
-## 2. Xuất bao hàng
-- Quý khách tham khảo thêm tại video hướng dẫn: [Hướng dẫn sử dụng hệ thống từ A-Z bản update](https://youtu.be/ZHQZUob3I7g?t=762)
-
-### 1. Xuất kho nhiều bao hàng
-- Quý khách truy cập vào Menu => Chọn Bao hàng => chọn Danh sách bao hàng
-
-- Tick chọn các mã bao hàng cần xuất, sau đó bấm **Xuất bao**
-
-![Xuất DS bao](https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png)
-
-### 2. Xuất kho từng bao hàng
-
-- Quý khách truy cập vào Menu => Chọn Bao hàng => chọn Danh sách bao hàng
-
-- Click chuột vào 1 mã bao hàng cần xuất kho
-
-![Chọn bao hàng](https://user-images.githubusercontent.com/73226975/162608931-fd648eb7-ca92-46d0-958d-ebdad378f886.png)
-
-- Tại màn hình chi tiết bao hàng, Quý khách thao tác bấm **Xuất bao**
-
-![Xuất bao hàng](https://user-images.githubusercontent.com/73226975/162608710-a1c36648-f395-481f-a5a3-77cde37d704a.png)
-
-- Trạng thái bao hàng, kiện hàng và đơn hàng sẽ thay đổi.
-
-![Chi tiết bao](https://user-images.githubusercontent.com/73226975/162609301-ec4f5aca-c397-4606-8136-29fc8d351a3a.png)
-
-
-
