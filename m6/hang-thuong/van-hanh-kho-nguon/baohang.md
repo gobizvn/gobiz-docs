@@ -31,9 +31,10 @@
 
 ### 1. Xuất kho nhiều bao hàng
 - Quý khách truy cập vào Menu => Chọn Bao hàng => chọn Danh sách bao hàng
-- Tick chọn các mã bao hàng cần xuất, sau đó bấm **Xuất bao**<img width="42" alt="image" src="https://user-images.githubusercontent.com/73226975/162608420-c4d4c8cc-e8a2-4848-a3d9-0ceb9617642c.png">
 
-<img width="1427" alt="image" src="https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png">
+- Tick chọn các mã bao hàng cần xuất, sau đó bấm **Xuất bao**
+
+<img width="1427" alt="Xuất DS bao" src="https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png">
 
 ### 2. Xuất kho từng bao hàng
 
