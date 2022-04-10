@@ -46,7 +46,9 @@ Sau khi điền cân nặng, Quý khách ấn enter 2 lần để in tem tự đ
 
 ### Bước 2: Tải và điền file mẫu
 
-Quý khách tải xuống file mẫu trên hệ thống sau đó cập nhật thông tin đầy đủ vào các cột trên file excel.
+- Quý khách tải xuống file mẫu trên hệ thống, sau đó cập nhật thông tin đầy đủ vào các cột trên file excel. 
+
+- Trong đó **Mã vận đơn** là bắt buộc, **cân nặng và username** khách hàng có thể bỏ trống.
 
 ![image](https://user-images.githubusercontent.com/85599407/128308657-6f309859-c35f-41d6-a68f-ea52c0836837.png)
 
@@ -66,7 +68,7 @@ Quý khách truy cập danh sách kiện sau đó chọn kiện vừa tạo đ�
 
 ## 3. Tạo kiện độc lập
 
-**\*Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
+**Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
 
 ### Bước 1: Quét mã tạo kiện
 
