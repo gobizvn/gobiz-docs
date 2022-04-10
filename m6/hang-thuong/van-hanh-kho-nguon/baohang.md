@@ -34,7 +34,7 @@
 
 - Tick chọn các mã bao hàng cần xuất, sau đó bấm **Xuất bao**
 
-<img width="1427" alt="Xuất DS bao" src="https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png">
+![Xuất DS bao](https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png)
 
 ### 2. Xuất kho từng bao hàng
 
