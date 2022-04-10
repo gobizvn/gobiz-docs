@@ -26,12 +26,12 @@
 
 ![Quét kiện vào bao](https://user-images.githubusercontent.com/85599407/128309479-0e8225e1-465c-41a7-b999-1cfd06e90269.png)
 
-## Xuất bao hàng
+## 2. Xuất bao hàng
 - Quý khách tham khảo thêm tại video hướng dẫn: [Hướng dẫn sử dụng hệ thống từ A-Z bản update](https://youtu.be/ZHQZUob3I7g?t=762)
 
 ### 1. Xuất kho nhiều bao hàng
 - Quý khách truy cập vào Menu => Chọn Bao hàng => chọn Danh sách bao hàng
-- Tick chọn các mã bao hàng cần xuất, sau đó bấm **Xuất bao**<img width="82" alt="image" src="https://user-images.githubusercontent.com/73226975/162608420-c4d4c8cc-e8a2-4848-a3d9-0ceb9617642c.png">
+- Tick chọn các mã bao hàng cần xuất, sau đó bấm **Xuất bao**<img width="42" alt="image" src="https://user-images.githubusercontent.com/73226975/162608420-c4d4c8cc-e8a2-4848-a3d9-0ceb9617642c.png">
 
 <img width="1427" alt="image" src="https://user-images.githubusercontent.com/73226975/162608395-4b95fe39-0488-4a30-8604-dfa6bd0bd2b1.png">
 
