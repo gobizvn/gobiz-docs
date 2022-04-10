@@ -49,3 +49,10 @@
 - Tại màn hình chi tiết bao hàng, Quý khách thao tác bấm **Xuất bao**
 
 ![Xuất bao hàng](https://user-images.githubusercontent.com/73226975/162608710-a1c36648-f395-481f-a5a3-77cde37d704a.png)
+
+- Trạng thái bao hàng, kiện hàng và đơn hàng sẽ thay đổi.
+
+![Chi tiết bao](https://user-images.githubusercontent.com/73226975/162609301-ec4f5aca-c397-4606-8136-29fc8d351a3a.png)
+
+
+
