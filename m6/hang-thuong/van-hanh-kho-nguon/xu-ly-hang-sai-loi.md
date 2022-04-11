@@ -51,14 +51,19 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 
 ## Bước 3: Tạo khiếu nại người bán
+- Tại giao diện kiểm kiện, Quý khách chọn **Tạo khiếu nại người bán** (KNNB)
 
-<img width="1052" alt="image" src="https://user-images.githubusercontent.com/73226975/162716117-fb570e63-0172-4254-8909-0e7c804f0b55.png">
+![Tạo KNNB](https://user-images.githubusercontent.com/73226975/162716117-fb570e63-0172-4254-8909-0e7c804f0b55.png)
 
-<img width="982" alt="image" src="https://user-images.githubusercontent.com/73226975/162716505-13008daf-19ba-48b7-8006-2648f29181a0.png">
+- Chọn lý do khiếu nại và điền thông tin chi tiết sai lỗi của kiện hàng/sản phẩm => Bấm **Đồng ý** để xác nhận tạo KNNB
 
-<img width="1358" alt="image" src="https://user-images.githubusercontent.com/73226975/162716565-e3e5cfc3-de49-4bed-9d18-22148efcba14.png">
+![Lý do KNNB](https://user-images.githubusercontent.com/73226975/162716505-13008daf-19ba-48b7-8006-2648f29181a0.png)
 
-<img width="1060" alt="image" src="https://user-images.githubusercontent.com/73226975/162717011-dca5280a-4f9c-41d1-abde-3f15b34e9145.png">
+- Khiếu nại người bán tạo thành công, Quý khách có thể bấm trực tiếp vào mã khiếu nại để theo dõi tiến trình xử lý
+
+![Tạo KNNB thành công](https://user-images.githubusercontent.com/73226975/162716565-e3e5cfc3-de49-4bed-9d18-22148efcba14.png)
+
+![Theo dõi KNNB](https://user-images.githubusercontent.com/73226975/162717011-dca5280a-4f9c-41d1-abde-3f15b34e9145.png)
 
 ![Uploading image.png…]()
 
