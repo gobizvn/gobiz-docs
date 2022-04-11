@@ -58,9 +58,22 @@
 
 ![Thêm kiện](https://user-images.githubusercontent.com/73226975/162614261-73acb8c4-ddc2-4b84-b9b4-46c04c2a1c6a.png)
 
+- Quý khách click vào button **Thêm kiện tách**
+(1) - Điền cân nặng kiện hàng
+(2) - Số lượng sản phẩm trong kiện
+(3) - Quý khách bấm **Tạo kiện** để hoàn tất quá trình tách hàng hóa
+
+*Lưu ý: Cân nặng kiện hàng và số lượng sản phẩm trên kiện, Quý khách chủ động cân đối dựa theo điều kiện và quy định của hình thức vận chuyển thương mại điện tử.
+
 ![Tách kiện](https://user-images.githubusercontent.com/73226975/162703504-5a2e4278-9e0c-413d-876e-8453eac871a9.png)
 
+- Kiện hàng tách thành công, Quý khách thao tác in tem chính ngạch (TMĐT) và dán lên kiện hàng
+
 ![In tem TMDT](https://user-images.githubusercontent.com/73226975/162703620-380081d3-caf0-41a4-8771-f3bec0d07570.png)
+
+- Mẫu tem TMĐT
+
+[Tách kiện.pdf](https://github.com/gobizvn/gobiz-docs/files/8462773/Tach.ki.n.pdf)
 
 
 
