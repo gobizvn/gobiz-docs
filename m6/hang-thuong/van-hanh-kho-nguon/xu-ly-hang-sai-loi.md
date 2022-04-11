@@ -21,6 +21,13 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 - Hệ thống sẽ chuyển hướng sang giao diện upload ảnh, Quý khách chọn tải ảnh từ thư viện hoặc chụp mới
 
+![Chọn nguồn tải ảnh](https://user-images.githubusercontent.com/73226975/162712968-04dfb24e-7c10-4f0e-a03d-0bc63148f27c.jpeg)
+
+- Tải ảnh thành công, Quý khách tiến hành tải lại trang website để kiểm tra ảnh trên máy tính đã được cập nhập thành công.
+
+![Tải ảnh thành công](https://user-images.githubusercontent.com/73226975/162712976-73e24bb5-b290-4507-aa9b-88f518c2c519.jpeg)
+
+![Ảnh hiển thị trên giao diện máy tính](https://user-images.githubusercontent.com/73226975/162713313-78856c1a-ffb4-4689-b752-89f89e57ce34.png)
 
 
 ### 2.2. Tải ảnh trực tiếp từ máy tính
