@@ -67,27 +67,38 @@ Bước 6: In phiếu xuất, đính kèm hàng hóa khi giao tới khách
 - Danh sách các mã yêu cầu giao hàng chưa được xử lý
 
 ### Thông tin khách hàng của phiếu xuất bao gồm
-
 1. Tên khách hàng
 2. Số dư ví của khách
 3. Thông tin người nhận (mặc định sẽ là tên khách hàng)
 4. Phí vận chuyển giao hàng nội địa Việt Nam
 5. Phần âm tài chính: chính là số dư của khách < 0đ
-6. COD: được hiểu là giao hàng rồi mới thu tiền. Công thức tính phí COD trên phiếu xuất = Tiền phí vận chuyển nội địa VN + Phần âm tài chính
+6. COD: là giao hàng rồi mới thu tiền. Công thức tính phí COD trên phiếu xuất = Tiền phí vận chuyển nội địa VN + Phần âm tài chính
+
 **Ví dụ:** Phí vận chuyển: 30.000đ, phần âm tài chính: -100.000đ. 
 Vậy tiền COD = 30.000 + 100.000 = 130.000đ
 7. Đối tác vận chuyển: Quý khách có thể lựa chọn gửi hàng thông qua các đối tác giao hàng nội địa tại VN như GHTK, GHN, Snappy...
 8. Kích thước kiện hàng: Dài x rộng x Cao
 9. Ghi chú thêm khi giao hàng
 10. Số điện thoại & Địa chỉ người nhận: Tính năng chỉ áp dụng cho trường hợp nếu thông tin người nhận khác với thông tin mặc định trên hệ thống.
-
 ### Danh sách có thể giao
 - Danh sách các kiện hàng hiện tại đang nằm trong kho 
 
 ### Danh sách sẵn sàng giao
 - Khi nhân viên kho quét mã vạch tại **Bước 3**, những kiện vừa được quét sẽ không còn xuất hiện tại mục **Danh sách có thể giao** và chuyển sang mục **Danh sách sẵn sàng giao**
 
-
 ## 2. Kho tạo phiếu xuất hàng
+- Quý khách truy cập **Menu** => **Xuất kho** => **Tạo phiếu xuất khách hàng**
 
+![Menu](https://user-images.githubusercontent.com/73226975/162762909-32eb5a12-10ab-4279-812d-04157b049066.png)
 
+- Bước 1: Chọn kho và đối tượng **khách hàng** để tạo phiếu xuất
+
+- Bước 2: Chọn Kiện/Bao để thêm vào phiếu xuất cho đối tượng đã chọn
+
+- Bước 3: Nhập mã khách hàng, Username hoặc tên khách hàng
+
+![Phiếu xuất](https://user-images.githubusercontent.com/73226975/162763650-6a82521f-45a6-403f-93f9-f5b69405b6d8.png)
+
+- Bước 4: Quét mã vạch kiện hàng/bao hàng 
+
+- Các bước còn lại thao tác tương tự như hướng dẫn tại mục [1.2. Tạo phiếu xuất từ danh sách yêu cầu giao](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-phan-phoi/m6_yeucaugiao#1.2.-tao-phieu-xuat-tu-danh-sach-yeu-cau-giao)
