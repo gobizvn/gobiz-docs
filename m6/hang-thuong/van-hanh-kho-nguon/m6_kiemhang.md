@@ -76,6 +76,6 @@
 
 - Mẫu tem TMĐT
 
-<img width="493" alt="image" src="https://user-images.githubusercontent.com/73226975/162708112-5ae13ead-4b0e-42a6-9736-6277ca10b7cb.png">
+![Mẫu tem](https://user-images.githubusercontent.com/73226975/162708112-5ae13ead-4b0e-42a6-9736-6277ca10b7cb.png)
 
 
