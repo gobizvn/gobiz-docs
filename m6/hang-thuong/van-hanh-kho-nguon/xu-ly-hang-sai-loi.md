@@ -71,4 +71,27 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 - Tính năng này Gobiz đã có bài viết hướng dẫn tại mục **Kiểm hàng**, Quý khách có thể tham khảo thêm thông tin tại link:[Chức năng liên quan](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/m6_kiemhang#buoc-3-chuc-nang-lien-quan)
 
+## Bước 5: Xử lý hàng sai lỗi
+
+- Quý khách có thể quản lý, tìm kiếm các kiện hàng được dánh dấu sai, lỗi tại  **Menu ** => **Kiện hàng** => **Danh sách kiện ** => **Kiện lỗi**
+
+![Menu](https://user-images.githubusercontent.com/73226975/162723756-a891c6cf-4488-4a7e-9b5c-0efbb92f19e3.png)
+
+- Tìm kiếm thông tin kiện hàng theo bộ lọc
+
+![Bộ lọc tìm kiếm](https://user-images.githubusercontent.com/73226975/162723938-31fc503f-0dbf-453c-b219-6b7f445acfe4.png)
+
+- Thông tin hiển thị bên ngoài danh sách kiện lỗi, Quý khách có thể bỏ hiển thị một số thông tin tại mục **Thiết lập cột thông tin**
+
+![Danh sách kiện lỗi](https://user-images.githubusercontent.com/73226975/162724030-64d5ec32-002d-44ae-8806-2c2a8ff1eee0.png)
+
+- Quý khách bấm trực tiếp vào mã kiện để xem thông tin chi tiết
+
+![DS kiện lỗi](https://user-images.githubusercontent.com/73226975/162724388-de63ef9f-4e31-42b0-8b89-df7780b18919.png)
+
+![Chi tiết kiện lỗi](https://user-images.githubusercontent.com/73226975/162724572-cf9816e1-f1ce-46b9-b5d0-eb6be4fbb01b.png)
+
+- Sau khi xác định được phương án xử lý hàng hóa, Quý khách thao tác lựa chọn trạng thái lỗi hiện tại để cập nhập tình trạng xử lý kiện hàng.
+
+![Xử lý kiện lỗi](https://user-images.githubusercontent.com/73226975/162724527-98f5079f-547e-4102-8fb6-5c58f488e68f.png)
 
