@@ -26,6 +26,7 @@
 * Bước 2: Chọn kho
 * Bước 3: Quét mã - Chọn **Bao**
 * Bước 4: Chọn Xuất/Nhập nhiều bao: Quý khách điền danh sách bao hàng vào ô trống, các mã bao hàng cách nhau bởi dấu **xuống dòng (enter)**
+* Bước 5: Ấn Cập nhập để hoàn tất quá trình nhập kho
 * Lưu ý: Các kiện được quét sẽ hiển thị ở phần lịch sử quét mã
 
 ![Quét mã bao](https://user-images.githubusercontent.com/73226975/162610538-80486631-9819-4c4a-807a-d8575ec56285.png)
