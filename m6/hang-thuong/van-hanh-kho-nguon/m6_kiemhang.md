@@ -58,4 +58,9 @@
 
 ![Thêm kiện](https://user-images.githubusercontent.com/73226975/162614261-73acb8c4-ddc2-4b84-b9b4-46c04c2a1c6a.png)
 
+![Tách kiện](https://user-images.githubusercontent.com/73226975/162703504-5a2e4278-9e0c-413d-876e-8453eac871a9.png)
+
+![In tem TMDT](https://user-images.githubusercontent.com/73226975/162703620-380081d3-caf0-41a4-8771-f3bec0d07570.png)
+
+
 
