@@ -45,7 +45,7 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 - Hình ảnh tải lên thành công, Quý khách bấm vào ảnh để xem hoặc xóa ảnh
 
-<img width="1070" alt="image" src="https://user-images.githubusercontent.com/73226975/162714919-27a22b08-723f-4916-a23c-39fed1095fc6.png">
+![Tải ảnh thành công](https://user-images.githubusercontent.com/73226975/162714919-27a22b08-723f-4916-a23c-39fed1095fc6.png)
 
 ![Hình ảnh sản phẩm](https://user-images.githubusercontent.com/73226975/162715182-a0c04d86-6e13-4400-9d99-ea5b8fb4af28.png)
 
