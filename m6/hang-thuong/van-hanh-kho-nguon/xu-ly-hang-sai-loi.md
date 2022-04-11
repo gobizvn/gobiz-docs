@@ -69,3 +69,6 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 ## Bước 4: Comment nội bộ chi tiết thông tin sản phẩm sai, lỗi.
 
+- Tính năng này Gobiz đã có bài viết hướng dẫn tại mục **Kiểm hàng**, Quý khách có thể tham khảo thêm thông tin tại link:[Chức năng liên quan](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/m6_kiemhang#buoc-3-chuc-nang-lien-quan)
+
+
