@@ -73,10 +73,10 @@ Bước 6: In phiếu xuất, đính kèm hàng hóa khi giao tới khách
 4. Phí vận chuyển giao hàng nội địa Việt Nam
 5. Phần âm tài chính: chính là số dư của khách < 0đ
 6. COD: là giao hàng rồi mới thu tiền. Công thức tính phí COD trên phiếu xuất = Tiền phí vận chuyển nội địa VN + Phần âm tài chính
-
-**Ví dụ:** Phí vận chuyển: 30.000đ, phần âm tài chính: -100.000đ. 
-Vậy tiền COD = 30.000 + 100.000 = 130.000đ
-
+**Ví dụ:** 
+Phí vận chuyển: 30.000đ
+Phần âm tài chính: -100.000đ. 
+Công thức tính COD = 30.000 + 100.000 = 130.000đ
 7. Đối tác vận chuyển: Quý khách có thể lựa chọn gửi hàng thông qua các đối tác giao hàng nội địa tại VN như GHTK, GHN, Snappy...
 
 8. Kích thước kiện hàng: Dài x rộng x Cao
