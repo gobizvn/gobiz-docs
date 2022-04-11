@@ -48,4 +48,6 @@
 
 ![Chi tiết bao hàng](https://user-images.githubusercontent.com/73226975/162737119-883fced0-16a4-45ef-b549-a169538c65c3.png)
 
+- Nhập kho thành công trạng thái vận chuyển của kiện hàng sẽ chuyển sang **Chờ Giao**
 
+![Chi tiết kiện hàng](https://user-images.githubusercontent.com/73226975/162738247-ad6c0503-6a10-41ba-ad22-d89837cb022e.png)
