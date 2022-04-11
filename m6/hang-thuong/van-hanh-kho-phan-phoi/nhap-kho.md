@@ -22,6 +22,11 @@
 
 ![Quét mã nhập DS bao hàng](https://user-images.githubusercontent.com/73226975/162734435-becfd776-d655-4ea6-b7f6-adeed9346f6d.png)
 
+![Lịch sử quét mã](https://user-images.githubusercontent.com/73226975/162735485-20159591-294d-4a70-8af6-4fbca1a66638.png)
+
+![Chi tiết bao hàng](https://user-images.githubusercontent.com/73226975/162735403-81059ee4-fd59-4fbb-87e2-a69decedff59.png)
+
+
 ## 2. Nhập kiện hàng
 
 
