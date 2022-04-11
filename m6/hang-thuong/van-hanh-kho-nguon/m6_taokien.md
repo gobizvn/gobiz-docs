@@ -1,6 +1,6 @@
 # Tạo kiện
 
-{% embed url="https://youtu.be/wxkYXTsfYj4" caption="" %}
+{% embed url="https://youtu.be/ZHQZUob3I7g?t=621" caption="" %}
 
 **HƯỚNG DẪN NHẬP KHO TẠO KIỆN**
 
