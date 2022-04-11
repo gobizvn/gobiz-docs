@@ -51,5 +51,16 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 
 ## Bước 3: Tạo khiếu nại người bán
+
+<img width="1052" alt="image" src="https://user-images.githubusercontent.com/73226975/162716117-fb570e63-0172-4254-8909-0e7c804f0b55.png">
+
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/73226975/162716505-13008daf-19ba-48b7-8006-2648f29181a0.png">
+
+<img width="1358" alt="image" src="https://user-images.githubusercontent.com/73226975/162716565-e3e5cfc3-de49-4bed-9d18-22148efcba14.png">
+
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/73226975/162717011-dca5280a-4f9c-41d1-abde-3f15b34e9145.png">
+
+![Uploading image.png…]()
+
 ## Bước 4: Comment nội bộ chi tiết thông tin sản phẩm sai, lỗi.
 
