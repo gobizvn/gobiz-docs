@@ -7,13 +7,13 @@
 
 ![Menu](https://user-images.githubusercontent.com/73226975/162739814-02012d9e-8279-4953-a0f4-1206a9ff0c6d.png)
 
-Danh sách yêu cầu giao gồm các thông tin:
+**Danh sách yêu cầu giao gồm các thông tin:**
 - Bộ lọc, tìm kiếm thông tin yêu cầu giao
 - Phần danh sách có 4 tab:
-1. Mới
-2. Đang xử lý
-3. Đã xử lý
-4. Huỷ
+- Mới
+- Đang xử lý
+- Đã xử lý
+- Huỷ
 
 ![DS yêu cầu giao](https://user-images.githubusercontent.com/73226975/162741682-b5d50c2a-a31e-495b-957d-3a825d76e2d0.png)
 
@@ -76,10 +76,14 @@ Bước 6: In phiếu xuất, đính kèm hàng hóa khi giao tới khách
 
 **Ví dụ:** Phí vận chuyển: 30.000đ, phần âm tài chính: -100.000đ. 
 Vậy tiền COD = 30.000 + 100.000 = 130.000đ
+
 7. Đối tác vận chuyển: Quý khách có thể lựa chọn gửi hàng thông qua các đối tác giao hàng nội địa tại VN như GHTK, GHN, Snappy...
+
 8. Kích thước kiện hàng: Dài x rộng x Cao
-9. Ghi chú thêm khi giao hàng
-10. Số điện thoại & Địa chỉ người nhận: Tính năng chỉ áp dụng cho trường hợp nếu thông tin người nhận khác với thông tin mặc định trên hệ thống.
+
+10. Ghi chú thêm khi giao hàng
+
+11. Số điện thoại & Địa chỉ người nhận: Tính năng chỉ áp dụng cho trường hợp nếu thông tin người nhận khác với thông tin mặc định trên hệ thống.
 ### Danh sách có thể giao
 - Danh sách các kiện hàng hiện tại đang nằm trong kho 
 
@@ -98,7 +102,5 @@ Vậy tiền COD = 30.000 + 100.000 = 130.000đ
 - Bước 3: Nhập mã khách hàng, Username hoặc tên khách hàng
 
 ![Phiếu xuất](https://user-images.githubusercontent.com/73226975/162763650-6a82521f-45a6-403f-93f9-f5b69405b6d8.png)
-
-- Bước 4: Quét mã vạch kiện hàng/bao hàng 
 
 - Các bước còn lại thao tác tương tự như hướng dẫn tại mục [1.2. Tạo phiếu xuất từ danh sách yêu cầu giao](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-phan-phoi/m6_yeucaugiao#1.2.-tao-phieu-xuat-tu-danh-sach-yeu-cau-giao)
