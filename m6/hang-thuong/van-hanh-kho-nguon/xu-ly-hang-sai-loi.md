@@ -65,7 +65,7 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 ![Theo dõi KNNB](https://user-images.githubusercontent.com/73226975/162717011-dca5280a-4f9c-41d1-abde-3f15b34e9145.png)
 
-![Uploading image.png…]()
+![Theo dõi KNNB](https://user-images.githubusercontent.com/73226975/162720037-41af5daf-0d0b-446d-a135-dee4798de20e.png)
 
 ## Bước 4: Comment nội bộ chi tiết thông tin sản phẩm sai, lỗi.
 
