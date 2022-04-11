@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/ZHQZUob3I7g?t=6181" caption="Quy trình vận hành hàng hóa tại kho Trung Quốc" %}
 
-Quy trình xử lý hàng hóa tại kho Việt Nam, gồm các bước sau:
+Quy trình xử lý hàng hóa tại kho Trung Quốc, gồm các bước sau:
 
 [Tạo kiện](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/m6_taokien)
 
