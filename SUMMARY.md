@@ -90,7 +90,7 @@
       * [Tạo kiện](m6/hang-ky-gui/van-hanh-kho-nguon/kg-taokien.md)
       * [Kiểm hàng](m6/hang-ky-gui/van-hanh-kho-nguon/kg-kiemhang.md)
       * [Xử lý hàng sai lỗi](m6/hang-ky-gui/van-hanh-kho-nguon/xu-ly-hang-sai-loi.md)
-      * [Bao hàng](m6/hang-ky-gui/van-hanh-kho-nguon/baohang.md)
+      * [Bao hàng](m6/hang-ky-gui/van-hanh-kho-nguon/kg-baohang.md)
       * [Xuất kho](m6/hang-ky-gui/van-hanh-kho-nguon/xuat-kho.md)
     * [Vận hành kho phân phối](m6/hang-ky-gui/van-hanh-kho-phan-phoi/README.md)
       * [Nhập hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/nhap-kho.md)
