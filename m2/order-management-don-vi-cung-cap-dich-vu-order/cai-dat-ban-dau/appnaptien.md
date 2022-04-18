@@ -44,7 +44,7 @@ Sau khi cài xong màn hình app sẽ hiển thị như hình:
 * Bước tiếp theo Bạn điền tên các ngân hàng vào app \(**Tên ngân hàng viết đúng tên hiển thị trên tin nhắn SMS hệ thống ngân hàng trả về**\)
 * Mỗi ngân hàng cách nhau bởi dấy phẩy \(,\) như hình:
 
-![image](https://user-images.githubusercontent.com/73226975/126632227-1dfb4017-dc53-4bf5-9dd1-7d726b3fd91a.png)
+![sms nạp tiền](https://user-images.githubusercontent.com/73226975/163765757-8e430659-2954-4513-a7b9-31cbae203e85.jpg)
 
 * Cài đặt thành công, Bạn quản lý thông tin khoản nạp tại mục **Quản lý tài chính khách hàng** -&gt; **Thông tin nạp tiền:**
 
