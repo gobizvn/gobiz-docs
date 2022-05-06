@@ -30,7 +30,7 @@ Quý khách điền thông tin cấu hình theo chỉ dẫn trong bảng cấu h
 
 ### 2.1. Quy tắc cấu hình
 - Khi cấu hình cấp độ chỉ nhập 1 mức điểm tối thiểu, cho phép nhập cả âm cả dương (Ví dụ: 1000 điểm = VIP 1)
-- Khi cấu hình phải cấu hình theo thứ tự điểm từ thấp đến cao, danh sách cũng sắp xếp theo điểm từ thấp đến cao
+- Khi cấu hình phải cấu hình theo thứ tự điểm từ cao đến thấp, danh sách sẽ sắp xếp theo điểm từ thấp đến cao
 - Khi tạo mới cấp độ, điểm tích lũy tối thiếu không được trùng điểm của cấp VIP đã được tạo
 - Không thể xóa nhưng có thể sửa cấp độ đang được áp dụng.
 
