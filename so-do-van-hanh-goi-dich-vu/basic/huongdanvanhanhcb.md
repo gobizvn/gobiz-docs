@@ -49,11 +49,11 @@ Sau khi mua và thanh toán thành công cho shop, GDV sẽ theo dõi thời gia
 
 Để lọc và theo dõi các đơn **Lâu phát** & **Lâu nhận**, GDV cần lọc các đơn hàng ở trạng thái **Đã mua** và **Người bán giao** sắp xếp theo thứ tự **Cũ đến mới**
 
-![Uploading image.png…]()
+![Check đơn lâu nhận, lâu phát](https://user-images.githubusercontent.com/73226975/175611704-3fe76074-be28-4ebc-b86d-252e1b1c447a.png)
 
-![Uploading image.png…]()
+GDV có thể cập nhập thông tin nội bộ hoặc trao đổi tình trạng đơn hàng với khách tại **khung chat** bên phải màn hình giao diện chi tiết đơn hàng
 
-Để lọc và theo dõi các đơn **Lâu phát** & **Lâu nhận**, GDV cần lọc các đơn hàng ở trạng thái **Đã mua** và **Người bán giao** sắp xếp theo thứ tự **Cũ đến mới**
+![Khung chat](https://user-images.githubusercontent.com/73226975/175612115-72bce75d-67cf-4d4b-b542-d79765de9f85.png)
 
 ### Cập nhập mã vận đơn
 
