@@ -45,7 +45,15 @@ Tại màn hình chi tiết đơn, GDV chọn **Chỉnh sửa** thông tin sản
 
 ### Cập nhập thông tin đơn hàng
 
+Sau khi mua và thanh toán thành công cho shop, GDV sẽ theo dõi thời gian Shop giao hàng *(Lâu phát)* và nhận tại tại kho TQ *(Lâu nhận)*.
 
+Để lọc và theo dõi các đơn **Lâu phát** & **Lâu nhận**, GDV cần lọc các đơn hàng ở trạng thái **Đã mua** và **Người bán giao** sắp xếp theo thứ tự **Cũ đến mới**
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
+Để lọc và theo dõi các đơn **Lâu phát** & **Lâu nhận**, GDV cần lọc các đơn hàng ở trạng thái **Đã mua** và **Người bán giao** sắp xếp theo thứ tự **Cũ đến mới**
 
 ### Cập nhập mã vận đơn
 
