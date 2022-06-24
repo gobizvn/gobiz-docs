@@ -19,5 +19,13 @@ Click vào button **Thêm tài khoản mua hàng**
 
 ## 2. Cấu hình nhân viên mua hàng
 
+Truy cập **Menu** => Chọn menu **Cấu hình** => Chọn **Quản lý nhân viên**
+
+![Quản lý nhân viên](https://user-images.githubusercontent.com/73226975/175528065-2687e5ee-d535-47ff-b1c4-160dc05eeb73.png)
+
+Quý khách tiến hành tìm kiếm nhân viên mua hàng trong danh sách bằng cách gõ tên **username** hoặc tìm theo **họ & tên**.
+
+![Bộ lọc tìm kiếm nhân viên](https://user-images.githubusercontent.com/73226975/175528163-67ef7ade-5dc9-40d5-91b4-d0a29a078a9f.png)
+
 
 ## 3. Cấu hình mẫu tem kiện hàng/phiếu giao hàng
