@@ -128,6 +128,6 @@ Chọn trạng thái **Sẵn sàng giao** hệ thống sẽ cập nhập đơn h
 
 ![Chờ giao](https://user-images.githubusercontent.com/73226975/175654597-eeb58a19-c548-409d-b9b4-93b6f9284863.png)
 
+![Chờ giao](https://user-images.githubusercontent.com/73226975/175655355-7b765622-125d-4a79-aeb2-f27cb1f897be.png)
 
-### 2.2. Kho VN
 ## 3. Quản lý tài chính
