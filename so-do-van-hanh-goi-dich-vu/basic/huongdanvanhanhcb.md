@@ -86,21 +86,33 @@ Trạng thái đơn sẽ thay đổi theo trạng thái kiện hàng
 **Một số trạng thái kiện hàng:**
 
 Đã Đặt Cọc - Khách xác nhận đặt đơn
+
 Đã Tiếp Nhận - Đơn đã có GDV tiếp nhận
+
 Chờ Duyệt - Đơn đang có dịch vụ cần duyệt
+
 Đang mua - GDV đang xử lý mua đơn hàng
 
 Đã Mua Hàng - Đơn đã mua hàng thành công
+
 Người Bán Giao - Shop phát hàng và cập nhập mã vận đơn
+
 Hàng Về Kho TQ - Kho TQ nhận được hàng từ shop
+  
 Vận Chuyển Quốc Tế - Hàng đang vận chuyển từ TQ về VN
+
 Chờ Giao - Hàng về kho VN
+
 Đang Giao - Hàng đang giao từ kho VN tới địa chỉ nhận của khách
+
 Đã Nhận Hàng - Khách xác nhận đã nhận hàng
 
 Đã Hủy - Đơn hủy
+
 Hết Hàng - Đơn hết hàng
+
 Thất Lạc - Đơn bị thất lạc 
+
 Không Nhận Hàng - Khách từ chối nhận đơn hàng
 
 ### 2.2. Kho VN
