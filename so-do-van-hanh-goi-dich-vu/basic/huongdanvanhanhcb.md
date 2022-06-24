@@ -29,6 +29,8 @@ GDV cập nhật thông tin như: *Tài khoản mua hàng, Điều chỉnh tỷ 
 
 ![Cập nhập thông tin đơn hàng](https://user-images.githubusercontent.com/73226975/175578331-55f2e2db-0775-4ee3-bdce-894cf5de6fa1.png)
 
+![Đơn Đã mua](https://user-images.githubusercontent.com/73226975/175606385-4811378e-8bf0-4af6-aa86-cdce7089916c.png)
+
 ### 1.2. Khai báo hải quan
 Tính năng dành cho các đơn vị sử dụng dịch vụ vận chuyển Chính ngạch/Thương mại điện tử.
 Tại màn hình chi tiết đơn, GDV chọn **Chỉnh sửa** thông tin sản phẩm
@@ -42,6 +44,8 @@ Tại màn hình chi tiết đơn, GDV chọn **Chỉnh sửa** thông tin sản
 ![Khai quan sản phẩm](https://user-images.githubusercontent.com/73226975/175604459-baf1ff6b-58d7-47eb-988b-9d027efc60d7.png)
 
 ### Cập nhập thông tin đơn hàng
+
+
 ### Cập nhập mã vận đơn
 ## 2. Kho hàng
 ### 2.1. Kho TQ
