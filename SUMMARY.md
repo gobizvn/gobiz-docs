@@ -160,7 +160,7 @@
   * [Quản lý kinh doanh](go-sales/m19.md)
 * [Sơ đồ vận hành gói dịch vụ](so-do-van-hanh-goi-dich-vu/README.md)
   * [Gói cơ bản](so-do-van-hanh-goi-dich-vu/basic/README.md)
-    * [Customer's Order - Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
+    * [Customer's Order - Khách hàng Order](so-do-van-hanh-goi-dich-vu/basic/m2/customers-order-khach-hang-order/README.md)
     * [Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
     * [Cấu hình khác](so-do-van-hanh-goi-dich-vu/basic/Cauhinhgoicoban.md)
     * [Hướng dẫn vận hành](so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
