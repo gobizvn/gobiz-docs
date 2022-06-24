@@ -27,8 +27,16 @@ Quý khách tiến hành tìm kiếm nhân viên mua hàng trong danh sách bằ
 
 ![Bộ lọc tìm kiếm nhân viên](https://user-images.githubusercontent.com/73226975/175528163-67ef7ade-5dc9-40d5-91b4-d0a29a078a9f.png)
 
+Bật kích hoạt nhân viên mua hàng.
+
 ![Kích hoạt nhân viên mua hàng](https://user-images.githubusercontent.com/73226975/175528814-98b145a8-5afb-4304-b775-5af8a33e526e.png)
 
+Bấm **Đồng ý** để xác nhận hoàn tất quá trình kích hoạt tài khoản.
+
 ![Kích hoạt nhân viên mua hàng](https://user-images.githubusercontent.com/73226975/175530705-3ca93dfa-243e-4466-b9c2-fb4f06236b32.png)
+
+Hệ thống thông báo đã thay đổi trạng thái nhân viên thành công, biểu tượng chuyển sang màu xanh.
+
+![Kích hoạt thành công](https://user-images.githubusercontent.com/73226975/175565146-b5c4106d-ba88-43b8-b52a-642e7324cb64.png)
 
 ## 3. Cấu hình mẫu tem kiện hàng/phiếu giao hàng
