@@ -116,4 +116,18 @@ Thất Lạc - Đơn bị thất lạc
 Không Nhận Hàng - Khách từ chối nhận đơn hàng
 
 ### 2.2. Kho VN
+
+Tại màn hình chi tiết đơn, Nhân viên kho chọn tab **Vận chuyển** => Click chỉnh sửa kiện hàng
+
+![Sửa kiện](https://user-images.githubusercontent.com/73226975/175654321-177b010c-acee-4048-9c13-d97ea0f4a6e3.png)
+
+
+![Sửa kiện](https://user-images.githubusercontent.com/73226975/175653050-0a872e4b-07f3-4e84-9b81-1e48c9b7e0f0.png)
+
+Chọn trạng thái **Sẵn sàng giao** hệ thống sẽ cập nhập đơn hàng sang **Chờ giao** đồng thời gửi thông báo hàng về VN tới khách.
+
+![Chờ giao](https://user-images.githubusercontent.com/73226975/175654597-eeb58a19-c548-409d-b9b4-93b6f9284863.png)
+
+
+### 2.2. Kho VN
 ## 3. Quản lý tài chính
