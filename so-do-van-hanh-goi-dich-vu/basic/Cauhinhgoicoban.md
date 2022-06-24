@@ -40,3 +40,7 @@ Hệ thống thông báo đã thay đổi trạng thái nhân viên thành công
 ![Kích hoạt thành công](https://user-images.githubusercontent.com/73226975/175565146-b5c4106d-ba88-43b8-b52a-642e7324cb64.png)
 
 ## 3. Cấu hình mẫu tem kiện hàng/phiếu giao hàng
+
+Truy cập **Menu** => Chọn menu **Cấu hình** => Chọn **Cấu hình template**
+
+![Menu](https://user-images.githubusercontent.com/73226975/175565922-0ec2cc58-f236-4fd1-a107-83d306c0d66d.png)
