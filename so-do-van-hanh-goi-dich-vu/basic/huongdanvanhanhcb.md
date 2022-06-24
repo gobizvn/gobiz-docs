@@ -1,8 +1,9 @@
 
 ## 1. Mua hàng
-### 1.1. Tiếp nhận và thanh toán đơn hàng
 
-Giao dịch viên(GDV) tiến hành xử lý đơn hàng như sau:
+### Tiếp nhận và thanh toán đơn hàng
+
+Giao dịch viên (GDV) tiến hành xử lý đơn hàng như sau:
 
 **Bước 1**: GDV truy cập **Menu Mua Hộ** => Chọn menu **Danh sách đơn** 
 
@@ -22,19 +23,16 @@ GDV cập nhật thông tin như: *Tài khoản mua hàng, Điều chỉnh tỷ 
 
 ![Cập nhập thông tin đơn hàng](https://user-images.githubusercontent.com/73226975/175577634-8f272dc1-1601-4d54-ae4d-4c26f362c9a3.png)
 
-![Uploading image.png…]()
-
+![Cập nhập thông tin đơn hàng](https://user-images.githubusercontent.com/73226975/175591309-b1eebc8f-8bdd-4bcb-bf1d-dadca1ff06f6.png)
 
 **Bước 6**: Sau khi điền đầy đủ thông tin đơn hàng, GDV click vào **Button** chuyển trạng thái cho đơn hàng sang **Đã mua**
 
 ![Cập nhập thông tin đơn hàng](https://user-images.githubusercontent.com/73226975/175578331-55f2e2db-0775-4ee3-bdce-894cf5de6fa1.png)
 
 
-
-
-### 1.2. Khai báo hải quan
-### 1.3. Cập nhập thông tin đơn hàng
-### 1.4. Cập nhập mã vận đơn
+### Khai báo hải quan
+### Cập nhập thông tin đơn hàng
+### Cập nhập mã vận đơn
 ## 2. Kho hàng
 ### 2.1. Kho TQ
 - Tạo kiện
