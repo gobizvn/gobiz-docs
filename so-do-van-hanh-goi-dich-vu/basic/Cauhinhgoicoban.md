@@ -41,6 +41,8 @@ Hệ thống thông báo đã thay đổi trạng thái nhân viên thành công
 
 ## 3. Cấu hình mẫu tem kiện hàng/phiếu giao hàng
 
+Tính năng dành cho các đơn vị có nhu cầu sử dụng tem hàng hóa riêng, thay vì dùng tem gốc của người bán
+
 Truy cập **Menu** => Chọn menu **Cấu hình** => Chọn **Cấu hình template**
 
 ![Menu](https://user-images.githubusercontent.com/73226975/175565922-0ec2cc58-f236-4fd1-a107-83d306c0d66d.png)
