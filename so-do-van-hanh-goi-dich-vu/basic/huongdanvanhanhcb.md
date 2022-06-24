@@ -45,6 +45,12 @@ Tại màn hình chi tiết đơn, GDV chọn **Chỉnh sửa** thông tin sản
 
 ### Cập nhập thông tin đơn hàng
 
+Tại màn hình chi tiết đơn, GDV chọn tab **Vận chuyển** => Click vào mục **Thêm mã vận đơn**
+
+![Cập nhập mã vận đơn](https://user-images.githubusercontent.com/73226975/175607161-1bf98b67-7635-48f1-9d0d-e47cb1bbf3a5.png)
+
+Điền thông tin **Mã vận đơn** và **Enter** hệ thống sẽ tự động chuyển đơn hàng sang trạng thái **Người Bán Giao**
+
 
 ### Cập nhập mã vận đơn
 ## 2. Kho hàng
