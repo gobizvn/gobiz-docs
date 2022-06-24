@@ -4,18 +4,18 @@
 
 Truy cập **Menu** => Chọn menu **Cấu hình** => Chọn **Tài khoản mua hàng**
 
-[Cấu hình tài khoản mới](https://user-images.githubusercontent.com/73226975/175525882-ac185896-1969-4f0a-9182-53b248cba556.png)
+![Cấu hình tài khoản mới](https://user-images.githubusercontent.com/73226975/175525882-ac185896-1969-4f0a-9182-53b248cba556.png)
 
 Click vào button **Thêm tài khoản mua hàng**
 
-[Thêm tài khoản](https://user-images.githubusercontent.com/73226975/175526816-10d2926d-d0bd-4c18-b363-d1660095cd81.png)
+![Thêm tài khoản](https://user-images.githubusercontent.com/73226975/175526816-10d2926d-d0bd-4c18-b363-d1660095cd81.png)
 
 Điền tên đăng nhập thanh toán trên site gốc, bấm **Đồng ý** để xác nhận thêm mới tài khoản
 
-[Thêm tài khoản](https://user-images.githubusercontent.com/73226975/175526915-e5d3bf3e-b7a1-4ac1-bf62-3f3ed92ee735.png)
+![Thêm tài khoản](https://user-images.githubusercontent.com/73226975/175526915-e5d3bf3e-b7a1-4ac1-bf62-3f3ed92ee735.png)
 
 
-[DS tài khoản](https://user-images.githubusercontent.com/73226975/175527361-a0867aad-1449-4647-8c03-76f147471499.png)
+![DS tài khoản](https://user-images.githubusercontent.com/73226975/175527361-a0867aad-1449-4647-8c03-76f147471499.png)
 
 ## 2. Cấu hình nhân viên mua hàng
 
