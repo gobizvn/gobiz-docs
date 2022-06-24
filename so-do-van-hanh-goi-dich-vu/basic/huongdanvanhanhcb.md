@@ -51,7 +51,7 @@ Sau khi mua và thanh toán thành công cho shop, GDV sẽ theo dõi thời gia
 
 ![Check đơn lâu nhận, lâu phát](https://user-images.githubusercontent.com/73226975/175611704-3fe76074-be28-4ebc-b86d-252e1b1c447a.png)
 
-GDV có thể cập nhập thông tin nội bộ hoặc trao đổi tình trạng đơn hàng với khách tại **khung chat** bên phải màn hình giao diện chi tiết đơn hàng
+GDV có thể cập nhập thông tin nội bộ hoặc trao đổi tình trạng đơn hàng với khách tại **khung chat** bên phải màn hình giao diện chi tiết đơn.
 
 ![Khung chat](https://user-images.githubusercontent.com/73226975/175612115-72bce75d-67cf-4d4b-b542-d79765de9f85.png)
 
@@ -72,5 +72,11 @@ Tại màn hình chi tiết đơn, GDV chọn tab **Vận chuyển** => Click v�
 ## 2. Kho hàng
 ### 2.1. Kho TQ
 - Tạo kiện
+
+Tại màn hình chi tiết đơn, Nhân viên kho chọn tab **Vận chuyển** => Click vào mục **Thêm kiện hàng**
+
+![Thêm kiện hàng](https://user-images.githubusercontent.com/73226975/175648085-66a7b669-c88d-458f-a61b-592b57926b66.png)
+
+
 ### 2.2. Kho VN
 ## 3. Quản lý tài chính
