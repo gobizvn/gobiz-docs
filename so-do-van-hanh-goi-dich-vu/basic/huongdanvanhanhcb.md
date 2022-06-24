@@ -75,8 +75,13 @@ Tại màn hình chi tiết đơn, GDV chọn tab **Vận chuyển** => Click v�
 
 Tại màn hình chi tiết đơn, Nhân viên kho chọn tab **Vận chuyển** => Click vào mục **Thêm kiện hàng**
 
+Chọn mã vận đơn tương ứng với kiện hàng cần tạo (bỏ trống trong trường hợp kiện không có mã vận đơn), điền **Cân nặng, thể tích** và chọn **Trạng thái đơn hàng**, bấm **Thêm** để hoàn tất quá trình tạo kiện.
+
 ![Thêm kiện hàng](https://user-images.githubusercontent.com/73226975/175648085-66a7b669-c88d-458f-a61b-592b57926b66.png)
 
+Trạng thái đơn sẽ thay đổi theo trạng thái kiện hàng
+
+![Trạng thái đơn hàng](https://user-images.githubusercontent.com/73226975/175649599-54c7d3d4-3e1c-44f2-94f5-129c56e7eb07.png)
 
 ### 2.2. Kho VN
 ## 3. Quản lý tài chính
