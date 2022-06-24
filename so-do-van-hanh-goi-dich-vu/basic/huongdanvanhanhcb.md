@@ -7,6 +7,7 @@
 
 Tại bộ lọc, Quý khách chọn lọc các trạng thái đơn **trước Mua** (Đã đặt cọc, chưa mua, Chờ duyệt, Đang mua) và chọn sắp xếp từ **Cũ đến Mới**. Sau đó ấn **Tìm kiếm**
 
+![Lọc đơn hàng](https://user-images.githubusercontent.com/73226975/175576092-c8060105-b50f-4cb5-9ea9-af90dd60b049.png)
 
 
 ### 1.2. Khai báo hải quan
