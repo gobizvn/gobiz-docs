@@ -49,5 +49,5 @@ Quý khách có thể tham khảo thêm cách tạo địa chỉ mới tại bà
 2. Danh mục này sẽ hiển thị các bài viết hướng dẫn, các câu hỏi thường gặp...
 3. Các bài viết sẽ hiển thị tên tiêu đề theo dạng danh sách, để đọc nội dung chi tiết Quý khách click vào mũi tên lên xuống hoặc tiêu đề bài viết.
 
-![image](https://user-images.githubusercontent.com/85599407/127990839-301e7404-9288-43a2-ace8-2a43927b1297.png)
+![image](https://user-images.githubusercontent.com/85599407/183342653-a313f867-d8ee-458a-a9b3-6a9ff53368c2.png)
 
