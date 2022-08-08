@@ -1,6 +1,6 @@
 # Kiểm tra chi tiết đơn hàng
 
-## Đơn mua hộ
+## 1. Đơn mua hộ
 Để tìm kiếm đơn hàng mua hộ có thể sử dụng mã đơn hàng hoặc mã đơn gốc trên taobao hoặc mã vận đơn Trung quốc (nếu đã được khớp đơn)
 Vào menu => Chọn danh sách đơn (1) => Điền mã đơn hoặc mã hóa đơn gốc cần tìm vào ô tương ứng (2) => Chọn tìm kiếm (3) => Bấm vào mã đơn hàng (4)
 
@@ -17,7 +17,7 @@ Tại giao diện chi tiết đơn hàng có thể check các thông tin như:
   ![image](https://user-images.githubusercontent.com/85599407/183394617-ca5f20c5-abed-4109-a4d5-b302ef536a9b.png)
 
 
-## Đơn ký gửi
+## 2. Đơn ký gửi
 Để tìm kiếm đơn hàng ký gửi có thể sử dụng mã đơn hàng hoặc mã vận đơn Trung quốc (nếu đã được khớp đơn)
 Vào menu => Chọn đơn ký gửi (1) => Điền mã đơn hoặc mã vận đơn cần tìm vào ô tương ứng (2) => Chọn tìm kiếm (3) => Bấm vào mã đơn hàng (4)
 
