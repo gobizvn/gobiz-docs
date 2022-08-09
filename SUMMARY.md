@@ -8,7 +8,8 @@
      * [Cài đặt chung](m2/customers-order-khach-hang-order/van-hanh-chung/caidatchung.md)
 * Customer - Khách hàng
     * [Customer's Order - Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
-        * [Cài đặt công cụ mua hàng](so-do-van-hanh-goi-dich-vu/basic/customers-order-khach-hang-order/congcudathang.md)
+       
+       * [Cài đặt công cụ mua hàng](so-do-van-hanh-goi-dich-vu/basic/customers-order-khach-hang-order/congcudathang.md)
         * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/loginlogout.md)
         * [Cho sản phẩm vào giỏ hàng](m2/customers-order-khach-hang-order/giohang.md)
         * [Quản lý giỏ hàng](m2/customers-order-khach-hang-order/quanlygiohang.md)
@@ -18,6 +19,7 @@
         * [Giao hàng và nhận hàng](m2/customers-order-khach-hang-order/giaohangvanhanhang.md)
         * [Khiếu nại](m2/customers-order-khach-hang-order/khieunaidonthuong.md)
     * [Customer's Shipment - Khách hàng Ký Gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/README.md)
+         
          * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/loginlogout.md)
          * [Tạo đơn ký gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/taodonkygui.md)
          * [Gửi thông tin cho shop](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/guithongtinchoshop.md)
@@ -41,7 +43,7 @@
           * [Kiểm tra Chi tiết đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/chitietdon.md)
           * [ Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/danh-sach-kien-hang.md)
           * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/yeu-cau-giao-hang.md)
-    * [Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi] (m2/shipment-management-don-vi-cung-cap-dich-vu-ky-gui/README.md
+    * [Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi](m2/order-management-don-vi-cung-cap-dich-vu-ky-gui/README.md)
         *[Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/README.md)
         * [Cấu hình chung](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/cauhinhchung.md)
         * [Cấu hình kho](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setupkho.md)
