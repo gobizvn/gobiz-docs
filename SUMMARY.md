@@ -17,7 +17,7 @@
         * [Chi tiết đơn hàng](m2/customers-order-khach-hang-order/chitietdonhang.md)
         * [Giao hàng và nhận hàng](m2/customers-order-khach-hang-order/giaohangvanhanhang.md)
         * [Khiếu nại](m2/customers-order-khach-hang-order/khieunaidonthuong.md)
-    * [Customer's Shipment - Khách hàng Ký Gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/README.md)
+    * [Customer's Shipment - Khách hàng Ký Gửi](m2/customers-shipment-khach-hang-ky-gui/README.md)
          * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/loginlogout.md)
          * [Tạo đơn ký gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/taodonkygui.md)
          * [Gửi thông tin cho shop](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/guithongtinchoshop.md)
