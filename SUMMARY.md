@@ -7,7 +7,7 @@
      * [Thông tin cá nhân](m2/customers-order-khach-hang-order/van-hanh-chung/thongtincanhan.md)
      * [Cài đặt chung](m2/customers-order-khach-hang-order/van-hanh-chung/caidatchung.md)
 * Customer - Khách hàng
-    * [Customer's Order - Khách hàng](m2/customers-order-khach-hang-order/README.md)
+    * [Customer's Order - Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
         * [Cài đặt công cụ mua hàng](so-do-van-hanh-goi-dich-vu/basic/customers-order-khach-hang-order/congcudathang.md)
         * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/loginlogout.md)
         * [Cho sản phẩm vào giỏ hàng](m2/customers-order-khach-hang-order/giohang.md)
