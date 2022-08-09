@@ -45,7 +45,7 @@ Khi thêm tiện ích thành công sẽ hiển thị thông báo như hình dư�
 
 Đăng nhập username và mật khẩu của hệ thống quản lý đơn hàng trên trang mua hàng ngay tại trang thanh toán.
 
-![image](https://user-images.githubusercontent.com/85599407/128112852-e175640e-0157-4c7e-b8af-feecc5dd06e4.png)
+![image](https://user-images.githubusercontent.com/85599407/183557472-70795698-eb03-4ad1-8f8b-e9a98c1d7552.png)
 
 **Bước 2**: Mở link sản phẩm cần mua -> Chọn thông tin sản phẩm (1) -> Thêm sản phẩm vào giỏ hàng (2).
 
