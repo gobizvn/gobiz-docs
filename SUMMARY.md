@@ -37,10 +37,10 @@
         * [App nạp tiền tự động](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/appnaptien.md)
         * [Cấu hình khác](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/madichvu.md)
         * [Đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/README.md)
-              * [Kiểm tra lọc Danh sách đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/dsdonhang.md)
-              * [Kiểm tra Chi tiết đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/chitietdon.md)
-              * [ Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/danh-sach-kien-hang.md)
-              * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/yeu-cau-giao-hang.md)
+              ** [Kiểm tra lọc Danh sách đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/dsdonhang.md)
+              ** [Kiểm tra Chi tiết đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/chitietdon.md)
+              ** [ Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/danh-sach-kien-hang.md)
+              ** [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/yeu-cau-giao-hang.md)
     * [Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi](m2/order-management-don-vi-cung-cap-dich-vu-ky-gui/README.md)
         * [Cài đặt ban đầu]
         * [Cấu hình chung]
