@@ -42,20 +42,6 @@
                   * [ Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/danh-sach-kien-hang.md)
                   * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/yeu-cau-giao-hang.md)
     * [Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi](m2/order-management-don-vi-cung-cap-dich-vu-ky-gui/README.md)
-        * [Cài đặt ban đầu]
-        * [Cấu hình chung]
-        * [Cấu hình kho]
-        * [Cấu hình tỷ giá]
-        * [Cấu hình phí]
-        * [Nhóm khách hàng]
-        * [Chính sách khách hàng]
-        * [App nạp tiền tự động]
-        * [Cấu hình khác]
-        * [Đơn hàng]
-                     * [Kiểm tra lọc Danh sách đơn ký gửi]
-                     * [Kiểm tra Chi tiết đơn ký gửi]
-                     * [ Kiểm tra Danh sách kiện hàng ký gửi]
-                     * [HD tạo Yêu cầu giao hàng từ ký gửi admin]
 * [Go Purchasing - Mua hàng](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
