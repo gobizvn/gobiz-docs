@@ -35,7 +35,7 @@
         * [Nhóm khách hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/nhom-khach-hang.md)
         * [Chính sách khách hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/chinh-sach-khach-hang.md)
         * [App nạp tiền tự động](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/appnaptien.md)
-        * [Cấu hình khác](m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/madichvu.md)
+        * [Cấu hình khác](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/madichvu.md)
         * [Đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/README.md)
                   * [Kiểm tra lọc Danh sách đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/dsdonhang.md)
                   * [Kiểm tra Chi tiết đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu-order/donhang/chitietdon.md)
