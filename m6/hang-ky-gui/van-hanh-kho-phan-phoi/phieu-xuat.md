@@ -1,4 +1,4 @@
-# Giao hàng 
+# Xuất kho giao hàng 
 
 ## 1. Khách tạo yêu cầu giao hàng
 
