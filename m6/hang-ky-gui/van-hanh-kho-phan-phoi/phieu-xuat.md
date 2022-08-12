@@ -103,4 +103,4 @@ Công thức tính COD = 30.000 + 100.000 = 130.000đ
 
 ![Phiếu xuất](https://user-images.githubusercontent.com/73226975/162763650-6a82521f-45a6-403f-93f9-f5b69405b6d8.png)
 
-- Các bước còn lại thao tác tương tự như hướng dẫn tại mục [1.2. Tạo phiếu xuất từ danh sách yêu cầu giao](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-phan-phoi/m6_yeucaugiao#1.2.-tao-phieu-xuat-tu-danh-sach-yeu-cau-giao)
+- Các bước còn lại thao tác tương tự như hướng dẫn tại mục [1.2. Tạo phiếu xuất từ danh sách yêu cầu giao](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-phan-phoi/m6_yeucaugiao#1.2.-tao-phieu-xuat-tu-danh-sach-yeu-cau-giao).
