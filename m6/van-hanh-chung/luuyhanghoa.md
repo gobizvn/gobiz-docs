@@ -1,6 +1,4 @@
-# Lưu ý hàng hóa
-
-**HƯỚNG DẪN TẠO LƯU Ý HÀNG HOÁ**
+#**HƯỚNG DẪN TẠO LƯU Ý HÀNG HOÁ**
 
 **1. Tạo lưu ý hàng hoá**
 
