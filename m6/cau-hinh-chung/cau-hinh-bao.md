@@ -1,14 +1,14 @@
-## Cấu hình bao
+## 1. Cấu hình khu vực nhận bao
 
-Bước 1: Menu => Cấu hình (1) => Bao mẫu (2) => Tạo bao mẫu (3).
+Mục đích để phân hàng ra khu vực đóng bao tương ứng (bao hàng đi TMĐT, Bao hàng tạo, Bao hàng chuyển thẳng...)
 
-![image](https://user-images.githubusercontent.com/85599407/184499565-4024c585-cd6c-43ce-88c9-e0f04d940cee.png)
+Menu => Cấu hình (1) => => Khu vực nhận bao (2) => Thêm khu vực (3) => Điền thông tin khu vực và bấm cập nhật.
 
-Bước 2: Điền thông tin bao mẫu (1) => Chọn loại dịch vụ bao thường hay bao ký gửi (2) => Chọn d vụ chi tiết cho bao hàng (3) => Tạo mới (4).
+![image](https://user-images.githubusercontent.com/85599407/184500204-c9bf7d9d-8d4b-4de4-98ed-1818447f70b5.png)
 
-![image](https://user-images.githubusercontent.com/85599407/184499674-c0c08acf-8e16-4fa2-b582-2cc6312b86f4.png)
+![image](https://user-images.githubusercontent.com/85599407/184500283-502c8109-fe9e-4cc8-9bd3-76501bbe96aa.png)
 
-## Tạo kích thước bao mẫu
+## 3. Tạo kích thước bao hàng mẫu
 
 Bước 1: Menu => Cấu hình (1) => => Kích thước bao (2) => Tạo kích thước (3).
 
@@ -22,10 +22,12 @@ Bước 2: Điền thông tin kích thước bao (1) => Tạo mới (2).
 
 ![image](https://user-images.githubusercontent.com/85599407/184500070-48669eb3-cbaf-4447-b0c2-7dfaf0ca0d3c.png)
 
-## Cấu hình khu vực nhận bao
+## 3. Cấu hình chi tiết bao hàng mẫu
 
-Menu => Cấu hình (1) => => Khu vực nhận bao (2) => Thêm khu vực (3) => Điền thông tin khu vực và bấm cập nhật.
+Bước 1: Menu => Cấu hình (1) => Bao mẫu (2) => Tạo bao mẫu (3).
 
-![image](https://user-images.githubusercontent.com/85599407/184500204-c9bf7d9d-8d4b-4de4-98ed-1818447f70b5.png)
+![image](https://user-images.githubusercontent.com/85599407/184499565-4024c585-cd6c-43ce-88c9-e0f04d940cee.png)
 
-![image](https://user-images.githubusercontent.com/85599407/184500283-502c8109-fe9e-4cc8-9bd3-76501bbe96aa.png)
+Bước 2: Điền thông tin bao mẫu (1) => Chọn loại dịch vụ bao thường hay bao ký gửi (2) => Chọn d vụ chi tiết cho bao hàng (3) => Tạo mới (4).
+
+![image](https://user-images.githubusercontent.com/85599407/184499674-c0c08acf-8e16-4fa2-b582-2cc6312b86f4.png)
