@@ -1,6 +1,5 @@
 # Xử lý hàng sai lỗi
 
-# Xử lý hàng sai lỗi
 Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, lỗi, thiếu... Quý khách có thể tham khảo quy trình xử lý theo trình tự các bước như sau:
 
 ## Bước 1: Đánh dấu kiện sai, lỗi
@@ -9,9 +8,6 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 ![Đánh dấu kiện hàng lỗi](https://user-images.githubusercontent.com/73226975/162709449-9cb74bdb-f7cf-4264-bd70-e6ffa383dd48.png)
 
 ## Bước 2: Tải ảnh sản phẩm
-
-- Để quá trình xử lý hàng sai lỗi với người bán và người mua diễn ra thuận lợi, Quý khách cần cung cấp hình ảnh chứng minh sản phẩm có sai phạm.
-- Quý khách có thể tải ảnh lên hệ thống bằng hai cách sau:
 
 ### 2.1. Lấy mã QRcode để tải ảnh từ điện thoại di động
 
@@ -37,6 +33,7 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 
 
 ### 2.2. Tải ảnh trực tiếp từ máy tính
+
 - Quý khách click trực tiếp vào ô **upload ảnh** để tải ảnh từ máy tính lên hệ thống
 
 ![Tải ảnh từ máy tính](https://user-images.githubusercontent.com/73226975/162714281-dcede82f-bc4f-47f5-9e63-6998d0c82a32.png)
@@ -52,28 +49,13 @@ Trong quá trình kiểm tra hàng hóa, nếu phát hiện sản phẩm sai, l�
 ![Hình ảnh sản phẩm](https://user-images.githubusercontent.com/73226975/162715182-a0c04d86-6e13-4400-9d99-ea5b8fb4af28.png)
 
 
-## Bước 3: Tạo khiếu nại người bán
-- Tại giao diện kiểm kiện, Quý khách chọn **Tạo khiếu nại người bán** (KNNB)
+### 2.3. Comment nội bộ lên đơn nội dung sai/lỗi.
 
-![Tạo KNNB](https://user-images.githubusercontent.com/73226975/162716117-fb570e63-0172-4254-8909-0e7c804f0b55.png)
+Mở đơn hàng có sai lỗi => Điền nội dung (1) => Bấm gửi (2).
 
-- Chọn lý do khiếu nại và điền thông tin chi tiết sai lỗi của kiện hàng/sản phẩm => Bấm **Đồng ý** để xác nhận tạo KNNB
+![image](https://user-images.githubusercontent.com/85599407/184496708-d1306b27-8910-4226-bbae-c296a8ad3dc3.png)
 
-![Lý do KNNB](https://user-images.githubusercontent.com/73226975/162716505-13008daf-19ba-48b7-8006-2648f29181a0.png)
-
-- Khiếu nại người bán tạo thành công, Quý khách có thể bấm trực tiếp vào mã khiếu nại để theo dõi tiến trình xử lý
-
-![Tạo KNNB thành công](https://user-images.githubusercontent.com/73226975/162716565-e3e5cfc3-de49-4bed-9d18-22148efcba14.png)
-
-![Theo dõi KNNB](https://user-images.githubusercontent.com/73226975/162717011-dca5280a-4f9c-41d1-abde-3f15b34e9145.png)
-
-![Theo dõi KNNB](https://user-images.githubusercontent.com/73226975/162720037-41af5daf-0d0b-446d-a135-dee4798de20e.png)
-
-## Bước 4: Comment nội bộ chi tiết thông tin sản phẩm sai, lỗi.
-
-- Tính năng này Gobiz đã có bài viết hướng dẫn tại mục **Kiểm hàng**, Quý khách có thể tham khảo thêm thông tin tại link:[Chức năng liên quan](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/m6_kiemhang#buoc-3-chuc-nang-lien-quan)
-
-## Bước 5: Xử lý hàng sai lỗi
+## Bước 3: Xử lý hàng sai lỗi
 
 - Quý khách có thể quản lý, tìm kiếm các kiện hàng được dánh dấu sai, lỗi tại  **Menu ** => **Kiện hàng** => **Danh sách kiện ** => **Kiện lỗi**
 
