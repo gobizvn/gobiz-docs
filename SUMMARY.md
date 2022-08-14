@@ -106,7 +106,7 @@
       * [Bao hàng](m6/hang-ky-gui/van-hanh-kho-nguon/kg-baohang.md)
       * [Xuất kho](m6/hang-ky-gui/van-hanh-kho-nguon/xuat-kho.md)
     * [Vận hành kho phân phối](m6/hang-ky-gui/van-hanh-kho-phan-phoi/README.md)
-      * [Nhập hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/nhap-kho.md)
+      * [Nhập hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/nhap-hang.md)
       * [Giao hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/m6\_yeucaugiao.md)
       * [Phiếu xuất](m6/hang-ky-gui/van-hanh-kho-phan-phoi/phieu-xuat.md)
 * [Go Complaints - Khiếu nại dịch vụ](m3/README.md)
