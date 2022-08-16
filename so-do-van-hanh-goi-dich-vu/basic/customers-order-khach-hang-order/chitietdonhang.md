@@ -27,8 +27,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 ![M&#xE0;n h&#xEC;nh chi ti&#x1EBF;t &#x111;&#x1A1;n h&#xE0;ng](https://user-images.githubusercontent.com/73226975/102170945-0ac50f00-3ec8-11eb-8ddf-ff9c0dc2352f.png)
 
-\
-
 ## 2. Tab Sản phẩm
 
 * Thông tin hiển thị trên mục Sản phẩm được phân bổ theo dòng và theo từng mã sản phẩm.
@@ -42,8 +40,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 * Ghi chú cá nhân cho sản phẩm \( Ghi chú này sẽ hiển thị bảo mật trong giao diện đặt hàng của Quý khách, không hiển thị tại trang admin quản trị hệ thống\).
 
 ![Tab S&#x1EA3;n ph&#x1EA9;m](https://user-images.githubusercontent.com/73226975/102171761-d9e5d980-3ec9-11eb-9964-49dd643ae586.png)
-
-\
 
 ## 3. Tài chính đơn
 
@@ -59,8 +55,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
 
 ![M&#xE0;n h&#xEC;nh giao d&#x1ECB;ch t&#xE0;i ch&#xED;nh](https://user-images.githubusercontent.com/73226975/103071507-4e212b00-45f6-11eb-8e2a-f6089e765908.png)
 
-\
-
 ## 4. Kiện hàng
 
 * Thông tin hiển thị trong mục bao gồm:
@@ -71,8 +65,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
   * Kích thước kiện.
   * Trạng thái kiện.
   * Thời gian cập nhập.
-
-  \
 
   **5. Giao dịch**
 
