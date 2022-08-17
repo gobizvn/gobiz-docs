@@ -10,6 +10,6 @@ Quy trình xử lý hàng hóa tại kho Trung Quốc, gồm các bước sau:
 
 [Xử lý hàng sai lỗi](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/xu-ly-hang-sai-loi)
 
-[Đóng hàng hóa vào bao](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/bao-hang)
+[Đóng hàng hóa vào bao](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/baohang)
 
 [Xuất hàng cho đối tác vận chuyển quốc tế](https://hd.gobiz.vn/m6/hang-thuong/van-hanh-kho-nguon/xuat-kho)
