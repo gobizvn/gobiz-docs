@@ -1,6 +1,19 @@
-**CẤU HÌNH CHUNG**
+#**CẤU HÌNH CHUNG**
 
-**1. Cấu hình thêm tài khoản thanh toán**
+##**1. Cấu hình tỷ giá**
+
+**Bước 1:** Menu => Cấu hình tỷ giá (1) => Tỷ giá thanh toán hộ (2) => Tạo mới (3)
+
+![image](https://user-images.githubusercontent.com/85599407/185892241-ff8a77fb-f807-46e4-842d-552812cfea65.png)
+
+**Bước 2:** Điền tỷ giá mới (4) => Chọn thời gian áp dụng (5) => Thêm (6) => Bấm xác nhận đồng ý.
+
+![image](https://user-images.githubusercontent.com/85599407/185892523-bea99345-3b44-47a0-bf4f-305f94549854.png)
+
+![image](https://user-images.githubusercontent.com/85599407/185892847-e8867138-82e1-4a03-b726-0edd5ab04901.png)
+
+
+##**2. Cấu hình thêm tài khoản thanh toán**
 
 **Bước 1:** Menu => Cấu hình tài khoản thanh toán (1) => Thêm tài khoản thanh toán (2) 
 
@@ -10,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/85599407/185889143-3c1dabce-3953-44cf-a362-64466affafe9.png)
 
-**2. Cấu hình tính năng thanh toán cho nhân viên**
+##**3. Cấu hình tính năng thanh toán cho nhân viên**
 
 **Bước 1:** Menu => Quản lý nhân viên (1) => Điền user nhân viên muốn cấp quyền (2) => Chọn tìm kiếm (3).
 
