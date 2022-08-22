@@ -13,8 +13,10 @@
 
   **Cách 1:** Tại màn hình thanh toán trên Alipay, Quý khách chọn mục “Thanh toán hộ” như hình:
   ![image](https://user-images.githubusercontent.com/85599407/185875456-a2df07eb-98b6-4c6a-a19e-d3e23298ada4.png)
+  
   **Cách 2:** Quý khách quay về trang chủ Taobao/1688/Tmall, chọn Taobao của tôi (1) => Đơn đã mua (2) => Thanh toán hộ (3).
   ![image](https://user-images.githubusercontent.com/85599407/185875580-1858b090-9800-4afa-bd29-dc27c470cdba.png)
+  
   Đối với trường hợp mua hàng trên 1688 Quý khách chọn vào mục thanh toán hộ như hình sau:
   ![image](https://user-images.githubusercontent.com/85599407/185875631-c34567bc-d705-4d95-b9a8-f8a9d8e81173.png)
 
@@ -26,7 +28,8 @@
 ![image](https://user-images.githubusercontent.com/85599407/185875858-7135c5e0-5bfd-4e1d-b58d-4f6e91e9b2fa.png)
 
 ***Lưu ý:** 
-- Theo quy định của Taobao (tài khoản mua hàng của Quý khách) mỗi ngày có tối đa 10 lượt nhờ thanh toán hộ (daifu), riêng với web Taobao và Tmall mỗi lượt daifu sẽ được phép gộp tối đa 15 đơn hàng/daifu. Do vậy, để tiết kiệm lượt daifu Quý khách nên gộp đơn gửi YCTT như sau:
+
+Theo quy định của Taobao (tài khoản mua hàng của Quý khách) mỗi ngày có tối đa 10 lượt nhờ thanh toán hộ (daifu), riêng với web Taobao và Tmall mỗi lượt daifu sẽ được phép gộp tối đa 15 đơn hàng/daifu. Do vậy, để tiết kiệm lượt daifu Quý khách nên gộp đơn gửi YCTT như sau:
 
 Quý khách bấm gửi hàng loạt, sau đó vào chọn tối đa 15 đơn hàng (1) => Chọn tạo YCTT hộ (2).
 
