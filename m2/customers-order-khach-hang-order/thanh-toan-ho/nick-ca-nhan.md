@@ -1,7 +1,7 @@
 
-#HƯỚNG DẪN TẠO YCTT BẰNG NICK CÁ NHÂN
+**#HƯỚNG DẪN TẠO YCTT BẰNG NICK CÁ NHÂN**
 
-##Tạo yêu cầu thanh toán bằng công cụ
+**##Tạo yêu cầu thanh toán bằng công cụ**
 
 **Bước 1:** Cài công cụ tạo YCTT
 **Bước 2:** Mua hàng trên website: Taobao, Tmall, 1688 như thông thường (Cho hàng vào giỏ >> chọn địa chỉ nhận hàng >> Gửi đơn đặt hàng).
@@ -29,7 +29,7 @@ Quý khách bấm gửi hàng loạt, sau đó vào chọn tối đa 15 đơn h�
 ![image](https://user-images.githubusercontent.com/85599407/185875909-8c944e0e-1a05-491b-b8fc-cedaff50392c.png)
 
 
-##Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý
+**##Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý**
 
 **Bước 1:** Khách hàng vào hệ thống để xem danh sách tài khoản thanh toán đang khả dụng, chọn YCTT Alipay và chọn 1 tài khoản thanh toán bất kỳ
 
