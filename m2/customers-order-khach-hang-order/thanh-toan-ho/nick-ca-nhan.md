@@ -13,23 +13,23 @@
 
   **Cách 1:** Tại màn hình thanh toán trên Alipay, Quý khách chọn mục “Thanh toán hộ” như hình:
   
-  ![image](https://user-images.githubusercontent.com/85599407/185875456-a2df07eb-98b6-4c6a-a19e-d3e23298ada4.png)
+ ![image](https://user-images.githubusercontent.com/85599407/185877864-ba3bde84-f513-4180-8d79-347683fc4e38.png)
   
   **Cách 2:** Quý khách quay về trang chủ Taobao/1688/Tmall, chọn Taobao của tôi (1) => Đơn đã mua (2) => Thanh toán hộ (3).
   
-  ![image](https://user-images.githubusercontent.com/85599407/185875580-1858b090-9800-4afa-bd29-dc27c470cdba.png)
+ ![image](https://user-images.githubusercontent.com/85599407/185878048-d1e152ab-ce2a-47b6-9f2f-8d06956676a2.png)
   
   Đối với trường hợp mua hàng trên 1688 Quý khách chọn vào mục thanh toán hộ như hình sau:
   
-  ![image](https://user-images.githubusercontent.com/85599407/185875631-c34567bc-d705-4d95-b9a8-f8a9d8e81173.png)
+![image](https://user-images.githubusercontent.com/85599407/185878194-39d08bcd-d1a8-4cc5-8aa3-e77f630efc59.png)
 
 **Bước 5:** Quý khách đăng nhập tài khoản than hoán hộ như hình
 
-![image](https://user-images.githubusercontent.com/85599407/185875752-6fc05038-4249-4542-9b7f-bbf462a5f292.png)
+![image](https://user-images.githubusercontent.com/85599407/185878293-e9001b9f-ce38-49c8-a24c-a3c3e90d0526.png)
 
 **Bước 6:** Chọn tài khoản thanh toán cho đơn hàng => Nhập mã Capcha => Chọn xác nhận YCTT hộ như hình
 
-![image](https://user-images.githubusercontent.com/85599407/185875858-7135c5e0-5bfd-4e1d-b58d-4f6e91e9b2fa.png)
+![image](https://user-images.githubusercontent.com/85599407/185878476-2515dad1-69a3-4292-8db4-1434da5c9c1a.png)
 
 ***Lưu ý:** 
 
@@ -37,7 +37,7 @@ Theo quy định của Taobao (tài khoản mua hàng của Quý khách) mỗi n
 
 Quý khách bấm gửi hàng loạt, sau đó vào chọn tối đa 15 đơn hàng (1) => Chọn tạo YCTT hộ (2).
 
-![image](https://user-images.githubusercontent.com/85599407/185875909-8c944e0e-1a05-491b-b8fc-cedaff50392c.png)
+![image](https://user-images.githubusercontent.com/85599407/185878591-d4859c4d-4a6c-4fcd-877b-dc5185ab3baf.png)
 
 
 **##Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý**
