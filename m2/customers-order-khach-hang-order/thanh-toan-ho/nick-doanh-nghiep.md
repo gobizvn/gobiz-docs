@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/85599407/185882381-f9d5f6da-1730-4bff-97fd-42626392ed23.png)
 
-Sau khi tạo thành công, giao diện 1 YCTT tạo đư như hình:
+Sau khi tạo thành công, giao diện 1 YCTT tạo được như hình:
 
 ![image](https://user-images.githubusercontent.com/85599407/185882930-a682e297-c821-40c9-bfda-5886b6120af9.png)
 
