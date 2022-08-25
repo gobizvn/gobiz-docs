@@ -34,5 +34,3 @@ Sau khi nhập mã PIN đơn sẽ chuyển sang trạng thái đặt cọc thàn
 
 ![&#x110;&#x1EB7;t c&#x1ECD;c th&#xE0;nh c&#xF4;ng](https://user-images.githubusercontent.com/73226975/99635190-36450d00-2a74-11eb-8bd7-5386086a44f3.png)
 
-## Đặt đơn ngoài hệ thống
-
