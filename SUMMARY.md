@@ -117,7 +117,7 @@
   * [Tạo tài khoản](m10/taotaikhoan.md)
   * [Tạo nhóm quyền](m10/taonhomquyen.md)
   * [Phân quyền](m10/phanquyen.md)
-* [Trợ lý mua hàng]
+* [Trợ lý mua hàng](readme.md)
   * [Hướng dẫn sử dụng công cụ](trolymuahang/hdcongcu.md)
 * [Go Ticket](m27/README.md)
   * [\[Dùng cho Owner\] Quy trình thiết lập các chức năng cho 1 project](m27/dung-cho-owner-quy-trinh-thiet-lap-cac-chuc-nang-cho-1-project/README.md)
