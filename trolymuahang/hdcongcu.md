@@ -21,7 +21,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 ### II. HƯỚNG DẪN SỬ DỤNG PHẦN MỀM
 #### 1. Hướng dẫn tìm sản phẩm trên 1688 bằng hình ảnh
-**Bước 1:** Mở hình ảnh sản phẩm cần tìm kiếm, Chọn biểu tượng tìm kiếm nền xanh => Chọn nguồn tìm kiếm **“1688.com”**
+**Bước 1:** Mở hình ảnh sản phẩm cần tìm kiếm từ facebook, google,... => Chọn biểu tượng tìm kiếm nền xanh => Chọn nguồn tìm kiếm **“1688.com”**
 
 ![Hình ảnh sản phẩm cần tìm kiếm](https://user-images.githubusercontent.com/112170890/187175110-e72f9ebd-6a29-4a9b-bdc0-5c121dabf377.png)
 
