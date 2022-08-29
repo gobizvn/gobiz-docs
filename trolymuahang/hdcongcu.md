@@ -4,7 +4,7 @@ Trợ lý mua hàng – Gobiz Shopping Assistant (GSA) là công cụ tiện íc
 Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 ### I. HƯỚNG DẪN CÀI ĐẶT PHẦN MỀM
-**Bước 1:** Tìm kiếm **“Gobiz Shopping Assistant”** trên Chrome Extensions => Chọn **“Gobiz Shopping Assistant”**. Hoặc truy cập vào công cụ [tại đây]([url](https://chrome.google.com/webstore/detail/gobiz-shopping-assistant/hbghadnblijiihmmgmchjlbejcgncjef?hl=vi))
+**Bước 1:** Tìm kiếm **“Gobiz Shopping Assistant”** trên Chrome Extensions => Chọn **“Gobiz Shopping Assistant”**. Hoặc truy cập vào công cụ tại đây
 
  ![image](https://user-images.githubusercontent.com/112170890/187156393-2957e773-c473-4c50-aac6-cb67d06753f3.png)
 
@@ -50,6 +50,7 @@ Hoặc tích chọn những hình ảnh/ video cần tải => Chọn **“Tải 
 ![image](https://user-images.githubusercontent.com/112170890/187158903-200db717-852f-41f7-9869-9cc37306846b.png)
 
 ***Hình ảnh/ video tải về:
+
 ![image](https://user-images.githubusercontent.com/112170890/187158930-f4344bc8-6838-4d5c-8d86-cf27d2cdd5c8.png)
 
 
