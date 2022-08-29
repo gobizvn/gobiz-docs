@@ -44,11 +44,11 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
  
 **Bước 3:** Chọn **“Tải tất cả ảnh/ video”** nếu bạn muốn tải tất cả ảnh trên link sản phẩm
  
-![Chọn sản phẩm cần tải](https://user-images.githubusercontent.com/112170890/187158823-cb170ccf-b00a-493c-ac28-8800719b1329.png)
+![Chọn hình ảnh/ video cần tải](https://user-images.githubusercontent.com/112170890/187158823-cb170ccf-b00a-493c-ac28-8800719b1329.png)
 
 Hoặc tích chọn những hình ảnh/ video cần tải => Chọn **“Tải nhiều ảnh/ video”**
  
-![Chọn sản phẩm cần tải](https://user-images.githubusercontent.com/112170890/187158903-200db717-852f-41f7-9869-9cc37306846b.png)
+![Chọn hình ảnh/ video cần tải](https://user-images.githubusercontent.com/112170890/187158903-200db717-852f-41f7-9869-9cc37306846b.png)
 
 ***Hình ảnh/ video tải về:***
 
