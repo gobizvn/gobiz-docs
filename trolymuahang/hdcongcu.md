@@ -26,6 +26,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
  ![Hình ảnh cần sản phẩm cần tìm kiếm](https://user-images.githubusercontent.com/112170890/187158268-69c2b2cf-2072-4531-92c3-e85f96ca89a6.png)
 
 **Bước 2:** Chọn sản phẩm phù hợp với nhu cầu của bạn
+
 ***Kết quả tìm kiếm trên 1688.com***
  
  ![Kết quả tìm kiếm](https://user-images.githubusercontent.com/112170890/187158670-b94f5856-fa01-4aa1-93d9-45e34a0b9c73.png)
