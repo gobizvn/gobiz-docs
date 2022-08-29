@@ -8,11 +8,11 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
  ![Mở phần mềm trên Chrome Extensions](https://user-images.githubusercontent.com/112170890/187156393-2957e773-c473-4c50-aac6-cb67d06753f3.png)
 
-**Bước 2:**  Chọn **“Add to chrome/ Thêm vào chrome”
+**Bước 2:**  Chọn **“Add to chrome/ Thêm vào chrome”**
  
  ![Thêm vào chrome](https://user-images.githubusercontent.com/112170890/187157517-8f640cbd-ebfa-428a-b8d7-a6790b95ebb1.png)
 
-**Bước 3:**  Chọn **“Thêm tiện ích”
+**Bước 3:**  Chọn **“Thêm tiện ích”**
  
 ![Thêm tiện ích](https://user-images.githubusercontent.com/112170890/187157565-6d5a5e3e-6219-4432-b568-78db5321a040.png)
 
@@ -26,7 +26,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
  ![Hình ảnh cần sản phẩm cần tìm kiếm](https://user-images.githubusercontent.com/112170890/187158268-69c2b2cf-2072-4531-92c3-e85f96ca89a6.png)
 
 **Bước 2:** Chọn sản phẩm phù hợp với nhu cầu của bạn
-***Kết quả tìm kiếm trên 1688.com
+***Kết quả tìm kiếm trên 1688.com***
  
  ![Kết quả tìm kiếm](https://user-images.githubusercontent.com/112170890/187158670-b94f5856-fa01-4aa1-93d9-45e34a0b9c73.png)
 
@@ -36,7 +36,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 ![Đăng nhập tài khoản](https://user-images.githubusercontent.com/112170890/187158646-48cbd773-223d-4eaa-994a-da7b82f1a7d1.png)
 
-**Bước 2:** Chọn **“Tải ảnh” 
+**Bước 2:** Chọn **“Tải ảnh”**
 
 ![Chọn tính năng tải ảnh](https://user-images.githubusercontent.com/112170890/187158756-e6f36625-9dd7-4dc9-bcd3-85f989077d0b.png)
 
@@ -45,11 +45,11 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
  
 ![Chọn sản phẩm cần tải](https://user-images.githubusercontent.com/112170890/187158823-cb170ccf-b00a-493c-ac28-8800719b1329.png)
 
-Hoặc tích chọn những hình ảnh/ video cần tải => Chọn **“Tải nhiều ảnh/ video”
+Hoặc tích chọn những hình ảnh/ video cần tải => Chọn **“Tải nhiều ảnh/ video”**
  
 ![Chọn sản phẩm cần tải](https://user-images.githubusercontent.com/112170890/187158903-200db717-852f-41f7-9869-9cc37306846b.png)
 
-***Hình ảnh/ video tải về:
+***Hình ảnh/ video tải về:***
 
 ![Hình ảnh/ video tải về](https://user-images.githubusercontent.com/112170890/187158930-f4344bc8-6838-4d5c-8d86-cf27d2cdd5c8.png)
 
