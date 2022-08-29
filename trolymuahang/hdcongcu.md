@@ -10,7 +10,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 **Bước 2:**  Chọn **“Add to chrome/ Thêm vào chrome”
  
- (https://user-images.githubusercontent.com/112170890/187157517-8f640cbd-ebfa-428a-b8d7-a6790b95ebb1.png)
+ !(https://user-images.githubusercontent.com/112170890/187157517-8f640cbd-ebfa-428a-b8d7-a6790b95ebb1.png)
 
 **Bước 3:**  Chọn **“Thêm tiện ích”
  
