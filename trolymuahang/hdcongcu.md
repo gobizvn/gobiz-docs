@@ -6,6 +6,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 ### I. HƯỚNG DẪN CÀI ĐẶT PHẦN MỀM
 
 Xem video hướng dẫn
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IQkDHLbdJKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Bước 1:** Tìm kiếm **“Gobiz Shopping Assistant”** trên Chrome Extensions => Chọn **“Gobiz Shopping Assistant”**. Hoặc truy cập vào công cụ tại đây [tại đây](https://chrome.google.com/webstore/detail/gobiz-shopping-assistant/hbghadnblijiihmmgmchjlbejcgncjef?hl=vi)
