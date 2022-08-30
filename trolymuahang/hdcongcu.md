@@ -5,7 +5,8 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 ### I. HƯỚNG DẪN CÀI ĐẶT PHẦN MỀM
 
-Xem video hướng dẫn
+Xem video hướng dẫn tại đây
+(https://www.youtube.com/watch?v=IQkDHLbdJKU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IQkDHLbdJKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
