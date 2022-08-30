@@ -5,12 +5,8 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 **>> Xem video chi tiết hướng dẫn cài đặt & sử dụng công cụ [tại đây](https://www.youtube.com/watch?v=P6QkIYVQc6I&list=PLperKFMTnrTuwjNLCELpenL6mTi-KOJ4S&index=6)**
 
-### I. HƯỚNG DẪN CÀI ĐẶT PHẦN MỀM
-{% embed url="https://youtu.be/ZHQZUob3I7g" caption="Quy trình vận hành hàng hóa tại kho Việt Nam" %}
-
-[**TẠI ĐÂY**](https://hd.gobiz.vn/m2/order-management-don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setupfee)
-
-- Quý khách tham khảo thêm tại video hướng dẫn: [Hướng dẫn sử dụng hệ thống từ A-Z bản update](https://youtu.be/ZHQZUob3I7g?t=771)
+### I. HƯỚNG DẪN CÀI ĐẶT CÔNG CỤ
+{% embed url="https://www.youtube.com/watch?v=P6QkIYVQc6I&list=PLperKFMTnrTuwjNLCELpenL6mTi-KOJ4S&index=6" caption="Hướng dẫn cài đặt & sử dụng công cụ Gobiz Shopping Assistant" %}
 
 **Bước 1:** Tìm kiếm **“Gobiz Shopping Assistant”** trên Chrome Extensions => Chọn **“Gobiz Shopping Assistant”**. Hoặc truy cập vào công cụ tại đây [tại đây](https://chrome.google.com/webstore/detail/gobiz-shopping-assistant/hbghadnblijiihmmgmchjlbejcgncjef?hl=vi)
 
