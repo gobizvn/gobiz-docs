@@ -65,3 +65,4 @@ Khách hàng vào menu => Chọn Yêu cầu thanh toán (1) => Chọn Tạo yêu
 
 ![image](https://user-images.githubusercontent.com/85599407/185872045-629d9f7c-d583-47a2-a561-7390b67b8e66.png)
 
+
