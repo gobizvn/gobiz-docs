@@ -43,8 +43,16 @@
             * [Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/danh-sach-kien-hang.md)
             * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu/donhang/yeu-cau-giao-hang.md)
     * Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi
-    * Đơn vị cung cấp Dịch vụ Thanh Toán Hộ
-      * [Cấu hình chung](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
+    * Dịch vụ Thanh Toán Hộ
+      * [Cấu hình Admin](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
+        * Quy trình xử lý đơn Thanh toán hộ
+         * [Phân đơn YCTT]((m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
+         * [Xử lý đơn YCTT]((m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md) 
+      * [Khách hàng](m2/Khach-hang-thanh-toan-ho)
+        * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/ntao-yc-chuyen-tien.md)
+        * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
+        * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
+        
 * [Go Purchasing - Mua hàng](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
