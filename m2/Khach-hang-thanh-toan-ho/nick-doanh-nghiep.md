@@ -1,7 +1,7 @@
 
-**#HƯỚNG DẪN TẠO YCTT BẰNG NICK DOANH NGHIỆP**
+# HƯỚNG DẪN TẠO YCTT BẰNG NICK DOANH NGHIỆP
 
-**##Tạo yêu cầu thanh toán bằng công cụ**
+## Tạo yêu cầu thanh toán bằng công cụ
 
 **Bước 1:** Cài công cụ tạo YCTT
 
@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/85599407/185881055-6cfc8b56-15c6-443f-9653-b8da2abbef49.png)
 
-**##Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý**
+## Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý
 
 **Bước 1:** Khách hàng vào menu => Chọn Yêu cầu thanh toán  => Chọn Tạo yêu cầu thanh toán  => Điền các thông tin để tạo YCTT => xác nhận => Tạo.
 
