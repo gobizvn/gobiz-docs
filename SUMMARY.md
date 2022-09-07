@@ -181,9 +181,9 @@
   * [Quản lý kinh doanh](go-sales/m19.md)
 * Sơ đồ vận hành gói dịch vụ
   * Gói cơ bản
-    * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/README.md)
+    * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/basic/README.md)
     * HDSD cho Đơn vị cung cấp dịch vụ
-        * [Cấu hình](so-do-van-hanh-goi-dich-vu/Cauhinhgoicoban.md)
+        * [Cấu hình](so-do-van-hanh-goi-dich-vu/basicCauhinhgoicoban.md)
         * [Huớng dẫn vận hành](so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
         
   * [Gói tiêu chuẩn](so-do-van-hanh-goi-dich-vu/standard.md)
