@@ -1,7 +1,7 @@
 
-**#HƯỚNG DẪN TẠO YCTT BẰNG NICK CÁ NHÂN**
+# HƯỚNG DẪN TẠO YCTT BẰNG NICK CÁ NHÂN
 
-**##Tạo yêu cầu thanh toán bằng công cụ**
+## Tạo yêu cầu thanh toán bằng công cụ
 
 **Bước 1:** Cài công cụ tạo YCTT
 
@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/85599407/185878476-2515dad1-69a3-4292-8db4-1434da5c9c1a.png)
 
-***Lưu ý:** 
+### Lưu ý:
 
 Theo quy định của Taobao (tài khoản mua hàng của Quý khách) mỗi ngày có tối đa 10 lượt nhờ thanh toán hộ (daifu), riêng với web Taobao và Tmall mỗi lượt daifu sẽ được phép gộp tối đa 15 đơn hàng/daifu. Do vậy, để tiết kiệm lượt daifu Quý khách nên gộp đơn gửi YCTT như sau:
 
@@ -40,7 +40,7 @@ Quý khách bấm gửi hàng loạt, sau đó vào chọn tối đa 15 đơn h�
 ![image](https://user-images.githubusercontent.com/85599407/185878591-d4859c4d-4a6c-4fcd-877b-dc5185ab3baf.png)
 
 
-**##Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý**
+## Tạo yêu cầu thanh toán trực tiếp trên giao diện quản lý
 
 **Bước 1:** Khách hàng vào hệ thống để xem danh sách tài khoản thanh toán đang khả dụng, chọn YCTT Alipay và chọn 1 tài khoản thanh toán bất kỳ
 
@@ -55,6 +55,7 @@ Khách hàng vào menu => Chọn Yêu cầu thanh toán (1) => Chọn Tạo yêu
 **Bước 3:** Khách hàng điền thông tin tài khoản thanh toán mình đã chọn và mã captcha để gửi yêu cầu thanh toán hộ
 
 ![image](https://user-images.githubusercontent.com/85599407/185870925-83450355-b0ea-4f47-9b8d-ee8c8d187dbc.png)
+
 ![image](https://user-images.githubusercontent.com/85599407/185871190-1c656f88-7015-4c9b-923a-e69702b556c3.png)
 
 **Bước 4:** Khi gửi yêu cầu thanh toán hộ thành công, khách hàng vui lòng copy link thanh toán
