@@ -43,7 +43,7 @@
             * [Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/danh-sach-kien-hang.md)
             * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu/donhang/yeu-cau-giao-hang.md)
     * Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi
-    * Dịch vụ Thanh Toán Hộ
+  * Dịch vụ Thanh Toán Hộ
       * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
         * [Cấu hình](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
         * Quy trình xử lý đơn Thanh toán hộ
@@ -129,7 +129,7 @@
   * [Tạo nhóm quyền](m10/taonhomquyen.md)
   * [Phân quyền](m10/phanquyen.md)
 
-* Hệ thống quản lý Quỹ/Kế toán
+* Finance - Hệ thống quản lý Quỹ/Kế toán
   * [Phân quyền](m7/Phan-quyen.md)
   * [Cấu hình chung](m7/cau-hinh.md)
   * [Xử lý phiếu Thu - Chi](m7/tao-phieu-thu-chi.md)
