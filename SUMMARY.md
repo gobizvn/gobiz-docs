@@ -46,8 +46,8 @@
     * Dịch vụ Thanh Toán Hộ
       * [Cấu hình Admin](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
         * Quy trình xử lý đơn Thanh toán hộ
-         * [Phân đơn YCTT]((m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
-         * [Xử lý đơn YCTT]((m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md) 
+         * [Phân đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
+         * [Xử lý đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md) 
       * [Khách hàng](m2/Khach-hang-thanh-toan-ho)
         * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/ntao-yc-chuyen-tien.md)
         * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
