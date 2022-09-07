@@ -7,8 +7,6 @@
      * [Thông tin cá nhân](m2/customers-order-khach-hang-order/van-hanh-chung/thongtincanhan.md)
      * [Cài đặt chung](m2/customers-order-khach-hang-order/van-hanh-chung/caidatchung.md)
 * Customer - Khách hàng
-    * [Customer's Order - Khách hàng Order](m2/order-management-don-vi-cung-cap-dich-vu/don-vi-cung-cap-dv-thanh-toan-ho)
-      *[Cấu hình chung](m2/order-management-don-vi-cung-cap-dich-vu/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
     * [Customer's Order - Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [Cài đặt công cụ mua hàng](so-do-van-hanh-goi-dich-vu/basic/customers-order-khach-hang-order/congcudathang.md)
         * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/loginlogout.md)
@@ -45,6 +43,8 @@
             * [Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/danh-sach-kien-hang.md)
             * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu/donhang/yeu-cau-giao-hang.md)
     * [Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi](m2/order-management-don-vi-cung-cap-dich-vu-ky-gui/README.md)
+    * Thanh toán hộ
+      *[Cấu hình chung](m2/order-management-don-vi-cung-cap-dich-vu/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
 * [Go Purchasing - Mua hàng](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
