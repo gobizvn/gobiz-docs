@@ -44,8 +44,7 @@
             * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu/donhang/yeu-cau-giao-hang.md)
     * Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi
     * Đơn vị cung cấp Dịch vụ Thanh Toán Hộ
-     * [Khách hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/README.md)
-     * [Cấu hình chung](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
+      * [Cấu hình chung](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
 * [Go Purchasing - Mua hàng](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
