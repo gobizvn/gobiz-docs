@@ -1,12 +1,11 @@
 ## Hướng dẫn tạo yêu cầu chuyển tiền
 
-### 1: Truy cập menu bên trái màn hình
-- Chọn Yêu cầu thanh toán (1) 
-
-### 2. Chọn Tạo yêu cầu chuyển tiền (2)
-### 3. Điền số tiền tệ cần chuyển (3) 
-### 4. Điền thông tin nhân hàng nhận tiền (mục có dấu sao là bắt buộc)(4) 
-### 5. Xác nhận (5) và (6).
+#### Truy cập menu bên trái màn hình
+- Chọn Yêu cầu thanh toán (1)
+- Chọn Tạo yêu cầu chuyển tiền (2)
+- Điền số tiền tệ cần chuyển (3) 
+-  Điền thông tin nhân hàng nhận tiền (mục có dấu sao là bắt buộc)(4) 
+#### Xác nhận (5) và (6).
 
 ![image](https://user-images.githubusercontent.com/85599407/187890425-a4447392-ba8d-4a55-b184-a9c1794ae27b.png)
 
