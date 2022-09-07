@@ -184,7 +184,7 @@
     * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/README.md)
     * HDSD cho Đơn vị cung cấp dịch vụ
         * [Cấu hình](so-do-van-hanh-goi-dich-vu/Cauhinhgoicoban.md)
-        * [Huớng dẫn vận hành]((so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
+        * [Huớng dẫn vận hành](so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
         
   * [Gói tiêu chuẩn](so-do-van-hanh-goi-dich-vu/standard.md)
   * [Gói vận chuyển](so-do-van-hanh-goi-dich-vu/standard-1.md)
