@@ -72,7 +72,6 @@ Tại danh sách đơn hàng Quý khách click vào Mã đơn hàng để đến
   * Trạng thái kiện.
   * Thời gian cập nhập.
 
-  \
 
   **5. Giao dịch**
 
