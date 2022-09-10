@@ -4,7 +4,7 @@
 
 Quý khách có thể tạo khiếu nại cho toàn bộ đơn hàng hoặc tạo riêng cho các mã sản phẩm trên đơn trong chi tiết đơn hàng và tại menu khiếu nại trên hệ thống.
 
-### Tạo khiếu nại trong chi tiết đơn hàng
+### HD tạo khiếu nại trong chi tiết đơn hàng
 
 Để tạo khiếu nại dịch vụ, Quý khách truy cập trang chi tiết đơn hàng, tạo khiếu nại tại 1 trong 3 vị trí được khoanh đỏ trong hình minh họa sau:
 
@@ -26,7 +26,7 @@ Tạo khiếu nại thành công, hệ thống sẽ gửi thông báo và chuy�
 
 ![Tạo khiếu nại thành công](https://user-images.githubusercontent.com/73226975/103392324-cb492480-4b4f-11eb-9d86-e0ef0e629396.png)
 
-### Tạo khiếu nại trong màn hình danh sách khiếu nại
+### HD tạo khiếu nại trong màn hình danh sách khiếu nại
 
 Quý khách có thể truy cập từ menu bên trái màn hình để vào **Danh sách khiếu nại**
 
