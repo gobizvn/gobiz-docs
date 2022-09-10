@@ -1,5 +1,5 @@
 
- ## **II. CÁC BƯỚC ĐĂNG KÝ NHẬN THÔNG BÁO QUA ZALO**
+ ## **ĐĂNG KÝ NHẬN THÔNG BÁO QUA ZALO**
 
 **1. Mục đích:** Nhận thông báo qua zalo cá nhân khi hàng về, thông tin thay đổi về tài chính, trạng thái của đơn/Kiện hàng…
 
