@@ -1,2 +1,2 @@
-# Customer's Order - Khách hàng Order
+# Khách hàng Order
 
