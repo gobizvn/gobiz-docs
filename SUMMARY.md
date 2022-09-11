@@ -25,8 +25,6 @@
          * [Quản lý đơn hàng](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/quanlydonkygui.md)
          * [Giao hàng và nhận hàng](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/giaohangvanhanhang.md)
          * [Khiếu nại](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/khieunaikygui.md)
-     * [Khách hàng thanh toán hộ]m2/Don-vi-cung-cap-dv-thanh-toan-ho/README.md)
-         *
  * Management - Đơn vị cung cấp Dịch vụ
     * [Cấu hình hệ thống](m2/order-management-don-vi-cung-cap-dich-vu/README.md)
         * [Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/README.md)
