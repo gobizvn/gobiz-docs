@@ -38,11 +38,11 @@
         * [App nạp tiền tự động](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/appnaptien.md)
         * [Cấu hình khác](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/madichvu.md)
    * Đơn vị cung cấp Dịch vụ Order
-       * [Đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/README.md)
-            * [Kiểm tra lọc Danh sách đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/dsdonhang.md)
-            * [Kiểm tra Chi tiết đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/chitietdon.md)
-            * [Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/danh-sach-kien-hang.md)
-            * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu/donhang/yeu-cau-giao-hang.md)
+       * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/README.md)
+            * [Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
+            * [Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
+            * [Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-ds-kien-hang.md)
+            * [HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/yeu-cau-giao-hang-tu-admin.md)
        * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
             * [Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-ty-gia.md)
             * [Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-cau-hinh-kho.md)
@@ -54,6 +54,21 @@
             * [Cau-hinh-chinh-sach-khach-hang-than-thiet.md](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
     * Đơn vị cung cấp Dịch vụ ký gửi
+      * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui//README.md)
+           * [Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-loc-ds-don-hang.md)
+           * [Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-chi-tiet-don-hang.md)
+           * [Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-ds-kien-hang.md)
+           * [HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/yeu-cau-giao-hang-tu-admin.md)
+       * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
+            * [Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/setup-ty-gia.md)
+            * [Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/setup-cau-hinh-kho.md)
+            * [Nhóm Khách hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/nhom-khach-hang.md)
+            * [Cấu hình chung](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/cau-hinh-chung.md)
+            * [App nạp tiền](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/app-nap-tien.md)
+            * [Tạo giao dịch truy thu nap tiền](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
+            * [Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
+            * [Cau-hinh-chinh-sach-khach-hang-than-thiet.md](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
+            * [Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-khac.md)
     
   * Dịch vụ Thanh Toán Hộ
       * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
