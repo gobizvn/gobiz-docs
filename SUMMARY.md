@@ -25,7 +25,8 @@
          * [Quản lý đơn ký gửi](m2/Khach-hang-ky-gui/Quan-ly-don-ky-gui.md)
          * [Tạo YCG hàng và nhận hàng](m2/Khach-hang-ky-gui/Giao-nhan-hang-ky-gui.md)
          * [Tạo và quản lý Khiếu nại](m2/Khach-hang-ky-gui/khieu-nai-don-ky-gui.md)
- * Management - Đơn vị cung cấp Dịch vụ
+    * [Các bước sử dụng hệ thống dành cho khách hàng](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
+ * Đơn vị cung cấp Dịch vụ
     * [Cấu hình hệ thống](m2/order-management-don-vi-cung-cap-dich-vu/README.md)
         * [Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/README.md)
         * [Cấu hình chung](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/cauhinhchung.md)
@@ -36,13 +37,13 @@
         * [Chính sách khách hàng](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/chinh-sach-khach-hang.md)
         * [App nạp tiền tự động](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/appnaptien.md)
         * [Cấu hình khác](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/madichvu.md)
-   * Order Management - Đơn vị cung cấp Dịch vụ Order
+   * Đơn vị cung cấp Dịch vụ Order
        * [Đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/README.md)
             * [Kiểm tra lọc Danh sách đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/dsdonhang.md)
             * [Kiểm tra Chi tiết đơn hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/chitietdon.md)
             * [Kiểm tra Danh sách kiện hàng](m2/order-management-don-vi-cung-cap-dich-vu/donhang/danh-sach-kien-hang.md)
             * [HD tạo Yêu cầu giao hàng từ admin](m2/order-management-don-vi-cung-cap-dich-vu/donhang/yeu-cau-giao-hang.md)
-    * Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi
+    * Đơn vị cung cấp Dịch vụ ký gửi
   * Dịch vụ Thanh Toán Hộ
       * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
         * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
