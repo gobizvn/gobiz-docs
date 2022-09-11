@@ -9,7 +9,7 @@
 * Customer - Khách hàng
     * [Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [Cài đặt công cụ đặt hàng](m2/Khach-hang-order/cai-dat-cong-cu-dat-hang.md)
-        * [Đăng ký và Đăng nhập](m2/Khach-hang-order/dang-ky-dang-nhap-tai-khoan.md)
+        * [Đăng ký và Đăng nhập tài khoản](m2/Khach-hang-order/dang-ky-dang-nhap-tai-khoan.md)
         * [Cho sản phẩm vào giỏ hàng](m2/Khach-hang-order/cho-hang-vao-gio-hang.md)
         * [Quản lý giỏ hàng](m2/Khach-hang-order/quan-ly-gio-hang.md)
         * [Đặt cọc đơn hàng](m2/Khach-hang-order/dat-coc-don-hang.md)
@@ -18,7 +18,7 @@
         * [Tạo YCG hàng và nhận hàng](m2/Khach-hang-order/HD-tao-yeu-cau-giao-va-nhan-hang.md)
         * [Tạo và quản lý Khiếu nại](m2/Khach-hang-order/HD-tao-va-quan-ly-khieu-nai-tren-don-hang.md)
     * [Khách hàng Ký Gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/README.md)
-         * [Đăng ký và Đăng nhập](m2/Khach-hang-ky-gui/Dang-ky-dang-nhap-tai-khoan.md)
+         * [Đăng ký và Đăng nhập tài khoản](m2/Khach-hang-ky-gui/Dang-ky-dang-nhap-tai-khoan.md)
          * [HD tạo đơn ký gửi](m2/Khach-hang-ky-gui/HD-tao-don-ky-gui.md)
          * [Gửi thông tin cho shop](m2/Khach-hang-ky-gui/gui-thong-tin-cho-shop.md)
          * [Thêm sản phẩm và MVĐ TQ](m2/Khach-hang-ky-gui/update-mvd.md)
