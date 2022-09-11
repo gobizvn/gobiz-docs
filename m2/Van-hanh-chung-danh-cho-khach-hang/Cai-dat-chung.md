@@ -18,6 +18,11 @@ Cài add-on công cụ đặt hàng \(Sử dụng máy tính\) Quý khách tìm 
 
 **Bước 2:** Liên hệ nhân viên CSKH của đơn vị cung cấp dịch vụ, cung cấp thông tin username, tên tài khoản zalo cá nhân để được hỗ trợ kết nối theo dõi/nhận thông báo qua Zalo
 
+Hình ảnh thông báo nhận được sau khi đăng ký nhận thông báo qua Zalo
+
+![image](https://user-images.githubusercontent.com/85599407/189520399-cc21de32-cc03-456a-88cb-c1124cfde014.png)
+
+
  ## **III. CÀI ĐẶT CẤU HÌNH THÔNG BÁO**
  
  **1. Mục đích:** Nhận thông báo qua web, zalo theo các mục muốn nhận được thông tin thông báo
