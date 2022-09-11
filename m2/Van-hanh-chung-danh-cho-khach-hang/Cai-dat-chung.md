@@ -1,6 +1,8 @@
 
 
-## I. CÀI CÔNG CỤ ĐẶT HÀNG - TẠO ĐƠN KÝ GỬI - TẠO YÊU CẦU THANH TOÁN
+## I. CÀI ĐẶT CÔNG CỤ 
+
+**(Công cụ tạo đơn ký gửi, công cụ đặt hàng, Công cụ tạo yêu cầu thanh toán hộ)**
 
 Cài công cụ đặt hàng/tạo đơn hàng ký gửi/tạo yêu cầu thanh toán chỉ hỗ trợ qua giao diện máy tính trên trình duyệt Chrome/Cốc cốc
 
