@@ -216,8 +216,8 @@
   * Gói cơ bản
     * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-co-ban/so-do-goi-co-ban.md)
     * HDSD cho Đơn vị cung cấp dịch vụ
-        * [Cấu hình](so-do-van-hanh-goi-dich-vu/basic/Cauhinhgoicoban.md)
-        * [Huớng dẫn vận hành](so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
+        * [Cấu hình](so-do-van-hanh-goi-dich-vu/Goi-co-ban/Cau-hinh-goi-co-ban.md)
+        * [Huớng dẫn vận hành](so-do-van-hanh-goi-dich-vu/Goi-co-ban/HD-van-hanh-goi-co-ban.md)
   * Gói tiêu chuẩn
       * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-tieu-chuan/so-do-goi-tieu-chuan.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
