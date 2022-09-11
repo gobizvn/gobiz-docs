@@ -7,7 +7,7 @@
      * [Thông tin cá nhân](m2/customers-order-khach-hang-order/van-hanh-chung/thongtincanhan.md)
      * [Cài đặt chung](m2/customers-order-khach-hang-order/van-hanh-chung/caidatchung.md)
 * Customer - Khách hàng
-    * [Customer's Order - Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
+    * [Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [Cài đặt công cụ mua hàng](so-do-van-hanh-goi-dich-vu/basic/customers-order-khach-hang-order/congcudathang.md)
         * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/loginlogout.md)
         * [Cho sản phẩm vào giỏ hàng](m2/customers-order-khach-hang-order/giohang.md)
@@ -17,7 +17,7 @@
         * [Chi tiết đơn hàng](m2/customers-order-khach-hang-order/chitietdonhang.md)
         * [Giao hàng và nhận hàng](m2/customers-order-khach-hang-order/giaohangvanhanhang.md)
         * [Khiếu nại](m2/customers-order-khach-hang-order/khieunaidonthuong.md)
-    * [Customer's Shipment - Khách hàng Ký Gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/README.md)
+    * [Khách hàng Ký Gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/README.md)
          * [Đăng ký và Đăng nhập](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/loginlogout.md)
          * [Tạo đơn ký gửi](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/taodonkygui.md)
          * [Gửi thông tin cho shop](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/guithongtinchoshop.md)
@@ -25,6 +25,8 @@
          * [Quản lý đơn hàng](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/quanlydonkygui.md)
          * [Giao hàng và nhận hàng](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/giaohangvanhanhang.md)
          * [Khiếu nại](m2/customers-order-khach-hang-order/customers-shipment-khach-hang-ky-gui/khieunaikygui.md)
+     * [Khách hàng thanh toán hộ]m2/Don-vi-cung-cap-dv-thanh-toan-ho/README.md)
+         *
  * Management - Đơn vị cung cấp Dịch vụ
     * [Cấu hình hệ thống](m2/order-management-don-vi-cung-cap-dich-vu/README.md)
         * [Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/README.md)
