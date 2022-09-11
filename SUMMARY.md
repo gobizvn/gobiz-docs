@@ -214,12 +214,12 @@
   * [Quản lý kinh doanh](go-sales/m19.md)
 * Sơ đồ vận hành gói dịch vụ
   * Gói cơ bản
-    * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/basic/README.md)
+    * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-co-ban/so-do-goi-co-ban.md)
     * HDSD cho Đơn vị cung cấp dịch vụ
         * [Cấu hình](so-do-van-hanh-goi-dich-vu/basic/Cauhinhgoicoban.md)
         * [Huớng dẫn vận hành](so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
   * Gói tiêu chuẩn
-      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/standard.md)(so-do-van-hanh-goi-dich-vu/standard.md)
+      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-tieu-chuan/so-do-goi-tieu-chuan.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
          * [Cấu hình]
          * [Huớng dẫn vận chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
@@ -227,7 +227,7 @@
       * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
       * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
    * Gói Vận chuyển
-      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/standard-1.md)
+      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-van-chuyen/ so-do-goi-van-chuyen.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
          * [Cấu hình]
          * [Huớng dẫn vận chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
