@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Giới thiệu](README.md)
-* [Go CB Shopper](m2/README.md)
- * [Vận hành chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
-     * [Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
-     * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
-     * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
+* [GIỚI THIỆU](README.md)
+* [GO CB SHOPPER](m2/README.md)
 * CUSTOMER - KHÁCH HÀNG
     * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
+    * [Vận hành chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
+      * [Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
+      * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
+      * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
     * [Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [Cài đặt công cụ đặt hàng](m2/Khach-hang-order/cai-dat-cong-cu-dat-hang.md)
         * [Đăng ký và Đăng nhập tài khoản](m2/Khach-hang-order/dang-ky-dang-nhap-tai-khoan.md)
