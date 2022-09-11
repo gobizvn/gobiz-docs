@@ -227,7 +227,7 @@
       * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
       * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
    * Gói Vận chuyển
-      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-van-chuyen/ so-do-goi-van-chuyen.md)
+      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-van-chuyen/so-do-goi-van-chuyen.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
          * [Cấu hình]
          * [Huớng dẫn vận chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
