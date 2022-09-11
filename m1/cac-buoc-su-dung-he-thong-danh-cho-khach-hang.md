@@ -1,4 +1,4 @@
-# GIỚI THIỆU CHUNG
+# CÁC BƯỚC SỬ DỤNG HỆ THỐNG DÀNH CHO KHÁCH HÀNG
 
 ## I. HDSD HỆ THỐNG ĐẶT HÀNG DÀNH CHO KHÁCH ORDER
 Gobiz gửi đến Quý khách hướng dẫn quy trình đặt hàng cùng những chức năng liên quan để Quý khách có thể dễ dàng sử dụng dịch vụ.
