@@ -25,7 +25,7 @@
          * [Quản lý đơn ký gửi](m2/Khach-hang-ky-gui/Quan-ly-don-ky-gui.md)
          * [Tạo YCG hàng và nhận hàng](m2/Khach-hang-ky-gui/Giao-nhan-hang-ky-gui.md)
          * [Tạo và quản lý Khiếu nại](m2/Khach-hang-ky-gui/khieu-nai-don-ky-gui.md)
-    * [Các bước sử dụng hệ thống dành cho khách hàng](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
+    * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
  * Đơn vị cung cấp Dịch vụ
     * [Cấu hình hệ thống](m2/order-management-don-vi-cung-cap-dich-vu/README.md)
         * [Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/README.md)
