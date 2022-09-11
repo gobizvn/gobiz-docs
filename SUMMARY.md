@@ -3,9 +3,10 @@
 * [Giới thiệu](README.md)
 * [Go CB Shopper](m2/README.md)
  * [Vận hành chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
-     * [Quản lý tài chính](m2/customers-order-khach-hang-order/van-hanh-chung/quanlytaichinh.md)
-     * [Thông tin cá nhân](m2/customers-order-khach-hang-order/van-hanh-chung/thongtincanhan.md)
-     * [Cài đặt chung](m2/customers-order-khach-hang-order/van-hanh-chung/caidatchung.md)
+     * [Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
+     * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
+     * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
+     * [Kích hoạt nhận thông báo qua zalo](m2/Van-hanh-chung-danh-cho-khach-hang/Kich-hoat-nhan-thong-bao-qua-zalo.md)
 * Customer - Khách hàng
     * [Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [Cài đặt công cụ đặt hàng](m2/Khach-hang-order/cai-dat-cong-cu-dat-hang.md)
