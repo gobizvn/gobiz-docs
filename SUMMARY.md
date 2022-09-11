@@ -7,6 +7,7 @@
      * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
      * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
 * CUSTOMER - KHÁCH HÀNG
+    * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
     * [Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [Cài đặt công cụ đặt hàng](m2/Khach-hang-order/cai-dat-cong-cu-dat-hang.md)
         * [Đăng ký và Đăng nhập tài khoản](m2/Khach-hang-order/dang-ky-dang-nhap-tai-khoan.md)
@@ -25,25 +26,18 @@
          * [Quản lý đơn ký gửi](m2/Khach-hang-ky-gui/Quan-ly-don-ky-gui.md)
          * [Tạo YCG hàng và nhận hàng](m2/Khach-hang-ky-gui/Giao-nhan-hang-ky-gui.md)
          * [Tạo và quản lý Khiếu nại](m2/Khach-hang-ky-gui/khieu-nai-don-ky-gui.md)
-    * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
+    * [Khách hàng Thanh toán hộ](m2/Khach-hang-thanh-toan-ho)
+        * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
+        * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
+        * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
  * ĐƠN VỊ CUNG CẤP DỊCH VỤ
-    * [Cấu hình hệ thống](m2/order-management-don-vi-cung-cap-dich-vu/README.md)
-        * [Cài đặt ban đầu](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/README.md)
-        * [Cấu hình chung](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/cauhinhchung.md)
-        * [Cấu hình kho](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/setupkho.md)
-        * [Cấu hình tỷ giá](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/setuptygia.md)
-        * [Cấu hình phí](m2/oorder-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/setupfee.md)
-        * [Nhóm khách hàng](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/nhom-khach-hang.md)
-        * [Chính sách khách hàng](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/chinh-sach-khach-hang.md)
-        * [App nạp tiền tự động](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/appnaptien.md)
-        * [Cấu hình khác](m2/order-management-don-vi-cung-cap-dich-vu/cai-dat-ban-dau/madichvu.md)
    * Đơn vị cung cấp Dịch vụ Order
        * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/README.md)
             * [Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
             * [Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
             * [Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-ds-kien-hang.md)
             * [HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/yeu-cau-giao-hang-tu-admin.md)
-       * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
+       * [Cài đặt hệ thống](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
             * [Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-ty-gia.md)
             * [Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-cau-hinh-kho.md)
             * [Nhóm Khách hàng](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/nhom-khach-hang.md)
@@ -59,7 +53,7 @@
            * [Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-chi-tiet-don-hang.md)
            * [Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-ds-kien-hang.md)
            * [HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/yeu-cau-giao-hang-tu-admin.md)
-       * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
+       * [Cài đặt hệ thống](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
             * [Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/setup-ty-gia.md)
             * [Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/setup-cau-hinh-kho.md)
             * [Nhóm Khách hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/nhom-khach-hang.md)
@@ -69,7 +63,15 @@
             * [Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
             * [Cau-hinh-chinh-sach-khach-hang-than-thiet.md](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-khac.md)
-    
+   * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
+        * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
+            * [Setup tỷ giá](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/setup-ty-gia.md)
+            * [Cấu hình chung](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chung.md)
+            * [Tạo giao dịch truy thu nạp tiền](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
+            * [Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
+       * Xử lý đơn Thanh toán hộ
+          * [Phân đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
+          * [Xử lý đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md)
   * Dịch vụ Thanh Toán Hộ
       * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
         * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
@@ -80,7 +82,7 @@
         * Xử lý đơn Thanh toán hộ
           * [Phân đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
           * [Xử lý đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md) 
-      * [Khách hàng](m2/Khach-hang-thanh-toan-ho)
+      * [Khách hàng Thanh toán hộ](m2/Khach-hang-thanh-toan-ho)
         * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
         * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
         * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
