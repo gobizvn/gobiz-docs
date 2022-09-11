@@ -8,3 +8,6 @@ Vào Menu => Cấu hình cấp khách hàng (1) => Thêm cấp khách hàng (2) 
 
 ![image](https://user-images.githubusercontent.com/85599407/189509100-ddc7f600-5b29-4a4c-bdcd-c26924209a0d.png)
 
+## Cấu hình quy đổi điểm
+
+_(Đang cập nhật)_
