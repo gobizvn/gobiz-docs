@@ -50,7 +50,7 @@
             * [Cấu hình chung](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chung.md)
             * [Tạo giao dịch truy thu nạp tiền](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
             * [Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
-        * Quy trình xử lý đơn Thanh toán hộ
+        * Xử lý đơn Thanh toán hộ
           * [Phân đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
           * [Xử lý đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md) 
       * [Khách hàng](m2/Khach-hang-thanh-toan-ho)
