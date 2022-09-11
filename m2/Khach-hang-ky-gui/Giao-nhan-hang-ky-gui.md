@@ -1,4 +1,4 @@
-# Giao hàng và nhận hàng
+# HD tạo YCG hàng và nhận hàng
 
 {% embed url="https://www.youtube.com/watch?v=ptgyzjoTRp8" caption="" %}
 
