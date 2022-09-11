@@ -45,7 +45,12 @@
     * Shipment Management - Đơn vị cung cấp Dịch vụ ký gửi
   * Dịch vụ Thanh Toán Hộ
       * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
-        * [Cấu hình](m2/don-vi-cung-cap-dv-thanh-toan-ho/cauhinh.md)
+        * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
+            * [Setup tỷ giá](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/setup-ty-gia.md)
+            * [Cấu hình chung](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chung.md)
+            * [Tạo giao dịch truy thu nạp tiền](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
+            * [Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
+            * [Cấu hình chung](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chung.md)
         * Quy trình xử lý đơn Thanh toán hộ
           * [Phân đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/phan-don-yctt.md)
           * [Xử lý đơn YCTT](m2/don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-don-yctt.md) 
