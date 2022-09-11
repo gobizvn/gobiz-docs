@@ -218,9 +218,22 @@
     * HDSD cho Đơn vị cung cấp dịch vụ
         * [Cấu hình](so-do-van-hanh-goi-dich-vu/basic/Cauhinhgoicoban.md)
         * [Huớng dẫn vận hành](so-do-van-hanh-goi-dich-vu/basic/huongdanvanhanhcb.md)
-        
-  * [Gói tiêu chuẩn](so-do-van-hanh-goi-dich-vu/standard.md)
-  * [Gói vận chuyển](so-do-van-hanh-goi-dich-vu/standard-1.md)
+  * Gói tiêu chuẩn
+      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/standard.md)(so-do-van-hanh-goi-dich-vu/standard.md)
+      * HDSD cho Đơn vị cung cấp dịch vụ
+         * [Cấu hình]
+         * [Huớng dẫn vận chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
+      * [Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
+      * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
+      * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
+   * Gói Vận chuyển
+      * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/standard-1.md)
+      * HDSD cho Đơn vị cung cấp dịch vụ
+         * [Cấu hình]
+         * [Huớng dẫn vận chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
+      * [Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
+      * [Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
+      * [Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
 * [Q&A - Câu hỏi thường gặp](q-and-a/README.md)
   * [Go Shopper](q-and-a/go\_shopper.md)
   * [Go Purchasing](q-and-a/go\_shopper-1.md)
