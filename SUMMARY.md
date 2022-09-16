@@ -30,7 +30,7 @@
         * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
         * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
         * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
- * ĐƠN VỊ CUNG CẤP DỊCH VỤ
+ * ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
    * Đơn vị cung cấp Dịch vụ Order
        * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/README.md)
             * [Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
@@ -72,7 +72,7 @@
        * Xử lý đơn Thanh toán hộ
           * [Phân đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Phan-don-YCTT.md)
           * [Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)      
-* [Go Purchasing - Mua hàng](m5/README.md)
+* [HỆ THỐNG MUA HÀNG](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
     * [Cấu hình mua hàng & nhận đơn](m5/cau-hinh/chmuahangnhandon.md)
@@ -104,7 +104,7 @@
     * [Báo cáo hiệu suất](m5/kiem-soat-mua-hang/baocaohieusuat.md)
     * [Duyệt thay đổi MHĐG](m5/kiem-soat-mua-hang/duyetthaydoimhdg.md)
   * [Cập nhập tính năng mới](m5/change-logs.md)
-* [Go Logistics - Xử lý kho vận](m6/README.md)
+* [HỆ THỐNG KHO VẬN](m6/README.md)
   * [Vận hành chung](m6/van-hanh-chung/README.md)
       * [Lịch sử xuất nhập hàng](m6/van-hanh-chung/lich-su-xuat-nhap-hang.md)
       * [Quản lý kiện hàng](m6/van-hanh-chung/quan-ly-kien-hang.md)
@@ -138,7 +138,7 @@
       * [Nhập hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/nhap-hang.md)
       * [Giao hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/m6\_yeucaugiao.md)
       * [Phiếu xuất](m6/hang-ky-gui/van-hanh-kho-phan-phoi/phieu-xuat.md)
-* [Go Complaints - Khiếu nại dịch vụ](m3/README.md)
+* [HỆ THỐNG KHIẾU NẠI](m3/README.md)
   * [Cấu hình](m3/cauhinhhethong.md)
   * [Tạo khiếu nại cho khách hàng](m3/taokhieunai.md)
   * [Xử lý khiếu nại](m3/xulykhieunai.md)
@@ -147,7 +147,7 @@
   * [Tạo nhóm quyền](m10/taonhomquyen.md)
   * [Phân quyền](m10/phanquyen.md)
 
-* Finance - Hệ thống quản lý Quỹ/Kế toán
+* HỆ THỐNG QUẢN Ý QUỸ/KẾ TOÁN
   * [Phân quyền](M7/Phan-quyen.md)
   * [Cấu hình chung](M7/cau-hinh.md)
   * [Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu.md)
@@ -176,7 +176,7 @@
     * [Đánh giá ticket](m27/huong-dan-su-dung-cho-thanh-vien-du-an/rate\_ticket.md)
     * [Nhận thông báo ticket qua Dingtalk](m27/huong-dan-su-dung-cho-thanh-vien-du-an/notification\_ticket.md)
     * [Nhận thông báo ticket qua Zalo](m27/huong-dan-su-dung-cho-thanh-vien-du-an/zalo\_ticket.md)
-* [Quản lý kho hàng M28](m28/README.md)
+* [QUẢN LÝ KHO HÀNG M28](m28/README.md)
   * [Phát đơn hàng](m28/dispatch\_order/README.md)
     * [Chọn kho xuất](m28/dispatch\_order/order\_picking\_warehouse.md)
     * [Xác nhận đơn hàng](m28/dispatch\_order/order\_confirmation.md)
@@ -195,9 +195,9 @@
     * [Danh mục sản phẩm](m28/quan-ly-san-pham/product\_list-1.md)
   * [Cấu hình (Vendor, Vận hành, Đồng bộ sản phẩm)](m28/cau-hinh-vendor-van-hanh-dong-bo-san-pham/README.md)
     * [Các chức năng cấu hình](m28/cau-hinh-vendor-van-hanh-dong-bo-san-pham/setting.md)
-* [Go Sales - Hệ thống CRM](go-sales/README.md)
+* [HỆ THỐNG QUAN LÝ KINH DOANH CRM](go-sales/README.md)
   * [Quản lý kinh doanh](go-sales/m19.md)
-* Sơ đồ vận hành gói dịch vụ
+* SƠ ĐỒ VẬN HÀNH GÓI DỊCH VỤ
   * Gói cơ bản
     * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-co-ban/so-do-goi-co-ban.md)
     * HDSD cho Đơn vị cung cấp dịch vụ
@@ -209,7 +209,7 @@
    * Gói Vận chuyển
       * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-van-chuyen/so-do-goi-van-chuyen.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
-* [Q&A - Câu hỏi thường gặp](q-and-a/README.md)
+* [Q&A - CÂU HỎI THƯỜNG GẶP](q-and-a/README.md)
   * [Go Shopper](q-and-a/go\_shopper.md)
   * [Go Purchasing](q-and-a/go\_shopper-1.md)
   * [Go Logistics](q-and-a/go\_shopper-2.md)
