@@ -63,7 +63,7 @@
             * [Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
             * [Cau-hinh-chinh-sach-khach-hang-than-thiet.md](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-khac.md)
-   * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
+   * Đơn vị CC dịch vụ Thanh Toán Hộ
         * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
             * [Setup tỷ giá](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/setup-ty-gia.md)
             * [Cấu hình chung](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chung.md)
@@ -71,22 +71,7 @@
             * [Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
        * Xử lý đơn Thanh toán hộ
           * [Phân đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Phan-don-YCTT.md)
-          * [Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)
-  * Dịch vụ Thanh Toán Hộ
-      * Đơn vị cung cấp dịch vụ Thanh Toán Hộ
-        * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
-            * [Setup tỷ giá](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/setup-ty-gia.md)
-            * [Cấu hình chung](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chung.md)
-            * [Tạo giao dịch truy thu nạp tiền](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
-            * [Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
-        * Xử lý đơn Thanh toán hộ
-          * [Phân đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Phan-don-YCTT.md)
-          * [Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)
-      * [Khách hàng Thanh toán hộ](m2/Khach-hang-thanh-toan-ho)
-        * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
-        * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
-        * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
-        
+          * [Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)      
 * [Go Purchasing - Mua hàng](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
