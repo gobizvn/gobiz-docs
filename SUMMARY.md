@@ -178,7 +178,7 @@
     * [Đánh giá ticket](m27/huong-dan-su-dung-cho-thanh-vien-du-an/rate\_ticket.md)
     * [Nhận thông báo ticket qua Dingtalk](m27/huong-dan-su-dung-cho-thanh-vien-du-an/notification\_ticket.md)
     * [Nhận thông báo ticket qua Zalo](m27/huong-dan-su-dung-cho-thanh-vien-du-an/zalo\_ticket.md)
-* [QUẢN LÝ KHO HÀNG M28](m28/README.md)
+* [HỆTHỐNG QUẢN LÝ KHO HÀNG M28](m28/README.md)
   * [Phát đơn hàng](m28/dispatch\_order/README.md)
     * [Chọn kho xuất](m28/dispatch\_order/order\_picking\_warehouse.md)
     * [Xác nhận đơn hàng](m28/dispatch\_order/order\_confirmation.md)
