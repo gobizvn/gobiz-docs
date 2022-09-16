@@ -8,6 +8,8 @@ _
 
 ![image](https://user-images.githubusercontent.com/85599407/190640777-fb05b45d-c71d-4b62-90f6-f4afa41fb34c.png)
 
+
 Sau khi chọn thành công, hệ thống có thông báo như hình:
+
 
 ![image](https://user-images.githubusercontent.com/85599407/190641500-4f68862e-2d85-4b3f-aeee-6dfe4cd4ada3.png)
