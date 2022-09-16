@@ -1,4 +1,4 @@
-## PHÂN ĐƠN YCTT CHO NHÂN VIÊN XỬ LÝ
+## PHÂN ĐƠN YCTT CHO NHÂN VIÊN THANH TOÁN
 
 **Bước 1:** Vào Menu => Chọn yêu cầu thanh toán (1) => Tại mục Yêu cầu thanh toán, chọn mã YCTT đang chờ xử lý để phân đơn
 
