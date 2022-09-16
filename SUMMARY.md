@@ -164,8 +164,8 @@
 
 * Finance - Hệ thống quản lý Quỹ/Kế toán
   * [Phân quyền](M7/Phan-quyen.md)
-  * [Cấu hình chung](m7/cau-hinh.md)
-  * [Xử lý phiếu Thu - Chi](m7/tao-phieu-thu-chi.md)
+  * [Cấu hình chung](M7/cau-hinh.md)
+  * [Xử lý phiếu Thu - Chi](M7/tao-phieu-thu-chi.md)
 
 * [Trợ lý mua hàng](readme.md)
   * [Hướng dẫn sử dụng công cụ](trolymuahang/hdcongcu.md)
