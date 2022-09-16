@@ -30,7 +30,7 @@
         * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
         * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
         * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
- * HỆ THỐNG ADMIN - ĐƠN VỊ CC DỊCH VỤ
+ * HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
    * Đơn vị cung cấp Dịch vụ Order
        * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/README.md)
             * [Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
