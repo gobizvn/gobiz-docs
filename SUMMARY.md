@@ -142,7 +142,8 @@
   * [Cấu hình](m3/cauhinhhethong.md)
   * [Tạo khiếu nại cho khách hàng](m3/taokhieunai.md)
   * [Xử lý khiếu nại](m3/xulykhieunai.md)
-* [Go Authen.me - Hệ thống phân quyền](m10/README.md)
+  
+* [HỆ THỐNG PHÂN QUYỀN](m10/README.md)
   * [Tạo tài khoản](m10/taotaikhoan.md)
   * [Tạo nhóm quyền](m10/taonhomquyen.md)
   * [Phân quyền](m10/phanquyen.md)
@@ -152,9 +153,10 @@
   * [Cấu hình chung](M7/cau-hinh.md)
   * [Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu.md)
 
-* [Trợ lý mua hàng](readme.md)
+* [TRỢ LÝ MUA HÀNG](readme.md)
   * [Hướng dẫn sử dụng công cụ](trolymuahang/hdcongcu.md)
-* [Go Ticket](m27/README.md)
+  
+* [GO TICKET](m27/README.md)
   * [\[Dùng cho Owner\] Quy trình thiết lập các chức năng cho 1 project](m27/dung-cho-owner-quy-trinh-thiet-lap-cac-chuc-nang-cho-1-project/README.md)
     * [Tạo mới dự án](m27/dung-cho-owner-quy-trinh-thiet-lap-cac-chuc-nang-cho-1-project/create\_project.md)
     * [Xem danh sách dự án](m27/dung-cho-owner-quy-trinh-thiet-lap-cac-chuc-nang-cho-1-project/list\_project.md)
