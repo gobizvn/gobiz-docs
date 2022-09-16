@@ -16,6 +16,7 @@ Giao diện thông báo đã thanh toán thành công cho YCTT
 
 ![image](https://user-images.githubusercontent.com/85599407/190645294-a364834a-d457-4cec-be30-e5e214af5155.png)
 
+
 ## 2. Hủy YCTT
 
 **Bước 1:** Vào menu => Chọn yêu cầu thanh toán hộ của tôi (1) => Chọn yêu cầu thanh toán hộ (2) => bấm chọn hủy (3)
@@ -23,6 +24,7 @@ Giao diện thông báo đã thanh toán thành công cho YCTT
 **Bước 2:** Điền lý do hủy (4) => Đồng ý (5)
 
 ![image](https://user-images.githubusercontent.com/85599407/190646141-7f394c9e-87e8-4cc7-9626-7bdff79cd0ae.png)
+
 
 ### 3. Từ chối YCTT 
 
