@@ -148,7 +148,7 @@
   * [Tạo nhóm quyền](m10/taonhomquyen.md)
   * [Phân quyền](m10/phanquyen.md)
 
-* HỆ THỐNG QUẢN Ý QUỸ/KẾ TOÁN
+* HỆ THỐNG QUẢN LÝ QUỸ/KẾ TOÁN
   * [Phân quyền](M7/Phan-quyen.md)
   * [Cấu hình chung](M7/cau-hinh.md)
   * [Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu.md)
@@ -197,7 +197,7 @@
     * [Danh mục sản phẩm](m28/quan-ly-san-pham/product\_list-1.md)
   * [Cấu hình (Vendor, Vận hành, Đồng bộ sản phẩm)](m28/cau-hinh-vendor-van-hanh-dong-bo-san-pham/README.md)
     * [Các chức năng cấu hình](m28/cau-hinh-vendor-van-hanh-dong-bo-san-pham/setting.md)
-* [HỆ THỐNG QUAN LÝ KINH DOANH CRM](go-sales/README.md)
+* [HỆ THỐNG QUẢN LÝ KINH DOANH](go-sales/README.md)
   * [Quản lý kinh doanh](go-sales/m19.md)
 * SƠ ĐỒ VẬN HÀNH GÓI DỊCH VỤ
   * Gói cơ bản
