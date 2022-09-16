@@ -163,7 +163,7 @@
   * [Phân quyền](m10/phanquyen.md)
 
 * Finance - Hệ thống quản lý Quỹ/Kế toán
-  * [Phân quyền](M7/Phan-quyen.md
+  * [Phân quyền](M7/Phan-quyen.md)
   * [Cấu hình chung](m7/cau-hinh.md)
   * [Xử lý phiếu Thu - Chi](m7/tao-phieu-thu-chi.md)
 
