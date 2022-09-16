@@ -2,7 +2,7 @@
 
 * [GIỚI THIỆU](README.md)
 * [GO CB SHOPPER](m2/README.md)
-* CUSTOMER - KHÁCH HÀNG
+* HỆ THỐNG KHÁCH HÀNG
     * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
     * [Vận hành chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
       * [Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
@@ -30,7 +30,7 @@
         * [Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
         * [Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
         * [Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
- * ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
+ * HỆ THỐNG ADMIN - ĐƠN VỊ CC DỊCH VỤ
    * Đơn vị cung cấp Dịch vụ Order
        * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/README.md)
             * [Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
