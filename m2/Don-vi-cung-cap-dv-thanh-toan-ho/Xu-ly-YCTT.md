@@ -26,7 +26,7 @@ Giao diện thông báo đã thanh toán thành công cho YCTT
 ![image](https://user-images.githubusercontent.com/85599407/190646141-7f394c9e-87e8-4cc7-9626-7bdff79cd0ae.png)
 
 
-### 3. Từ chối YCTT 
+## 3. Từ chối YCTT 
 
 Vào menu => Chọn yêu cầu thanh toán hộ của tôi (1) => Chọn YCTT cần từ chối xử lý (2) => Tại cột người tiếp nhận chọn nút sửa (3) => Chọn Hủy bỏ (4).
 
