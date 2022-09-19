@@ -8,7 +8,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 ### I. HƯỚNG DẪN CÀI ĐẶT CÔNG CỤ
 
-**Bước 1:** Tìm kiếm **“Gobiz Shopping Assistant”** trên Chrome Extensions => Chọn **“Gobiz Shopping Assistant”**. Hoặc truy cập vào công cụ tại đây [tại đây](https://chrome.google.com/webstore/detail/gobiz-shopping-assistant/hbghadnblijiihmmgmchjlbejcgncjef?hl=vi)
+**Bước 1:** Khách hàng liên hệ với bộ phận CSKH để lấy đường dẫn cài công cụ. 
 
  ![Mở phần mềm trên Chrome Extensions](https://user-images.githubusercontent.com/112170890/187156393-2957e773-c473-4c50-aac6-cb67d06753f3.png)
 
