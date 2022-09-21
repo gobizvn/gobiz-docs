@@ -151,7 +151,7 @@
 * HỆ THỐNG QUẢN LÝ QUỸ/KẾ TOÁN
   * [Phân quyền](M7/Phan-quyen.md)
   * [Cấu hình chung](M7/cau-hinh.md)
-  * [Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu.md)
+  * [Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu-chi.md)
 
 * [TRỢ LÝ MUA HÀNG](readme.md)
   * [Hướng dẫn sử dụng công cụ](trolymuahang/hdcongcu.md)
