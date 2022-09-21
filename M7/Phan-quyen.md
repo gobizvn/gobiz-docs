@@ -1,12 +1,12 @@
 
-## Phân quyền
+# Phân quyền
 
 Để có thể phân quyền xử lý công việc trên hệ thống quản lý Quỹ, Quản Lý cần truy cập vào link hệ thống:
 ***https://dashboard.authen.me/***
 để có thể phân quyền cho nhân viên thao tác.
 
-## Tiến hành phân quyền
-### Bước 1: Thêm thành viên vào hệ thống 
+# Tiến hành phân quyền
+## Bước 1: Thêm thành viên vào hệ thống 
 Quý khách chọn hệ thống Quỹ và thao tác thêm thành viên như hình minh họa:
 
 Chọn **quản lý ứng dụng** (1) -> trong danh sách tìm ứng dụng **Quỹ** (2) -> **Người dùng** (3) -> **Thêm thành viên** (4)
@@ -18,7 +18,7 @@ Chọn **quản lý ứng dụng** (1) -> trong danh sách tìm ứng dụng **Q
 ![Thêm người dùng](https://user-images.githubusercontent.com/109578103/189465587-177b388d-a742-40b6-ab5a-c0c429c412ff.png)
 
 
-### Bước 2: Phân quyền vào hệ thống
+## Bước 2: Phân quyền vào hệ thống
 
 Sau khi thêm người dùng vào hệ thống Quý khách chọn tab **Nhóm quyền** (1) -> chọn quyền trong danh sách quyền (2) -> **Thành viên** (3) -> **Thêm thành viên** (4)
 
