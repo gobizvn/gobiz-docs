@@ -208,6 +208,20 @@
   * Gói tiêu chuẩn
       * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-tieu-chuan/so-do-goi-tieu-chuan.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
+         * [cấu hình chính sách KHTT](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/Cau-hinh-chinh-sach-khtt.md)
+         * [App nap tiền tự động](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/app-nap-tien.md)
+         *  [Setup tỷ giá](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/setup-ty-gia.md)
+            * [Cấu hình kho](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/setup-cau-hinh-kho.md)
+            * [Nhóm Khách hàng](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/nhom-khach-hang.md)
+            * [Cấu hình chung](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/cau-hinh-chung.md)
+            * [Tạo giao dịch truy thu nap tiền](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/tao-giao-dich-truy-thu-nap-tien.md)
+            * [Cấu hình phí dịch vụ](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/cau-hinh-phi-dich-vu.md)
+            * [Cấu hình khác](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/cau-hinh-khac.md)
+            * [Kiểm tra lọc Danh sách đơn hàng](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/kiem-tra-loc-ds-don-hang.md)
+           * [Kiểm tra Chi tiết đơn hàng](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/kiem-tra-chi-tiet-don-hang.md)
+           * [Kiểm tra Danh sách kiện hàng](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/kiem-tra-ds-kien-hang.md)
+           * [HD tạo Yêu cầu giao hàng từ admin](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/yeu-cau-giao-hang-tu-admin.md)
+    * Đơn vị cung cấp Dịch vụ ký gửi
    * Gói Vận chuyển
       * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-van-chuyen/so-do-goi-van-chuyen.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
