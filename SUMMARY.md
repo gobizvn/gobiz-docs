@@ -225,7 +225,7 @@
    * Gói Vận chuyển
       * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-van-chuyen/so-do-goi-van-chuyen.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
-         * [Cấu hình chính sách KHTT](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/m2/Khach-hang-ky-gui/HD-tao-don-ky-gui.md)
+         * [Cấu hình chính sách KHTT]
          * [App nap tiền tự động](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/app-nap-tien.md)
          * [Setup tỷ giá](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/setup-ty-gia.md)
          * [Cấu hình kho](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/setup-cau-hinh-kho.md)
