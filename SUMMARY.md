@@ -208,7 +208,7 @@
   * Gói tiêu chuẩn
       * [Sơ đồ vận hành](so-do-van-hanh-goi-dich-vu/Goi-tieu-chuan/so-do-goi-tieu-chuan.md)
       * HDSD cho Đơn vị cung cấp dịch vụ
-         * [cấu hình chính sách KHTT](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/Cau-hinh-chinh-sach-khtt.md)
+         * [cấu hình chính sách KHTT](so-do-van-hanh-goi-dich-vu/Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/Cau-hinh-chinh-sach-khtt.md)
          * [App nap tiền tự động](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/app-nap-tien.md)
          *  [Setup tỷ giá](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/setup-ty-gia.md)
             * [Cấu hình kho](Goi-tieu-chuan/HDSD-cho-don-vi-CCDV/setup-cau-hinh-kho.md)
