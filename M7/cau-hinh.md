@@ -1,8 +1,6 @@
 
 # CẤU HÌNH CHUNG HỆ THỐNG QUẢN LÝ QUỸ
 
-https://www.youtube.com/watch?v=pZic_Wprub8
-
 ###  1. Tạo vai trò
 
 Để có thể tạo vai trò, Quý khách thực hiện theo các bước như sau:
