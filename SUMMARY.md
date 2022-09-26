@@ -45,7 +45,7 @@
             * [5. App nạp tiền](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/app-nap-tien.md)
             * [6. Tạo giao dịch truy thu nap tiền](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
             * [7. Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
-            * [8. Cau-hinh-chinh-sach-khach-hang-than-thiet.md](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
+            * [8. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
     * Đơn vị cung cấp Dịch vụ ký gửi
       * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui//README.md)
@@ -61,7 +61,7 @@
             * [5. App nạp tiền](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/app-nap-tien.md)
             * [6. Tạo giao dịch truy thu nap tiền](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
             * [7. Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
-            * [8. Cau-hinh-chinh-sach-khach-hang-than-thiet.md](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
+            * [8. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-khac.md)
    * Đơn vị CC dịch vụ Thanh Toán Hộ
         * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
