@@ -139,19 +139,19 @@
       * [2. Giao hàng](m6/hang-ky-gui/van-hanh-kho-phan-phoi/m6\_yeucaugiao.md)
       * [3. Phiếu xuất](m6/hang-ky-gui/van-hanh-kho-phan-phoi/phieu-xuat.md)
 * [HỆ THỐNG KHIẾU NẠI](m3/README.md)
-  * [1. Cấu hình](m3/cauhinhhethong.md)
-  * [2. Tạo khiếu nại cho khách hàng](m3/taokhieunai.md)
-  * [3. Xử lý khiếu nại](m3/xulykhieunai.md)
+  * [B1. Cấu hình](m3/cauhinhhethong.md)
+  * [B2. Tạo khiếu nại cho khách hàng](m3/taokhieunai.md)
+  * [B3. Xử lý khiếu nại](m3/xulykhieunai.md)
   
 * [HỆ THỐNG PHÂN QUYỀN](m10/README.md)
-  * [1. Tạo tài khoản](m10/taotaikhoan.md)
-  * [2. Tạo nhóm quyền](m10/taonhomquyen.md)
-  * [3. Phân quyền](m10/phanquyen.md)
+  * [B1. Tạo tài khoản](m10/taotaikhoan.md)
+  * [B2. Tạo nhóm quyền](m10/taonhomquyen.md)
+  * [B3. Phân quyền](m10/phanquyen.md)
 
 * HỆ THỐNG QUẢN LÝ QUỸ/KẾ TOÁN
-  * [1. Phân quyền](M7/Phan-quyen.md)
-  * [2. Cấu hình chung](M7/cau-hinh.md)
-  * [3. Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu-chi.md)
+  * [B1. Phân quyền](M7/Phan-quyen.md)
+  * [B2. Cấu hình chung](M7/cau-hinh.md)
+  * [B3. Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu-chi.md)
 
 * [TRỢ LÝ MUA HÀNG](readme.md)
   * [Hướng dẫn sử dụng công cụ](trolymuahang/hdcongcu.md)
