@@ -47,6 +47,7 @@
             * [7. Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
             * [8. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
+            * [10. Cấu hình câu hỏi thường gặp](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-cau-hoi-thuong-gap.md)
     * Đơn vị cung cấp Dịch vụ ký gửi
       * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui//README.md)
            * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-loc-ds-don-hang.md)
