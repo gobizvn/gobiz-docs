@@ -64,6 +64,7 @@
             * [7. Cấu hình phí dịch vụ](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-phi-dich-vu.md)
             * [8. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-khac.md)
+            * [10. Cấu hình câu hỏi thường gặp](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/Cau-hinh-cau-hoi-thuong-gap.md)
    * Đơn vị CC dịch vụ Thanh Toán Hộ
         * [Cài đặt ban đầu](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/README.md)
             * [1. Setup tỷ giá](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/setup-ty-gia.md)
