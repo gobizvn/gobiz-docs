@@ -23,7 +23,13 @@
 
 ![image](https://user-images.githubusercontent.com/85599407/185889143-3c1dabce-3953-44cf-a362-64466affafe9.png)
 
-## 3. Cấu hình tính năng thanh toán cho nhân viên
+## 3. Thêm tài khoản mua hàng nick doanh nghiệp 1688
+
+Chọn thêm tài khoản mua hàng (1) => Điền thông tin tài khoản mua hàng (2) => Chọn Đồng ý (3)
+
+<img width="1163" alt="image" src="https://user-images.githubusercontent.com/85599407/196445925-99e021c7-7ffb-4a3f-8a42-8d3b0737c5a1.png">
+
+## 4. Cấu hình tính năng thanh toán cho nhân viên
 
 **Bước 1:** Menu => Quản lý nhân viên (1) => Điền user nhân viên muốn cấp quyền (2) => Chọn tìm kiếm (3).
 
