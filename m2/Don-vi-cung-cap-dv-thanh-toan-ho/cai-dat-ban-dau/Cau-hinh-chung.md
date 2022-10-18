@@ -27,7 +27,7 @@
 
 Chọn thêm tài khoản mua hàng (1) => Điền thông tin tài khoản mua hàng (2) => Chọn Đồng ý (3)
 
-<img width="1163" alt="image" src="https://user-images.githubusercontent.com/85599407/196445925-99e021c7-7ffb-4a3f-8a42-8d3b0737c5a1.png">
+<img width="1384" alt="image" src="https://user-images.githubusercontent.com/85599407/196447579-cde4160f-56ae-4141-a732-8daad484bd37.png">
 
 ## 4. Cấu hình tính năng thanh toán cho nhân viên
 
