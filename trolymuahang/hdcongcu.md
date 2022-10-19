@@ -3,9 +3,6 @@
 Trợ lý mua hàng – Gobiz Shopping Assistant (GSA) là công cụ tiện ích được phát triển dưới dạng Extension bởi giúp bạn nhanh chóng thẩm định, đánh giá từng sản phẩm. GSA cũng giúp bạn so sánh giữa nhiều sản phẩm hấp dẫn, tiềm năng để có thể chọn lọc ra sản phẩm sẽ mang lại doanh thu, lợi nhuật tốt nhất cho chiến dịch của bạn.
 Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
->> Xem video chi tiết hướng dẫn cài đặt & sử dụng công cụ
-{% embed url="https://www.youtube.com/watch?v=P6QkIYVQc6I&list=PLperKFMTnrTuwjNLCELpenL6mTi-KOJ4S&index=6" caption="Hướng dẫn cài đặt & sử dụng công cụ Gobiz Shopping Assistant" %}
-
 ### I. HƯỚNG DẪN CÀI ĐẶT CÔNG CỤ
 
 **Bước 1:** Khách hàng liên hệ với bộ phận CSKH để lấy đường dẫn cài công cụ. 
@@ -37,8 +34,7 @@ Người dùng có thể cài đặt công cụ này trên Chrome Extensions.
 
 
 ### 2. Hướng dẫn tải hình ảnh/ video trên 1688
-**Bước 1:** Mở link sản phẩm cần tải hình ảnh/ video, đăng nhập vào tài khoản đặt hàng (ví dụ: nhaphang.com, …)
-
+**Bước 1:** Mở link sản phẩm cần tải hình ảnh/ video, đăng nhập vào tài khoản đặt hàng
 ![Đăng nhập tài khoản](https://user-images.githubusercontent.com/112170890/187158646-48cbd773-223d-4eaa-994a-da7b82f1a7d1.png)
 
 **Bước 2:** Chọn **“Tải ảnh”**
