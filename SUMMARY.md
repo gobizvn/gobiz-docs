@@ -154,7 +154,7 @@
   * [B1. Phân quyền](M7/Phan-quyen.md)
   * [B2. Cấu hình chung](M7/cau-hinh.md)
   * [B3. Xử lý phiếu Thu - Chi](M7/tao-va-xu-ly-phieu-thu-chi.md)
-
+  * [B4. Tin nhắn và Cú pháp chuyển khoản](M7/tinnhhanvacuphap.md)
 * [TRỢ LÝ MUA HÀNG](readme.md)
   * [Hướng dẫn sử dụng công cụ](trolymuahang/hdcongcu.md)
   
