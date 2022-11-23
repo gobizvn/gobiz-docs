@@ -1,12 +1,13 @@
 # Tạo kiện
+## Video hướng dẫn tạo đơn ký gửi một bước
 
 {% embed url="https://youtu.be/wxkYXTsfYj4" caption="" %}
 
-**HƯỚNG DẪN NHẬP KHO TẠO KIỆN**
+## HƯỚNG DẪN NHẬP KHO TẠO KIỆN
 
 Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc \(có thể nhập thủ công bằng tay hoặc sử dụng súng bắn mã vạch\), hoặc tạo nhiều kiện cùng lúc bằng cách upload file excel, tạo kiện độc lập \(không có mã vận đơn\).
 
-**1. Tạo kiện từ Mã vận đơn**
+## 1. Tạo kiện từ Mã vận đơn
 
 **\*Mục đích:** Hỗ trợ tạo kiện bằng cách scan mã vận đơn trên đơn hàng
 
@@ -26,7 +27,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc \(có thể
 
 ![image](https://user-images.githubusercontent.com/85599407/128308594-fe063eaf-7fc5-4174-90e4-d4d55843a170.png)
 
-**2. Tạo kiện hàng loạt từ file excel**
+## 2. Tạo kiện hàng loạt từ file excel
 
 **\*Mục đích:** Hỗ trợ tạo đồng thời nhiều kiện bằng mã vận đơn từ file excel
 
@@ -48,7 +49,7 @@ Quý khách có thể tạo kiện từ mã vận đơn Trung Quốc \(có thể
 
 ![image](https://user-images.githubusercontent.com/85599407/128308786-f08ca55f-1f4a-4dfb-a191-909598e0c754.png)
 
-**3. Tạo kiện độc lập**
+## 3. Tạo kiện độc lập
 
 **\*Mục đích:** Hỗ trợ tạo kiện không có mã vận đơn
 

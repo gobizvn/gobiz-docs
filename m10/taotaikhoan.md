@@ -16,7 +16,10 @@
 
 Sau khi xác minh thành công, Quý khách đăng nhập lại vào hệ thống để tiến hành bước phân quyền tài khoản.
 
+
 ![image](https://user-images.githubusercontent.com/73226975/123078091-d2892500-d444-11eb-9980-6a0b12c5c921.png)
 
 ![image](https://user-images.githubusercontent.com/73226975/123078262-fea4a600-d444-11eb-80fb-ffdf913092d7.png)
+
+***Lưu ý**: Tại thời điểm phân quyền, user được phân quyền cần đăng nhập vào hệ thống.
 

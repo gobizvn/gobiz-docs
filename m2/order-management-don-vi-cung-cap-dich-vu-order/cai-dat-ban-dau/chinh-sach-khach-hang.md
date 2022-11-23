@@ -1,2 +1,0 @@
-# \[Chính sách khách hàng\]
-
