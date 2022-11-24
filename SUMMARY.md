@@ -86,6 +86,8 @@
     * [8. Danh sách Agency](m5/cau-hinh/dsagency.md)
     * [9. Tài khoản ngân hàng](m5/cau-hinh/tknganhang.md)
     * [10. Quản lý nhóm](m5/cau-hinh/quanlynhom.md)
+    * [11. Cấu hình cá nhân](m5/cau-hinh/cauhinhcanhan.md)
+    * [12. Danh sách token](m5/cau-hinh/danhsachtoken.md)
   * [Quy trình Mua hàng](m5/mua-hang/README.md)
     * [1. Phân đơn](m5/mua-hang/phandon.md)
     * [2. Xử lý đơn](m5/mua-hang/xulydon.md)
