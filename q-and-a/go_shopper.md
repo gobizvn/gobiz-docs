@@ -1,5 +1,5 @@
 # Go Shopper
-**1.	Làm thế nào để khách nhận được thông báo trên web
+**1.	Làm thế nào để khách nhận được thông báo trên web**
 
 Để khách hàng có thể nhận được các thông báo về *khiếu nại, tài chính, yêu cầu giao, đơn hàng…* khách cần phải cài đặt trên hệ thống khách hàng.
 
