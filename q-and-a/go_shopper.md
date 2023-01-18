@@ -12,7 +12,7 @@
 
  <img width="468" alt="image" src="https://user-images.githubusercontent.com/121548042/213068991-80637e2f-2788-483d-a3f6-5d6103973a89.png">
 
-**Bước 3: Nhận thông báo **
+**Bước 3: Nhận thông báo**
 
 Sau khi đã cài đặt xong phần thông báo từ các mục mong muốn, quý khách sẽ nhận được thông tin cập nhật từ các mục đã chọn tại biểu tượng chiếc chuông nhỏ phía bên góc phải trang web.
  
