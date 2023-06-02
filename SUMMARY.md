@@ -4,6 +4,7 @@
 * [GO CB SHOPPER](m2/README.md)
 * HỆ THỐNG KHÁCH HÀNG
     * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
+    * [Đặt hàng trên App Mobile]
     * [Hướng dẫn đặt hàng taobao trên hdh Android](m1/androidhddhtaobao.md)
     * [Hướng dẫn đặt hàng taobao trên hdh ios](m1/ioshddhtaobao.md)
     * [Hướng dẫn đặt hàng tmall trên hdh ios](m1/ioshddhtmall.md)
