@@ -52,7 +52,7 @@
             * [2. Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
             * [3. Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-ds-kien-hang.md)
             * [4. HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/yeu-cau-giao-hang-tu-admin.md)
-       * [Cài đặt hệ thống](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau)
+       * [Cài đặt hệ thống](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
             * [1. Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-ty-gia.md)
             * [2. Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-cau-hinh-kho.md)
             * [3. Nhóm Khách hàng](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/nhom-khach-hang.md)
