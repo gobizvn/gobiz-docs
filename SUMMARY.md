@@ -47,7 +47,7 @@
         * [3. Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
  * HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
    * Đơn vị cung cấp Dịch vụ Order
-       * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/README.md)
+       * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/README.md)
             * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
             * [2. Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
             * [3. Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-ds-kien-hang.md)
