@@ -1,6 +1,6 @@
-﻿Hướng dẫn sử dụng tính năng Yêu cầu rút tiền
+# Hướng dẫn sử dụng tính năng Yêu cầu rút tiền
 
-1. Tạo yêu cầu rút tiền (thao tác trên hệ thống dành cho Khách hàng)
+## 1. Tạo yêu cầu rút tiền (thao tác trên hệ thống dành cho Khách hàng)
 
 Bước 1: Đăng nhập vào hệ thống dành cho Khách hàng, mở Menu và chọn Yêu cầu rút tiền
 
@@ -22,8 +22,9 @@ Danh sách yêu cầu rút tiền sẽ hiển thị các thông tin: Mã yêu c�
 
 Bạn có thể tìm kiếm yêu cầu rút tiền thông qua Mã yêu cầu, Thời gian tạo, Ngân hàng, Số tài khoản hoặc Trạng thái.
 
+![Tạo YCRT](https://github.com/gobizvn/gobiz-docs/assets/73226975/2e17e476-d0d7-46dd-b3b1-34edf84669ef)
 
-1. Xử lý yêu cầu rút tiền (Thao tác trên hệ thống Admin)
+## 1. Xử lý yêu cầu rút tiền (Thao tác trên hệ thống Admin)
 
 Bước 1: Đăng nhập vào hệ thống Admin, mở Menu và tìm kiếm Danh sách yêu cầu rút tiền
 
