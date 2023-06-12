@@ -5,7 +5,7 @@
 
 **Bước 1: Vào trang web hệ thống khách hàng, sau đó nhấn vào phần thông tin tài khoản của khách.**
 
-<"https://user-images.githubusercontent.com/121548042/213068956-f7a47c74-063d-45ce-82a8-196fd7e64e56.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/121548042/213068956-f7a47c74-063d-45ce-82a8-196fd7e64e56.png">
 
 **Bước 2: Kiểm tra phần menu phía bên trái và chọn “Cấu hình thông báo”.**
 
