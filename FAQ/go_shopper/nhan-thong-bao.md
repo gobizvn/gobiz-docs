@@ -11,8 +11,11 @@
 
 Để nhận thông báo, quý khách có thể nhấn vào từng phần checkbox tương ứng bên dưới như: 
 **Khiếu nại** (bao gồm các thông tin trao đổi mới trên khiếu nại, nhân viên tạo khiếu nại, tình trạng thái khiếu)
+
 **Yêu cầu giao** (thay đổi trạng thái yêu cầu giao)
+
 **Tài chính** (điều chỉnh, hoàn tiền khiếu nại, truy thu, nạp tiền, đặt cọc)
+
 **Giao dịch khác**, **Thanh toán**, **Rút tiền**…
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/121548042/213068991-80637e2f-2788-483d-a3f6-5d6103973a89.png">
