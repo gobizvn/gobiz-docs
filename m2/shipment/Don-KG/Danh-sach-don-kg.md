@@ -13,7 +13,7 @@
 
 6. Dịch vụ được áp dụng trên đơn
 - Hình ảnh chỉ mang tính chất minh họa, các dịch vụ này có thể tùy biến theo yêu cầu của khách hàng
-- 
+
 - Hiển thị danh sách đơn hàng hiện có trên hệ thống của quý khách. Thông tin đơn hàng ở đây sẽ hiển thị các thông tin quan trọng để khách hàng có thể theo dõi được thông tin của đơn hàng một cách nhanh chóng
 
 ![Danh sách đơn hàng Ký gửi](https://github-production-user-asset-6210df.s3.amazonaws.com/73226975/245600973-4fbc38a2-9809-4ed5-93ea-d796db87f424.png)
