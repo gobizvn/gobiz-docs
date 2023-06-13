@@ -48,9 +48,9 @@
  * HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
    * Vận hành chung
        * [Danh sách yêu cầu rút tiền](m2/ycrt-m2.md)
-      * ĐVCC Dịch vụ Order Hàng Hộ
-       * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/README.md)
-            * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
+   * ĐVCC Dịch vụ Order Hàng Hộ
+      * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/README.md)
+        * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
             * [2. Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
             * [3. Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-ds-kien-hang.md)
             * [4. HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/yeu-cau-giao-hang-tu-admin.md)
@@ -65,7 +65,7 @@
             * [8. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
             * [10. Cấu hình câu hỏi thường gặp](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-cau-hoi-thuong-gap.md)
-     * ĐVCC Dịch vụ Vận chuyển - Ký gửi Hàng hóa
+   * ĐVCC Dịch vụ Vận chuyển - Ký gửi Hàng hóa
       * [Quản lý Đơn hàng](m2/shipment/README.md)
            * [1. Kiểm tra lọc Danh sách đơn hàng](m2/shipment/Don-KG/Danh-sach-don-kg.md)
            * [2. Kiểm tra Chi tiết đơn hàng](m2/shipment/Don-KG/kiem-tra-chi-tiet-don-hang.md)
