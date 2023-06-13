@@ -1,22 +1,4 @@
-# Quản lý đơn ký gửi
-
-**HƯỚNG DẪN CÁCH QUẢN LÝ ĐƠN KÝ GỬI**
-
-**1. Cách tìm kiếm đơn hàng**
-
-Từ menu bên trái màn hình, Quý khách chọn Danh sách đơn ký gửi (1) => Nhập mã đơn hàng/mã vận đơn/ mã hóa đơn gốc cần tìm (2) => Chọn tìm kiếm (4)
-
-![image](https://user-images.githubusercontent.com/85599407/186576558-c6b8b5ff-0281-4256-a282-f0bd6e01c453.png)
-
-Hoặc Quý khách chọn Mở rộng tìm kiến (3) =>  Điền mã hóa đơn gốc/Mã vận đơn/ tên shop cần tìm kiếm => Chọn tìm kiếm (4).
-
-![image](https://user-images.githubusercontent.com/85599407/186577538-5518d21b-a7a4-4423-80ba-31375884c45c.png)
-
-Ngoài ra, Quý khách có thể tạo ghi chú cá nhân (chỉ Khách hàng nhìn thấy) để tiện cho việc quản lý đơn hàng của mình.
-
-![image](https://user-images.githubusercontent.com/85599407/186577717-16c5c11c-ad02-491a-8ec0-cd2103184482.png)
-
-**2. Cách kiểm tra chi tiết đơn hàng**
+## Cách kiểm tra chi tiết đơn hàng
 
 Từ giao diện chi tiết đơn, Quý khách có thể bấm vào các tad thông tin để xem chi tiết, cụ thể:
 
