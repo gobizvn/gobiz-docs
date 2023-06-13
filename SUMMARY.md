@@ -5,10 +5,10 @@
 * HỆ THỐNG KHÁCH HÀNG
     * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
     * [Đặt hàng trên App Mobile](m1/readme.md)
-      * [Hướng dẫn đặt hàng taobao trên hdh Android](m1/androidhddhtaobao.md)
-      * [Hướng dẫn đặt hàng taobao trên hdh ios](m1/ioshddhtaobao.md)
-      * [Hướng dẫn đặt hàng tmall trên hdh ios](m1/ioshddhtmall.md)
-      * [Hướng dẫn đặt hàng 1688 trên hdh ios](m1/ioshddh1688.md)
+      * [HD đặt hàng Taobao trên HĐH Android](m1/androidhddhtaobao.md)
+      * [HD đặt hàng Taobao trên HĐH iOS](m1/ioshddhtaobao.md)
+      * [HD đặt hàng Tmall trên HĐH iOS](m1/ioshddhtmall.md)
+      * [HD đặt hàng 1688 trên HĐH iOS](m1/ioshddh1688.md)
     * [Vận hành chung](m2/customers-order-khach-hang-order/van-hanh-chung/README.md)
       * [1. Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
       * [2. Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
@@ -48,7 +48,7 @@
  * HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
    * Vận hành chung
        * [Danh sách yêu cầu rút tiền](m2/ycrt-m2.md)
-   * Đơn vị cung cấp Dịch vụ Order
+      * ĐVCC Dịch vụ Order Hàng Hộ
        * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/README.md)
             * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
             * [2. Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
@@ -65,13 +65,13 @@
             * [8. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
             * [10. Cấu hình câu hỏi thường gặp](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-cau-hoi-thuong-gap.md)
-    * Đơn vị cung cấp Dịch vụ ký gửi
-      * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui//README.md)
-           * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-loc-ds-don-hang.md)
-           * [2. Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-chi-tiet-don-hang.md)
-           * [3. Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/kiem-tra-ds-kien-hang.md)
-           * [4. HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-ky-gui/Don-hang/yeu-cau-giao-hang-tu-admin.md)
-       * [Cài đặt hệ thống](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/README.md)
+     * ĐVCC Dịch vụ Vận chuyển - Ký gửi Hàng hóa
+      * [Quản lý Đơn hàng](m2/shipment/Don-KG/README.md)
+           * [1. Kiểm tra lọc Danh sách đơn hàng](m2/shipment/Don-KG/Danh-sach-don-kg.md)
+           * [2. Kiểm tra Chi tiết đơn hàng](m2/shipment/Don-KG/kiem-tra-chi-tiet-don-hang.md)
+           * [3. Kiểm tra Danh sách kiện hàng](m2/shipment/Don-KG/kiem-tra-ds-kien-hang.md)
+           * [4. HD tạo Yêu cầu giao hàng từ admin](m2/shipment/Don-KG/yeu-cau-giao-hang-tu-admin.md)
+       * [Cài đặt hệ thống](m2/shipment/set-up/README.md)
             * [1. Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/setup-ty-gia.md)
             * [2. Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/setup-cau-hinh-kho.md)
             * [3. Nhóm Khách hàng](m2/Don-vi-cung-cap-dich-vu-ky-gui/cai-dat-ban-dau/nhom-khach-hang.md)
