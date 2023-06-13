@@ -35,9 +35,9 @@
         * [1. Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
         * [2. Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
         * [3. Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
- * HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ
+ * [HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ](m2/order-management-don-vi-cung-cap-dich-vu)
   * Vận hành chung
-    * 1. Cài đặt hệ thống
+    * [1. Cài đặt hệ thống](m2/m2_getstarted.md)
       * [1.1. Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-ty-gia.md)
       * [1.2. Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-cau-hinh-kho.md)
       * [1.3. Cấu hình caresoft](m2/cauhinhcaresoft.md)
@@ -53,7 +53,7 @@
       * [2.4. Nhóm Khách hàng](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/nhom-khach-hang.md)
       * [2.5. Kiểm tra danh sách khách hàng](m2/kiem-tra-danh-sach-khach-hang.md)
       * [2.6. Kiểm tra danh sách phản hồi của khách hàng](m2/kiem-tra-danh-sach-phan-hoi-cua-khach-hang.md)
-     * [3. Quản lý tài chính](m2/Read.me)
+    * [3. Quản lý tài chính](m2/Read.me)
       * [3.1 Tạo giao dịch truy thu nap tiền](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Tao-giao-dich-truy-thu-nap-tien.md)
       * [3.2. Kiểm tra đơn thiệt hại tài chính](m2/kiem-tra-don-thiet-hai-tai-chinh.md)
       * [3.3. Thống kê công nợ](m2/thong-ke-cong-no.md)
