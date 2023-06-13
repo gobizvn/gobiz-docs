@@ -60,13 +60,11 @@
       * [3.4. Danh sách yêu cầu rút tiền](m2/ycrt-m2.md)
     * [4. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
    * ĐVCC Dịch vụ Order Hàng Hộ
-      * [Đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/README.md)
       * [1. Kiểm tra lọc Danh sách đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-loc-ds-don-hang.md)
       * [2. Kiểm tra Chi tiết đơn hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-chi-tiet-don-hang.md)
       * [3. Kiểm tra Danh sách kiện hàng](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/kiem-tra-ds-kien-hang.md)
       * [4. HD tạo Yêu cầu giao hàng từ admin](m2/Don-vi-cung-cap-dich-vu-order/Don-hang/yeu-cau-giao-hang-tu-admin.md)
    * ĐVCC Dịch vụ Vận chuyển - Ký gửi
-      * [Quản lý Đơn hàng](m2/shipment/README.md)
       * [1. Kiểm tra lọc Danh sách đơn hàng](m2/shipment/Don-KG/Danh-sach-don-kg.md)
       * [2. Kiểm tra Chi tiết đơn hàng](m2/shipment/Don-KG/kiem-tra-chi-tiet-don-hang.md)
       * [3. Kiểm tra Danh sách kiện hàng](m2/shipment/Don-KG/kiem-tra-ds-kien-hang.md)
