@@ -37,7 +37,7 @@
         * [3. Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
  * [HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ](m2/order-management-don-vi-cung-cap-dich-vu)
   * Vận hành chung
-    * [1. Cài đặt hệ thống](m2/m2_getstarted.md)
+    * [1. Cài đặt hệ thống](m2/readme.md)
       * [1.1. Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-ty-gia.md)
       * [1.2. Cấu hình kho](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-cau-hinh-kho.md)
       * [1.3. Cấu hình caresoft](m2/cauhinhcaresoft.md)
