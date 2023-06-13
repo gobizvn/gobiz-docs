@@ -1,6 +1,6 @@
 ## Cách kiểm tra chi tiết đơn hàng
 
-Từ giao diện chi tiết đơn, Quý khách có thể bấm vào các tad thông tin để xem chi tiết, cụ thể:
+Từ giao diện chi tiết đơn, Quý khách có thể bấm vào các tab thông tin để xem chi tiết, cụ thể:
 
 * Sản phẩm: Thông tin sản phẩm Quý khách đã kê khai trên đơn hàng \(link sản phẩm, giá sản phẩm, thuộc tính của sản phẩm, số lượng…\)
 
