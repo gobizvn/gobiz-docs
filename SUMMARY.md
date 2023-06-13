@@ -1,8 +1,8 @@
    # Table of contents
 
 * [GIỚI THIỆU](README.md)
-* [GO CB SHOPPER](m2/README.md)
-* HỆ THỐNG KHÁCH HÀNG
+* [GO CB SHOPPER](m1/README.md)
+ * HỆ THỐNG KHÁCH HÀNG
     * [Tổng quan các bước SD dành cho KH](m1/cac-buoc-su-dung-he-thong-danh-cho-khach-hang.md)
     * [Đặt hàng trên App Mobile](m1/readme.md)
       * [HD đặt hàng Taobao trên HĐH Android](m1/androidhddhtaobao.md)
@@ -35,7 +35,7 @@
         * [1. Tạo Yêu cầu chuyển tiền](m2/Khach-hang-thanh-toan-ho/tao-yc-chuyen-tien.md)
         * [2. Tạo YCTT nick cá nhân](m2/Khach-hang-thanh-toan-ho/nick-ca-nhan.md)
         * [3. Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
- * [HỆ THỐNG ADMIN - ĐƠN VỊ CUNG CẤP DỊCH VỤ](m2/order-management-don-vi-cung-cap-dich-vu)
+* [HỆ THỐNG ADMIN - ĐVCC DỊCH VỤ](m2/order-management-don-vi-cung-cap-dich-vu)
   * Vận hành chung
     * [1. Cài đặt hệ thống](m2/readme.md)
       * [1.1. Setup tỷ giá](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/setup-ty-gia.md)
