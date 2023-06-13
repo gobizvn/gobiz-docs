@@ -1,4 +1,24 @@
-## 1. Tìm kiếm thông tin Đơn hàng ký gửi
+## 1. Danh sách Đơn hàng	
+- **Nhiệm vụ chính**: Quản lý danh sách và thông tin tổng quát của đơn hàng trên hệ thống, đồng thời có thể thực hiện một số thao tác cơ bản liên quan đến quá trình mua hàng, bao gồm cụ thể các nội dung như sau:
+  
+  **1. Tìm kiếm đơn hàng theo các điều kiện mong muốn.**
+
+  **2. Tìm kiếm theo Mã đơn hàng/ID đơn hàng hoặc Mã hóa đơn gốc, Tài khoản mua hàng hay mã Vận đơn khách hàng**
+
+  **3. Tìm kiếm theo thông tin khách hàng (Họ tên, mã khách hàng, tên đăng nhập)**
+
+  **4. Khoảng thời gian theo từng trạng thái của đơn**
+  
+  **5. Trạng thái đơn hàng**
+
+  **6. Dịch vụ được áp dụng trên đơn** 
+- Hình ảnh chỉ mang tính chất minh họa, các dịch vụ này có thể tùy biến theo yêu cầu của khách hàng
+
+- Hiển thị danh sách đơn hàng hiện có trên hệ thống của quý khách. Thông tin đơn hàng ở đây sẽ hiển thị các thông tin quan trọng để khách hàng có thể theo dõi được thông tin của đơn hàng một cách nhanh chóng
+
+<img width="" alt="Danh sách đơn hàng" src="https://github.com/gobizvn/gobiz-docs/assets/73226975/4fbc38a2-9809-4ed5-93ea-d796db87f424">
+
+## 2. Tìm kiếm thông tin Đơn hàng ký gửi
 
 - Để tìm kiếm đơn hàng ký gửi Quý khách có thể sử dụng **Mã đơn hàng**/**Mã vận đơn Trung quốc** (nếu đã được khớp đơn)
 
@@ -15,7 +35,7 @@
 
 ![Xuất Excell](https://user-images.githubusercontent.com/85599407/183396438-a6513f81-862c-4860-a134-4d21ec9ab0e2.png)
 
-## 2. Xem chi tiết thông tin Đơn hàng ký gửi
+## 3. Xem chi tiết thông tin Đơn hàng ký gửi
 
 - Sau thao tác tìm kiếm, để xem thông tin chi tiết đơn ký gửi Quý khách vui lòng click trực tiếp vào **Mã đơn hàng** (4)
 
