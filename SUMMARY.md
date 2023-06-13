@@ -66,7 +66,7 @@
             * [9. Cấu hình khác](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-khac.md)
             * [10. Cấu hình câu hỏi thường gặp](m2/Don-vi-cung-cap-dich-vu-order/cai-dat-ban-dau/Cau-hinh-cau-hoi-thuong-gap.md)
      * ĐVCC Dịch vụ Vận chuyển - Ký gửi Hàng hóa
-      * [Quản lý Đơn hàng](m2/shipment/Don-KG/README.md)
+      * [Quản lý Đơn hàng](m2/shipment/README.md)
            * [1. Kiểm tra lọc Danh sách đơn hàng](m2/shipment/Don-KG/Danh-sach-don-kg.md)
            * [2. Kiểm tra Chi tiết đơn hàng](m2/shipment/Don-KG/kiem-tra-chi-tiet-don-hang.md)
            * [3. Kiểm tra Danh sách kiện hàng](m2/shipment/Don-KG/kiem-tra-ds-kien-hang.md)
