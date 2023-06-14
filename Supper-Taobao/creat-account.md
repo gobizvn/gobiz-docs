@@ -13,10 +13,11 @@
 
 - Điền các thông tin cần thiết vào các trường yêu cầu, bao gồm: Họ tên, Địa chỉ email, Mật khẩu và Mã xác nhận từ email hệ thống.
 
-![Form ](4.png)
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/267aee5c-0def-4b3c-a47e-03d6357807ad)
+
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
 
-- Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Bạn có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp
+![Form ](4.png)
 
 ## Bước 3: Hoàn tất quá trình đăng ký
 
