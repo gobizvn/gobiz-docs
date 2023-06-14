@@ -1,10 +1,13 @@
 
 ## 1. Bước 1: Truy cập hệ thống Taobao Global
 
-- Quý khách vui lòng truy cập vào link: https://distributor.taobao.global/ và chọn )**立即注册 (Đăng ký ngay))**
+- Quý khách vui lòng truy cập vào link: https://distributor.taobao.global/ và chọn )**立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
+- ![Uploading chọn ngôn ngữ.png…]()
+
 - Quá trình đăng ký rất đơn giản và chỉ mất vài phút để hoàn tất.
-![Uploading image.png…]()
+
+![Uploading Đăng ký tk.png…]()
 
 ## 2. Bước 2: Điền thông tin đăng ký tài khoản
 
