@@ -3,9 +3,13 @@
 
 - Quý khách vui lòng truy cập vào link: https://distributor.taobao.global/ và chọn )**立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
+
 ![Chọn ngôn ngữ](image.png)
+
 - Quá trình đăng ký rất đơn giản và chỉ mất vài phút để hoàn tất.
+
 ![Đăng ký tài khoản](image-1.png)
+
 ## 2. Bước 2: Điền thông tin đăng ký tài khoản
 
 - Điền các thông tin cần thiết vào các trường yêu cầu, bao gồm: Họ tên, Địa chỉ email, Mật khẩu và Mã xác nhận từ email hệ thống.
