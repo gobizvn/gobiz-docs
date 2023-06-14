@@ -13,6 +13,7 @@
 
 - Điền các thông tin cần thiết vào các trường yêu cầu, bao gồm: Họ tên, Địa chỉ email, Mật khẩu và Mã xác nhận từ email hệ thống.
 
+![Form](4.png)
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
 
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Bạn có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp
