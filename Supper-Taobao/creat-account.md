@@ -48,6 +48,7 @@ Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để k�
 ![Đăng ký thành công](image-7.png)
 
 ![Trang quản trị](image-8.png)
+
 ===========================================================
 
 ✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
