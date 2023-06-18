@@ -34,7 +34,7 @@ Khai báo thêm 1 số thông tin về tài khoản của Quý khách:
 
 Hệ thống yêu cầu xác thực và liên kết tài khoản mua hàng với Alipay của Quý khách, nếu **Chưa có tài khoản** (Not signed), Quý khách vui lòng **Đăng ký mới** tài khoản Alipay.
 
-![Liên kết ví](image-3.png)
+![Liên kết ví](image-6.png)
 
 Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để kết nối ví điện tử
 
