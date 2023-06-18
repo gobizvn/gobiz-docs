@@ -16,12 +16,15 @@
 ![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/1a8d8619-64d8-48b2-8732-448fbaf5f8fa)
 
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
+- Sau khi đã điền mã xác nhận mà hệ thống gửi về emai, bạn click vào phần Đồng ý xác nhận các chính sách và quy định của hệ thống rồi ấn Xác nhận tạo tài khoản.
 
 ![Form ](4.png)
 
 ## Bước 3: Hoàn tất quá trình đăng ký
+- Khai báo thêm 1 số thông tin về tài khoản của Quý khách:
 
-- Xác nhận thông tin và đọc và đồng ý với các điều khoản của hệ thống. 
+![Hoàn tất quá trình đăng ký](image.png)
+
 - **Taobao Global** sẽ cung cấp cho Quý khách các Quy định & Chính sách, Quý khách vui lòng đọc và đồng ý điều khoản trước khi hoàn tất quá trình đăng ký.
 - Nhấn **Đăng ký** để hoàn tất quá trình đăng ký tài khoản. 
 - Sau khi hoàn thành quá trình đăng ký, Quý khách sẽ nhận được thông báo về việc tạo tài khoản thành công.
