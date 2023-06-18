@@ -40,6 +40,8 @@ Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để k�
 
 ![Kết nối Alipay](image-5.png)
 
+![Xác nhận tài khoản](b4.png)
+
 - Sau khi hoàn thành quá trình đăng ký, Quý khách sẽ nhận được thông báo về việc tạo tài khoản thành công.
 - Quý khách có thể đăng nhập vào tài khoản của mình và bắt đầu trải nghiệm sự ưu việt của hệ thống mang lại.
 
