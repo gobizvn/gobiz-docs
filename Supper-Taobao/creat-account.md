@@ -25,6 +25,7 @@
 
 ![Hoàn tất quá trình đăng ký](image.png)
 
+![Đăng ký tài khoản](image-1.png)
 - **Taobao Global** sẽ cung cấp cho Quý khách các Quy định & Chính sách, Quý khách vui lòng đọc và đồng ý điều khoản trước khi hoàn tất quá trình đăng ký.
 - Nhấn **Đăng ký** để hoàn tất quá trình đăng ký tài khoản. 
 - Sau khi hoàn thành quá trình đăng ký, Quý khách sẽ nhận được thông báo về việc tạo tài khoản thành công.
