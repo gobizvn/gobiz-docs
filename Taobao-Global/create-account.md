@@ -28,7 +28,8 @@ Khai báo thêm 1 số thông tin về tài khoản của Quý khách:
 ![Hoàn tất quá trình đăng ký](https://github.com/gobizvn/gobiz-docs/assets/135328227/759dad26-fb86-4556-8772-04bc1b32abaa)
 
 
-![Đăng ký tài khoản](image-1.png)
+![Đăng ký tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/7ef27ebc-1e0f-4eb0-a6e1-f7f08e204e00)
+)
 
 - Nhấn **Xác nhận** để hoàn tất quá trình đăng ký tài khoản. 
 
