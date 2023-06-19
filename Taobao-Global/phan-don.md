@@ -56,4 +56,12 @@ Từ menu bên trái màn hình Quý khách truy cập vào **Đơn hàng** và 
 ![Tự nhận đơn](https://github.com/gobizvn/gobiz-docs/assets/73226975/0c815ae1-a179-4adf-9382-bb1425f602ff)
 
 
+===========================================================
 
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
