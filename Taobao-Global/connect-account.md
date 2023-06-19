@@ -18,18 +18,12 @@
 
 ![Kết nối Tài khoản TB Global](https://github.com/gobizvn/gobiz-docs/assets/73226975/2b2a29b5-3fb1-453c-ab6c-cb3b8b0a7a6b)
 
-
-
 ### 3. Quý khách đăng nhập tài khoản và xác nhận kết nối
+
+Quý khách điền thông tin đăng nhập và xác nhận kết nối tài khoản để hoàn tất quá trình kết nối. 
   
 ![Đăng nhập & xác nhận kết nối](https://github.com/gobizvn/gobiz-docs/assets/73226975/391f7551-1b9a-4284-a649-677c86b669ec)
 
-Bước 3: Điền tài khoản, mật khẩu. Click **Authorize**
 
-![Alt text](image-13.png)
 
-Nếu chưa đăng nhập ở Bước 1 thì đăng nhập thêm ở bước này và Click **Submit**
 
-![Alt text](image-14.png)
-
-Kết nối thành công hệ thống tự động chuyển sang **Dashboard** 
