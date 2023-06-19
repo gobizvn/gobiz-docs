@@ -1,6 +1,8 @@
 ## Tính năng chính: 
 - Phân đơn mới cho nhân viên mua hàng (GDV)
 - Thu hồi đơn đã phân cho GDV trước đó
+- GDV tự nhận đơn theo điều kiện lọc
+
 **Quá trình tiến hành xử lý phân đơn Taobao/Tmall cho GDV pai theo luồng Taobao Global như sau:**
 ## Bước 1: Truy cập menu Quản lý đơn
 Từ menu bên trái màn hình Quý khách truy cập vào **Đơn hàng** và chọn **Quản lý đơn**
