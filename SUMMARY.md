@@ -125,7 +125,7 @@
       * [1. Tạo tài khoản & Liên kết Alipay](Taobao-Global/create-account.md)
       * [2. Tạo tài khoản Chính & Phụ](Taobao-Global/Blind-account.md)
     * Cấu hình
-      * [1. Cấu hình địa chỉ kho nhận](README.md)
+      * [1. Cấu hình địa chỉ kho nhận](Taobao-Global/address.md)
       * [2. Cấu hình gửi Yêu cầu thanh toán](README.md)
       * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
     * Quy trình mua hàng
