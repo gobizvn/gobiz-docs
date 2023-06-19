@@ -27,16 +27,14 @@ Khai báo thêm 1 số thông tin về tài khoản của Quý khách:
 
 ![Hoàn tất quá trình đăng ký](https://github.com/gobizvn/gobiz-docs/assets/135328227/759dad26-fb86-4556-8772-04bc1b32abaa)
 
-
 ![Đăng ký tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/7ef27ebc-1e0f-4eb0-a6e1-f7f08e204e00)
 
 - Nhấn **Xác nhận** để hoàn tất quá trình đăng ký tài khoản. 
-
 ## Bước 4: Liên kết Alipay
 
 Hệ thống yêu cầu xác thực và liên kết tài khoản mua hàng với Alipay của Quý khách, nếu **Chưa có tài khoản** (Not signed), Quý khách vui lòng **Đăng ký mới** tài khoản Alipay.
 
-![Liên kết ví](image-6.png)
+![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/e4535387-e867-4576-b1ea-2e4a9680531b)
 
 Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để kết nối ví điện tử
 
