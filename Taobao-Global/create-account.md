@@ -47,7 +47,7 @@ Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để k�
 
 ![Đăng ký thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/588817ca-517e-4d38-95ec-d971886b4fc5) 
 
-![Trang quản trị](https://github.com/gobizvn/gobiz-docs/assets/135328227/1ec2ea31-ca59-4ca3-97e5-6d3fcd011f7f)
+![Trang quản trị](https://github.com/gobizvn/gobiz-docs/assets/135328227/33a87618-597e-4425-810a-f1b2169bd670)
 
 ===========================================================
 
