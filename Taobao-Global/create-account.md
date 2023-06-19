@@ -25,9 +25,9 @@
 
 Khai báo thêm 1 số thông tin về tài khoản của Quý khách:
 
-![Hoàn tất quá trình đăng ký](https://github.com/gobizvn/gobiz-docs/assets/135328227/812b940f-63ad-4a5a-9261-73ccfa9e3c6d)
+![Đăng ký tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/812b940f-63ad-4a5a-9261-73ccfa9e3c6d)
 
-![Đăng ký tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/7ef27ebc-1e0f-4eb0-a6e1-f7f08e204e00)
+![Hoàn tất quá trình đăng ký](https://github.com/gobizvn/gobiz-docs/assets/135328227/f4e39882-2dde-459f-b0e0-5c9f9ac1da4a)
 
 - Nhấn **Xác nhận** để hoàn tất quá trình đăng ký tài khoản. 
 ## Bước 4: Liên kết Alipay
