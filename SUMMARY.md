@@ -122,15 +122,16 @@
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [TÀI KHOẢN TAOBAO GLOBAL](Supper-Taobao/Readme.md)
     * Tài khoản
-      * [1. Tạo tài khoản & Liên kết ví Alipay](Supper-Taobao/creat-account.md)
+      * [1. Tạo tài khoản & Liên kết Alipay](Taobao-Global/create-account.md)
+      * [2. Tạo tài khoản Chính & Phụ](Taobao-Global/Blind-account.md)
     * Cấu hình
-      * [1. Cấu hình địa chỉ kho nhận](m5/cau-hinh/diachikhonhan.md)
-      * [2. Cấu hình gửi Yêu cầu thanh toán](.)
-      * [2.2. Kết nối TK Taobao Global vào hệ thống](Supper-Taobao/connect-account.md)
-    * [Quy trình mua hàng](Supper-Taobao/Readme.md)
+      * [1. Cấu hình địa chỉ kho nhận](README.md)
+      * [2. Cấu hình gửi Yêu cầu thanh toán](README.md)
+      * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
+    * Quy trình mua hàng
       * [1. Phân đơn](m5/mua-hang/phandon.md)
-      * [2. Xử lý đơn & Thanh toán](.)
-    * [Quản lý đơn sau mua](m5/quan-ly-don-sau-mua/README.md)
+      * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
+    * Quản lý đơn sau mua
       * [1. Khai báo hải quan](m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
       * [2. Cập nhập thông tin đơn hàng](m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
       * [3. Đồng bộ mã vận đơn](.)
