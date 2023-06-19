@@ -38,7 +38,7 @@ Hệ thống yêu cầu xác thực và liên kết tài khoản mua hàng với
 
 Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để kết nối ví điện tử
 
-![Kết nối Alipay](image-5.png)
+![Kết nối Alipay](https://github.com/gobizvn/gobiz-docs/assets/135328227/0dc05f10-d697-4692-a19e-4a2761b890bd)
 
 ![Xác nhận tài khoản](b4.png)
 
