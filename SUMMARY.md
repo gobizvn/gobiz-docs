@@ -84,7 +84,7 @@
     * [2. Cấu hình mua hàng & nhận đơn](m5/cau-hinh/chmuahangnhandon.md)
     * [3. Cấu hình giao dịch NCC](m5/cau-hinh/chgiaodichncc.md)
     * [4. Tài khoản mua hàng](m5/cau-hinh/tkmuahang.md)
-    * [5. Địa chỉ kho nhận](m5/cau-hinh/diachikhonhan.md)
+    * [5. Địa chỉ kho nhận][def]
     * [6. Lý do mua hàng chậm](m5/cau-hinh/lydomuacham.md)
     * [7. Nhóm ngành hàng](m5/cau-hinh/nhomnganh.md)
     * [8. Danh sách Agency](m5/cau-hinh/dsagency.md)
@@ -281,3 +281,6 @@
   * [Một số vấn đề khác](q-and-a/mot-so-van-de-khac)
      * [Khắc phục lỗi kết nối SSL](q-and-a/mot-so-van-de-khac/khac-phuc-loi-key-noi-lls.md)
      * [Fix lỗi trống giỏ hàng](q-and-a/mot-so-van-de-khac/fixcart.md)
+
+
+[def]: m5/cau-hinh/diachikhonhan.md
