@@ -129,7 +129,7 @@
       * [2. Cấu hình gửi Yêu cầu thanh toán](README.md)
       * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
     * Quy trình mua hàng
-      * [1. Phân đơn](m5/mua-hang/phandon.md)
+      * [1. Phân đơn](Taobao-Global/phan-don.md)
       * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
     * Quản lý đơn sau mua
       * [1. Khai báo hải quan](m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
