@@ -40,7 +40,7 @@ Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để k�
 
 ![Kết nối Alipay](https://github.com/gobizvn/gobiz-docs/assets/135328227/0dc05f10-d697-4692-a19e-4a2761b890bd)
 
-(![Xác nhận tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/993acd30-c683-4172-adc9-5df30447ae2a)
+![Xác nhận tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/993acd30-c683-4172-adc9-5df30447ae2a)
 
 - Sau khi hoàn thành quá trình đăng ký, Quý khách sẽ nhận được thông báo về việc tạo tài khoản thành công.
 - Quý khách có thể đăng nhập vào tài khoản của mình và bắt đầu trải nghiệm sự ưu việt của hệ thống mang lại.
