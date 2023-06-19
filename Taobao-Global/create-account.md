@@ -17,7 +17,8 @@
 
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
 
-![Form ](4.png)
+![form](https://github.com/gobizvn/gobiz-docs/assets/135328227/745d5387-9657-4a73-a777-86712cec3a1a)
+
 - **Taobao Global** sẽ cung cấp cho Quý khách các Quy định & Chính sách, Quý khách vui lòng đọc và đồng ý điều khoản trước khi hoàn tất quá trình đăng ký.
 
 ## Bước 3: Hoàn tất quá trình đăng ký
