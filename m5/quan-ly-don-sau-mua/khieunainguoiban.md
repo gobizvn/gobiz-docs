@@ -1,6 +1,6 @@
 # Khiếu nại người bán
 
-**Mục đích:** Hỗ trợ tạo Khiếu nại người bán,xử lý khiếu nại và tự động lấy mã khiếu nại từ site gốc
+**Mục đích:** Hỗ trợ tạo Khiếu nại người bán, xử lý khiếu nại và tự động lấy mã khiếu nại từ site gốc
 
 Khiếu nại viên có thể **Tạo khiếu nại người bán**\(KNNB\) từ nhiều màn hình khác nhau \(Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái **Hủy** hoặc **Hết Hàng**\).
 
