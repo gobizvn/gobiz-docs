@@ -127,7 +127,7 @@
       * [1. Cấu hình địa chỉ kho nhận](m5/cau-hinh/diachikhonhan.md)
       * [2. Cấu hình gửi Yêu cầu thanh toán]()
       * [2.2. Kết nối TK Taobao Global vào hệ thống]()
-    * [Quy trình mua hàng]()
+    * [Quy trình mua hàng](。)
       * [1. Phân đơn](m5/mua-hang/phandon.md)
       * [2. Xử lý đơn & Thanh toán]()
     * [Quản lý đơn sau mua]()
