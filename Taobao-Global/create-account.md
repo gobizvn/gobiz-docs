@@ -45,9 +45,9 @@ Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để k�
 - Sau khi hoàn thành quá trình đăng ký, Quý khách sẽ nhận được thông báo về việc tạo tài khoản thành công.
 - Quý khách có thể đăng nhập vào tài khoản của mình và bắt đầu trải nghiệm sự ưu việt của hệ thống mang lại.
 
-![Đăng ký thành công](image-7.png)
+![Đăng ký thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/588817ca-517e-4d38-95ec-d971886b4fc5) 
 
-![Trang quản trị](image-8.png)
+![Trang quản trị](https://github.com/gobizvn/gobiz-docs/assets/135328227/1ec2ea31-ca59-4ca3-97e5-6d3fcd011f7f)
 
 ===========================================================
 
