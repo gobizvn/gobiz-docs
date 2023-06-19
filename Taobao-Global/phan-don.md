@@ -44,3 +44,14 @@ Quản lý click chức năng **Thu hồi** để thu hồi đơn đã phân cho
 
 ![Thu hồi đơn](https://user-images.githubusercontent.com/75475064/105480837-d7507e00-5cd8-11eb-8745-6c26e3c1c242.png)
 
+## Bước 4: GDV tự nhận đơn theo điều kiện lọc
+
+Từ menu bên trái màn hình Quý khách truy cập vào **Đơn hàng** và chọn **Đơn đang mua**
+- Chọn **Nguồn hàng**: Taobao, Tmall
+- Chọn đơn ở trạng thái **Chờ Pai**
+- Click chọn **Nhận đơn**
+
+![Tự nhận đơn](https://github.com/gobizvn/gobiz-docs/assets/73226975/0c815ae1-a179-4adf-9382-bb1425f602ff)
+
+
+
