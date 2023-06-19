@@ -2,27 +2,33 @@
 - Phân đơn mới cho nhân viên mua hàng (GDV)
 - Thu hồi đơn đã phân cho GDV trước đó
 **Quá trình tiến hành xử lý phân đơn Taobao/Tmall cho GDV pai theo luồng Taobao Global như sau:**
-
 ## Bước 1: Truy cập menu Quản lý đơn
-Từ menu bên trái màn hình Quý khách truy cập vào **Đơn hàng** và chọn **Quản lý đơn**.
+Từ menu bên trái màn hình Quý khách truy cập vào **Đơn hàng** và chọn **Quản lý đơn**
 
 ![Quản lý đơn](https://user-images.githubusercontent.com/75475064/105478067-46c46e80-5cd5-11eb-925b-fb42ef87f9a9.png)
 
-**Để phân nhiều đơn cho giao dịch viên, quản lý thực hiện như sau:**
+Chọn **Nguồn hàng**: Taobao, Tmall
 
-**Bước 1:** Tích chọn đơn chưa được phân GDV
+![Nguồn hàng](https://github.com/gobizvn/gobiz-docs/assets/73226975/bccdcae7-2cc4-4a06-9a98-53500a5cda6d)
 
-![T&#xED;ch ch&#x1ECD;n &#x111;&#x1A1;n](https://user-images.githubusercontent.com/75475064/105479376-f64e1080-5cd6-11eb-96cf-83112e3969b7.png)
+## Bước 2: Thao tác phân nhiều đơn hàng cùng lúc cho GDV
+### 2.1. Để phân nhiều đơn cho giao dịch viên, quản lý thực hiện như sau:
+- Chọn đơn ở trạng thái **Chờ mua**
+- Tích vào mục **Chọn tất cả đơn chưa phân**
 
-**Bước 2:** Quản lý chọn chức năng **Phân đơn** để phân những đơn đã chọn cho cùng một GDV
+![Tích chọn đơn](https://user-images.githubusercontent.com/75475064/105479376-f64e1080-5cd6-11eb-96cf-83112e3969b7.png)
+
+### 2.2. Quản lý chọn chức năng Phân đơn để phân những đơn đã chọn cho cùng một GDV
 
 ![Phân đơn](https://user-images.githubusercontent.com/75475064/105479496-1aa9ed00-5cd7-11eb-9e7e-401c42da8bb4.png)
 
-**Bước 3:** Quản lý chọn tài khoản GDV để phân đơn và click **Thực hiện** để hoàn thành thao tác phân đơn.
+### 2.3. Quản lý chọn tài khoản GDV để phân đơn và click Thực hiện để hoàn thành thao tác phân đơn.
 
 ![Phân đơn cho GDV](https://user-images.githubusercontent.com/75475064/105479805-7ffdde00-5cd7-11eb-9770-5c4973d04640.png)
 
-**Để phân từng đơn cho giao dịch viên, quản lý thực hiện như sau:**
+## Bước 3: Thao tác phân từng đơn cho giao dịch viên
+
+### 3.1. Để phân từng đơn cho giao dịch viên, quản lý thực hiện như sau:
 
 Quản lý click chọn tài khoản GDV trên từng đơn để phân đơn cho GDV
 
@@ -32,7 +38,7 @@ Quản lý click chọn tài khoản GDV trên từng đơn để phân đơn ch
 
 ![Phân đơn](https://user-images.githubusercontent.com/75475064/105480496-65783480-5cd8-11eb-928c-5604e41f0f7f.png)
 
-**Để thu hồi đơn đã phân cho GDV, quản lý thực hiện như sau:**
+### 3.2.Để thu hồi đơn đã phân cho GDV, quản lý thực hiện như sau:
 
 Quản lý click chức năng **Thu hồi** để thu hồi đơn đã phân cho GDV trước đó
 
