@@ -1,20 +1,18 @@
-Để kết nối tài khoản Taobao Global vào hệ thống cần thực hiện các bước sau 
 
-**Bước 1:** Đăng nhập vào tài khoản Taobao Global đã tạo trước đó tại liên kết này:
+## Bước 1: Đăng nhập tài khoản Taobao Global
+- Quý khách vui lòng Đăng nhập vào tài khoản Taobao Global [Tại Đây](https://distributor.taobao.global/apps/seller/login)
 
- https://distributor.taobao.global/apps/seller/login?
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/0ecda983-86ee-4d21-bef5-3f4c2fb6f7be)
 
-![Màn hình đăng nhập Taobao Global](image-9.png)
+- Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
 
-**Bước 2:** Truy cập menu trên hệ thống Mua hàng Mục Cấu hình Gobiz mục **“Cấu hình chung”**
+## Bước 2: Truy cập trang Cấu Hình Chung
 
-Truy cập **"Kết nối TB Global"**
+1. Từ menu **Cấu hình** Quý khách chọn **Cấu hình chung**
 
-![Ảnh minh họa](image-11.png)
+![Cấu hình chung](https://github.com/gobizvn/gobiz-docs/assets/73226975/8cbdb6f0-b4d1-4a3f-8fab-f9cf4398c54e)
 
-Click vào **"Kết nối ST "**
-
-![](image-12.png)
+![Kết nối Tài khoản TB Global](https://github.com/gobizvn/gobiz-docs/assets/73226975/2b2a29b5-3fb1-453c-ab6c-cb3b8b0a7a6b)
 
 Bước 3: Điền tài khoản, mật khẩu. Click **Authorize**
 
