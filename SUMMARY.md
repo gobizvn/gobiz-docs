@@ -132,8 +132,8 @@
       * [1. Phân đơn](Taobao-Global/phan-don.md)
       * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
     * Quản lý đơn sau mua
-      * [1. Khai báo hải quan](/m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
-      * [2. Cập nhập thông tin đơn hàng](/m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
+      * [1. Khai báo hải quan](Taobao-Global/m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
+      * [2. Cập nhập thông tin đơn hàng](Taobao-Global/m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
       * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
       * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
 * [HỆ THỐNG KHO VẬN](m6/README.md)
