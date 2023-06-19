@@ -130,7 +130,7 @@
     * [Quy trình mua hàng](。)
       * [1. Phân đơn](m5/mua-hang/phandon.md)
       * [2. Xử lý đơn & Thanh toán]()
-    * [Quản lý đơn sau mua](。)
+    * [Quản lý đơn sau mua](.)
       * [1. Khai báo hải quan](m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
       * [2. Cập nhập thông tin đơn hàng](m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
       * [3. Đồng bộ mã vận đơn]()
