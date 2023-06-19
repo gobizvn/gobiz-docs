@@ -13,7 +13,7 @@
 
 - Điền các thông tin cần thiết vào các trường yêu cầu, bao gồm: Họ tên, Địa chỉ email, Mật khẩu và Mã xác nhận từ email hệ thống.
 
-![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/1a8d8619-64d8-48b2-8732-448fbaf5f8fa)
+![Thông tin](https://github.com/gobizvn/gobiz-docs/assets/73226975/1a8d8619-64d8-48b2-8732-448fbaf5f8fa)
 
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
 
@@ -34,7 +34,7 @@ Khai báo thêm 1 số thông tin về tài khoản của Quý khách:
 
 Hệ thống yêu cầu xác thực và liên kết tài khoản mua hàng với Alipay của Quý khách, nếu **Chưa có tài khoản** (Not signed), Quý khách vui lòng **Đăng ký mới** tài khoản Alipay.
 
-![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/e4535387-e867-4576-b1ea-2e4a9680531b)
+![Đăng ký tài khoản](https://github.com/gobizvn/gobiz-docs/assets/135328227/e4535387-e867-4576-b1ea-2e4a9680531b)
 
 Trường hợp đã có tài khoản Alipay, Quý khách đăng nhập để kết nối ví điện tử
 
