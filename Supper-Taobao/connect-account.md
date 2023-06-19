@@ -6,7 +6,7 @@
 
 ![Màn hình đăng nhập Taobao Global](image-9.png)
 
-**Bước 2:** Truy cập menu trên hệ thống Mua hàng Gobiz mục **“Cấu hình chung”**
+**Bước 2:** Truy cập menu trên hệ thống Mua hàng Mục Cấu hình Gobiz mục **“Cấu hình chung”**
 
 Truy cập **"Kết nối TB Global"**
 
@@ -24,4 +24,4 @@ Nếu chưa đăng nhập ở Bước 1 thì đăng nhập thêm ở bước nà
 
 ![Alt text](image-14.png)
 
-Kết nối thành công hệ thống tự động chuyển sang **Dashboard**
+Kết nối thành công hệ thống tự động chuyển sang **Dashboard** 
