@@ -1,7 +1,7 @@
 2.2 Kết nối TK Taobao Global vào hệ thống
 Để kết nối tài khoản Taobao Global vào hệ thống cần 
 
-**Bước 1:** Đăng nhập vào tào khoản đã tạo trước đó tại liên kết này: https://distributor.taobao.global/apps/seller/login?
+**Bước 1:** Đăng nhập vào tài khoản đã tạo trước đó tại liên kết này: https://distributor.taobao.global/apps/seller/login?
 
 ![Màn hình đăng nhập Taobao Global](image-9.png)
 **Bước 2:** Truy cập menu trên hệ thống Mua hàng Gobiz mục **“Cấu hình chung”**
