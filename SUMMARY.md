@@ -121,11 +121,11 @@
     * [7. Báo cáo doanh số mới](m5/kiem-soat-mua-hang/bao-cao-doanh-so-moi.md)
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [TÀI KHOẢN TAOBAO GLOBAL](Supper-Taobao/Readme.md)
-    * [Tài khoản](Supper-Taobao/Readme.md)
+    * Tài khoản
       * [1. Tạo tài khoản & Liên kết ví Alipay](Supper-Taobao/creat-account.md)
-    * [Cấu hình](Supper-Taobao/Readme.md)  
+    * Cấu hình
       * [1. Cấu hình địa chỉ kho nhận](m5/cau-hinh/diachikhonhan.md)
-      * [2. Cấu hình gửi Yêu cầu thanh toán]()
+      * [2. Cấu hình gửi Yêu cầu thanh toán](.)
       * [2.2. Kết nối TK Taobao Global vào hệ thống](Supper-Taobao/connect-account.md)
     * [Quy trình mua hàng](Supper-Taobao/Readme.md)
       * [1. Phân đơn](m5/mua-hang/phandon.md)
