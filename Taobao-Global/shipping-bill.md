@@ -1,8 +1,10 @@
-**Mục đích**: Tự động lấy mã vận đơn từ site gốc và điền vào đơn.
+## Mục đích 
+Tự động lấy mã vận đơn từ site gốc và điền vào đơn.
 
-**Đối với Taobao**:
+## Đối với Taobao
 
-Bước 1: GDV cài công cụ đặt hàng trên Chrome/Cốc Cốc và chọn thêm tiện ích để thêm công cụ trên thanh Extention. Nếu cài đặt thành công, công cụ sẽ hiển thị như hình
+## Bước 1: Cài công cụ chạy vận đơn
+GDV cài công cụ đặt hàng trên Chrome/Cốc Cốc và chọn thêm tiện ích để thêm công cụ trên thanh Extention. Nếu cài đặt thành công, công cụ sẽ hiển thị như hình
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/121548042/8cc90980-13ae-4145-a89c-b0185285d448)
 
