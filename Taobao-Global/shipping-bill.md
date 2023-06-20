@@ -26,7 +26,7 @@ Quý khách có thể kiểm tra Mã vận đơn bằng cách:
 GDV truy cập vào hệ thống Mua hàng, chọn trang **Đơn hàng** trên Menu bên trái và chọn **Đơn hàng tạo từ TBDN**
 Những đơn hàng đã có mã vận đơn sẽ được tự động cập nhật và hiển thị như hình
 
-<img width="1267" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/6b8ab89e-b12b-423e-8692-04c0f4230abe">
+![Mã vận đơn](https://github.com/gobizvn/gobiz-docs/assets/121548042/6b8ab89e-b12b-423e-8692-04c0f4230abe)
 
 *Cách 2*: Trên Menu **Quản lý đơn**
 
