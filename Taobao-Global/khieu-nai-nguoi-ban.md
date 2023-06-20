@@ -73,6 +73,10 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
   ![Chi tiết knnb](https://github.com/gobizvn/gobiz-docs/assets/135328227/4dc81f9d-21f0-4d6d-ae9f-b2e2afbe7d8c)
 
+**Lưu ý:**
+- Quản lý có thể cài đặt Tạo khiếu nại người bán tự động với đơn trong mục **Cấu hình** đối với đơn lâu chưa phát hàng, lâu chưa nhận hàng, đã nhận hàng nhưng chưa có kiện.
+- Trên một đơn hàng, chỉ được tạo 1 KNNB cùng lý do với khi KNNB ở trạng thái Chưa tiếp nhận và Đang xử lý
+- Nếu KNNB ở trạng thái Thành công hoặc Thất bại thì được tạo lại KNNB cùng lý do
   
 # 2. Xử lý khiếu nại người bán. 
 
