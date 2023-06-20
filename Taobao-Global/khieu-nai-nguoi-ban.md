@@ -70,6 +70,7 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 ![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/2f61143f-b1cb-4f58-b735-c9ed9349d29c)
 
 - Tạo KNNB thành công màn hình chuyển qua giao diện chi tiết khiếu nại vừa tạo.
+  
 
   ![Chi tiết knnb](https://github.com/gobizvn/gobiz-docs/assets/135328227/4dc81f9d-21f0-4d6d-ae9f-b2e2afbe7d8c)
 
