@@ -1,3 +1,88 @@
+**Mục đích:** Hỗ trợ tạo Khiếu nại người bán, xử lý khiếu nại và tự động lấy mã khiếu nại từ site gốc.
+
+# 1. Tạo khiếu nại người bán
+
+Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** trở đi và đơn ở trạng thái Hủy hoặc Hết Hàng 
+
+**Có nhiều cách Tạo khiếu nại người bán**
+
+**Để tạo được khiếu nại người bán(KNNB) Giao dịch viên thực hiện như sau:**
+
+ # #1.1. Tạo khiếu nại người bán tại Menu Quản lý đơn.
+
+- Giao dịch viên truy cập menu **Đơn hàng**, chọn **Quản lý đơn**
+
+- Tìm kiếm đơn hàng cần tạo khiếu nại, click Tạo KNNB tại bên phải màn hình
+
+![KNNB TRANG QUẢN LÝ ĐƠN](https://github.com/gobizvn/gobiz-docs/assets/135328227/b3d4065f-85d6-4a8e-9f94-850931155b59) 
+
+- Màn hình hiện giao diện Tạo khiếu nại người bán, mục này Mã đơn hàng và hạn xử lý đã được điền tự động.
+
+- Điền thêm thông tin và click **Thực hiện** để tạo KNNB.
+
+- Tạo KNNB thành công màn hình chuyển qua giao diện chi tiết khiếu nại vừa tạo. 
+
+  ![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/2f61143f-b1cb-4f58-b735-c9ed9349d29c)
+
+
+# #1.2. Tạo khiếu nại người bán tại Menu Kiểm soát đơn hàng.
+
+- Giao dịch viên truy cập menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng**
+
+- Tìm kiếm đơn hàng cần tạo khiếu nại, click Tạo KNNB tại bên phải màn hình
+  
+ ![KNNB TRANG KIỂM SOÁT ĐƠN HÀNG](https://github.com/gobizvn/gobiz-docs/assets/135328227/73c3b99b-0156-42b1-93f6-1cb9098ebc38)
+
+- Màn hình hiện giao diện Tạo khiếu nại người bán, mục này Mã đơn hàng và hạn xử lý đã được điền tự động.
+
+- Điền thêm thông tin và click **Thực hiện** để tạo KNNB.
+
+  ![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/2f61143f-b1cb-4f58-b735-c9ed9349d29c)
+
+- Tạo KNNB thành công màn hình chuyển qua giao diện chi tiết khiếu nại vừa tạo. 
+
+# #1.3. Tạo khiếu nại người bán tại Menu Danh sách khiếu nại người bán.
+
+- Giao dịch viên truy cập menu **Danh sách kiếu nại người bán**, chọn **Khiếu nại người bán**
+
+- Click **+ Tạo khiếu nại người bán** tại góc bên phải.
+
+![Khiếu nại người bán](https://github.com/gobizvn/gobiz-docs/assets/135328227/70a473ce-d161-4fd3-bac5-79c75dd723b1)
+
+- Điền các trường thông tin bắt buộc như: Mã đơn hàng, Lý do hoàn tiền, hạn xử lý,... và click **Thực hiện** để tạo KNNB
+
+![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/ccd8028d-1320-4d08-a162-557bf367d5cd)
+
+- Tạo KNNB thành công hệ thống hiển thị thông báo tại góc trên bên phải màn hình.
+
+ ![Tạo khiếu nại người bán thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/22da6221-0106-48dc-a923-2d2352617ccb)
+
+ # # 1.4. Tạo khiếu nại người bán tại chi tiết đơn hàng.
+
+ Tại **Chi tiết đơn hàng** có thể tạo Khiếu nại người bán tại góc trên bên phải màn hình. 
+
+ ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/2ebf25b8-89a1-4b92-a7aa-db937502e6ce)
+
+- Click **Tạo KKNNB**, màn hình hiện giao diện Tạo khiếu nại người bán, mục này Mã đơn hàng và hạn xử lý đã được điền tự động.
+
+- Điền thêm thông tin và click **Thực hiện** để tạo KNNB.
+
+![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/2f61143f-b1cb-4f58-b735-c9ed9349d29c)
+
+- Tạo KNNB thành công màn hình chuyển qua giao diện chi tiết khiếu nại vừa tạo.
+
+  ![Chi tiết knnb](https://github.com/gobizvn/gobiz-docs/assets/135328227/4dc81f9d-21f0-4d6d-ae9f-b2e2afbe7d8c)
+
+  
+# 2. Xử lý khiếu nại người bán. 
+
+
+
+
+
+
+
+
 
 
 
