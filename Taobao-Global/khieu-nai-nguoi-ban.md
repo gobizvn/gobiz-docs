@@ -8,7 +8,7 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
 **Để tạo được khiếu nại người bán(KNNB) Giao dịch viên thực hiện như sau:**
 
- # #1.1. Tạo khiếu nại người bán tại Menu Quản lý đơn.
+ ## 1.1. Tạo khiếu nại người bán tại Menu Quản lý đơn.
 
 - Giao dịch viên truy cập menu **Đơn hàng**, chọn **Quản lý đơn**
 
@@ -25,7 +25,7 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
   ![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/2f61143f-b1cb-4f58-b735-c9ed9349d29c)
 
 
-# #1.2. Tạo khiếu nại người bán tại Menu Kiểm soát đơn hàng.
+## 1.2. Tạo khiếu nại người bán tại Menu Kiểm soát đơn hàng.
 
 - Giao dịch viên truy cập menu **Kiểm soát mua hàng**, chọn **Kiểm soát đơn hàng**
 
@@ -41,7 +41,7 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
 - Tạo KNNB thành công màn hình chuyển qua giao diện chi tiết khiếu nại vừa tạo. 
 
-# #1.3. Tạo khiếu nại người bán tại Menu Danh sách khiếu nại người bán.
+## 1.3. Tạo khiếu nại người bán tại Menu Danh sách khiếu nại người bán.
 
 - Giao dịch viên truy cập menu **Danh sách kiếu nại người bán**, chọn **Khiếu nại người bán**
 
@@ -57,7 +57,7 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
  ![Tạo khiếu nại người bán thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/22da6221-0106-48dc-a923-2d2352617ccb)
 
- # # 1.4. Tạo khiếu nại người bán tại chi tiết đơn hàng.
+ ## 1.4. Tạo khiếu nại người bán tại chi tiết đơn hàng.
 
  Tại **Chi tiết đơn hàng** có thể tạo Khiếu nại người bán tại góc trên bên phải màn hình. 
 
@@ -71,7 +71,6 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
 - Tạo KNNB thành công màn hình chuyển qua giao diện chi tiết khiếu nại vừa tạo.
   
-
   ![Chi tiết knnb](https://github.com/gobizvn/gobiz-docs/assets/135328227/4dc81f9d-21f0-4d6d-ae9f-b2e2afbe7d8c)
 
 **Lưu ý:**
@@ -80,6 +79,33 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 - Nếu KNNB ở trạng thái Thành công hoặc Thất bại thì được tạo lại KNNB cùng lý do
   
 # 2. Xử lý khiếu nại người bán. 
+
+## 2.1. Xử lý khiếu nại trên Taobao Global.
+
+- Trên giao diện Taobao Global tìm kiếm đơn hàng, tại góc phải màn hình chọn khiếu nại **申请退款** 
+
+![Tạo KNNB](https://github.com/gobizvn/gobiz-docs/assets/135328227/28b9d24e-0b21-41fb-b66d-cabaf13c0bed)
+
+- Tạo khiếu nại trên Taobao Global giống như trên Taobao thông thường.
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7acdb6e8-ae4d-4b33-9bab-706c77577793)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
