@@ -1,4 +1,4 @@
-2. Xử lý và phân đơn 
+2. Xử lý đơn và thanh toán  
 
 
 
