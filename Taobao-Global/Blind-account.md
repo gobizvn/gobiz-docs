@@ -31,6 +31,7 @@
 
 ![Thêm tài khoản phụ](https://github.com/gobizvn/gobiz-docs/assets/121548042/0a065a52-da2d-47d2-9a06-d7a2f0b4adf3)
 
+
 ===========================================================
 
 ✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
