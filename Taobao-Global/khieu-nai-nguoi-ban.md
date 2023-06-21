@@ -88,7 +88,9 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
 - Tạo khiếu nại trên Taobao Global giống như trên Taobao thông thường.
 
-![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7acdb6e8-ae4d-4b33-9bab-706c77577793)
+![Màn hình tạo khiếu nại](https://github.com/gobizvn/gobiz-docs/assets/135328227/7acdb6e8-ae4d-4b33-9bab-706c77577793) 
+
+
 
 
 
