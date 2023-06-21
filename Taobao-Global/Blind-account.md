@@ -7,6 +7,7 @@
 
 
 - Quá trình đăng ký rất đơn giản và chỉ mất vài phút để hoàn tất.
+  
 ![Đăng ký](https://github.com/gobizvn/gobiz-docs/assets/121548042/32636136-524d-478c-8fa5-2462c8db4d91)
 
 
@@ -25,7 +26,9 @@
 
 ## Bước 3: Liên kết các tài khoản phụ với tài khoản chính
 - Ấn vào mục **Tài khoản mua hàng uỷ quyền** góc trên bên phải màn hình
+  
   ![Tài khoản mua hàng uỷ quyền](https://github.com/gobizvn/gobiz-docs/assets/121548042/fae7cb03-b2a1-4e0e-9334-f66240f65add)
+  
 
 - Thêm tài khoản phụ
 
