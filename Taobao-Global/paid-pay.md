@@ -48,6 +48,7 @@ GDV cập nhật thông tin như: tài khoản mua hàng Taobao Global đã kế
 
 ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7f01d309-51d8-49bf-8d58-ccff47d70c3a)
 
+
 Các bước Tìm kiếm bằng Mã đơn Taobao Global **采购单** cũng tương tự như tìm kiếm bằng Mã đơn hàng taobao **淘宝订单编号**, Giao dịch viên chỉ cần thay Mã đơn hàng taobao **淘宝订单编号** bằng Mã đơn Tobao Global **采购单**
 
 ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7b64500f-8b3a-4d14-a418-91f49e753361)
@@ -57,7 +58,54 @@ Các bước Tìm kiếm bằng Mã đơn Taobao Global **采购单** cũng tư�
 - GDV click vào biểu tượng chat **联系商家**， ngay lập tức sẽ hiện ra cửa sổ chat web để GDV trao đổi với Nhà cung cấp
 **Lưu ý:** Phần mở chat vui lòng liên hệ DVKH Gobiz để được hỗ trợ.
   
-  ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/2909896b-9429-4bcb-95f1-c2d3d69f3b15)
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/2909896b-9429-4bcb-95f1-c2d3d69f3b15)
+
+## 2.3.	Thanh toán
+### 2.3.1. Thanh toán bằng gửi YCTT trực tiếp trên đơn (áp dụng khi gửi 1 đơn riêng lẻ)
+**Bước 1:** Trước khi gửi YCTT GDV kiểm tra lại thông tin đơn hàng như phí vận chuyển nội địa,  mã hoá đơn, số tiền trên đơn phải lớn số tiền thực thanh toán, dịch vụ,…
+**Lưu ý:** Mã hoá đơn trên đơn hàng phải đúng với mã hoá đơn site gốc trên Taobao Global mới có thể gửi được YCTT.
+Sau khi kiểm tra xong GDV click vào Tạo YCTT đơn Taobao Global
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/09216041-8e69-42cd-b2d6-3dfadc1d9934)
+
+**Bước 2:** GDV click tiếp Tạo YCTT đơn Taobao Global để hoàn tất YCTT, sau đó hệ thống sẽ hiển thị thông báo *Tạo YCTT thành công*. Đơn hàng sẽ tự động chuyển trạng thái từ **Đã pai** sang **Đã mua**, GDV có thể F5 lại trang để kiểm tra.
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/98b6a8be-7c08-4f1e-8857-aa97bbf347e4)
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/466bd394-ffa9-473f-b50d-ea88c04fa91c)
+
+**Bước 3:** GDV tiến hành kiểm tra lại đơn hàng trên Taobao Global, nếu đơn hàng hiển thị trạng thái 待发货 tức là đơn hàng đã được thanh toán thành công.
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/00c79d8b-aea7-447f-bb16-3fe22282b846)
+
+### 2.3.2. Thanh toán gộp nhiều đơn trên Danh sách đơn đang mua
+**Bước 1:** Tại trang Danh sách đơn đang mua mục Đã pai, GDV chọn các đơn hàng cần gửi thanh toán gộp. (Tối đa được chọn 10 đơn)
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/2af1278d-e205-4e2d-b9fc-4c73ee926938)
+
+**Bước 2:** GDV click chọn Tạo YCTT đơn Taobao Global.
+
+**Bước 3:** GDV click tiếp Tạo YCTT đơn Taobao Global để hoàn tất gửi YCTT, sau đó hệ thống sẽ hiển thị thông báo *Tạo YCTT thành công* và tự động chuyển trạng thái sang **Đã mua**.
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7f72b9af-f9e1-4d80-af8f-02b44941ad3d)
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/e30184ac-e733-4796-ba68-47cb9a23a16d)
+
+**Lưu ý:** sau khi gửi YCTT thành công GDV bỏ tích các đơn đã chọn mới có thể gửi thanh toán gộp được các đơn sau.
+
+**Bước 4:** GDV tiến hành kiểm tra lại đơn hàng trên Taobao Global, nếu đơn hàng hiển thị trạng thái **待发货** tức là đơn hàng đã được thanh toán thành công.
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
