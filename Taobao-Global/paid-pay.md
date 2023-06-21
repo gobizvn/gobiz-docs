@@ -36,6 +36,7 @@ GDV cập nhật thông tin như: tài khoản mua hàng Taobao Global đã kế
 
 ![Cập nhật số lượng](https://github.com/gobizvn/gobiz-docs/assets/121548042/ad6ceb04-6084-46f3-8e39-505c90f33d9a)
 
+# 2.2 Tìm kiếm đơn hàng và liên hệ với nhà cung cấp trên Taobao Global
 
 
 
