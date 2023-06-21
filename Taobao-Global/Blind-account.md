@@ -3,11 +3,11 @@
 - Quý khách vui lòng truy cập vào link: https://distributor-management.taobao.global/ và chọn **立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
 
-<img width="1263" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/6159e738-2ad9-4a11-916a-07875882a3f1">
+![Chọn ngôn ngữ](https://github.com/gobizvn/gobiz-docs/assets/121548042/6159e738-2ad9-4a11-916a-07875882a3f1)
 
 
 - Quá trình đăng ký rất đơn giản và chỉ mất vài phút để hoàn tất.
-<img width="1270" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/32636136-524d-478c-8fa5-2462c8db4d91">
+![Đăng ký](https://github.com/gobizvn/gobiz-docs/assets/121548042/32636136-524d-478c-8fa5-2462c8db4d91)
 
 
 ## Bước 2: Điền thông tin đăng ký tài khoản
@@ -18,18 +18,18 @@
 
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
 
-<img width="1276" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/2b288487-3d82-453d-9324-79633e39ba71">
+![Điền thông tin](https://github.com/gobizvn/gobiz-docs/assets/121548042/2b288487-3d82-453d-9324-79633e39ba71)
 
 
 - **Taobao Global** sẽ cung cấp cho Quý khách các Quy định & Chính sách, Quý khách vui lòng đọc và đồng ý điều khoản trước khi hoàn tất quá trình đăng ký.
 
 ## Bước 3: Liên kết các tài khoản phụ với tài khoản chính
 - Ấn vào mục **Tài khoản mua hàng uỷ quyền** góc trên bên phải màn hình
-  <img width="1264" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/fae7cb03-b2a1-4e0e-9334-f66240f65add">
+  ![Tài khoản mua hàng uỷ quyền](https://github.com/gobizvn/gobiz-docs/assets/121548042/fae7cb03-b2a1-4e0e-9334-f66240f65add)
 
 - Thêm tài khoản phụ
 
-<img width="1278" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/0a065a52-da2d-47d2-9a06-d7a2f0b4adf3">
+![Thêm tài khoản phụ](https://github.com/gobizvn/gobiz-docs/assets/121548042/0a065a52-da2d-47d2-9a06-d7a2f0b4adf3)
 
 ===========================================================
 
