@@ -114,6 +114,29 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
 ![Danh sách khiếu nại](https://github.com/gobizvn/gobiz-docs/assets/135328227/e84b9963-b518-482d-87dd-2f73ce7d69b5)
 
+**Bước 2:** Tiếp nhận khiếu nại 
+- Tại chi tiết khiếu nại click **Tiếp nhận** thì KNNB sẽ chuyển trạng thái sang Đang xử lý, click **Từ chối** thì KNNB sẽ chuyển trạng thái sang Thất bại.
+- Sau khi tiếp nhận sẽ hiển thị nút Thành công hoặc Thất bại.
+  > Click **Thành công**, Nhập số tiền đòi được và chọn **Thực hhiệ** thì KNNB sẽ chuyển trạng thái sang Thành công.
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/aa048ab7-41f4-4ce0-8bf1-d7742138b423)
+
+![KNNB Thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/9d9f5d3f-20fd-41a9-a264-4b2f73d83f95)
+
+![Cập nhập thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/29ec586a-f425-4f19-a6f5-b1db36e78a88)
+
+> Click **Thất bại** và Nhập lý do khiếu nại thất bại thì KNNB chuyển sang trạng thái Thất bại.
+
+![Lý do thất bại](https://github.com/gobizvn/gobiz-docs/assets/135328227/81fad2e3-123b-4454-bdad-9c2e3a9539b9)
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/069605e1-03a3-4e27-90a1-6762075ea393)
+
+
+
+
+
+
+  
+
 
 
 
