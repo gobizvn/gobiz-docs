@@ -1,5 +1,6 @@
 ## Bước 1: Đăng nhập Hệ thống Taobao.gobiz.vn  
 
+
 - Quý khách vui lòng Đăng nhập vào tài khoản Taobao.Gobiz [Tại Đây](http://taobao.gobiz.vn/)
   
 [ Ảnh minh họa]
@@ -7,7 +8,8 @@
 ## Bước 2: Kết nối Taobao Global tại trang chủ. 
 
 - Tại trang chủ, góc phải màn hình click biểu tượng <img width="35" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/135328227/05eae240-bffc-47ce-a046-d2fd3556537b"> để kết nối.
-  
+
+
 ![Trang chủ màn hình](https://github.com/gobizvn/gobiz-docs/assets/135328227/73eeb7aa-aa3b-4655-81c0-6c4c0683916c)
 
 ## Bước 3: Thêm tài khoản 
