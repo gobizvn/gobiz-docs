@@ -3,12 +3,12 @@
 - Quý khách vui lòng truy cập vào link: https://distributor-management.taobao.global/ và chọn **立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
 
-![Thay đổi ngôn ngữ] 
+<img width="1268" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/5aa5a4a3-1590-46fe-bcba-8a00f51611ed">
 
 
 - Quá trình đăng ký rất đơn giản và chỉ mất vài phút để hoàn tất.
+<img width="1270" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/32636136-524d-478c-8fa5-2462c8db4d91">
 
-![Đăng ký tài khoản]
 
 ## Bước 2: Điền thông tin đăng ký tài khoản
 
@@ -18,7 +18,7 @@
 
 - Quý khách lưu ý phần này hiện tại không thể chỉnh sửa, nên cân nhắc cung cấp đầy đủ và chính xác thông tin của mình để tránh các vấn đề về tài khoản sau này.
 
-![form] (https://github.com/gobizvn/gobiz-docs/assets/121548042/0f29034f-222d-490d-8567-15d08599d3e3)
+<img width="1276" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/121548042/2b288487-3d82-453d-9324-79633e39ba71">
 
 
 - **Taobao Global** sẽ cung cấp cho Quý khách các Quy định & Chính sách, Quý khách vui lòng đọc và đồng ý điều khoản trước khi hoàn tất quá trình đăng ký.
