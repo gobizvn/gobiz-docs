@@ -121,32 +121,32 @@
     * [7. Báo cáo doanh số mới](m5/kiem-soat-mua-hang/bao-cao-doanh-so-moi.md)
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [TÀI KHOẢN TAOBAO GLOBAL](Supper-Taobao/Readme.md)
- * DÀNH CHO KHÁCH HÀNG DOANH NGHIỆP 
-    * Tài khoản
-      * [1. Tạo tài khoản & Liên kết Alipay](Taobao-Global/create-account.md)
-      * [2. Tạo tài khoản Chính & Phụ](Taobao-Global/Blind-account.md)
-    * Cấu hình
-      * [1. Cấu hình địa chỉ kho nhận](Taobao-Global/address.md)
-      * [2. Cấu hình gửi Yêu cầu thanh toán](Taobao-Global/cau-hinh-gui-YCTT.md)
-      * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
-    * Quy trình mua hàng
-      * [1. Phân đơn](Taobao-Global/phan-don.md)
-      * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
-    * Quản lý đơn sau mua
-      * [1. Khai báo hải quan](Taobao-Global/m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
-      * [2. Cập nhập thông tin đơn hàng](Taobao-Global/m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
-      * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
-      * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
-  * DÀNH CHO KHÁCH HÀNG CÁ NHÂN
-    * Tạo tài khoản
-      * [1. Tạo tài khoản & Liên kết Alipay trên Taobao Global](Taobao-Global/create-accountcn.md)
-      * [2. Tạo tài khoản trên Taobao.gobiz.vn](Taobao-Global/create-accountcngobiz.md)
-      * [3.Kết nối tài khoản Taobao Global với Taobao.gobiz](Taobao-Global/connect-accountcn.md)
-    * Kết đơn
-      * [Xử lý đơn & Thanh toán](Taobao-Global/paid-payc.md)
-    * Quản lý đơn
-      * [1.Đồng bộ mã vận đơn](Taobao-Global/shipping-billcn.md)
-      * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
+   * KHÁCH HÀNG DOANH NGHIỆP 
+     * Tài khoản
+       * [1. Tạo tài khoản & Liên kết Alipay](Taobao-Global/create-account.md)
+       * [2. Tạo tài khoản Chính & Phụ](Taobao-Global/Blind-account.md)
+     * Cấu hình
+       * [1. Cấu hình địa chỉ kho nhận](Taobao-Global/address.md)
+       * [2. Cấu hình gửi Yêu cầu thanh toán](Taobao-Global/cau-hinh-gui-YCTT.md)
+       * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
+     * Quy trình mua hàng
+       * [1. Phân đơn](Taobao-Global/phan-don.md)
+       * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
+     * Quản lý đơn sau mua
+       * [1. Khai báo hải quan](Taobao-Global/m5/quan-ly-don-sau-mua/thongtinhaiquan.md)
+       * [2. Cập nhập thông tin đơn hàng](Taobao-Global/m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
+       * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
+       * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
+   * DÀNH CHO KHÁCH HÀNG CÁ NHÂN
+     * Tạo tài khoản
+       * [1. Tạo tài khoản & Liên kết Alipay trên Taobao Global](Taobao-Global/create-accountcn.md)
+       * [2. Tạo tài khoản trên Taobao.gobiz.vn](Taobao-Global/create-accountcngobiz.md)
+       * [3.Kết nối tài khoản Taobao Global với Taobao.gobiz](Taobao-Global/connect-accountcn.md)
+     * Kết đơn
+       * [Xử lý đơn & Thanh toán](Taobao-Global/paid-payc.md)
+     * Quản lý đơn
+       * [1.Đồng bộ mã vận đơn](Taobao-Global/shipping-billcn.md)
+       * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
 * [HỆ THỐNG KHO VẬN](m6/README.md)
   * [Vận hành chung](m6/van-hanh-chung/README.md)
       * [1. Lịch sử xuất nhập hàng](m6/van-hanh-chung/lich-su-xuat-nhap-hang.md)
