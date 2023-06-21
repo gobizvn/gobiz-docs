@@ -1,6 +1,6 @@
 
 ## Bước 1: Truy cập hệ thống Taobao Global
-- Quý khách vui lòng truy cập vào link: https://distributor.taobao.global/ và chọn **立即注册 (Đăng ký ngay)**
+- Quý khách vui lòng truy cập vào link: [https://distributor.taobao.global/](https://distributor.taobao.global/) và chọn **立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
 
 ![Thay đổi ngôn ngữ](https://github.com/gobizvn/gobiz-docs/assets/73226975/fcaa29bf-0638-4710-9558-13efe45e3313)
