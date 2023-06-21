@@ -141,9 +141,10 @@
      * Tạo tài khoản
        * [1. Tạo tài khoản & Liên kết Alipay trên Taobao Global](Taobao-Global/create-accountcn.md)
        * [2. Tạo tài khoản trên Taobao.gobiz.vn](Taobao-Global/create-accountcngobiz.md)
-       * [3.Kết nối tài khoản Taobao Global với Taobao.gobiz](Taobao-Global/connect-accountcn.md)
-     * Kết đơn
-       * [Xử lý đơn & Thanh toán](Taobao-Global/paid-payc.md)
+       * [3. Kết nối tài khoản Taobao Global với Taobao.gobiz](Taobao-Global/connect-accountcn.md)
+     * Tạo đơn và thanh toán
+       * [1. Tạo đơn hàng](Taobao-Global/paidcn.md)
+       * [2. Thanh toán đơn hàng](Taobao-Global/paycn.md)
      * Quản lý đơn
        * [1.Đồng bộ mã vận đơn](Taobao-Global/shipping-billcn.md)
        * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
