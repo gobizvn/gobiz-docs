@@ -6,8 +6,8 @@
 
 ## Bước 2: Kết nối Taobao Global tại trang chủ. 
 
-- Tại trang chủ, góc phải màn hình click biểu tượng ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/b12de2d0-2b85-4604-adf3-4430dda76f34)
-để kết nối. 
+- Tại trang chủ, góc phải màn hình click biểu tượng <img width="35" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/135328227/05eae240-bffc-47ce-a046-d2fd3556537b"> để kết nối.
+  
 ![Trang chủ màn hình](https://github.com/gobizvn/gobiz-docs/assets/135328227/73eeb7aa-aa3b-4655-81c0-6c4c0683916c)
 
 ## Bước 3: Thêm tài khoản 
