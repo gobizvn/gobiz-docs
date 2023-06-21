@@ -37,15 +37,15 @@
 ![Thêm tài khoản phụ](https://github.com/gobizvn/gobiz-docs/assets/121548042/0a065a52-da2d-47d2-9a06-d7a2f0b4adf3)
 
 - Sau khi đã điền đầy đủ các thông tin, ấn vào xác nhận để thêm tài khoản phụ vào hệ thống
-  
+
 ![Thêm tài khoản phụ](https://github.com/gobizvn/gobiz-docs/assets/121548042/86c3b79d-7b16-4509-a9a7-9ccd43896f4e)
 
 
 **Lưu ý**
+
 - Tài khoản phụ cần được liên kết với Alipay trước khi thêm vào danh sách quản lý của Tài khoản chính
 - User: chính là tên hiển thị nằm ở góc trên bên phải màn hình
 
-  
   ![User](https://github.com/gobizvn/gobiz-docs/assets/121548042/fc979f5f-680a-4696-8120-91b9160c075d)
   
   
