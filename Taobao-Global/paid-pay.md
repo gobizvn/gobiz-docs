@@ -38,6 +38,36 @@ GDV cập nhật thông tin như: tài khoản mua hàng Taobao Global đã kế
 
 # 2.2 Tìm kiếm đơn hàng và liên hệ với nhà cung cấp trên Taobao Global
 
+## 2.2.1.	Tìm kiếm đơn hàng trên Taobao Global
+
+- Tìm kiếm bằng Mã đơn hàng taobao **淘宝订单编号**
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/02fa5152-b6c8-40b4-822c-52df9662186d)
+
+- Giao dịch viên tìm bằng Mã đơn Taobao Global **采购单**
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7f01d309-51d8-49bf-8d58-ccff47d70c3a)
+
+Các bước Tìm kiếm bằng Mã đơn Taobao Global **采购单** cũng tương tự như tìm kiếm bằng Mã đơn hàng taobao **淘宝订单编号**, Giao dịch viên chỉ cần thay Mã đơn hàng taobao **淘宝订单编号** bằng Mã đơn Tobao Global **采购单**
+
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/7b64500f-8b3a-4d14-a418-91f49e753361)
+
+## 2.2.2.	Liên hệ với nhà cung cấp
+
+- GDV click vào biểu tượng chat **联系商家**， ngay lập tức sẽ hiện ra cửa sổ chat web để GDV trao đổi với Nhà cung cấp
+**Lưu ý:** Phần mở chat vui lòng liên hệ DVKH Gobiz để được hỗ trợ.
+  
+  ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/2909896b-9429-4bcb-95f1-c2d3d69f3b15)
+
+  
+
+
+
+
+
+
+
+
 
 
 
