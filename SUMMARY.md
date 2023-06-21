@@ -126,7 +126,7 @@
       * [2. Tạo tài khoản Chính & Phụ](Taobao-Global/Blind-account.md)
     * Cấu hình
       * [1. Cấu hình địa chỉ kho nhận](Taobao-Global/address.md)
-      * [2. Cấu hình gửi Yêu cầu thanh toán](README.md)
+      * [2. Cấu hình gửi Yêu cầu thanh toán](Taobao-Global/cau-hinh-gui-YCTT.md)
       * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
     * Quy trình mua hàng
       * [1. Phân đơn](Taobao-Global/phan-don.md)
