@@ -104,14 +104,30 @@ Hệ thống cho phép tạo KNNB cho đơn từ trạng thái **Đã Mua** tr�
 
 ![Chi tiết khiếu nại](https://github.com/gobizvn/gobiz-docs/assets/135328227/b708f802-e043-44b9-9303-4dfd1f373b16)
 
-
-  
-
-
-
-
-
 ## 2.2. Xử lý khiếu nại trên Hệ thống Mua 
+
+**Để xử lý khiếu nại người bán, Quản lý thực hiện như sau:** 
+
+**Bước 1:** Tại menu truy cập trang Khiếu nại người bán, chọn Danh sách khiếu nại người bán.
+
+- Chọn đơn hàng xử lý khiếu nại, click vào chi tiết. 
+
+![Danh sách khiếu nại](https://github.com/gobizvn/gobiz-docs/assets/135328227/e84b9963-b518-482d-87dd-2f73ce7d69b5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
