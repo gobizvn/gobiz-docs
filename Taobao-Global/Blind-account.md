@@ -46,7 +46,7 @@
 - Tài khoản phụ cần được liên kết với Alipay trước khi thêm vào danh sách quản lý của Tài khoản chính
 - User: chính là tên hiển thị nằm ở góc trên bên phải màn hình
 
-  ![User](https://github.com/gobizvn/gobiz-docs/assets/121548042/fc979f5f-680a-4696-8120-91b9160c075d)
+![User](https://github.com/gobizvn/gobiz-docs/assets/121548042/fc979f5f-680a-4696-8120-91b9160c075d)
   
   
 
