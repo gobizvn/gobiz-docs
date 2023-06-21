@@ -23,6 +23,26 @@ GDV cập nhật thông tin như: tài khoản mua hàng Taobao Global đã kế
 
 ![Tạo đơn thành công](https://github.com/gobizvn/gobiz-docs/assets/135328227/f18f406a-76f5-4d61-89c9-ec71dab74e40)
 
+**Bước 4:** GDV click Đã Pai để chuyển trạng thái cho đơn hàng
+
+![Đã Pai](https://github.com/gobizvn/gobiz-docs/assets/121548042/f56f390a-efaa-4fae-b452-1eb99dbe51be)
+
+- Sau khi chuyển Đã pai hệ thống sẽ tự động cập nhật mã hoá đơn gốc, phí vận chuyển nội địa, trường hợp đơn hàng miễn phí nội địa hệ thống sẽ để trống mục này GDV sẽ tự click chọn miễn phí.
+- GDV cập nhật các thông tin còn lại như: nhóm ngành hàng(nếu có) và dịch vụ.
+
+![Pai hàng thành công](https://github.com/gobizvn/gobiz-docs/assets/121548042/d128eab5-d39c-4d06-9081-2a1e8dc5bca3)
+
+- Khi GDV ấn Tạo đơn TBDN nếu đơn hàng có sản phẩm hết hàng hoặc thiếu hàng thì khi GD hệ thống sẽ hiển thị thông báo, GDV click vào Cập nhật số lượng theo site gốc, sau đó GDV có thể tiếp tục Tạo đơn TBDN như thông thường.
+
+![Cập nhật số lượng](https://github.com/gobizvn/gobiz-docs/assets/121548042/ad6ceb04-6084-46f3-8e39-505c90f33d9a)
+
+
+
+
+
+
+
+
 
 
 
