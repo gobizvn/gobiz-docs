@@ -1,29 +1,8 @@
 ## Mục đích 
-Tự động lấy mã vận đơn từ site gốc và điền vào đơn.
-
-## Đối với Taobao
-
-## Bước 1: Cài công cụ chạy vận đơn
-GDV cài công cụ đặt hàng trên Chrome/Cốc Cốc và chọn thêm tiện ích để thêm công cụ trên thanh Extention. Nếu cài đặt thành công, công cụ sẽ hiển thị như hình
-
-![image](https://github.com/gobizvn/gobiz-docs/assets/121548042/8cc90980-13ae-4145-a89c-b0185285d448)
-
-## Bước 2: Đồng bộ mã vận đơn qua công cụ
-GDV truy cập vào hệ thống mua hàng, chọn trang **Đơn hàng** trên phần Menu bên trái và chọn **Đồng bộ đơn qua công cụ**
-
-![image](https://github.com/gobizvn/gobiz-docs/assets/121548042/31a3ad83-2f09-4788-b988-69bc2ee98645)
-
-## Bước 3: Lưu ý khi đồng bộ mã vận đơn qua công cụ
-Click chọn đơn hàng và click icon đồng bộ để đồng bộ tất cả các đơn, hoặc click icon đồng bộ trên từng đơn.
-- Trước khi sử dụng tính năng này, GDV cần đăng nhập vào hệ thống Taobao/Tmall hoặc 1688.
-- Trong trường hợp đồng bộ đơn thành công, hệ thống sẽ tự chuyển đơn sang trạng **Người bán giao**
-- 
-![image](https://github.com/gobizvn/gobiz-docs/assets/121548042/917c562a-5e5d-4f43-a121-8d93e5d63d4a)
-
-## Đối với Taobao Global
+Hệ thống sẽ tự động đồng bộ mã vận đơn từ site gốc và điền trực tiếp vào đơn mà không cần cài đặt công cụ như Taobao thông thường.
 
 Hệ thống mua hàng sẽ tự động cập nhật **Mã vận đơn** ngay khi người bán điền thông tin này trên **Taobao Global**.
-Quý khách có thể kiểm tra Mã vận đơn bằng cách:
+Quý khách có thể kiểm tra Mã vận đơn bằng 2 cách dưới đây:
 
 ## Cách 1: Trên Menu **Đơn hàng tạo từ TBDN**
 
