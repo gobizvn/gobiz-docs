@@ -139,7 +139,7 @@
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
    * DÀNH CHO KHÁCH HÀNG CÁ NHÂN
      * Tạo tài khoản
-       * [1. Tạo tài khoản & Liên kết Alipay trên Taobao Global](Taobao-Global/create-account.md)
+       * [1. Tạo tài khoản & Liên kết Alipay trên Taobao Global](Taobao-Global/create-accountcn.md)
        * [2. Tạo tài khoản trên Taobao.gobiz.vn](Taobao-Global/create-accountcngobiz.md)
        * [3.Kết nối tài khoản Taobao Global với Taobao.gobiz](Taobao-Global/connect-accountcn.md)
      * Kết đơn
