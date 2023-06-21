@@ -1,4 +1,6 @@
 ## Tạo tài khoản Chính & tài khoản phụ
+## Mục đích:
+Đăng ký nhiều tài khoản Taobao Global chỉ cần dùng một pháp nhân và liên kết với 1 Alipay chủ. Tài khoản Chính có thể kiểm soát và quản lý các tài khoản Phụ dễ dàng, thuận tiện.
 ## Bước 1: Truy cập hệ thống Taobao Global
 - Quý khách vui lòng truy cập vào link: https://distributor-management.taobao.global/ và chọn **立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
@@ -30,10 +32,22 @@
   ![Tài khoản mua hàng uỷ quyền](https://github.com/gobizvn/gobiz-docs/assets/121548042/fae7cb03-b2a1-4e0e-9334-f66240f65add)
   
 
-- Thêm tài khoản phụ
+- Liên kết tài khoản phụ với tài khoản chính bằng cách chọn **Thêm tài khoản mới** và điền đầy đủ thông tin **Địa chỉ email** và **user**
 
 ![Thêm tài khoản phụ](https://github.com/gobizvn/gobiz-docs/assets/121548042/0a065a52-da2d-47d2-9a06-d7a2f0b4adf3)
 
+- Sau khi đã điền đầy đủ các thông tin, ấn vào xác nhận để thêm tài khoản phụ vào hệ thống
+
+![Thêm tài khoản phụ](https://github.com/gobizvn/gobiz-docs/assets/121548042/86c3b79d-7b16-4509-a9a7-9ccd43896f4e)
+
+**Lưu ý**
+- Tài khoản phụ cần được liên kết với Alipay trước khi thêm vào danh sách quản lý của Tài khoản chính
+- User: chính là tên hiển thị nằm ở góc trên bên phải màn hình
+  
+  ![User](https://github.com/gobizvn/gobiz-docs/assets/121548042/fc979f5f-680a-4696-8120-91b9160c075d)
+
+
+- 
 
 ===========================================================
 
