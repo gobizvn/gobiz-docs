@@ -134,7 +134,7 @@
        * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
      * Quản lý đơn sau mua
        * [1. Khai báo hải quan](Taobao-Global/khai-bao-hai-quan.md)
-       * [2. Cập nhập thông tin đơn hàng](Taobao-Global/m5/quan-ly-don-sau-mua/cap-nhap-thong-tin-don-hang.md)
+       * [2. Cập nhập thông tin đơn hàng](Taobao-Global/Cap-nhap-don.md)
        * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
    * DÀNH CHO KHÁCH HÀNG CÁ NHÂN
