@@ -10,12 +10,23 @@
 
   ![Dán link sản phẩm](https://github.com/gobizvn/gobiz-docs/assets/135328227/5c5ef8cb-155b-4913-b695-2a111ef054c8)
 
-     Màn hình hiện lên kết quả tìm kiếm, click thêm vào giỏ hàng.
+     Màn hình hiện lên kết quả tìm kiếm, click thêm vào giỏ hàng. 
   
-  ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/4381610f-19e5-4d74-af60-6f10bb87c9f9)
-
+  ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/4381610f-19e5-4d74-af60-6f10bb87c9f9)
+  
+ Danh sách sản phẩm vừa thêm sẽ được hiển thị tại Trang chủ danh sách sản phẩm quan tâm và Trang giỏ hàng. 
     
- ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/4f663a15-3258-4c7d-9729-75bd6a3f25d5)
+ ![Danh sách sản phẩm quan tâm](https://github.com/gobizvn/gobiz-docs/assets/135328227/4f663a15-3258-4c7d-9729-75bd6a3f25d5)
+ 
+
+ ![Giỏ hàng](https://github.com/gobizvn/gobiz-docs/assets/135328227/fcdac642-c58e-4db4-9828-e8e72b304d09)
 
 
-## Bước 2: 
+## Bước 2: Tạo đơn hàng 
+
+- Vào giỏ hàng, chọn sản phẩm muốn đặt hàng, **click Tạo đơn**
+
+  ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/2c01d73f-e640-4386-a1da-23ab93abb8e7)
+
+
+
