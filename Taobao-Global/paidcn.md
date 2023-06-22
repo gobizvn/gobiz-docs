@@ -26,10 +26,17 @@
 
 - Vào giỏ hàng, chọn sản phẩm muốn đặt hàng, **click Đặt hàng**
 
-  ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/2c01d73f-e640-4386-a1da-23ab93abb8e7)
+  ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/2c01d73f-e640-4386-a1da-23ab93abb8e7)
 
 - Sau khi Click vào **Đặt hàng** hệ thống tự động chuyển qua giao diện tạo đơn hàng.
-  Lần đầu tạo đơn cần nhập địa chỉ, từ các đơn sau địa chỉ sẽ được lấy theo đơn gần nhất.
+  Lần đầu tạo đơn cần nhập địa chỉ, từ các đơn hàng sau địa chỉ sẽ được lấy theo đơn gần nhất.
+  Tại phần tạo đơn hàng sẽ hiển thị thuộc tính sản phẩm, giá sản phẩm, số lượng.
+  Nếu giá sản phẩm sai sẽ hiện cảnh báo như hình dưới.
+  
+  ![Tạo đơn hàng](https://github.com/gobizvn/gobiz-docs/assets/135328227/0984c716-38bb-4e17-b7a4-f81f3c2e5ba4)
+
+  - Sau khi check đúng thông tin, click **Tạo đơn**.
+
   
 
   
