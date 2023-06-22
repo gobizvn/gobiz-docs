@@ -2,7 +2,7 @@
 ## Mục đích:
 Đăng ký nhiều tài khoản Taobao Global chỉ cần dùng một pháp nhân và liên kết với 1 Alipay chủ. Tài khoản Chính có thể kiểm soát và quản lý các tài khoản Phụ dễ dàng, thuận tiện.
 ## Bước 1: Truy cập hệ thống Taobao Global
-- Quý khách vui lòng truy cập vào link: ([https://distributor-management.taobao.global](https://distributor-management.taobao.global)) và chọn **立即注册 (Đăng ký ngay)**
+- Quý khách vui lòng truy cập vào link: [https://distributor-management.taobao.global](https://distributor-management.taobao.global) và chọn **立即注册 (Đăng ký ngay)**
 - Hệ thống có 2 ngôn ngữ là tiếng Trung và tiếng Anh. Quý khách có thể click vào phần ngôn ngữ góc trên bên phải màn hình để chọn ngôn ngữ phù hợp.
 
 ![Chọn ngôn ngữ](https://github.com/gobizvn/gobiz-docs/assets/121548042/6159e738-2ad9-4a11-916a-07875882a3f1)
