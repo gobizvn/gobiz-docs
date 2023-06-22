@@ -36,6 +36,11 @@
   ![Tạo đơn hàng](https://github.com/gobizvn/gobiz-docs/assets/135328227/0984c716-38bb-4e17-b7a4-f81f3c2e5ba4)
 
   - Sau khi check đúng thông tin, click **Tạo đơn**.
+ 
+  - Đơn hàng tạo thành công sẽ hiển thị thông tin như hình dưới.
+
+    ![Giao diện đơn hàng](https://github.com/gobizvn/gobiz-docs/assets/135328227/c1153cb9-1a3d-42a7-b063-e4f9252141df)
+
 
   
 
