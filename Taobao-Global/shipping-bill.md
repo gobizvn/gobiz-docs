@@ -10,6 +10,7 @@ GDV truy cập vào hệ thống Mua hàng, chọn trang **Đơn hàng** trên M
 Những đơn hàng đã có mã vận đơn sẽ được tự động cập nhật và hiển thị như hình
 
 ![Mã vận đơn](https://github.com/gobizvn/gobiz-docs/assets/121548042/6b8ab89e-b12b-423e-8692-04c0f4230abe)
+
 Ngoài mã vận đơn, **Đơn hàng tạo từ TBDN** còn hiển thị các thông tin như: Mã đơn hàng, Mã hoá đơn gốc TBDN, Tiền đơn hàng, Phí nội địa, Đơn hàng âm, Trạng thái đơn... để Quý khách có thể kiểm tra dễ dàng hơn.
 
 ## Cách 2: Trên Menu **Quản lý đơn**
