@@ -24,9 +24,15 @@
 
 ## Bước 2: Tạo đơn hàng 
 
-- Vào giỏ hàng, chọn sản phẩm muốn đặt hàng, **click Tạo đơn**
+- Vào giỏ hàng, chọn sản phẩm muốn đặt hàng, **click Đặt hàng**
 
   ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/2c01d73f-e640-4386-a1da-23ab93abb8e7)
+
+- Sau khi Click vào **Đặt hàng** hệ thống tự động chuyển qua giao diện tạo đơn hàng.
+  Lần đầu tạo đơn cần nhập địa chỉ, từ các đơn sau địa chỉ sẽ được lấy theo đơn gần nhất.
+  
+
+  
 
 
 
