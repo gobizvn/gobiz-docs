@@ -142,7 +142,7 @@
        * [1. Tài khoản Taobao Global](Taobao-Global/create-accountcn.md)
        * [2. Tài khoản Taobao Gobiz](Taobao-Global/connect-account-gb.md)
      * B2: Kết nối tài khoản
-       * [Kết nối Taobao Global & Taobao Gobiz](Taobao-Global/connect-accountcn.md)
+       * [Kết nối Taobao Global & Taobao Gobiz](Taobao-Global/connect-account-gb.md)
      * B3: Tạo đơn và thanh toán
        * [1. Tạo đơn hàng](Taobao-Global/paidcn.md)
        * [2. Thanh toán đơn hàng](Taobao-Global/paycn.md)
