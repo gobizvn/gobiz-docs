@@ -138,9 +138,9 @@
        * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
    * Khách hàng Cá nhân
-     * B1: Đăng ký & Đăng nhập tài khoản
-       * [1. Tài khoản Taobao Global](Taobao-Global/create-accountcn.md)
-       * [2. Tài khoản Taobao Gobiz](Taobao-Global/connect-account-gb.md)
+     * B1: Đăng ký & Đăng nhập
+       * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
+       * [2. Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
        * [3. Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
      * B3: Kết đơn và thanh toán
        * [1. Tạo đơn hàng](Taobao-Global/paidcn.md)
