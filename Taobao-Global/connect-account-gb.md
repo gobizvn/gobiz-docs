@@ -14,12 +14,13 @@
 ![Trang chủ màn hình](https://github.com/gobizvn/gobiz-docs/assets/135328227/73eeb7aa-aa3b-4655-81c0-6c4c0683916c)
 
 ## Bước 3: Thêm tài khoản 
+Trong trường hợp Quý khách chưa kết nối tài khoản taobao.gobiz.vn với tài khoản Taobao Global, hệ thống sẽ hiển thị thông báo *Hiện bạn chưa có tài khoản Taobao Global nào được liên kết*. Khi đó, Quý khách vui lòng thao tác theo các bước dưới đây:
 
-- Click nút thêm tài khoản, điền tài khoản, chọn **Xác nhận**.
+- Nhấn nút **Thêm tài khoản**, điền gmail đã dùng đăng ký trên hệ thống Taobao Global và ấn chọn **Xác nhận** để liên kết.
 
 ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/a08edbe1-4a3d-40de-95a3-f53c1a697d7e)
 
-- Sau khi thêm tài khoản, danh sách tài khoản sẽ hiển thị tại giao diện thêm tài khoản.
+- Sau khi thêm tài khoản thành công, danh sách tài khoản sẽ hiển thị tại giao diện thêm tài khoản.
 
 ![](https://github.com/gobizvn/gobiz-docs/assets/135328227/e44f3d32-6c70-44b9-b1bf-fc284f0516dc)
 
