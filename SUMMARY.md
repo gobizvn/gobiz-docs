@@ -139,13 +139,14 @@
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
    * Khách hàng Cá nhân
      * B1: Đăng ký & Đăng nhập
-       * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
-       * [2. Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
-       * [3. Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
-     * B3: Kết đơn và thanh toán
+       * [Tài khoản Taobao Global](Taobao-Global/create-account.md)
+       * [Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
+       * [Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
+     * B2: Kết đơn và thanh toán
+       * [1. Cài công cụ đặt hàng](Taobao-Global/cai-cong-cu-dat-hang.md)
        * [1. Tạo đơn hàng](Taobao-Global/paidcn.md)
        * [2. Thanh toán đơn hàng](Taobao-Global/paycn.md)
-     * Quản lý đơn
+     * B3: Quản lý đơn
        * [1.Đồng bộ mã vận đơn](Taobao-Global/shipping-billcn.md)
        * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
 * [HỆ THỐNG KHO VẬN](m6/README.md)
@@ -291,6 +292,8 @@
   * [Go Logistics](q-and-a/go\_shopper-2.md)
   * [Go Complaints](q-and-a/go\_shopper-3.md)
   * [Go Sales](q-and-a/go\_shopper-4.md)
+  * Taobao Global
+    * [Tài khoản]
   * [Một số vấn đề khác](q-and-a/mot-so-van-de-khac)
      * [Khắc phục lỗi kết nối SSL](q-and-a/mot-so-van-de-khac/khac-phuc-loi-key-noi-lls.md)
      * [Fix lỗi trống giỏ hàng](q-and-a/mot-so-van-de-khac/fixcart.md)
