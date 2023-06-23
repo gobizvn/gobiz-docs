@@ -3,7 +3,8 @@
 
 - Quý khách vui lòng Đăng nhập vào tài khoản Taobao.Gobiz [Tại Đây](http://taobao.gobiz.vn/)
   
-[ Ảnh minh họa]
+![](https://github.com/gobizvn/gobiz-docs/assets/135328227/899bb0e2-9af8-45fe-b4f2-cc6591d672bb)
+
 
 ## Bước 2: Kết nối Taobao Global tại trang chủ. 
 
