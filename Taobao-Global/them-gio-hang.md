@@ -1,3 +1,6 @@
+## Mục Đích:
+Để thêm sản phẩm vào giỏ hàng hệ thống Taobao.gobiz.vn, Quý khách có thể thao tác theo 2 cách là: Thêm sản phẩm vào giỏ hàng qua công cụ và Thêm sản phẩm thủ công.
+
 ## Bước 1: Thêm sản phẩm vào giỏ hàng qua công cụ
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/415acfce-86f2-462a-a26e-ccb18701ba09)
