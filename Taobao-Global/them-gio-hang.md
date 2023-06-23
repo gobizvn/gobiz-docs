@@ -1,5 +1,9 @@
 ## Bước 1: Thêm sản phẩm vào giỏ hàng qua công cụ
 
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/415acfce-86f2-462a-a26e-ccb18701ba09)
+
+
+
 ## Bước 2: Thêm sản phẩm thủ công
 - Để thêm sản phẩm vào giỏ hàng hệ thống quý khách thực hiện như sau:
   1. Chọn sản phẩm trên Taobao, Copy link sản phẩm.
@@ -23,3 +27,12 @@
 
  ![Giỏ hàng](https://github.com/gobizvn/gobiz-docs/assets/135328227/fcdac642-c58e-4db4-9828-e8e72b304d09)
 
+===========================================================
+
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
