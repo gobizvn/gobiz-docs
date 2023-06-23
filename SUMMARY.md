@@ -142,11 +142,11 @@
        * [Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
        * [Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
-     * B2: Kết đơn và thanh toán
+     * B2: Quy trình mua hàng
        * [1. Cài công cụ đặt hàng](Taobao-Global/cai-cong-cu-dat-hang.md)
-       * [1. Tạo đơn hàng](Taobao-Global/paidcn.md)
-       * [2. Thanh toán đơn hàng](Taobao-Global/paycn.md)
-     * B3: Quản lý đơn
+       * [2. Thêm hàng vào giỏ](Taobao-Global/them-gio-hang.md)
+       * [3. Tạo đơn & Thanh toán](Taobao-Global/dat-don-thanh-toan.md)
+     * B3: Quản lý đơn sau mua
        * [1.Đồng bộ mã vận đơn](Taobao-Global/shipping-billcn.md)
        * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
 * [HỆ THỐNG KHO VẬN](m6/README.md)
