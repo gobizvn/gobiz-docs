@@ -147,7 +147,7 @@
        * [2. Thêm hàng vào giỏ](Taobao-Global/them-gio-hang.md)
        * [3. Tạo đơn & Thanh toán](Taobao-Global/dat-don-thanh-toan.md)
      * B3: Quản lý đơn sau mua
-       * [1.Đồng bộ mã vận đơn](Taobao-Global/shipping-billcn.md)
+       * [1. Kiểm tra lộ trình đơn](Taobao-Global/shipping-billcn.md)
        * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
 * [HỆ THỐNG KHO VẬN](m6/README.md)
   * [Vận hành chung](m6/van-hanh-chung/README.md)
