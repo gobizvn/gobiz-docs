@@ -2,10 +2,16 @@
 
 ## Cài công cụ đặt hàng thủ công
 
-### Bước 1: Download file zip công cụ đặt hàng [Tại Đây](https://drive.google.com/file/d/1uzoZB9JJCo1bQwT9djMMpeKo7qf-O7o3/view?usp=sharing)
+### Bước 1: Download file công cụ đặt hàng 
+- Quý khách vui lòng download file công cụ đặt hàng [Tại Đây](https://drive.google.com/file/d/1uzoZB9JJCo1bQwT9djMMpeKo7qf-O7o3/view?usp=sharing)
 
 ### Bước 2: Giải nén file
+**Quý khách thao tác theo các bước sau:**
+- Click chuột phải vào file vừa tải về máy tính
+- Chọn **Extract Files**, sau đó bấm **OK**
+![Giải nén file](https://github.com/gobizvn/gobiz-docs/assets/73226975/c000915d-58b3-4e13-ae5d-a0ae7052cd62)
 
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/b824e76c-1ed7-4902-8cf5-9af93ac1e0d5)
 ### Bước 3: Truy cập tiện ích mở rộng trên trình duyệt Chrome/Cốc Cốc 
 
 * Mở tiện ích mở rộng trên trình duyệt Chrome/Cốc Cốc : chrome://extensions/
