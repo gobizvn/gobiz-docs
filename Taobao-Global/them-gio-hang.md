@@ -2,7 +2,9 @@
 Để thêm sản phẩm vào giỏ hàng hệ thống Taobao.gobiz.vn, Quý khách có thể thao tác theo 2 cách là: Thêm sản phẩm vào giỏ hàng qua công cụ và Thêm sản phẩm thủ công.
 
 ## Bước 1: Thêm sản phẩm vào giỏ hàng qua công cụ
-
+- Sau khi cài và bật công cụ hỗ trợ mua hàng hệ thống Taobao.gobiz.vn, Quý khách vui lòng đăng nhập vào hệ thống Taobao [Link]([url](https://world.taobao.com/))
+- Quý khách tìm kiếm các sản phẩm Taobao và Tmall muốn mua rồi thêm vào giỏ hàng.
+- Tiếp đó, nhấn vào nút **Thêm tất cả vào giỏ Global** để các sản phẩm trong giỏ hàng Taobao được đồng bộ vào giỏ hàng của hệ thống Taobao.gobiz.vn
 ![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/415acfce-86f2-462a-a26e-ccb18701ba09)
 
 
