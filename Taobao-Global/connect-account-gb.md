@@ -8,7 +8,7 @@
 
 ## Bước 2: Kết nối Taobao Global tại trang chủ. 
 
-- Tại trang chủ, góc phải màn hình click biểu tượng <img width="30" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/135328227/05eae240-bffc-47ce-a046-d2fd3556537b"> để kết nối.
+- Tại trang chủ, góc phải màn hình click biểu tượng <img width="20" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/135328227/05eae240-bffc-47ce-a046-d2fd3556537b"> để kết nối.
 
 
 ![Trang chủ màn hình](https://github.com/gobizvn/gobiz-docs/assets/135328227/73eeb7aa-aa3b-4655-81c0-6c4c0683916c)
