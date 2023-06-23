@@ -139,7 +139,7 @@
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
    * Khách hàng Cá nhân
      * B1: Đăng ký & Đăng nhập
-       * [Tài khoản Taobao Global](Taobao-Global/create-account.md)
+       * [Tạo tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
        * [Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
      * B2: Quy trình mua hàng
