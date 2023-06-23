@@ -9,6 +9,7 @@
 **Quý khách thao tác theo các bước sau:**
 - Click chuột phải vào file vừa tải về máy tính
 - Chọn **Extract Files**, sau đó bấm **OK**
+
 ![Giải nén file](https://github.com/gobizvn/gobiz-docs/assets/73226975/c000915d-58b3-4e13-ae5d-a0ae7052cd62)
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/b824e76c-1ed7-4902-8cf5-9af93ac1e0d5)
