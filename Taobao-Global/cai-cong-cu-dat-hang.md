@@ -33,5 +33,5 @@
 
 * Cài đặt thành công công cụ sẽ hiển thị như hình:
 
-![C&#xE0;i &#x111;&#x1EB7;t th&#xE0;nh c&#xF4;ng CC&#x110;H](https://user-images.githubusercontent.com/73226975/100176438-dbdbfe80-2f02-11eb-862f-50362fcf78c6.png)
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/7f856b4a-bd23-4de5-bf8e-75dcd533769c)
 
