@@ -22,8 +22,11 @@ Sau khi tiến hành thanh toán đơn hàng trên Taobao Global, Quý khách c�
 ![Check lộ trình đơn](https://github.com/gobizvn/gobiz-docs/assets/121548042/d291787d-af69-4aeb-9e63-e452d815e086)
 
 ===========================================================
-✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
-📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
-📞 Hotline: 0388.432.436
-🌐 Website: https://gobiz.vn/
 
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
