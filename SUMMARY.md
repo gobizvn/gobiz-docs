@@ -121,6 +121,7 @@
     * [7. Báo cáo doanh số mới](m5/kiem-soat-mua-hang/bao-cao-doanh-so-moi.md)
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [DỊCH VỤ TAOBAO GLOBAL](Supper-Taobao/Readme.md)
+   * [Tổng quan các bước dành cho KH](Taobao-Global/road-map.md)
    * Khách hàng Doanh Nghiệp 
      * Tạo tài khoản
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
