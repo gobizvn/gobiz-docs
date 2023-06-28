@@ -10,13 +10,14 @@
 ### 1. Truy cập Cấu hình chung
 - Từ menu **Cấu hình** Quý khách chọn **Cấu hình chung**
 
-![Cấu hình chung](https://github.com/gobizvn/gobiz-docs/assets/73226975/8cbdb6f0-b4d1-4a3f-8fab-f9cf4398c54e)
+![Cấu hình chung](https://github.com/gobizvn/gobiz-docs/assets/135328227/9395fe3e-ed72-4f88-ac18-67856e04c9ce)
 
 ### 2. Chọn kết nối Taobao Global 
 
 - Hệ thống sẽ chuyển hướng sang trang [API](https://api.taobao.global/oauth/authorize?response_type=code&force_auth=true&redirect_uri=https://purchase.jieyun.asia/admin/v1/taobao-auth-callback&client_id=500822&state=2574_old) mới 
 
 ![Kết nối Tài khoản TB Global](https://github.com/gobizvn/gobiz-docs/assets/73226975/2b2a29b5-3fb1-453c-ab6c-cb3b8b0a7a6b)
+
 
 ### 3. Quý khách đăng nhập tài khoản và xác nhận kết nối
 
