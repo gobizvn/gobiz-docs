@@ -16,7 +16,7 @@
 
 - Hệ thống sẽ chuyển hướng sang trang [API](https://api.taobao.global/oauth/authorize?response_type=code&force_auth=true&redirect_uri=https://purchase.jieyun.asia/admin/v1/taobao-auth-callback&client_id=500822&state=2574_old) mới 
 
-![Kết nối Tài khoản TB Global](https://github.com/gobizvn/gobiz-docs/assets/73226975/2b2a29b5-3fb1-453c-ab6c-cb3b8b0a7a6b)
+![Kết nối Tài khoản TB Global](https://github.com/gobizvn/gobiz-docs/assets/135328227/a35ccf4f-12ae-4871-b2b7-b6cb3252fc80)
 
 
 ### 3. Quý khách đăng nhập tài khoản và xác nhận kết nối
