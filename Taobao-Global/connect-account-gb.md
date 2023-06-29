@@ -28,7 +28,9 @@ Trong trường hợp Quý khách chưa kết nối tài khoản taobao.gobiz.vn
 ## Bước 4: Chọn tài khoản Taobao Global mặc định
 Với những khách hàng kết nối từ 2 tài khoản Taobao Global trên taobao.gobiz.vn, Quý khách có thể tuỳ chọn tài khoản muốn sử dụng 
 (Tài khoản mặc định sẽ được đánh dấu bằng dấu tích xanh)
+
 ![Kết nối tài khoản](https://github.com/gobizvn/gobiz-docs/assets/121548042/d5f9adcf-e44c-4b16-9731-b642549cf373)
+
 
 
 
