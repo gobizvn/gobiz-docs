@@ -12,7 +12,7 @@ Khi màn hình hiện thị như ảnh, Quý khách điền đầy đủ các th
 
 Sau khi điền đầy đủ các thông tin, Quý khách ấn vào **Register** (Xác nhận đăng ký) để lập tài khoản.
 ## Bước 2: Xác nhận tài khoản
-Đăng ký tài khoản authen.me thành công, Quý khách vui lòng đăng nhập tài khoản và nhấn vào phần *Hãy xác thực e-mail của bạn để sử dụng đầy đủ các chức năng* **Xác thực tại đây** 
+Đăng ký tài khoản authen.me thành công, Quý khách vui lòng đăng nhập tài khoản và nhấn vào phần *Hãy xác thực e-mail của bạn để sử dụng đầy đủ các chức năng* **Xác thực tại đây**
 
 ![&#x110;&#x103;ng nh&#x1EAD;p](https://user-images.githubusercontent.com/73226975/123077242-116aab00-d444-11eb-94e6-0dde85d0fa18.png)
 Tiếp đó, đăng nhập vào email đã đăng ký
