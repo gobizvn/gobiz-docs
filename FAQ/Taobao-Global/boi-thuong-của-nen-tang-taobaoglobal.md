@@ -10,3 +10,13 @@ Nếu khi gặp phải tổn thất về tiền do trách nhiệm của Nền t�
 -	Bước 2: Tiếp tục click vào Download để tải dữ liệu giao dịch về.
 
 ![20230630000832](https://github.com/gobizvn/gobiz-docs/assets/137056249/cae2f161-592b-4dbe-a37c-fae5432294df)
+
+===========================================================
+
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
