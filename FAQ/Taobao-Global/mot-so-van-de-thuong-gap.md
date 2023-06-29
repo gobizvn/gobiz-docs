@@ -25,4 +25,14 @@
 
 ![20230626222439](https://github.com/gobizvn/gobiz-docs/assets/137056249/93c86322-93cb-421a-9af3-2e4be69660b1)
 
+===========================================================
+
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
+
 
