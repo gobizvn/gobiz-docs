@@ -4,7 +4,7 @@ Hệ thống sẽ tự động đồng bộ mã vận đơn từ site gốc và 
 Hệ thống mua hàng sẽ tự động cập nhật **Mã vận đơn** ngay khi người bán điền thông tin này trên **Taobao Global**.
 Quý khách có thể kiểm tra Mã vận đơn bằng 2 cách dưới đây:
 
-## Cách 1: Trên Menu **Đơn hàng tạo từ TBDG**
+## Cách 1: Trên Menu **Đơn hàng tạo từ TBG**
 
 GDV truy cập vào hệ thống Mua hàng, chọn trang **Đơn hàng** trên Menu bên trái và chọn **Đơn hàng tạo từ TBG**
 Những đơn hàng đã có mã vận đơn sẽ được tự động cập nhật và hiển thị như hình
