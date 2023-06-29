@@ -7,6 +7,6 @@ Nếu khi gặp phải tổn thất về tiền do trách nhiệm của Nền t�
 
 ![20230630000817](https://github.com/gobizvn/gobiz-docs/assets/137056249/a7907866-cecb-4fce-a791-430a3f2c6e79)
 
--	Bước 2: tiếp tục click vào Download để tải dữ liệu giao dịch về.
+-	Bước 2: Tiếp tục click vào Download để tải dữ liệu giao dịch về.
 
 ![20230630000832](https://github.com/gobizvn/gobiz-docs/assets/137056249/cae2f161-592b-4dbe-a37c-fae5432294df)
