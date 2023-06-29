@@ -1,10 +1,18 @@
-Quý khách đăng ký tài khoản tại link: [https://app.authen.me/register](https://app.authen.me/register)
+## Bước 1: Đăng ký tài khoản
+Để đăng ký tài khoản Taobao Gobiz, Quý khách vui lòng truy cập link: [https://app.authen.me/register](https://app.authen.me/register)
 
-Điền đầy đủ thông tin sau đó chọn **Đăng ký**
+Khi màn hình hiện thị như ảnh, Quý khách điền đầy đủ các thông tin dưới đây:
+- Username: Tên user khách muốn đặt
+- Email: Địa chỉ email để đăng nhập
+- Fullname: Họ tên đầy đủ
+- Password: Mật khẩu đăng nhập tài khoản
+- Confirm password: Xác nhận lại mật khẩu đăng nhập tài khoản
 
 ![&#x110;&#x103;ng k&#xFD; t&#xE0;i kho&#x1EA3;n](https://user-images.githubusercontent.com/73226975/123076709-973a2680-d443-11eb-8930-1376be344c7d.png)
 
-Đăng ký thành công, Quý khách vui lòng đăng nhập tài khoản và tiến hành xác minh qua email.
+Sau khi điền đầy đủ các thông tin, Quý khách ấn vào **Register** (Xác nhận đăng ký) để lập tài khoản.
+## Bước 2: Xác nhận tài khoản
+Đăng ký tài khoản authen.me thành công, Quý khách vui lòng đăng nhập tài khoản và tiến hành xác minh qua email.
 
 ![&#x110;&#x103;ng nh&#x1EAD;p](https://user-images.githubusercontent.com/73226975/123077242-116aab00-d444-11eb-94e6-0dde85d0fa18.png)
 
@@ -12,4 +20,4 @@ Quý khách đăng ký tài khoản tại link: [https://app.authen.me/register]
 
 ![image](https://user-images.githubusercontent.com/73226975/123077960-b6858380-d444-11eb-9cb0-b1cbeba70214.png)
 
-Sau khi xác minh thành công, Quý khách đăng nhập lại vào hệ thống để trải nghiệm sảm phẩm.
+Sau khi hoàn thành bước xác nhận tài khoản, Quý khách đăng nhập lại vào hệ thống để trải nghiệm sảm phẩm.
