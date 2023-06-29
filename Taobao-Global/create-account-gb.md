@@ -19,9 +19,7 @@ Sau khi điền đầy đủ các thông tin, Quý khách ấn vào **Register**
 ![image](https://user-images.githubusercontent.com/73226975/123077786-905fe380-d444-11eb-8d70-d62f9a993f31.png)
 
 Tiếp đó, đăng nhập vào email đã đăng ký và thao tác 1 trong 2 cách sau:
-
 *Cách 1*: Nhấn vào **Verify** trong mai để xác nhận.
-
 *Cách 2*: Copy link gắn kèm trong mai và paste vào tab mới để đăng nhập tài khoản đã được xác nhận
 
 ![image](https://user-images.githubusercontent.com/73226975/123077960-b6858380-d444-11eb-9cb0-b1cbeba70214.png)
