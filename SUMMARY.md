@@ -296,7 +296,7 @@
   * Taobao Global
     * [Tài khoản]
   * [Một số vấn đề khác](q-and-a/mot-so-van-de-khac)
-     * [Khắc phục lỗi kết nối SSL](q-and-a/mot-so-van-de-khac/khac-phuc-loi-key-noi-lls.md)
+     * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/khac-phuc-loi-key-noi-lls.md)
      * [Fix lỗi trống giỏ hàng](q-and-a/mot-so-van-de-khac/fixcart.md)
 
 
