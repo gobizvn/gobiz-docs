@@ -297,7 +297,7 @@
     * [Tài khoản]
   * [Một số vấn đề khác](q-and-a/mot-so-van-de-khac)
      * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/khac-phuc-loi-key-noi-lls.md)
-     * [Fix lỗi trống giỏ hàng](q-and-a/mot-so-van-de-khac/fixcart.md)
+     * [Fix lỗi trống giỏ hàng](FAQ/mot-so-van-de-khac/fixcart.md)
 
 
 [def]: m5/cau-hinh/diachikhonhan.md
