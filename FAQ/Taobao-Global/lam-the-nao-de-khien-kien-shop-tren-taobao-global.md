@@ -11,13 +11,15 @@ Khi Người mua không thể đạt được thoả thuận với Nhà cung c�
 
 -	Vấn đề chất lượng sản phẩm: Cung cấp hình ảnh hoặc video có thể nhìn thấy bằng mắt thường về vị trí bị lỗi.
 -	Lộ trình gián đoạn, phát sai địa chỉ, vv…: Cung cấp ảnh cắt màn hình thông tin hành trình vận chuyển.
--	Khiếu nại bồi thường phí vận chuyển trả hàng: Cung cấp thông tin đơn hàng trả hàng do trách nhiệm của Nhà cung cấp
+-	Khiếu nại bồi thường phí vận chuyển trả hàng: Cung cấp thông tin đơn hàng trả hàng do trách nhiệm của Nhà cung cấp.
 
+**Lưu ý**: Vào thời điểm hiện tại Taobao Global không hỗ trợ hình thức hoàn bảo hiểm phí vận chuyển 运费险 do Nhà cung cấp mua, nên trong trường hợp không đạt được hoàn tiền phí vận chuyển trả hàng có thể khiếu kiện và sẽ do Taobao Global phán xét việc bồi thường cước phí.
+  
 ![image](https://github.com/gobizvn/gobiz-docs/assets/137056249/a0785d6b-2303-48e1-aaf4-15875cc2bf0d)
 
 **Bước 3**: Click 提交 Submit
 
-**Lưu ý**:
+## Thời hạn xử lý khiếu nại
 - Thời gian xử lý khiếu nại: Sau khi tạo yêu cầu khiếu kiện Nhà bán, thông thường Taobao Global sẽ xử lý trong vòng 2-3 ngày làm việc, trong trường hợp cần bổ sung thêm bằng chứng thời gian sẽ kéo dài thêm, nếu vượt quá 1 tuần chưa được xử lý đơn khiếu kiện thì vui lòng liên hệ admin để xử lý.
 - Thời gian bổ sung bằng chứng: Khi nhận được yêu cầu bổ sung bằng chứng khiếu kiện, vui lòng đưa lên trong vòng hai ngày, vượt quá thời gian thì đơn khiếu kiện sẽ bị huỷ bỏ.
 ## Kết quả khiếu kiện sẽ hiển thị như thế nào?
