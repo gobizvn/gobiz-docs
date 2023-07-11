@@ -24,7 +24,7 @@ Tham khảo tại link HDSH: https://hd.gobiz.vn/dich-vu-taobao-global/khach-han
 - Cài đặt công cụ đặt hàng (Sử dụng máy tính, chưa hỗ trợ trên giao diện điện thoại)
 Quý khách tìm kiếm tool công cụ trên Google (tên tool tìm kiếm trên Google store https://chrome.google.com/webstore/category/extensions?hl=vi) Quý khách add tool trên thanh extension
 
-### Đặt đơn
+## Bước 2: Đặt đơn
 - Quý khách truy cập vào giỏ hàng và tiến hành đặt đơn, thêm địa chỉnhận hàng Trung Quốc trên hệ thống Taobao.gobiz.vn. Ngay khi tạo đơn thành công trên Taobao.gobiz.vn, đơn hàng sẽ được đặt đồng thời trên hệ thống Taobao Global.
 
 ## III. Thanh toán và quản lý đơn hàng
