@@ -4,13 +4,13 @@ Gobiz gửi đến Quý khách hướng dẫn quy trình đặt hàng cùng nh�
 ## I. Tạo và Liên kết tài khoản
 ## Bước 1: Tạo tài khoản
 ### Tạo tài khoản Taobao Global
-Tham khảo tại link HDSH: https://hd.gobiz.vn/dich-vu-taobao-global/khach-hang-doanh-nghiep/tao-tai-khoan/create-account
+Tham khảo tại link Hướng dẫn sử dụng: [https://hd.gobiz.vn/dich-vu-taobao-global/khach-hang-doanh-nghiep/tao-tai-khoan/create-account](https://hd.gobiz.vn/dich-vu-taobao-global/khach-hang-doanh-nghiep/tao-tai-khoan/create-account)
 
 ### Tạo tài khoản trên Taobao.gobiz.vn
-Tham khảo tại link HDSH: https://hd.gobiz.vn/dich-vu-taobao-global/khach-hang-ca-nhan/b1-tao-tai-khoan/connect-account-gb
+Tham khảo tại link HDSH: [https://hd.gobiz.vn/dich-vu-taobao-global/khach-hang-ca-nhan/b1-tao-tai-khoan/connect-account-gb](https://hd.gobiz.vn/dich-vu-taobao-global/khach-hang-ca-nhan/b1-tao-tai-khoan/connect-account-gb)
 
 ## Bước 2: Liên kết tài khoản Taobao Gobiz & tài khoản Taobao Global
-- Đăng nhập hệ thống Taobao.gobiz.vn
+- Đăng nhập hệ thống [Taobao.gobiz.vn](Taobao.gobiz.vn)
 - Kết nối và thêm tài khoản Taobao Global
 
 ## II. Đặt đơn trên hệ thống Taobao.gobiz.vn
@@ -18,14 +18,14 @@ Tham khảo tại link HDSH: https://hd.gobiz.vn/dich-vu-taobao-global/khach-han
 ## Bước 1: Thêm hàng vào giỏ Taobao Gobiz
 
 ### Dán link sản phẩm
-- Truy cập trang chủ Taobao.gobiz.vn, dán link sản phẩm Taobao, Tmall muốn mua và click vào biểu tượng **Tìm kiếm** (hình kính lúp) hoặc ấn **Enter**
+- Truy cập trang chủ [Taobao.gobiz.vn](Taobao.gobiz.vn), dán link sản phẩm Taobao, Tmall muốn mua và click vào biểu tượng **Tìm kiếm** (hình kính lúp) hoặc ấn **Enter**
 
 ### Thêm sản phẩm vào giỏ qua công cụ
 - Cài đặt công cụ đặt hàng (Sử dụng máy tính, chưa hỗ trợ trên giao diện điện thoại)
-Quý khách tìm kiếm tool công cụ trên Google (tên tool tìm kiếm trên Google store https://chrome.google.com/webstore/category/extensions?hl=vi) Quý khách add tool trên thanh extension
+Quý khách tìm kiếm tool công cụ trên Google (tên tool tìm kiếm trên Google store [https://chrome.google.com/webstore/category/extensions?hl=vi](https://chrome.google.com/webstore/category/extensions?hl=vi)) Quý khách add tool trên thanh extension
 
 ## Bước 2: Đặt đơn
-- Quý khách truy cập vào giỏ hàng và tiến hành đặt đơn, thêm địa chỉnhận hàng Trung Quốc trên hệ thống Taobao.gobiz.vn. Ngay khi tạo đơn thành công trên Taobao.gobiz.vn, đơn hàng sẽ được đặt đồng thời trên hệ thống Taobao Global.
+- Quý khách truy cập vào giỏ hàng và tiến hành đặt đơn, thêm địa chỉ nhận hàng Trung Quốc trên hệ thống [Taobao.gobiz.vn](Taobao.gobiz.vn). Ngay khi tạo đơn thành công trên [Taobao.gobiz.vn](Taobao.gobiz.vn), đơn hàng sẽ được đặt đồng thời trên hệ thống Taobao Global.
 
 ## III. Thanh toán và quản lý đơn hàng
 
