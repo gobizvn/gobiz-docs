@@ -9,6 +9,7 @@
 Sau đó giao diện lập tức chuyển qua màn hình lấy lại mật khẩu. 
 
 **Bước 2:** Quý khách vui lòng nhập Email để lấy lại mật khẩu.
+
 **Lưu ý:** Email cần nhập chính xác là Email đã đăng ký tài khoản trước đó. 
 Sau khi nhập Email xong, quý khách click vào ô “lấy lại mật khẩu” 
 
