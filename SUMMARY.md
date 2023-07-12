@@ -289,6 +289,7 @@
          * [HD tạo Yêu cầu giao hàng từ admin](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/yeu-cau-giao-hang-tu-admin.md)
 * [Q&A - CÂU HỎI THƯỜNG GẶP](q-and-a/README.md)
   * [Go Shopper](q-and-a/go\_shopper.md)
+     * [Lấy lại mật khẩu tài khoản khách hàng khi quên](FAQ/go_shopper/lay-lai-mat-khau-htkh.md)
   * [Go Purchasing](q-and-a/go\_shopper-1.md)
   * [Go Logistics](q-and-a/go\_shopper-2.md)
   * [Go Complaints](q-and-a/go\_shopper-3.md)
