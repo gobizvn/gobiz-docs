@@ -38,5 +38,9 @@ Hoàn tất quá trình lấy lại mật khẩu. Quý khách tiến hành đăn
 - Sau đó liên hệ admin hệ thống để được hỗ trợ cấp link khôi phục và cài đặt mật khẩu mới.
   
 
-
+===========================================================
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+📞 Hotline: 0388.432.436
+🌐 Website: https://gobiz.vn/
 
