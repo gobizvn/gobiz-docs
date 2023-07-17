@@ -1,23 +1,18 @@
-# Hai cách lấy lại mật khẩu hệ thống khách hàng khi quên. 
+#  Hướng dẫn lấy lại mật khẩu đăng nhập tài khoản khách hàng
 
-## Cách 1: Lấy lại mật khẩu qua Email 
+## 1. Đối với các tài khoản đã xác minh qua Email
 
-**Bước 1:** Quý khách truy cập vào hệ thống, tại màn hình đăng nhập click quên mật khẩu
+### Bước 1: Tại giao diện đăng nhập Quý khách chọn Quên mật khẩu
+Trong trường hợp Quý khách quên mật khẩu đăng nhập của mình. Tại giao diện đăng nhập Quý khách chọn **Quên mật khẩu**
 
 ![Click quên mật khẩu](https://github.com/gobizvn/gobiz-docs/assets/135328227/df473b07-9f22-4261-b0ac-4bb004c11a6d)
 
-Sau đó giao diện lập tức chuyển qua màn hình lấy lại mật khẩu. 
-
-**Bước 2:** Quý khách vui lòng nhập Email để lấy lại mật khẩu.
-
+### Bước 2: Quý khách vui lòng nhập Email để lấy lại mật khẩu.
+- Quý khách điền email đã đăng ký và click vào **Lấy lại mật khẩu**
+- Hệ thống sẽ gửi về email đăng ký của bạn đường dẫn như hình dưới đây, vui lòng truy cập đường dẫn để thay đổi mật khẩu
 **Lưu ý:** Email cần nhập chính xác là Email đã đăng ký tài khoản trước đó. 
 
-Nếu quên mail đã đăng ký có thể liên hệ admin để xác nhận.
-
-Sau khi nhập Email xong, quý khách click vào ô “lấy lại mật khẩu” 
-
 ![Lấy lại mật khẩu](https://github.com/gobizvn/gobiz-docs/assets/135328227/6366ca31-c14b-43bd-8543-d4c0be1cd78f)
-
 
 Sau khi click vào ô “lấy lại mật khẩu” màn hình sẽ hiển thị thông báo thành công và hướng dẫn như hình dưới. 
 
@@ -71,20 +66,6 @@ Sau khi click vào ô “lấy lại mật khẩu” màn hình sẽ hiển th�
 **Bước 4:** Khi nhận được link từ admin, Quý khách Click vào link, nhập mật khẩu mới, ấn “xác nhận”, màn hình sẽ báo thành công. 
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/93279291-08b3-4111-977f-7cd3b80b023c)
-
-
-**Dành cho admin:**
-
-Admin lấy link lấy lại mật khẩu tại: Danh sách khách hàng của hệ thống admin.
-
-1. Admin truy cập Vào danh sách khách hàng, Tìm theo: Mã khách hàng, tên, số điện thoại, mail
-   
-![Tìm khách hàng](https://github.com/gobizvn/gobiz-docs/assets/135328227/b1f0d7d6-13aa-4184-864c-7fba7347c242)
- 
-2. Admin Vào chi tiết khách hàng sẽ hiển thị “Lấy Link Reset Mật Khẩu”. 
-
-![Link Reset Mật Khẩu](https://github.com/gobizvn/gobiz-docs/assets/135328227/c82f6a6f-7049-4790-b202-af095a42c207)
-
 
 
 
