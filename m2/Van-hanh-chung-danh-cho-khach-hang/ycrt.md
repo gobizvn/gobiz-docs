@@ -38,3 +38,13 @@ Thời gian xử lý có thể khác nhau tùy thuộc vào hệ thống hoặc 
 Trong thời gian chờ xử lý, hãy kiểm tra email hoặc thông báo từ hệ thống để cập nhật tình trạng yêu cầu rút tiền của Quý khách.
 
 *Lưu ý: Để đảm bảo an toàn tài khoản và thông tin cá nhân, hãy chắc chắn rằng Quý khách sử dụng tính năng Yêu cầu rút tiền trên các hệ thống đáng tin cậy và chưa bao giờ cung cấp thông tin tài khoản cho bất kỳ ai nếu không chắc chắn về tính xác thực của họ.*
+
+===========================================================
+
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
