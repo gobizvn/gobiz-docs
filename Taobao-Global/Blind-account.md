@@ -49,9 +49,6 @@
 ![User](https://github.com/gobizvn/gobiz-docs/assets/121548042/fc979f5f-680a-4696-8120-91b9160c075d)
   
   
-
-
-
 ===========================================================
 
 ✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
