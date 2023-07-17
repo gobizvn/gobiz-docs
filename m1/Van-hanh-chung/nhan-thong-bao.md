@@ -33,8 +33,6 @@ Sau khi chọn loại thông báo, Quý khách tick chọn các kênh nhận th�
 
 ## Bước 5: Lưu cài đặt và kiểm tra
 Cuối cùng, hãy lưu cài đặt thông báo của Quý khách. Quý khách nên kiểm tra lại cài đặt đã chọn để đảm bảo rằng bạn sẽ nhận được thông báo như mong muốn. 
-
-![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/28c8c4a2-58bc-4162-bd15-d79ddbee0aba)
  
 ![image](https://user-images.githubusercontent.com/121548042/213069007-d57af6a7-5daf-4c44-adf8-40e23a6a6bbb.png)
 
