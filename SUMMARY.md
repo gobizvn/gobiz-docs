@@ -287,10 +287,10 @@
          * [Kiểm tra Chi tiết đơn hàng](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/kiem-tra-chi-tiet-don-hang.md)
          * [Kiểm tra Danh sách kiện hàng](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/kiem-tra-ds-kien-hang.md)
          * [HD tạo Yêu cầu giao hàng từ admin](Goi-van-chuyen/HDSD-cho-don-vi-CCDV/yeu-cau-giao-hang-tu-admin.md)
-* [Q&A - CÂU HỎI THƯỜNG GẶP](q-and-a/README.md)
-  * [Go Shopper](q-and-a/go\_shopper.md)
-     * [Hai cách lấy lại mật khẩu hệ thống khách hàng khi quên](FAQ/go_shopper/lay-lai-mat-khau-htkh.md)
-  * [Go Purchasing](q-and-a/go\_shopper-1.md)
+* FAQ - CÂU HỎI THƯỜNG GẶP
+  * Go Shopper
+     * [Cách lấy lại mật khẩu đăng nhập hệ thống khách hàng](FAQ/go_shopper/lay-lai-mat-khau-htkh.md)
+  * [Go Purchasing](q-and-a/go_shopper-1.md)
   * [Go Logistics](q-and-a/go\_shopper-2.md)
   * [Go Complaints](q-and-a/go\_shopper-3.md)
   * [Go Sales](q-and-a/go\_shopper-4.md)
