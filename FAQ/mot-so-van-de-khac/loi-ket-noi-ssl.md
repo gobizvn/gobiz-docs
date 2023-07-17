@@ -155,5 +155,14 @@ Các dạng lỗi kết nối SSL trên chỉ là một số lỗi trong rất n
 
 ![Cấp quyền truy cập](https://user-images.githubusercontent.com/73226975/137861630-f0f2a5e9-4816-4e86-9933-118b788c7d54.png)
 
-
 * Sau đó **khởi động lại** trình duyệt hoặc máy tính và truy cập lại nhé.
+
+  ===========================================================
+
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
