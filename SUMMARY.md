@@ -13,6 +13,7 @@
       * [1. Quản lý tài chính](m2/Van-hanh-chung-danh-cho-khach-hang/Quan-ly-tai-chinh.md)
       * [2. Thông tin cá nhân](m2/Van-hanh-chung-danh-cho-khach-hang/Thong-tin-ca-nhan.md)
       * [3. Cài đặt chung](m2/Van-hanh-chung-danh-cho-khach-hang/Cai-dat-chung.md)
+      * [4. Yêu cầu rút tiền](m2/Van-hanh-chung-danh-cho-khach-hang/ycrt.md)
     * [Khách hàng Order](m2/customers-order-khach-hang-order/README.md)
        * [1. Cài đặt công cụ đặt hàng](m2/Khach-hang-order/cai-dat-cong-cu-dat-hang.md)
         * [2. Đăng ký và Đăng nhập tài khoản](m2/Khach-hang-order/dang-ky-dang-nhap-tai-khoan.md)
