@@ -8,9 +8,9 @@ Quý khách đăng nhập vào tài khoản của mình trên hệ thống hoặ
 ## Bước 2: Truy cập menu Yêu cầu rút tiền
 Sau khi đăng nhập thành công, Quý khách truy cập vào menu Yêu cầu rút tiền.
 
-<img width="325" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/73226975/6ada52cb-3c2f-4716-b155-c33f2a5be63f">
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/6ada52cb-3c2f-4716-b155-c33f2a5be63f.png)
 
-<img width="675" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/73226975/ed810e48-ee1a-4733-bbb3-fe6f3d1981ca">
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/ed810e48-ee1a-4733-bbb3-fe6f3d1981ca.png)
 
 ## Bước 3: Nhập thông tin yêu cầu rút tiền
 Quý khách nhập thông tin liên quan đến yêu cầu rút tiền bao gồm:
@@ -23,10 +23,11 @@ Quý khách nhập thông tin liên quan đến yêu cầu rút tiền bao gồm
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/77e4b81b-91e5-43b6-a824-3c5bf997bc97.png)
 
-
 ## Bước 4: Xác nhận yêu cầu rút tiền
 Sau khi nhập đầy đủ thông tin yêu cầu rút tiền, Quý khách kiểm tra lại một lần nữa để đảm bảo rằng tất cả thông tin là chính xác. 
 Sau đó, Quý khách nhấn vào nút **Xác nhận** để hoàn tất quy trình yêu cầu rút tiền.
+
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/2ed254b2-3f05-432e-911a-ec3456b1803b.png)
 
 ## Bước 5: Chờ xử lý yêu cầu
 Sau khi xác nhận yêu cầu rút tiền, Yêu cầu rút tiền của Quý khách sẽ hiển thị trong Danh sách yêu cầu và chờ xử lý.
