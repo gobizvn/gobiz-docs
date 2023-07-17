@@ -8,9 +8,9 @@ Quý khách đăng nhập vào tài khoản của mình trên hệ thống hoặ
 ## Bước 2: Truy cập menu Yêu cầu rút tiền
 Sau khi đăng nhập thành công, Quý khách truy cập vào menu Yêu cầu rút tiền.
 
-![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/6ada52cb-3c2f-4716-b155-c33f2a5be63f.png)
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/6ada52cb-3c2f-4716-b155-c33f2a5be63f)
 
-![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/ed810e48-ee1a-4733-bbb3-fe6f3d1981ca.png)
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/ed810e48-ee1a-4733-bbb3-fe6f3d1981ca)
 
 ## Bước 3: Nhập thông tin yêu cầu rút tiền
 Quý khách nhập thông tin liên quan đến yêu cầu rút tiền bao gồm:
