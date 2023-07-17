@@ -31,7 +31,10 @@ Sau đó, Quý khách nhấn vào nút **Xác nhận** để hoàn tất quy tr�
 ![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/2ed254b2-3f05-432e-911a-ec3456b1803b)
 
 ## Bước 5: Chờ xử lý yêu cầu
-Sau khi xác nhận yêu cầu rút tiền, Yêu cầu rút tiền của Quý khách sẽ hiển thị trong Danh sách yêu cầu và chờ xử lý.
-Thời gian xử lý có thể khác nhau tùy thuộc vào hệ thống hoặc ứng dụng Quý khách sử dụng và phương thức rút tiền Quý khách đã chọn. Trong thời gian chờ xử lý, hãy kiểm tra email hoặc thông báo từ hệ thống để cập nhật tình trạng yêu cầu rút tiền của Quý khách.
+Sau khi xác nhận, Yêu cầu rút tiền của Quý khách sẽ hiển thị trong Danh sách yêu cầu và chờ xử lý.
+
+Thời gian xử lý có thể khác nhau tùy thuộc vào hệ thống hoặc ứng dụng Quý khách sử dụng và phương thức rút tiền Quý khách đã chọn.
+
+Trong thời gian chờ xử lý, hãy kiểm tra email hoặc thông báo từ hệ thống để cập nhật tình trạng yêu cầu rút tiền của Quý khách.
 
 *Lưu ý: Để đảm bảo an toàn tài khoản và thông tin cá nhân, hãy chắc chắn rằng Quý khách sử dụng tính năng Yêu cầu rút tiền trên các hệ thống đáng tin cậy và chưa bao giờ cung cấp thông tin tài khoản cho bất kỳ ai nếu không chắc chắn về tính xác thực của họ.*
