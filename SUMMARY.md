@@ -295,10 +295,9 @@
   * [Go Complaints](q-and-a/go\_shopper-3.md)
   * [Go Sales](q-and-a/go\_shopper-4.md)
   * Taobao Global
-    * [Tài khoản]
-  * [Một số vấn đề khác](q-and-a/mot-so-van-de-khac)
-     * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/khac-phuc-loi-key-noi-lls.md)
-     * [Fix lỗi trống giỏ hàng](FAQ/mot-so-van-de-khac/fixcart.md)
-
+    * [Tài khoản]()
+  * Một số vấn đề khác
+     * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/loi-ket-noi-ssl.md)
+     * [Hướng dẫn cài đặt và sử dụng đổi DNS](FAQ/mot-so-van-de-khac/vpn.md)
 
 [def]: m5/cau-hinh/diachikhonhan.md
