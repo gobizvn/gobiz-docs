@@ -39,8 +39,11 @@ Hoàn tất quá trình lấy lại mật khẩu. Quý khách tiến hành đăn
   
 
 ===========================================================
-✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
-📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
-📞 Hotline: 0388.432.436
-🌐 Website: https://gobiz.vn/
 
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
