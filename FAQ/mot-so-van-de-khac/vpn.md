@@ -31,3 +31,12 @@ Bây giờ, 1.1.1.1 for Families đã được cài đặt và hoạt động tr
 Lưu ý: Trong quá trình cài đặt và sử dụng 1.1.1.1, bạn cần đảm bảo rằng điện thoại/máy tính của bạn đã được cập nhật phiên bản mới nhất để tránh các lỗi bảo mật.
 Ngoài ra, ứng dụng này có thể không hoạt động trên một số mạng hoặc thiết bị, vì vậy bạn cần kiểm tra trước để đảm bảo rằng ứng dụng hoạt động đúng cách.
 
+===========================================================
+
+✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
+
+📌 Đăng ký dùng thử: https://bit.ly/gobiz-tuvan
+
+📞 Hotline: 0388.432.436
+
+🌐 Website: https://gobiz.vn/
