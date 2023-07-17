@@ -21,7 +21,7 @@ Quý khách nhập thông tin liên quan đến yêu cầu rút tiền bao gồm
 
 **Nhập số tiền cần rút**: Số tiền khách hàng muốn rút từ tài khoản ví điện tử trên hệ thống
 
-<img width="677" alt="image" src="https://github.com/gobizvn/gobiz-docs/assets/73226975/77e4b81b-91e5-43b6-a824-3c5bf997bc97">
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/77e4b81b-91e5-43b6-a824-3c5bf997bc97.png)
 
 
 ## Bước 4: Xác nhận yêu cầu rút tiền
