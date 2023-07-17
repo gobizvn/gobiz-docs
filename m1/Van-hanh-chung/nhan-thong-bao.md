@@ -1,9 +1,7 @@
-# Go Shopper
-**1.	Làm thế nào để khách nhận được thông báo trên web**
 
 Để khách hàng có thể nhận được các thông báo về *khiếu nại, tài chính, yêu cầu giao, đơn hàng…* khách cần phải cài đặt trên hệ thống khách hàng.
 
-**Bước 1: Vào trang web hệ thống khách hàng, sau đó nhấn vào phần thông tin tài khoản của khách.**
+## Bước 1: Vào trang web hệ thống khách hàng, sau đó nhấn vào phần thông tin tài khoản của khách.**
 
 <img width="" alt="Thông tin tài khoản" src="https://user-images.githubusercontent.com/121548042/213068956-f7a47c74-063d-45ce-82a8-196fd7e64e56.png">
 
