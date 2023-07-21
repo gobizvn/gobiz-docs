@@ -29,3 +29,25 @@ Như ảnh minh họa trên số tiền hiển thị sản phẩm từ 0 đến 
 Số tiền từ 1000 tệ trở lên tỷ giá giảm 20đ so với tỷ giá hệ thống cài đặt mặc định.
 
 Sau khi điền đầy đủ thông tin Quý khách Click **"Thêm"** để hoàn thành quá trình tạo bộ cấu hình. 
+
+## Bước 2: Gộp chung nhóm khách hàng. 
+
+Quý khách cần gộp chung những khách hàng có chung bộ chính sách và tỷ giá vào một nhóm để áp dụng dùng chung bộ cấu hình chính sách vừa tạo. 
+
+Để gộp chung nhóm khách hàng quý khách cần tạo nhóm khách hàng: 
+
+Đầu tiên, Quý khách Vào **Menu Cấu hình** chọn **Nhóm khách hàng**. 
+
+Click **Tạo mới** để tạo nhóm khách.
+
+![Tạo mới nhóm khách](https://github.com/gobizvn/gobiz-docs/assets/135328227/d3907172-a134-41cf-9822-4f074ddf13ab)
+
+Màn hình Tạo nhóm xuất hiện, Quý khách điền đầy đủ các thông tin như: Mã nhóm, Tên nhóm, tỷ lệ đặt cọc, tên hiển thị, tích chọn bộ cấu hình chính sách vừa tạo. 
+
+Sau đó click **Thêm** để hoàn thành thêm nhóm khách hàng. 
+
+![Thông tin nhóm khách](https://github.com/gobizvn/gobiz-docs/assets/135328227/62f7300b-5bc9-4f37-a5ef-cd566df9fe67)
+
+
+
+
