@@ -298,7 +298,8 @@
   * [Go Complaints](q-and-a/go\_shopper-3.md)
   * [Go Sales](q-and-a/go\_shopper-4.md)
   * Taobao Global
-    * [Tài khoản]()
+    * Khiếu nại người bán
+      * [Điều kiện để khiếu nại hoàn tiền là gì?](FAQ/Taobao-Global/dieu-kien-de-tao-khieu-nai-là-gi.md)
   * Một số vấn đề khác
      * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/loi-ket-noi-ssl.md)
      * [Hướng dẫn cài đặt và sử dụng đổi DNS](FAQ/mot-so-van-de-khac/vpn.md)
