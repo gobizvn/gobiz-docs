@@ -301,6 +301,7 @@
     * Khiếu nại Người bán
       * [Điều kiện để khiếu nại hoàn tiền là gì?](FAQ/Taobao-Global/dieu-kien-de-tao-khieu-nai-là-gi.md)
       * [Làm thế nào để khiếu kiện NCC](FAQ/Taobao-Global/lam-the-nao-de-khien-kien-shop-tren-taobao-global.md)
+      * [Phương thức bồi thường trên TB Global](FAQ/Taobao-Global/Hoan-tien-knnb.md)
     * Đơn Hàng
       * [Hướng dẫn tìm kiếm đơn hàng trên TB Global](FAQ/Taobao-Global/quan-ly-don.md)
       * [Hướng dẫn huỷ đơn Taobao Global trước khi thanh toán](FAQ/Taobao-Global/mot-so-van-de-thuong-gap.md)
