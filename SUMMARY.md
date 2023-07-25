@@ -300,6 +300,7 @@
   * Taobao Global
     * Khiếu nại người bán
       * [Điều kiện để khiếu nại hoàn tiền là gì?](FAQ/Taobao-Global/dieu-kien-de-tao-khieu-nai-là-gi.md)
+      * [Làm thế nào để khiếu kiện NCC](FAQ/Taobao-Global/lam-the-nao-de-khien-kien-shop-tren-taobao-global.md)
   * Một số vấn đề khác
      * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/loi-ket-noi-ssl.md)
      * [Hướng dẫn cài đặt và sử dụng đổi DNS](FAQ/mot-so-van-de-khac/vpn.md)
