@@ -12,7 +12,7 @@ Trong trường hợp Quý khách quên mật khẩu đăng nhập của mình. 
 - Quý khách điền email đã đăng ký và click **Lấy lại mật khẩu**
 
 - Hệ thống sẽ gửi về email đăng ký của bạn đường dẫn như hình dưới đây, vui lòng truy cập đường dẫn để thay đổi mật khẩu
-- 
+  
 **Lưu ý:** Email cần nhập chính xác là Email đã đăng ký tài khoản trước đó. 
 
 ![Lấy lại mật khẩu](https://github.com/gobizvn/gobiz-docs/assets/135328227/6366ca31-c14b-43bd-8543-d4c0be1cd78f)
