@@ -18,7 +18,7 @@ Tiếp đó, tại mục tỷ giá chênh lệch quý khách điều chỉnh t�
 
 **Khoảng ngoại tệ** quý khách điền *số tiền giới hạn sản phẩm* trên đơn. 
 
-**Số tiền** điều chỉnh điền số tiền muốn tăng hay giảm bao nhiêu của tỷ giá.
+**Số tiền điều chỉnh** điền số tiền muốn tăng hay giảm bao nhiêu của tỷ giá.
 
 Nếu muốn *giảm* tỷ giá trước số tiền quý khách điền dấu “-” , 
 
