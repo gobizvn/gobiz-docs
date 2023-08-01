@@ -72,7 +72,7 @@ Ví dụ: Nhóm VIP tỷ giá Quý khách thu 60% tiền đặt cọc đơn hàn
 
 **Tiếp theo, Quý khách thêm khách hàng vào nhóm khách hàng này như sau:**
 
-- Tại menu **khách hhàng**, Quý khách chọn **Danh sách khách hhàng**.
+- Tại menu **khách hàng**, Quý khách chọn **Danh sách khách hàng**.
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/135328227/2b450bc3-e056-40d9-95d2-9cdd276ae94d)
 
