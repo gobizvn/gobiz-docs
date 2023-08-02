@@ -38,7 +38,7 @@
         * [3. Tạo YCTT nick doanh nghiệp](m2/Khach-hang-thanh-toan-ho/nick-doanh-nghiep.md)
     * [Khách hàng Taobao Global](m1/readme.md)
         * [1. Thêm hàng vào giỏ](m1/them-hang-vao-gio-TBG.md)
-        * [2. Thêm địa chỉ nhận hàng Trung Quốc]
+        * [2. Thêm địa chỉ nhận hàng Trung Quốc](m1/them-dia-chi-kho-nhan.md)
         * [3. Đặt đơn Taobao Global]
         * [4. Tạo YCTT hộ nick Taobao Global]
         * [5. Theo dõi đơn Taobao Global]
