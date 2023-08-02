@@ -88,7 +88,7 @@
        * Xử lý YCTTH Taobao Global
           * [1. Cấp tài khoản Taobao Global cho khách hàng](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cap-tai-khoan-TBG.md)
           * [2. Phân YCTTH Taobao Global](m2/Don-vi-cung-cap-dv-thanh-toan-ho/phan-YCTT-TBG.md)
-          * [3. Xử lý YCTTH Taobao Global] 
+          * [3. Xử lý YCTTH Taobao Global](m2/Don-vi-cung-cap-dv-thanh-toan-ho/xu-ly-YCTT-TBG.md)
 * [HỆ THỐNG MUA HÀNG](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [1. Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
