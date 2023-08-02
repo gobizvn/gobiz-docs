@@ -86,7 +86,7 @@
           * [1. Phân đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Phan-don-YCTT.md)
           * [2. Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)
        * Xử lý YCTTH Taobao Global
-          * [1. Cấp tài khoản Taobao Global cho khách hàng]
+          * [1. Cấp tài khoản Taobao Global cho khách hàng](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cap-tai-khoan-TBG.md)
           * [2. Phân YCTTH Taobao Global](m2/Don-vi-cung-cap-dv-thanh-toan-ho/phan-YCTT-TBG.md)
           * [3. Xử lý YCTTH Taobao Global] 
 * [HỆ THỐNG MUA HÀNG](m5/README.md)
