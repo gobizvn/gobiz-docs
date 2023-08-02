@@ -84,7 +84,11 @@
             * [4. Cấu hình chính sách KHTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/cai-dat-ban-dau/Cau-hinh-chinh-sach-khach-hang-than-thiet.md)
        * Xử lý đơn Thanh toán hộ
           * [1. Phân đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Phan-don-YCTT.md)
-          * [2. Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)      
+          * [2. Xử lý đơn YCTT](m2/Don-vi-cung-cap-dv-thanh-toan-ho/Xu-ly-YCTT.md)
+       * Xử lý YCTTH Taobao Global
+          * [1. Cấp tài khoản Taobao Global cho khách hàng]
+          * [2. Phân YCTTH Taobao Global]
+          * [3. Xử lý YCTTH Taobao Global] 
 * [HỆ THỐNG MUA HÀNG](m5/README.md)
   * [Cấu hình](m5/cau-hinh/README.md)
     * [1. Cấu hình chung](m5/cau-hinh/cauhinhchung.md)
