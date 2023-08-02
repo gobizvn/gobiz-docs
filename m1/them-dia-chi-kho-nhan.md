@@ -10,6 +10,7 @@ Khi Quý khách nhấn vào phần Thêm địa chỉ mới tại góc trên bê
 
 ### Bước 2 ### Điền các thông tin nhận hàng
 Quý khách cần điền đầy đủ các thông tin dưới đây:
+
 **Tên người nhận**: Tên người nhận hàng tại kho Trung Quốc
 
 **Số điện thoại**: Số điện thoại người nhận hàng tại kho Trung Quốc
