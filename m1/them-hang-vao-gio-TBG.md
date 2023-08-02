@@ -3,7 +3,7 @@
 ### Bước 1: Đăng nhập vào giỏ hàng Taobao Global
 * Quý khách đăng nhập vào hệ thống khách hàng và chọn Menu giỏ hàng phía bên trái màn hình
 
-![[Đăng nhập](https://github.com/gobizvn/gobiz-docs/assets/121548042/e2bc72e8-9562-40bc-90d3-eef62772912c)
+![Đăng nhập](https://github.com/gobizvn/gobiz-docs/assets/121548042/e2bc72e8-9562-40bc-90d3-eef62772912c)
 
 ### Bước 2: Copy link Taobao Global
 Sau khi đã chọn xong các sản phẩm trên Taobao Global, Quý khách cần copy lại link hoặc ID sản phẩm muốn mua
