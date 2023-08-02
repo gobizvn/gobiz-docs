@@ -3,23 +3,22 @@
 ### Bước 1: Đăng nhập vào giỏ hàng Taobao Global
 * Quý khách đăng nhập vào hệ thống khách hàng và chọn Menu giỏ hàng phía bên trái màn hình
 
-[Đăng nhập](https://github.com/gobizvn/gobiz-docs/assets/121548042/e2bc72e8-9562-40bc-90d3-eef62772912c)
+![[Đăng nhập](https://github.com/gobizvn/gobiz-docs/assets/121548042/e2bc72e8-9562-40bc-90d3-eef62772912c)
 
 ### Bước 2: Copy link Taobao Global
 Sau khi đã chọn xong các sản phẩm trên Taobao Global, Quý khách cần copy lại link hoặc ID sản phẩm muốn mua
 
-[Copy link Taobao Global](https://github.com/gobizvn/gobiz-docs/assets/121548042/477d82b7-ac64-4f8e-901e-88fd695c0d4c)
+![Copy link Taobao Global](https://github.com/gobizvn/gobiz-docs/assets/121548042/477d82b7-ac64-4f8e-901e-88fd695c0d4c)
 
 
 ### Bước 3: Thêm sản phẩm vào giỏ hàng
 Khi đã có link sản phẩm Taobao Global, Quý khách có thể thêm sản phẩm vào giỏ hàng bằng cách dán link hoặc ID sản phẩm trên Taobao Global tại góc trên bên phải giao diện rồi ấn tìm kiếm
 
-[Thêm sản phẩm vào giỏ hàng](https://github.com/gobizvn/gobiz-docs/assets/121548042/5489498e-6924-4e0f-9472-015e61254dff)
+![Thêm sản phẩm vào giỏ hàng](https://github.com/gobizvn/gobiz-docs/assets/121548042/5489498e-6924-4e0f-9472-015e61254dff)
 
 Quý khách có thể chọn *kích cỡ*, *thuộc tính* sản phẩm muốn mua và thêm vào giỏ hàng
 
-[Thêm hàng vào giỏ hàng](https://github.com/gobizvn/gobiz-docs/assets/121548042/b036f57a-48b6-4850-9454-3440b1b2f28e)
-
+![Thêm hàng vào giỏ hàng](https://github.com/gobizvn/gobiz-docs/assets/121548042/b036f57a-48b6-4850-9454-3440b1b2f28e)
 
 ## Thêm hàng vào giỏ qua Công cụ đặt hàng
 ## Cài công cụ đặt hàng thủ công
