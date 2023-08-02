@@ -10,7 +10,6 @@ Sau khi đã chọn xong các sản phẩm trên Taobao Global, Quý khách cầ
 
 ![Copy link Taobao Global](https://github.com/gobizvn/gobiz-docs/assets/121548042/477d82b7-ac64-4f8e-901e-88fd695c0d4c)
 
-
 ### Bước 3: Thêm sản phẩm vào giỏ hàng
 Khi đã có link sản phẩm Taobao Global, Quý khách có thể thêm sản phẩm vào giỏ hàng bằng cách dán link hoặc ID sản phẩm trên Taobao Global tại góc trên bên phải giao diện rồi ấn tìm kiếm
 
