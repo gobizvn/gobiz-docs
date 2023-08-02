@@ -39,7 +39,7 @@
     * [Khách hàng Taobao Global](m1/khach-hang-taobao-global)
         * [1. Thêm hàng vào giỏ](m1/khach-hang-taobao-global/them-hang-vao-gio-TBG.md)
         * [2. Thêm địa chỉ nhận hàng Trung Quốc](m1/khach-hang-taobao-global/them-dia-chi-kho-nhan.md)
-        * [3. Đặt đơn Taobao Global]
+        * [3. Đặt đơn Taobao Global](m1/khach-hang-taobao-global/dat-don-TBG.md)
         * [4. Tạo YCTT hộ nick Taobao Global]
         * [5. Theo dõi đơn Taobao Global]
 * [HỆ THỐNG ADMIN - ĐVCC DỊCH VỤ](m2/order-management-don-vi-cung-cap-dich-vu)
