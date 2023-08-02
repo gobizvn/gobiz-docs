@@ -11,10 +11,15 @@ Khi Quý khách nhấn vào phần Thêm địa chỉ mới tại góc trên bê
 ### Bước 2 ### Điền các thông tin nhận hàng
 Quý khách cần điền đầy đủ các thông tin dưới đây:
 **Tên người nhận**: Tên người nhận hàng tại kho Trung Quốc
+
 **Số điện thoại**: Số điện thoại người nhận hàng tại kho Trung Quốc
+
 **Zip Code**: Mã bưu chính (Mã bưu điện) tại kho Trung Quốc
+
 **Tỉnh; Thành phố; Quận**: Địa chỉ nhận hàng tại kho Trung Quốc
+
 **Địa chỉ người nhận cụ thể**: Địa chỉ chi tiết kho Trung Quốc
+
 *Lưu ý: Địa chỉ người nhận cụ thể không cần điền thông tin **Tỉnh/Thành phố/Quận** vì đã điền trước đó*
 ![image](https://github.com/gobizvn/gobiz-docs/assets/121548042/5b4c64f9-a0e9-48c6-9f9f-836b9c45678f)
 
