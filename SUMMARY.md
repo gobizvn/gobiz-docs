@@ -318,6 +318,6 @@
   * Một số vấn đề khác
      * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/loi-ket-noi-ssl.md)
      * [Hướng dẫn cài đặt và sử dụng đổi DNS](FAQ/mot-so-van-de-khac/vpn.md)
-     * [Hướng dẫn Thanh toán Hợp đồng và Dịch vụ của Gobiz](FAQ/mot-so-van-de-khac/huong-dan-thanh-toan-hop-dong.md)
+      * [Hướng dẫn Thanh toán Hợp đồng và Dịch vụ của Gobiz](FAQ/mot-so-van-de-khac/huong-dan-thanh-toan-hop-dong.md)
 
 [def]: m5/cau-hinh/diachikhonhan.md
