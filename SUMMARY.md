@@ -133,7 +133,7 @@
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [DỊCH VỤ TAOBAO GLOBAL](Supper-Taobao/Readme.md)
    * [Tổng quan các bước dành cho KH](Taobao-Global/road-map.md)
-   * Vận hành trên hệ thống Go-Crossborder Gobiz 
+   * Khách hàng sử dụng Go-Crossborder Gobiz 
      * Tạo tài khoản
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [2. Tài khoản Quản lý](Taobao-Global/Blind-account.md)
@@ -149,7 +149,7 @@
        * [2. Cập nhập thông tin đơn hàng](Taobao-Global/Cap-nhap-don.md)
        * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
-   * Vận hành qua API/ngoài hệ thống
+   * Khách hàng ngoài hệ thống/kết nối API
      * B1: Đăng ký & Đăng nhập
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [2. Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
