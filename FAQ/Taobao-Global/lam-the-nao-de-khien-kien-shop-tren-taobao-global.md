@@ -1,4 +1,4 @@
-# Làm thế nào để khiếu kiện Nhà cung cấp trên Taobao Global?
+# Làm thế nào để khiếu nại Nhà cung cấp trên Taobao Global?
 Khi Người mua không thể đạt được thoả thuận với Nhà cung cấp, có thể tạo yêu cầu khởi kiện Nhà cung cấp với CSKH của Taobao Global, các bước tiến hành như sau:
 
 **Bước 1**: Mở khiếu nại, click vào 申请客服介入 Apply Customer Service
