@@ -138,8 +138,9 @@
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [2. Tài khoản Quản lý](Taobao-Global/Blind-account.md)
      * Quản lý đơn sau mua
-       * [1. Kiểm tra lộ trình đơn](Taobao-Global/shipping-billcn.md)
-       * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
+       * [1. Liên hệ shop qua Chat](Taobao-Global/chat-shop.md)
+       * [2. Kiểm tra lộ trình đơn](Taobao-Global/shipping-billcn.md)
+       * [3. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
    * Khách hàng GoCrossborder Gobiz
      * Cấu hình
        * [1. Cấu hình địa chỉ kho nhận hàng](Taobao-Global/address.md)
