@@ -133,7 +133,7 @@
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [DỊCH VỤ TAOBAO GLOBAL](Supper-Taobao/Readme.md)
    * [Tổng quan các bước dành cho KH](Taobao-Global/road-map.md)
-   * Khách hàng sử dụng Go-Crossborder Gobiz 
+   * Khách hàng GoCrossborder Gobiz 
      * Tạo tài khoản
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [2. Tài khoản Quản lý](Taobao-Global/Blind-account.md)
