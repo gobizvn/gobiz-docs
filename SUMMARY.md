@@ -137,7 +137,7 @@
      * Tạo tài khoản
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [2. Tài khoản Quản lý](Taobao-Global/Blind-account.md)
-    * B3: Quản lý đơn sau mua
+    * Quản lý đơn sau mua
        * [1. Kiểm tra lộ trình đơn](Taobao-Global/shipping-billcn.md)
        * [2. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-bancn.md)
    * Khách hàng GoCrossborder Gobiz
