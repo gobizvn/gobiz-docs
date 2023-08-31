@@ -17,9 +17,6 @@ Sau khi cấu hình gửi Yêu cầu thanh toán thành công, Quý khách nhấ
 ![Lưu cấu hình](https://github.com/gobizvn/gobiz-docs/assets/121548042/fb60c035-ab79-4e88-bd2c-6436ea985699)
 
 
-
-
-
 ===========================================================
 
 ✅ Gobiz - Phần mềm Quản lý nhập hàng & Logistics cho các đơn vị đa quốc gia.
