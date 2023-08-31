@@ -133,27 +133,27 @@
   * [Cập nhập tính năng mới](m5/change-logs.md)
 * [DỊCH VỤ TAOBAO GLOBAL](Supper-Taobao/Readme.md)
    * [Tổng quan các bước dành cho KH](Taobao-Global/road-map.md)
-   * Khách hàng GoCrossborder Gobiz 
+   * Vận hành chung
      * Tạo tài khoản
        * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
        * [2. Tài khoản Quản lý](Taobao-Global/Blind-account.md)
+   * Khách hàng GoCrossborder Gobiz
      * Cấu hình
        * [1. Cấu hình địa chỉ kho nhận hàng](Taobao-Global/address.md)
        * [2. Cấu hình gửi Yêu cầu thanh toán](Taobao-Global/cau-hinh-gui-YCTT.md)
        * [3. Cấu hình kết nối tài khoản](Taobao-Global/connect-account.md)
-     * Quy trình mua hàng
+     * Quy trình Mua hàng
        * [1. Phân đơn](Taobao-Global/phan-don.md)
        * [2. Xử lý đơn & Thanh toán](Taobao-Global/paid-pay.md)
-     * Quản lý đơn sau mua
+     * Quản lý đơn Sau mua
        * [1. Khai báo hải quan](Taobao-Global/khai-bao-hai-quan.md)
        * [2. Cập nhập thông tin đơn hàng](Taobao-Global/Cap-nhap-don.md)
        * [3. Đồng bộ mã vận đơn](Taobao-Global/shipping-bill.md)
        * [4. Khiếu nại người bán](Taobao-Global/khieu-nai-nguoi-ban.md)
    * Khách hàng ngoài hệ thống/kết nối API
      * B1: Đăng ký & Đăng nhập
-       * [1. Tài khoản Taobao Global](Taobao-Global/create-account.md)
-       * [2. Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
-       * [3. Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
+       * [1. Tài khoản Taobao Gobiz](Taobao-Global/create-account-gb.md)
+       * [2. Đăng nhập & Kết nối hệ thống](Taobao-Global/connect-account-gb.md)
      * B2: Quy trình mua hàng
        * [1. Cài công cụ đặt hàng](Taobao-Global/cai-cong-cu-dat-hang.md)
        * [2. Thêm hàng vào giỏ](Taobao-Global/them-gio-hang.md)
