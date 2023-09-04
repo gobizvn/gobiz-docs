@@ -315,7 +315,8 @@
       * [Phương thức bồi thường trên TB Global](FAQ/Taobao-Global/Hoan-tien-knnb.md)
     * Đơn Hàng
       * [Hướng dẫn tìm kiếm đơn hàng trên TB Global](FAQ/Taobao-Global/quan-ly-don.md)
-      * [Hướng dẫn huỷ đơn Taobao Global trước khi thanh toán](FAQ/Taobao-Global/mot-so-van-de-thuong-gap.md)
+      * [Hướng dẫn huỷ đơn Taobao Global trước khi thanh toán](FAQ/Taobao-Global/huy-don-taobao-global.md)
+      * [Trích xuất dữ liệu giao dịch thanh toán](FAQ/Taobao-Global/xuat-du-lieu-tbg.md)
   * Một số vấn đề khác
      * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/loi-ket-noi-ssl.md)
      * [Hướng dẫn cài đặt và sử dụng đổi DNS](FAQ/mot-so-van-de-khac/vpn.md)
