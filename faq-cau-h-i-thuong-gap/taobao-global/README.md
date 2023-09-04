@@ -1,2 +1,0 @@
-# Taobao Global
-
