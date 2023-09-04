@@ -1,4 +1,3 @@
-# Một số vấn đề thường gặp khi mua hàng trên [Taobao Global](https://distributor.taobao.global/) 
 ## Huỷ đơn hàng trên [Taobao Global](https://distributor.taobao.global/) trước khi thanh toán như thế nào?
 -	**Cách 1**: Huỷ đơn trên hệ thống mua hàng bằng cách ấn vào **Huỷ đơn TBDN**.
 
