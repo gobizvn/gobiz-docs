@@ -1,2 +1,0 @@
-# Khách hàng GoCrossborder Gobiz
-

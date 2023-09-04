@@ -1,2 +1,0 @@
-# DỊCH VỤ TAOBAO GLOBAL
-
