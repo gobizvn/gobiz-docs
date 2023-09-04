@@ -1,4 +1,4 @@
-# Cấu hình mua hàng & nhận đơn
+# 2. Cấu hình mua hàng & nhận đơn
 
 **Để có thể thiết lập được cấu hình mua hàng nhận đơn,quản lý thực hiện như sau:**
 
@@ -66,7 +66,7 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 ## 2. Nhóm ngành hàng
 
-**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc chọn nhóm ngành hàng khi thanh toán ** và nhấn **\[Lưu]**
+**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc chọn nhóm ngành hàng khi thanh toán** và nhấn **\[Lưu]**
 
 ![image](https://user-images.githubusercontent.com/75475064/106737559-65b5ef80-6649-11eb-877d-3df9687c63ec.png)
 
@@ -80,7 +80,7 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 ## 3. Kho phân phối
 
-**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc chọn nhóm kho phân phối khi nhận đơn ** và nhấn **\[Lưu]**
+**Bước 1:** Quản lý **BẬT** cấu hình **Bắt buộc chọn nhóm kho phân phối khi nhận đơn** và nhấn **\[Lưu]**
 
 ![](https://user-images.githubusercontent.com/75475064/106738103-1e7c2e80-664a-11eb-8e52-3d6146fdd505.png)
 
@@ -106,7 +106,7 @@ VD: Giao dịch viên có thể tự nhận đơn theo quy tắc của hệ th�
 
 ![](https://user-images.githubusercontent.com/75475064/106739088-5172f200-664b-11eb-9cc1-2a167130f4f9.png)
 
-**Bước 3:** Quản lý **TẮT** cấu hình **Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công ** và nhấn **\[Lưu]**
+**Bước 3:** Quản lý **TẮT** cấu hình **Bắt buộc nhập mã giao dịch Alipay khi KNNB chuyển sang thành công** và nhấn **\[Lưu]**
 
 Đối với KNNB đang ở trạng thái **Đang xử lý** nếu muốn chuyển trạng thái sang **Thành công** thì không bắt buộc phải Mã giao dịch Alipay.
 
@@ -149,7 +149,7 @@ Khi đó hệ thống có thể tự động tạo KNNB đối với đơn:
 
 ### 4.4 Tự động tạo KNNB theo Agency
 
-**Bước 1:** Quản lý **BẬT** cấu hình **Tự động tạo KNNB theo Agency ** và nhấn **\[Lưu]** Khi này, hệ thống sẽ tự động tạo KNNB cho Agency theo như cấu hình thiết thiết lập **4.3. Thiết lập thời gian tự động tạo KNNB**
+**Bước 1:** Quản lý **BẬT** cấu hình **Tự động tạo KNNB theo Agency** và nhấn **\[Lưu]** Khi này, hệ thống sẽ tự động tạo KNNB cho Agency theo như cấu hình thiết thiết lập **4.3. Thiết lập thời gian tự động tạo KNNB**
 
 ![](https://user-images.githubusercontent.com/75475064/106739633-f392da00-664b-11eb-9181-b881b144c8a7.png)
 

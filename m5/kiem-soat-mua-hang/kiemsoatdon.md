@@ -1,4 +1,4 @@
-# Kiểm soát đơn
+# 2. Kiểm soát đơn
 
 **Mục đích:** Hỗ trợ tính toán doanh số cho giao dịch viên (GDV) và giúp phát hiện được các trường hợp sai phạm liên quan đến giao dịch nhà cung cấp
 
@@ -16,7 +16,7 @@
 
 Lợi nhuận mặc cả = tổng giao dịch alipay (thu - chi)
 
-**Đơn ở trạng thái **khác** HỦY/HẾT HÀNG:**
+**Đơn ở trạng thái** khác **HỦY/HẾT HÀNG:**
 
 Lợi nhuận mặc cả = (tiền hàng + vận chuyển nội địa) - tổng giao dịch alipay chi (chi - thu)
 
