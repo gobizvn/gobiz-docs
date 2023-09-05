@@ -1,5 +1,5 @@
 # Cẩm nang sử dụng công cụ chat trên [Taobao Global](https://distributor.taobao.global/)
-## 1. Mở cung cụ chat như thế nào?
+## 1. Mở công cụ chat như thế nào?
 - Cách 1: Click vào **联系商家 Contact Supplier**
 
 ![image](https://github.com/gobizvn/gobiz-docs/assets/137056249/c04d4e05-2bef-48c8-8848-ab77df262f24)
