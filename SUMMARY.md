@@ -306,6 +306,9 @@
   * [Go Complaints](q-and-a/go\_shopper-3.md)
   * [Go Sales](q-and-a/go\_shopper-4.md)
   * [Taobao Global](faq-cau-h-i-thuong-gap/taobao-global/README.md)
+    * Liên hệ shop
+      * [Công cụ chat](FAQ/Taobao-Global/contact-chat.md)
+      * [Thống kê danh sách đơn](FAQ/Taobao-Global/thong-ke-don-danh-sach-chat.md)
     * [Khiếu nại Người bán](faq-cau-h-i-thuong-gap/taobao-global/khieu-nai-nguoi-ban/README.md)
       * [Điều kiện để khiếu nại hoàn tiền là gì?](FAQ/Taobao-Global/dieu-kien-de-tao-khieu-nai-là-gi.md)
       * [Làm thế nào để khiếu kiện NCC](faq-cau-h-i-thuong-gap/taobao-global/khieu-nai-nguoi-ban/lam-the-nao-de-khieu-kien-ncc.md)
