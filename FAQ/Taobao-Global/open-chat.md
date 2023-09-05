@@ -10,7 +10,7 @@
 
 - **Cách 3**: Sử dụng app điện thoại/máy tính chat với shop qua Aliwang
 
-![image] (https://github.com/gobizvn/gobiz-docs/assets/73226975/b38f094a-1ea1-49a5-b624-cb2b6ba3c282)
+![image](https://github.com/gobizvn/gobiz-docs/assets/73226975/b38f094a-1ea1-49a5-b624-cb2b6ba3c282)
 
 ===========================================================
 
