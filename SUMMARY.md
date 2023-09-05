@@ -313,7 +313,7 @@
     * [Đơn Hàng](faq-cau-h-i-thuong-gap/taobao-global/don-hang/README.md)
       * [Hướng dẫn tìm kiếm đơn hàng trên TB Global](FAQ/Taobao-Global/quan-ly-don.md)
       * [Hướng dẫn huỷ đơn Taobao Global trước khi thanh toán](faq-cau-h-i-thuong-gap/taobao-global/don-hang/huy-don-taobao-global.md)
-      * [Trích xuất dữ liệu giao dịch thanh toán](faq-cau-h-i-thuong-gap/taobao-global/don-hang/xuat-du-lieu-tbg.md)
+      * [Trích xuất dữ liệu giao dịch thanh toán](FAQ/Taobao-Global/xuat-du-lieu-tbg.md)
   * [Một số vấn đề khác](faq-cau-h-i-thuong-gap/mot-so-van-de-khac/README.md)
     * [Khắc phục lỗi kết nối SSL](FAQ/mot-so-van-de-khac/loi-ket-noi-ssl.md)
     * [Hướng dẫn cài đặt và sử dụng đổi DNS](FAQ/mot-so-van-de-khac/vpn.md)
